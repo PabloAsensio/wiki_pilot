@@ -269,43 +269,43 @@
   },
   "021-01-01": {
     "en": "System design",
-    "es": "Motores de pistón"
+    "es": "Diseño del sistema"
   },
   "021-01-02": {
     "en": "Loads and stresses",
-    "es": "Combustible"
+    "es": "Cargas y esfuerzos"
   },
   "021-01-03": {
     "en": "Fatigue and corrosion",
-    "es": "Bombas de combustible del motor"
+    "es": "Fatiga y corrosión"
   },
   "021-01-05": {
     "en": "Maintenance",
-    "es": "Sistema carburador-inyección"
+    "es": "Mantenimiento"
   },
   "021-02": {
     "en": "Airframe",
-    "es": "Sistemas de refrigeración"
+    "es": "Estructura"
   },
   "021-02-01": {
     "en": "Attachment methods",
-    "es": "Sistemas de lubricación"
+    "es": "Métodos de fijación"
   },
   "021-02-02": {
     "en": "Materials",
-    "es": "Circuitos de ignición"
+    "es": "Materiales"
   },
   "021-02-03": {
     "en": "Aeroplane: wings, tail surfaces and control surfaces",
-    "es": "Mezcla"
+    "es": "Aeronave: alas, superficies de cola y superficies de control"
   },
   "021-02-04": {
     "en": "Fuselage, landing gear, doors, floor, windscreen and windows",
-    "es": "Aeroplano: hélices"
+    "es": "Fuselaje, tren de aterrizaje, puertas, suelo, parabrisas y ventanas"
   },
   "021-02-06": {
     "en": "Structural limitations",
-    "es": "Prestaciones y manejo del motor"
+    "es": "Limitaciones estructurales"
   },
   "021-03": {
     "en": "Hydraulics",
