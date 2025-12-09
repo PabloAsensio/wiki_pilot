@@ -1,0 +1,1906 @@
+{
+  "010": {
+    "en": "Air Law",
+    "es": "Air Law"
+  },
+  "010-01": {
+    "en": "International Law: Conventions, Agreements and Organisations",
+    "es": "International Law: Conventions, Agreements and Organisations"
+  },
+  "010-01-01": {
+    "en": "The Convention on International Civil Aviation (Chicago) — ICAO Doc 7300-9",
+    "es": "The Convention on International Civil Aviation (Chicago) — ICAO Doc 7300-9"
+  },
+  "010-01-02": {
+    "en": "Other conventions and agreements",
+    "es": "Other conventions and agreements"
+  },
+  "010-01-03": {
+    "en": "World organisations",
+    "es": "World organisations"
+  },
+  "010-01-04": {
+    "en": "European organisations",
+    "es": "European organisations"
+  },
+  "010-02": {
+    "en": "Airworthiness of Aircraft, Aircraft Nationality and Registration Marks",
+    "es": "Airworthiness of Aircraft, Aircraft Nationality and Registration Marks"
+  },
+  "010-02-02": {
+    "en": "Certificate of Airworthiness (CofA)",
+    "es": "Certificate of Airworthiness (CofA)"
+  },
+  "010-02-03": {
+    "en": "ICAO Annex 7 — Aircraft Nationality and Registration Marks",
+    "es": "ICAO Annex 7 — Aircraft Nationality and Registration Marks"
+  },
+  "010-02-04": {
+    "en": "Nationality marks, common marks and registration marks",
+    "es": "Nationality marks, common marks and registration marks"
+  },
+  "010-04": {
+    "en": "Personnel Licensing",
+    "es": "Personnel Licensing"
+  },
+  "010-04-02": {
+    "en": "Aircrew Regulation — Annex I (Part-FCL)",
+    "es": "Aircrew Regulation — Annex I (Part-FCL)"
+  },
+  "010-04-03": {
+    "en": "Aircrew Regulation — Annex IV (Part-MED)",
+    "es": "Aircrew Regulation — Annex IV (Part-MED)"
+  },
+  "010-05": {
+    "en": "Rules of the Air According to ICAO Annex 2 and SERA",
+    "es": "Rules of the Air According to ICAO Annex 2 and SERA"
+  },
+  "010-05-01": {
+    "en": "Overview of ICAO Annex 2 and SERA (Commission Implementing Regulation (EU) No 923-2012 and its references and subsequent amendments)",
+    "es": "Overview of ICAO Annex 2 and SERA (Commission Implementing Regulation (EU) No 923-2012 and its references and subsequent amendments)"
+  },
+  "010-05-02": {
+    "en": "Rules of the Air",
+    "es": "Rules of the Air"
+  },
+  "010-05-03": {
+    "en": "General rules",
+    "es": "General rules"
+  },
+  "010-05-04": {
+    "en": "Visual flight rules (VFR)",
+    "es": "Visual flight rules (VFR)"
+  },
+  "010-05-05": {
+    "en": "Instrument flight rules (IFR)",
+    "es": "Instrument flight rules (IFR)"
+  },
+  "010-05-06": {
+    "en": "Interception of civil aircraft",
+    "es": "Interception of civil aircraft"
+  },
+  "010-06": {
+    "en": "Aircraft Operations",
+    "es": "Aircraft Operations"
+  },
+  "010-06-02": {
+    "en": "Definitions and abbreviations (PANS-OPS Flight Procedures, ICAO Doc 8168, Volume I)",
+    "es": "Definitions and abbreviations (PANS-OPS Flight Procedures, ICAO Doc 8168, Volume I)"
+  },
+  "010-06-03": {
+    "en": "Departure procedures — (ICAO Doc 8168, Volume I)",
+    "es": "Departure procedures — (ICAO Doc 8168, Volume I)"
+  },
+  "010-06-04": {
+    "en": "Approach procedures — ICAO Doc 8168, Volume I",
+    "es": "Approach procedures — ICAO Doc 8168, Volume I"
+  },
+  "010-06-05": {
+    "en": "Holding procedures — ICAO Doc 8168, Volume I",
+    "es": "Holding procedures — ICAO Doc 8168, Volume I"
+  },
+  "010-06-06": {
+    "en": "Altimeter-setting procedures — ICAO Doc 8168",
+    "es": "Altimeter-setting procedures — ICAO Doc 8168"
+  },
+  "010-06-07": {
+    "en": "Parallel or near-parallel instrument RWYs — ICAO Doc 8168, Volume I",
+    "es": "Parallel or near-parallel instrument RWYs — ICAO Doc 8168, Volume I"
+  },
+  "010-06-08": {
+    "en": "Secondary surveillance radar (transponder) operating procedures — ICAO Doc 8168",
+    "es": "Secondary surveillance radar (transponder) operating procedures — ICAO Doc 8168"
+  },
+  "010-06-09": {
+    "en": "REGULATION (EU) No 965-2012 ON AIR OPERATIONS",
+    "es": "REGULATION (EU) No 965-2012 ON AIR OPERATIONS"
+  },
+  "010-07": {
+    "en": "Air Traffic Services (ATS) and Air Traffic Management (ATM)",
+    "es": "Air Traffic Services (ATS) and Air Traffic Management (ATM)"
+  },
+  "010-07-01": {
+    "en": "ICAO Annex 11 — Air Traffic Services",
+    "es": "ICAO Annex 11 — Air Traffic Services"
+  },
+  "010-07-02": {
+    "en": "ICAO Doc 4444 — Air Traffic Management",
+    "es": "ICAO Doc 4444 — Air Traffic Management"
+  },
+  "010-08": {
+    "en": "Aeronautical Information Service (AIS)",
+    "es": "Aeronautical Information Service (AIS)"
+  },
+  "010-08-01": {
+    "en": "Introduction",
+    "es": "Introduction"
+  },
+  "010-08-02": {
+    "en": "Definitions of ICAO Annex 15",
+    "es": "Definitions of ICAO Annex 15"
+  },
+  "010-08-03": {
+    "en": "General",
+    "es": "General"
+  },
+  "010-08-04": {
+    "en": "Aeronautical information products and services",
+    "es": "Aeronautical information products and services"
+  },
+  "010-08-05": {
+    "en": "ATM service providers",
+    "es": "ATM service providers"
+  },
+  "010-09": {
+    "en": "Aerodromes",
+    "es": "Aerodromes"
+  },
+  "010-09-01": {
+    "en": "General",
+    "es": "General"
+  },
+  "010-09-02": {
+    "en": "Aerodrome (AD) data",
+    "es": "Aerodrome (AD) data"
+  },
+  "010-09-03": {
+    "en": "Physical characteristics",
+    "es": "Physical characteristics"
+  },
+  "010-09-04": {
+    "en": "Visual aids for navigation",
+    "es": "Visual aids for navigation"
+  },
+  "010-09-05": {
+    "en": "Visual aids for denoting obstacles",
+    "es": "Visual aids for denoting obstacles"
+  },
+  "010-09-06": {
+    "en": "Visual aids for denoting restricted use of areas",
+    "es": "Visual aids for denoting restricted use of areas"
+  },
+  "010-09-07": {
+    "en": "Aerodrome (AD) operational services, equipment and installations",
+    "es": "Aerodrome (AD) operational services, equipment and installations"
+  },
+  "010-09-08": {
+    "en": "Supplementary Guidance Material",
+    "es": "Supplementary Guidance Material"
+  },
+  "010-10": {
+    "en": "Facilitation (ICAO Annex 9)",
+    "es": "Facilitation (ICAO Annex 9)"
+  },
+  "010-10-02": {
+    "en": "Entry and departure of aircraft",
+    "es": "Entry and departure of aircraft"
+  },
+  "010-11": {
+    "en": "Search and Rescue (SAR)",
+    "es": "Search and Rescue (SAR)"
+  },
+  "010-11-01": {
+    "en": "Essential SAR definitions",
+    "es": "Essential SAR definitions"
+  },
+  "010-11-02": {
+    "en": "SAR — Organisation",
+    "es": "SAR — Organisation"
+  },
+  "010-11-03": {
+    "en": "Operating procedures for non-SAR crews",
+    "es": "Operating procedures for non-SAR crews"
+  },
+  "010-11-04": {
+    "en": "Search and rescue signals",
+    "es": "Search and rescue signals"
+  },
+  "010-12": {
+    "en": "Security – Safeguarding International Civil Aviation against Acts of Unlawful Interference (ICAO Annex 17)",
+    "es": "Security – Safeguarding International Civil Aviation against Acts of Unlawful Interference (ICAO Annex 17)"
+  },
+  "010-12-01": {
+    "en": "Essential definitions of ICAO Annex 17",
+    "es": "Essential definitions of ICAO Annex 17"
+  },
+  "010-12-02": {
+    "en": "General principles",
+    "es": "General principles"
+  },
+  "010-12-04": {
+    "en": "Preventive security measures",
+    "es": "Preventive security measures"
+  },
+  "010-12-05": {
+    "en": "Management of response to acts of unlawful interference",
+    "es": "Management of response to acts of unlawful interference"
+  },
+  "010-12-06": {
+    "en": "Operators’ security programme",
+    "es": "Operators’ security programme"
+  },
+  "010-12-07": {
+    "en": "Security procedures in other documents, i.e. ICAO Annexes 2, 6 and 14, ICAO Doc 4444, Regulation (EU) No 965-2012 and CS-ADR-DSN",
+    "es": "Security procedures in other documents, i.e. ICAO Annexes 2, 6 and 14, ICAO Doc 4444, Regulation (EU) No 965-2012 and CS-ADR-DSN"
+  },
+  "010-13": {
+    "en": "Aircraft Accident and Incident Investigation",
+    "es": "Aircraft Accident and Incident Investigation"
+  },
+  "010-13-01": {
+    "en": "Essential definitions of ICAO Annex 13",
+    "es": "Essential definitions of ICAO Annex 13"
+  },
+  "010-13-02": {
+    "en": "Accident and incident investigation in ICAO Annex 13",
+    "es": "Accident and incident investigation in ICAO Annex 13"
+  },
+  "010-13-03": {
+    "en": "Accident and incident investigation in EU regulations",
+    "es": "Accident and incident investigation in EU regulations"
+  },
+  "021": {
+    "en": "Airframe, Systems, Electrics, Powerplant",
+    "es": "Airframe, Systems, Electrics, Powerplant"
+  },
+  "021-01": {
+    "en": "System Design, Loads, Stresses, Maintenance",
+    "es": "System Design, Loads, Stresses, Maintenance"
+  },
+  "021-01-01": {
+    "en": "System design",
+    "es": "System design"
+  },
+  "021-01-02": {
+    "en": "Loads and stresses",
+    "es": "Loads and stresses"
+  },
+  "021-01-03": {
+    "en": "Fatigue and corrosion",
+    "es": "Fatigue and corrosion"
+  },
+  "021-01-05": {
+    "en": "Maintenance",
+    "es": "Maintenance"
+  },
+  "021-02": {
+    "en": "Airframe",
+    "es": "Airframe"
+  },
+  "021-02-01": {
+    "en": "Attachment methods",
+    "es": "Attachment methods"
+  },
+  "021-02-02": {
+    "en": "Materials",
+    "es": "Materials"
+  },
+  "021-02-03": {
+    "en": "Aeroplane: wings, tail surfaces and control surfaces",
+    "es": "Aeroplane: wings, tail surfaces and control surfaces"
+  },
+  "021-02-04": {
+    "en": "Fuselage, landing gear, doors, floor, windscreen and windows",
+    "es": "Fuselage, landing gear, doors, floor, windscreen and windows"
+  },
+  "021-02-06": {
+    "en": "Structural limitations",
+    "es": "Structural limitations"
+  },
+  "021-03": {
+    "en": "Hydraulics",
+    "es": "Hydraulics"
+  },
+  "021-03-01": {
+    "en": "Hydromechanics: basic principles",
+    "es": "Hydromechanics: basic principles"
+  },
+  "021-03-02": {
+    "en": "Hydraulic systems",
+    "es": "Hydraulic systems"
+  },
+  "021-04": {
+    "en": "Landing Gear, Wheels, Tyres, Brakes",
+    "es": "Landing Gear, Wheels, Tyres, Brakes"
+  },
+  "021-04-01": {
+    "en": "Landing gear",
+    "es": "Landing gear"
+  },
+  "021-04-02": {
+    "en": "Nose-wheel steering",
+    "es": "Nose-wheel steering"
+  },
+  "021-04-03": {
+    "en": "Brakes",
+    "es": "Brakes"
+  },
+  "021-04-04": {
+    "en": "Wheels, rims and tyres",
+    "es": "Wheels, rims and tyres"
+  },
+  "021-05": {
+    "en": "Flight Controls",
+    "es": "Flight Controls"
+  },
+  "021-05-01": {
+    "en": "Aeroplane: primary flight controls",
+    "es": "Aeroplane: primary flight controls"
+  },
+  "021-05-02": {
+    "en": "Aeroplane: secondary flight controls",
+    "es": "Aeroplane: secondary flight controls"
+  },
+  "021-05-04": {
+    "en": "Aeroplane: fly-by-wire (FBW) control systems",
+    "es": "Aeroplane: fly-by-wire (FBW) control systems"
+  },
+  "021-06": {
+    "en": "Pneumatics – Pressurisation and Air Conditioning Systems",
+    "es": "Pneumatics – Pressurisation and Air Conditioning Systems"
+  },
+  "021-06-01": {
+    "en": "Pneumatic-bleed-air supply",
+    "es": "Pneumatic-bleed-air supply"
+  },
+  "021-06-03": {
+    "en": "Aeroplane: pressurisation and air-conditioning system",
+    "es": "Aeroplane: pressurisation and air-conditioning system"
+  },
+  "021-07": {
+    "en": "Anti-icing and De-icing Systems",
+    "es": "Anti-icing and De-icing Systems"
+  },
+  "021-07-01": {
+    "en": "Types, operation, indications",
+    "es": "Types, operation, indications"
+  },
+  "021-07-02": {
+    "en": "Ice warning systems",
+    "es": "Ice warning systems"
+  },
+  "021-08": {
+    "en": "Fuel System",
+    "es": "Fuel System"
+  },
+  "021-08-01": {
+    "en": "Piston engine",
+    "es": "Piston engine"
+  },
+  "021-08-02": {
+    "en": "Turbine engine",
+    "es": "Turbine engine"
+  },
+  "021-09": {
+    "en": "Electrics",
+    "es": "Electrics"
+  },
+  "021-09-01": {
+    "en": "General, definitions, basic applications: circuit breakers, logic circuits",
+    "es": "General, definitions, basic applications: circuit breakers, logic circuits"
+  },
+  "021-09-02": {
+    "en": "Batteries",
+    "es": "Batteries"
+  },
+  "021-09-03": {
+    "en": "Generation",
+    "es": "Generation"
+  },
+  "021-09-04": {
+    "en": "Distribution",
+    "es": "Distribution"
+  },
+  "021-09-05": {
+    "en": "Electrical motors",
+    "es": "Electrical motors"
+  },
+  "021-10": {
+    "en": "Piston Engines",
+    "es": "Piston Engines"
+  },
+  "021-10-01": {
+    "en": "General",
+    "es": "General"
+  },
+  "021-10-02": {
+    "en": "Fuel",
+    "es": "Fuel"
+  },
+  "021-10-03": {
+    "en": "Engine fuel pumps",
+    "es": "Engine fuel pumps"
+  },
+  "021-10-04": {
+    "en": "Carburettor-injection system",
+    "es": "Carburettor-injection system"
+  },
+  "021-10-05": {
+    "en": "Cooling systems",
+    "es": "Cooling systems"
+  },
+  "021-10-06": {
+    "en": "Lubrication systems",
+    "es": "Lubrication systems"
+  },
+  "021-10-07": {
+    "en": "Ignition circuits",
+    "es": "Ignition circuits"
+  },
+  "021-10-08": {
+    "en": "Mixture",
+    "es": "Mixture"
+  },
+  "021-10-09": {
+    "en": "Aeroplane: propellers",
+    "es": "Aeroplane: propellers"
+  },
+  "021-10-10": {
+    "en": "Performance and engine handling",
+    "es": "Performance and engine handling"
+  },
+  "021-11": {
+    "en": "Turbine Engines",
+    "es": "Turbine Engines"
+  },
+  "021-11-01": {
+    "en": "Basic principles",
+    "es": "Basic principles"
+  },
+  "021-11-02": {
+    "en": "Main-engine components",
+    "es": "Main-engine components"
+  },
+  "021-11-03": {
+    "en": "Additional components and systems",
+    "es": "Additional components and systems"
+  },
+  "021-11-04": {
+    "en": "Engine operation and monitoring",
+    "es": "Engine operation and monitoring"
+  },
+  "021-11-05": {
+    "en": "Performance aspects",
+    "es": "Performance aspects"
+  },
+  "021-11-06": {
+    "en": "Auxiliary power unit (APU)",
+    "es": "Auxiliary power unit (APU)"
+  },
+  "021-12": {
+    "en": "Protection and Detection Systems",
+    "es": "Protection and Detection Systems"
+  },
+  "021-12-01": {
+    "en": "Smoke detection",
+    "es": "Smoke detection"
+  },
+  "021-12-02": {
+    "en": "Fire-protection systems",
+    "es": "Fire-protection systems"
+  },
+  "021-12-03": {
+    "en": "Rain-protection system",
+    "es": "Rain-protection system"
+  },
+  "021-13": {
+    "en": "Oxygen Systems",
+    "es": "Oxygen Systems"
+  },
+  "021-13-01": {
+    "en": "Cockpit, portable and chemical oxygen systems",
+    "es": "Cockpit, portable and chemical oxygen systems"
+  },
+  "022": {
+    "en": "Instrumentation",
+    "es": "Instrumentation"
+  },
+  "022-01": {
+    "en": "Sensors and Instruments",
+    "es": "Sensors and Instruments"
+  },
+  "022-01-01": {
+    "en": "Pressure gauge",
+    "es": "Pressure gauge"
+  },
+  "022-01-02": {
+    "en": "Temperature sensing",
+    "es": "Temperature sensing"
+  },
+  "022-01-03": {
+    "en": "Fuel gauge",
+    "es": "Fuel gauge"
+  },
+  "022-01-04": {
+    "en": "Fuel flowmeters",
+    "es": "Fuel flowmeters"
+  },
+  "022-01-05": {
+    "en": "Tachometer",
+    "es": "Tachometer"
+  },
+  "022-01-06": {
+    "en": "Thrust measurement",
+    "es": "Thrust measurement"
+  },
+  "022-01-07": {
+    "en": "Engine torquemeter",
+    "es": "Engine torquemeter"
+  },
+  "022-01-08": {
+    "en": "Synchroscope",
+    "es": "Synchroscope"
+  },
+  "022-01-09": {
+    "en": "Engine-vibration monitoring",
+    "es": "Engine-vibration monitoring"
+  },
+  "022-02": {
+    "en": "Measurement of Air Data Parameters",
+    "es": "Measurement of Air Data Parameters"
+  },
+  "022-02-01": {
+    "en": "Pressure measurement",
+    "es": "Pressure measurement"
+  },
+  "022-02-02": {
+    "en": "Temperature measurement",
+    "es": "Temperature measurement"
+  },
+  "022-02-03": {
+    "en": "Angle-of-attack (AoA) measurement",
+    "es": "Angle-of-attack (AoA) measurement"
+  },
+  "022-02-04": {
+    "en": "Altimeter",
+    "es": "Altimeter"
+  },
+  "022-02-05": {
+    "en": "Vertical speed indicator (VSI)",
+    "es": "Vertical speed indicator (VSI)"
+  },
+  "022-02-06": {
+    "en": "Airspeed indicator (ASI)",
+    "es": "Airspeed indicator (ASI)"
+  },
+  "022-02-07": {
+    "en": "Machmeter",
+    "es": "Machmeter"
+  },
+  "022-02-08": {
+    "en": "Air-data computer (ADC)",
+    "es": "Air-data computer (ADC)"
+  },
+  "022-03": {
+    "en": "Magnetism – Direct Reading Compass and Flux Valve",
+    "es": "Magnetism – Direct Reading Compass and Flux Valve"
+  },
+  "022-03-01": {
+    "en": "Earth’s magnetic field",
+    "es": "Earth’s magnetic field"
+  },
+  "022-03-02": {
+    "en": "Aircraft magnetic field",
+    "es": "Aircraft magnetic field"
+  },
+  "022-03-03": {
+    "en": "Direct reading magnetic compass",
+    "es": "Direct reading magnetic compass"
+  },
+  "022-03-04": {
+    "en": "Flux valve",
+    "es": "Flux valve"
+  },
+  "022-04": {
+    "en": "Gyroscopic Instruments",
+    "es": "Gyroscopic Instruments"
+  },
+  "022-04-01": {
+    "en": "Gyroscope: basic principles",
+    "es": "Gyroscope: basic principles"
+  },
+  "022-04-02": {
+    "en": "Rate-of-turn indicator — Turn coordinator — Balance (slip) indicator",
+    "es": "Rate-of-turn indicator — Turn coordinator — Balance (slip) indicator"
+  },
+  "022-04-03": {
+    "en": "Attitude indicator (artificial horizon)",
+    "es": "Attitude indicator (artificial horizon)"
+  },
+  "022-04-04": {
+    "en": "Directional gyroscope",
+    "es": "Directional gyroscope"
+  },
+  "022-04-05": {
+    "en": "Remote-reading compass systems",
+    "es": "Remote-reading compass systems"
+  },
+  "022-04-06": {
+    "en": "Solid-state systems — attitude and heading reference system (AHRS)",
+    "es": "Solid-state systems — attitude and heading reference system (AHRS)"
+  },
+  "022-05": {
+    "en": "Inertial Navigation",
+    "es": "Inertial Navigation"
+  },
+  "022-05-01": {
+    "en": "Basic principles",
+    "es": "Basic principles"
+  },
+  "022-05-02": {
+    "en": "Alignment and operation",
+    "es": "Alignment and operation"
+  },
+  "022-06": {
+    "en": "Aeroplane: Automatic Flight Control Systems",
+    "es": "Aeroplane: Automatic Flight Control Systems"
+  },
+  "022-06-01": {
+    "en": "General",
+    "es": "General"
+  },
+  "022-06-02": {
+    "en": "Autopilot system",
+    "es": "Autopilot system"
+  },
+  "022-06-03": {
+    "en": "Flight director: design and operation",
+    "es": "Flight director: design and operation"
+  },
+  "022-06-04": {
+    "en": "Aeroplane: flight mode annunciator (FMA)",
+    "es": "Aeroplane: flight mode annunciator (FMA)"
+  },
+  "022-06-05": {
+    "en": "Autoland",
+    "es": "Autoland"
+  },
+  "022-08": {
+    "en": "Trims – Yaw Damper – Flight Envelope Protection",
+    "es": "Trims – Yaw Damper – Flight Envelope Protection"
+  },
+  "022-08-01": {
+    "en": "Trim systems",
+    "es": "Trim systems"
+  },
+  "022-08-02": {
+    "en": "Yaw damper",
+    "es": "Yaw damper"
+  },
+  "022-08-03": {
+    "en": "Flight-envelope protection (FEP)",
+    "es": "Flight-envelope protection (FEP)"
+  },
+  "022-09": {
+    "en": "Autothrust – Automatic Thrust Control System",
+    "es": "Autothrust – Automatic Thrust Control System"
+  },
+  "022-09-01": {
+    "en": "Autothrust system",
+    "es": "Autothrust system"
+  },
+  "022-10": {
+    "en": "Communication Systems",
+    "es": "Communication Systems"
+  },
+  "022-10-01": {
+    "en": "Voice communication, data-link transmission",
+    "es": "Voice communication, data-link transmission"
+  },
+  "022-10-02": {
+    "en": "Future air navigation systems (FANSs)",
+    "es": "Future air navigation systems (FANSs)"
+  },
+  "022-11": {
+    "en": "Flight Management System (FMS)-Flight Management and Guidance System (FMGS)",
+    "es": "Flight Management System (FMS)-Flight Management and Guidance System (FMGS)"
+  },
+  "022-11-01": {
+    "en": "Design",
+    "es": "Design"
+  },
+  "022-11-02": {
+    "en": "FMC databases",
+    "es": "FMC databases"
+  },
+  "022-11-03": {
+    "en": "Operations, limitations",
+    "es": "Operations, limitations"
+  },
+  "022-11-04": {
+    "en": "Human–machine interface (control and display unit (CDU)- multifunction control and display unit (MCDU))",
+    "es": "Human–machine interface (control and display unit (CDU)- multifunction control and display unit (MCDU))"
+  },
+  "022-12": {
+    "en": "Alerting Systems, Proximity Systems",
+    "es": "Alerting Systems, Proximity Systems"
+  },
+  "022-12-01": {
+    "en": "General",
+    "es": "General"
+  },
+  "022-12-02": {
+    "en": "Flight warning systems (FWSs)",
+    "es": "Flight warning systems (FWSs)"
+  },
+  "022-12-03": {
+    "en": "Stall warning systems (SWSs)",
+    "es": "Stall warning systems (SWSs)"
+  },
+  "022-12-04": {
+    "en": "Stall protection",
+    "es": "Stall protection"
+  },
+  "022-12-05": {
+    "en": "Overspeed warning",
+    "es": "Overspeed warning"
+  },
+  "022-12-06": {
+    "en": "Take-off warning",
+    "es": "Take-off warning"
+  },
+  "022-12-07": {
+    "en": "Altitude alert system",
+    "es": "Altitude alert system"
+  },
+  "022-12-08": {
+    "en": "Radio altimeter",
+    "es": "Radio altimeter"
+  },
+  "022-12-09": {
+    "en": "Ground-proximity warning systems (GPWSs)",
+    "es": "Ground-proximity warning systems (GPWSs)"
+  },
+  "022-12-10": {
+    "en": "ACAS-TCAS",
+    "es": "ACAS-TCAS"
+  },
+  "022-13": {
+    "en": "Integrated Instruments – Electronic Displays",
+    "es": "Integrated Instruments – Electronic Displays"
+  },
+  "022-13-01": {
+    "en": "Electronic display units",
+    "es": "Electronic display units"
+  },
+  "022-13-03": {
+    "en": "Electronic flight instrument systems (EFISs)",
+    "es": "Electronic flight instrument systems (EFISs)"
+  },
+  "022-13-04": {
+    "en": "Engine parameters, crew warnings, aircraft systems, procedure and mission display systems",
+    "es": "Engine parameters, crew warnings, aircraft systems, procedure and mission display systems"
+  },
+  "022-13-06": {
+    "en": "Electronic flight bag (EFB)",
+    "es": "Electronic flight bag (EFB)"
+  },
+  "022-13-07": {
+    "en": "Head-up display (HUD), synthetic vision system (SVS) and enhanced visual system (EVS)",
+    "es": "Head-up display (HUD), synthetic vision system (SVS) and enhanced visual system (EVS)"
+  },
+  "022-14": {
+    "en": "Maintenance, Monitoring and Recording Systems",
+    "es": "Maintenance, Monitoring and Recording Systems"
+  },
+  "022-14-01": {
+    "en": "Cockpit voice recorder (CVR)",
+    "es": "Cockpit voice recorder (CVR)"
+  },
+  "022-14-02": {
+    "en": "Flight data recorder (FDR)",
+    "es": "Flight data recorder (FDR)"
+  },
+  "022-14-03": {
+    "en": "Maintenance and monitoring systems",
+    "es": "Maintenance and monitoring systems"
+  },
+  "022-15": {
+    "en": "Digital Circuits and Computers",
+    "es": "Digital Circuits and Computers"
+  },
+  "022-15-01": {
+    "en": "Digital circuits and computers",
+    "es": "Digital circuits and computers"
+  },
+  "031": {
+    "en": "Mass and Balance",
+    "es": "Mass and Balance"
+  },
+  "031-01": {
+    "en": "Purpose of Mass and Balance Considerations",
+    "es": "Purpose of Mass and Balance Considerations"
+  },
+  "031-01-01": {
+    "en": "Mass limitations",
+    "es": "Mass limitations"
+  },
+  "031-01-02": {
+    "en": "Centre-of-gravity (CG) limitations",
+    "es": "Centre-of-gravity (CG) limitations"
+  },
+  "031-02": {
+    "en": "Loading",
+    "es": "Loading"
+  },
+  "031-02-01": {
+    "en": "Terminology",
+    "es": "Terminology"
+  },
+  "031-02-02": {
+    "en": "Mass limits",
+    "es": "Mass limits"
+  },
+  "031-02-03": {
+    "en": "Mass calculations",
+    "es": "Mass calculations"
+  },
+  "031-04": {
+    "en": "Mass and Balance Details of Aircraft",
+    "es": "Mass and Balance Details of Aircraft"
+  },
+  "031-04-01": {
+    "en": "Contents of mass-and-balance documentation",
+    "es": "Contents of mass-and-balance documentation"
+  },
+  "031-04-02": {
+    "en": "Determination of aircraft empty mass and CG position by weighing",
+    "es": "Determination of aircraft empty mass and CG position by weighing"
+  },
+  "031-04-03": {
+    "en": "Extraction of basic empty mass (BEM) and CG data from aircraft documentation",
+    "es": "Extraction of basic empty mass (BEM) and CG data from aircraft documentation"
+  },
+  "031-05": {
+    "en": "Determination of CG Position",
+    "es": "Determination of CG Position"
+  },
+  "031-05-01": {
+    "en": "Methods",
+    "es": "Methods"
+  },
+  "031-05-02": {
+    "en": "Load and trim sheet",
+    "es": "Load and trim sheet"
+  },
+  "031-05-03": {
+    "en": "Repositioning of CG",
+    "es": "Repositioning of CG"
+  },
+  "031-06": {
+    "en": "Cargo Handling",
+    "es": "Cargo Handling"
+  },
+  "031-06-01": {
+    "en": "Types of cargo",
+    "es": "Types of cargo"
+  },
+  "031-06-02": {
+    "en": "Floor-area load and running-load limitations",
+    "es": "Floor-area load and running-load limitations"
+  },
+  "031-06-03": {
+    "en": "Securement of load",
+    "es": "Securement of load"
+  },
+  "032": {
+    "en": "Performance",
+    "es": "Performance"
+  },
+  "032-01": {
+    "en": "General",
+    "es": "General"
+  },
+  "032-01-01": {
+    "en": "Performance legislation",
+    "es": "Performance legislation"
+  },
+  "032-01-02": {
+    "en": "General performance theory",
+    "es": "General performance theory"
+  },
+  "032-01-03": {
+    "en": "Level flight, range and endurance",
+    "es": "Level flight, range and endurance"
+  },
+  "032-01-04": {
+    "en": "Climbing",
+    "es": "Climbing"
+  },
+  "032-01-05": {
+    "en": "Descending",
+    "es": "Descending"
+  },
+  "032-02": {
+    "en": "C2-23-Applicable Operational Requirements Performance Class B - Theory",
+    "es": "C2-23-Applicable Operational Requirements Performance Class B - Theory"
+  },
+  "032-02-01": {
+    "en": "Airworthiness requirements",
+    "es": "Airworthiness requirements"
+  },
+  "032-02-03": {
+    "en": "Take-off and landing",
+    "es": "Take-off and landing"
+  },
+  "032-02-04": {
+    "en": "Climb, cruise and descent",
+    "es": "Climb, cruise and descent"
+  },
+  "032-03": {
+    "en": "CS-23-Applicable Operational Requirements Performance Class B – Use of Aeroplane Performance Data for Single- and Multi-engine Aeroplanes",
+    "es": "CS-23-Applicable Operational Requirements Performance Class B – Use of Aeroplane Performance Data for Single- and Multi-engine Aeroplanes"
+  },
+  "032-03-03": {
+    "en": "Use of aeroplane performance data",
+    "es": "Use of aeroplane performance data"
+  },
+  "032-04": {
+    "en": "CS-25-Applicable Operational Requirements Performance Class A – Theory",
+    "es": "CS-25-Applicable Operational Requirements Performance Class A – Theory"
+  },
+  "032-04-01": {
+    "en": "Take-off",
+    "es": "Take-off"
+  },
+  "032-04-02": {
+    "en": "Climb",
+    "es": "Climb"
+  },
+  "032-04-03": {
+    "en": "Cruise",
+    "es": "Cruise"
+  },
+  "032-04-04": {
+    "en": "En-route one-engine-inoperative",
+    "es": "En-route one-engine-inoperative"
+  },
+  "032-04-05": {
+    "en": "Descent",
+    "es": "Descent"
+  },
+  "032-04-06": {
+    "en": "Approach and landing",
+    "es": "Approach and landing"
+  },
+  "032-05": {
+    "en": "CS-25-Applicable Operational Requirements Performance Class A – Use of Aeroplane Performance Data",
+    "es": "CS-25-Applicable Operational Requirements Performance Class A – Use of Aeroplane Performance Data"
+  },
+  "032-05-01": {
+    "en": "Take-off",
+    "es": "Take-off"
+  },
+  "032-05-02": {
+    "en": "Drift-down and stabilising altitude",
+    "es": "Drift-down and stabilising altitude"
+  },
+  "032-05-03": {
+    "en": "Landing",
+    "es": "Landing"
+  },
+  "033": {
+    "en": "Flight Planning Monitoring",
+    "es": "Flight Planning Monitoring"
+  },
+  "033-01": {
+    "en": "Flight Planning for VFR Flights",
+    "es": "Flight Planning for VFR Flights"
+  },
+  "033-01-01": {
+    "en": "VFR navigation plan",
+    "es": "VFR navigation plan"
+  },
+  "033-02": {
+    "en": "Flight Planning for IFR Flights",
+    "es": "Flight Planning for IFR Flights"
+  },
+  "033-02-01": {
+    "en": "IFR navigation plan",
+    "es": "IFR navigation plan"
+  },
+  "033-03": {
+    "en": "Fuel Planning – CAT.OP.MPA.106 and CAT.OP.MPA.150 plus AMC1, 2 and 3",
+    "es": "Fuel Planning – CAT.OP.MPA.106 and CAT.OP.MPA.150 plus AMC1, 2 and 3"
+  },
+  "033-03-01": {
+    "en": "General",
+    "es": "General"
+  },
+  "033-03-02": {
+    "en": "Pre-flight fuel planning for commercial flights",
+    "es": "Pre-flight fuel planning for commercial flights"
+  },
+  "033-03-03": {
+    "en": "Specific fuel-calculation procedures",
+    "es": "Specific fuel-calculation procedures"
+  },
+  "033-04": {
+    "en": "Pre-Flight Preparation",
+    "es": "Pre-Flight Preparation"
+  },
+  "033-04-01": {
+    "en": "Notice to airmen (NOTAM) briefing",
+    "es": "Notice to airmen (NOTAM) briefing"
+  },
+  "033-04-02": {
+    "en": "Meteorological briefing",
+    "es": "Meteorological briefing"
+  },
+  "033-04-03": {
+    "en": "Point of equal time (PET) and point of safe return (PSR)",
+    "es": "Point of equal time (PET) and point of safe return (PSR)"
+  },
+  "033-05": {
+    "en": "ICAO Flight Plan (ATS Flight Plan (FPL))",
+    "es": "ICAO Flight Plan (ATS Flight Plan (FPL))"
+  },
+  "033-05-01": {
+    "en": "Individual FPL",
+    "es": "Individual FPL"
+  },
+  "033-05-02": {
+    "en": "Repetitive flight plan (RPL)",
+    "es": "Repetitive flight plan (RPL)"
+  },
+  "033-06": {
+    "en": "Flight Monitoring and In-flight Re-planning",
+    "es": "Flight Monitoring and In-flight Re-planning"
+  },
+  "033-06-01": {
+    "en": "Flight monitoring",
+    "es": "Flight monitoring"
+  },
+  "033-06-02": {
+    "en": "In-flight replanning",
+    "es": "In-flight replanning"
+  },
+  "040": {
+    "en": "Human Performance Limitations",
+    "es": "Human Performance Limitations"
+  },
+  "040-01": {
+    "en": "Human Factors: Basic Concepts",
+    "es": "Human Factors: Basic Concepts"
+  },
+  "040-01-01": {
+    "en": "Human factors in aviation",
+    "es": "Human factors in aviation"
+  },
+  "040-01-03": {
+    "en": "Flight safety concepts",
+    "es": "Flight safety concepts"
+  },
+  "040-01-04": {
+    "en": "Safety culture",
+    "es": "Safety culture"
+  },
+  "040-02": {
+    "en": "Basics of Aviation Physiology and Health Maintenance",
+    "es": "Basics of Aviation Physiology and Health Maintenance"
+  },
+  "040-02-01": {
+    "en": "Basics of flight physiology",
+    "es": "Basics of flight physiology"
+  },
+  "040-02-02": {
+    "en": "People and the environment: the sensory system",
+    "es": "People and the environment: the sensory system"
+  },
+  "040-02-03": {
+    "en": "Health and hygiene",
+    "es": "Health and hygiene"
+  },
+  "040-03": {
+    "en": "Basic Aviation Psychology",
+    "es": "Basic Aviation Psychology"
+  },
+  "040-03-01": {
+    "en": "Human information processing",
+    "es": "Human information processing"
+  },
+  "040-03-02": {
+    "en": "Human error and reliability",
+    "es": "Human error and reliability"
+  },
+  "040-03-03": {
+    "en": "Decision-making",
+    "es": "Decision-making"
+  },
+  "040-03-04": {
+    "en": "Avoiding and managing errors: cockpit management",
+    "es": "Avoiding and managing errors: cockpit management"
+  },
+  "040-03-05": {
+    "en": "Human behaviour",
+    "es": "Human behaviour"
+  },
+  "040-03-06": {
+    "en": "Human overload and underload",
+    "es": "Human overload and underload"
+  },
+  "040-03-07": {
+    "en": "Advanced cockpit automation",
+    "es": "Advanced cockpit automation"
+  },
+  "050": {
+    "en": "Meteorology",
+    "es": "Meteorology"
+  },
+  "050-01": {
+    "en": "The Atmosphere",
+    "es": "The Atmosphere"
+  },
+  "050-01-01": {
+    "en": "Composition, extent, vertical division",
+    "es": "Composition, extent, vertical division"
+  },
+  "050-01-02": {
+    "en": "Air temperature",
+    "es": "Air temperature"
+  },
+  "050-01-03": {
+    "en": "Atmospheric pressure",
+    "es": "Atmospheric pressure"
+  },
+  "050-01-04": {
+    "en": "Air density",
+    "es": "Air density"
+  },
+  "050-01-05": {
+    "en": "International Standard Atmosphere (ISA)",
+    "es": "International Standard Atmosphere (ISA)"
+  },
+  "050-01-06": {
+    "en": "Altimetry",
+    "es": "Altimetry"
+  },
+  "050-02": {
+    "en": "Wind",
+    "es": "Wind"
+  },
+  "050-02-01": {
+    "en": "Definition and measurement of wind",
+    "es": "Definition and measurement of wind"
+  },
+  "050-02-02": {
+    "en": "Primary cause of wind",
+    "es": "Primary cause of wind"
+  },
+  "050-02-03": {
+    "en": "General global circulation",
+    "es": "General global circulation"
+  },
+  "050-02-04": {
+    "en": "Local winds",
+    "es": "Local winds"
+  },
+  "050-02-05": {
+    "en": "Mountain waves (standing waves, lee waves)",
+    "es": "Mountain waves (standing waves, lee waves)"
+  },
+  "050-02-06": {
+    "en": "Turbulence",
+    "es": "Turbulence"
+  },
+  "050-02-07": {
+    "en": "Jet streams",
+    "es": "Jet streams"
+  },
+  "050-03": {
+    "en": "Thermodynamics",
+    "es": "Thermodynamics"
+  },
+  "050-03-01": {
+    "en": "Humidity",
+    "es": "Humidity"
+  },
+  "050-03-02": {
+    "en": "Change of state of water",
+    "es": "Change of state of water"
+  },
+  "050-03-03": {
+    "en": "Adiabatic processes",
+    "es": "Adiabatic processes"
+  },
+  "050-04": {
+    "en": "Clouds and Fog",
+    "es": "Clouds and Fog"
+  },
+  "050-04-01": {
+    "en": "Cloud formation and description",
+    "es": "Cloud formation and description"
+  },
+  "050-04-02": {
+    "en": "Fog, mist, haze",
+    "es": "Fog, mist, haze"
+  },
+  "050-05": {
+    "en": "Precipitation",
+    "es": "Precipitation"
+  },
+  "050-05-01": {
+    "en": "Development of precipitation",
+    "es": "Development of precipitation"
+  },
+  "050-05-02": {
+    "en": "Types of precipitation",
+    "es": "Types of precipitation"
+  },
+  "050-06": {
+    "en": "Air Masses and Fronts",
+    "es": "Air Masses and Fronts"
+  },
+  "050-06-01": {
+    "en": "Air masses",
+    "es": "Air masses"
+  },
+  "050-06-02": {
+    "en": "Fronts",
+    "es": "Fronts"
+  },
+  "050-07": {
+    "en": "Pressure Systems",
+    "es": "Pressure Systems"
+  },
+  "050-07-01": {
+    "en": "The principal pressure areas",
+    "es": "The principal pressure areas"
+  },
+  "050-07-02": {
+    "en": "Anticyclone",
+    "es": "Anticyclone"
+  },
+  "050-07-03": {
+    "en": "Non-frontal depressions",
+    "es": "Non-frontal depressions"
+  },
+  "050-07-04": {
+    "en": "Tropical revolving storms",
+    "es": "Tropical revolving storms"
+  },
+  "050-08": {
+    "en": "Climatology",
+    "es": "Climatology"
+  },
+  "050-08-01": {
+    "en": "Climatic zones",
+    "es": "Climatic zones"
+  },
+  "050-08-02": {
+    "en": "Tropical climatology",
+    "es": "Tropical climatology"
+  },
+  "050-08-03": {
+    "en": "Typical weather situations in the mid-latitudes",
+    "es": "Typical weather situations in the mid-latitudes"
+  },
+  "050-08-04": {
+    "en": "Local winds and associated weather",
+    "es": "Local winds and associated weather"
+  },
+  "050-09": {
+    "en": "Flight Hazards",
+    "es": "Flight Hazards"
+  },
+  "050-09-01": {
+    "en": "Icing",
+    "es": "Icing"
+  },
+  "050-09-02": {
+    "en": "Turbulence",
+    "es": "Turbulence"
+  },
+  "050-09-03": {
+    "en": "Wind shear",
+    "es": "Wind shear"
+  },
+  "050-09-04": {
+    "en": "Thunderstorms",
+    "es": "Thunderstorms"
+  },
+  "050-09-05": {
+    "en": "Tornadoes",
+    "es": "Tornadoes"
+  },
+  "050-09-06": {
+    "en": "Inversions",
+    "es": "Inversions"
+  },
+  "050-09-07": {
+    "en": "Stratospheric conditions",
+    "es": "Stratospheric conditions"
+  },
+  "050-09-08": {
+    "en": "Hazards in mountainous areas",
+    "es": "Hazards in mountainous areas"
+  },
+  "050-09-09": {
+    "en": "Visibility-reducing phenomena",
+    "es": "Visibility-reducing phenomena"
+  },
+  "050-10": {
+    "en": "Meteorological Information",
+    "es": "Meteorological Information"
+  },
+  "050-10-01": {
+    "en": "Observation",
+    "es": "Observation"
+  },
+  "050-10-02": {
+    "en": "Weather charts",
+    "es": "Weather charts"
+  },
+  "050-10-03": {
+    "en": "Information for flight planning",
+    "es": "Information for flight planning"
+  },
+  "050-10-04": {
+    "en": "Meteorological services",
+    "es": "Meteorological services"
+  },
+  "061": {
+    "en": "General Navigation",
+    "es": "General Navigation"
+  },
+  "061-01": {
+    "en": "Basics of Navigation",
+    "es": "Basics of Navigation"
+  },
+  "061-01-01": {
+    "en": "The Earth",
+    "es": "The Earth"
+  },
+  "061-01-02": {
+    "en": "Position",
+    "es": "Position"
+  },
+  "061-01-03": {
+    "en": "Direction",
+    "es": "Direction"
+  },
+  "061-01-04": {
+    "en": "Distance",
+    "es": "Distance"
+  },
+  "061-01-05": {
+    "en": "Speed",
+    "es": "Speed"
+  },
+  "061-01-06": {
+    "en": "Triangle of velocities (TOV)",
+    "es": "Triangle of velocities (TOV)"
+  },
+  "061-01-07": {
+    "en": "Dead reckoning (DR)",
+    "es": "Dead reckoning (DR)"
+  },
+  "061-01-08": {
+    "en": "Navigation in climb and descent",
+    "es": "Navigation in climb and descent"
+  },
+  "061-02": {
+    "en": "Visual Flight Rule (VFR) Navigation",
+    "es": "Visual Flight Rule (VFR) Navigation"
+  },
+  "061-02-01": {
+    "en": "Ground features",
+    "es": "Ground features"
+  },
+  "061-02-02": {
+    "en": "VFR navigation techniques",
+    "es": "VFR navigation techniques"
+  },
+  "061-03": {
+    "en": "Great Circles and Rhumb Lines",
+    "es": "Great Circles and Rhumb Lines"
+  },
+  "061-03-01": {
+    "en": "Great circles",
+    "es": "Great circles"
+  },
+  "061-03-02": {
+    "en": "Rhumb lines",
+    "es": "Rhumb lines"
+  },
+  "061-03-03": {
+    "en": "Relationship",
+    "es": "Relationship"
+  },
+  "061-04": {
+    "en": "Charts",
+    "es": "Charts"
+  },
+  "061-04-01": {
+    "en": "Chart requirements",
+    "es": "Chart requirements"
+  },
+  "061-04-02": {
+    "en": "Projections",
+    "es": "Projections"
+  },
+  "061-04-03": {
+    "en": "Practical use",
+    "es": "Practical use"
+  },
+  "061-05": {
+    "en": "Time",
+    "es": "Time"
+  },
+  "061-05-01": {
+    "en": "Local Mean Time (LMT)",
+    "es": "Local Mean Time (LMT)"
+  },
+  "061-05-02": {
+    "en": "Standard time",
+    "es": "Standard time"
+  },
+  "061-05-03": {
+    "en": "Sunrise and sunset",
+    "es": "Sunrise and sunset"
+  },
+  "062": {
+    "en": "Radio Navigation",
+    "es": "Radio Navigation"
+  },
+  "062-01": {
+    "en": "Basic Radio Propagation Theory",
+    "es": "Basic Radio Propagation Theory"
+  },
+  "062-01-01": {
+    "en": "Basic principles",
+    "es": "Basic principles"
+  },
+  "062-01-02": {
+    "en": "Antennas",
+    "es": "Antennas"
+  },
+  "062-01-03": {
+    "en": "Wave propagation",
+    "es": "Wave propagation"
+  },
+  "062-02": {
+    "en": "Radio Aids",
+    "es": "Radio Aids"
+  },
+  "062-02-01": {
+    "en": "Ground direction finding (DF)",
+    "es": "Ground direction finding (DF)"
+  },
+  "062-02-02": {
+    "en": "Non-directional radio beacon (NDB)-automatic direction finding (ADF)",
+    "es": "Non-directional radio beacon (NDB)-automatic direction finding (ADF)"
+  },
+  "062-02-03": {
+    "en": "VHF omnidirectional radio range (VOR): conventional VOR (CVOR) and Doppler VOR (DVOR)",
+    "es": "VHF omnidirectional radio range (VOR): conventional VOR (CVOR) and Doppler VOR (DVOR)"
+  },
+  "062-02-04": {
+    "en": "Distance-measuring equipment (DME)",
+    "es": "Distance-measuring equipment (DME)"
+  },
+  "062-02-05": {
+    "en": "Instrument landing system (ILS)",
+    "es": "Instrument landing system (ILS)"
+  },
+  "062-02-06": {
+    "en": "Microwave landing system (MLS)",
+    "es": "Microwave landing system (MLS)"
+  },
+  "062-03": {
+    "en": "Radar",
+    "es": "Radar"
+  },
+  "062-03-01": {
+    "en": "Pulse techniques",
+    "es": "Pulse techniques"
+  },
+  "062-03-02": {
+    "en": "Ground radar",
+    "es": "Ground radar"
+  },
+  "062-03-03": {
+    "en": "Airborne weather radar",
+    "es": "Airborne weather radar"
+  },
+  "062-03-04": {
+    "en": "Secondary surveillance radar and transponder",
+    "es": "Secondary surveillance radar and transponder"
+  },
+  "062-06": {
+    "en": "Global Navigation Satellite Systems (GNSSs)",
+    "es": "Global Navigation Satellite Systems (GNSSs)"
+  },
+  "062-06-01": {
+    "en": "Global navigation satellite systems (GNSSs)",
+    "es": "Global navigation satellite systems (GNSSs)"
+  },
+  "062-06-02": {
+    "en": "Ground-, satellite- and aircraft-based augmentation systems",
+    "es": "Ground-, satellite- and aircraft-based augmentation systems"
+  },
+  "062-07": {
+    "en": "Performance Based Navigation (PBN)",
+    "es": "Performance Based Navigation (PBN)"
+  },
+  "062-07-01": {
+    "en": "Performance-based navigation (PBN) concept (as described in ICAO Doc 9613)",
+    "es": "Performance-based navigation (PBN) concept (as described in ICAO Doc 9613)"
+  },
+  "062-07-02": {
+    "en": "Navigation specifications",
+    "es": "Navigation specifications"
+  },
+  "062-07-03": {
+    "en": "Use of performance-based navigation (PBN)",
+    "es": "Use of performance-based navigation (PBN)"
+  },
+  "062-07-04": {
+    "en": "Performance-based navigation (PBN) operations",
+    "es": "Performance-based navigation (PBN) operations"
+  },
+  "062-07-05": {
+    "en": "Requirements of specific RNAV and RNP specifications",
+    "es": "Requirements of specific RNAV and RNP specifications"
+  },
+  "070": {
+    "en": "Operational Procedures",
+    "es": "Operational Procedures"
+  },
+  "071-01": {
+    "en": "General Requirements",
+    "es": "General Requirements"
+  },
+  "071-01-01": {
+    "en": "ICAO Annex 6",
+    "es": "ICAO Annex 6"
+  },
+  "071-01-02": {
+    "en": "Operational requirements",
+    "es": "Operational requirements"
+  },
+  "071-01-03": {
+    "en": "Long-range flights",
+    "es": "Long-range flights"
+  },
+  "071-02": {
+    "en": "Special Operational Procedures and Hazards (General Aspects)",
+    "es": "Special Operational Procedures and Hazards (General Aspects)"
+  },
+  "071-02-01": {
+    "en": "Operations manual",
+    "es": "Operations manual"
+  },
+  "071-02-02": {
+    "en": "Icing conditions",
+    "es": "Icing conditions"
+  },
+  "071-02-03": {
+    "en": "Bird-strike risk",
+    "es": "Bird-strike risk"
+  },
+  "071-02-04": {
+    "en": "Noise abatement",
+    "es": "Noise abatement"
+  },
+  "071-02-05": {
+    "en": "Fire and smoke",
+    "es": "Fire and smoke"
+  },
+  "071-02-06": {
+    "en": "Decompression of pressurised cabin",
+    "es": "Decompression of pressurised cabin"
+  },
+  "071-02-07": {
+    "en": "Wind shear and microburst",
+    "es": "Wind shear and microburst"
+  },
+  "071-02-08": {
+    "en": "Wake turbulence",
+    "es": "Wake turbulence"
+  },
+  "071-02-09": {
+    "en": "Security (unlawful events)",
+    "es": "Security (unlawful events)"
+  },
+  "071-02-10": {
+    "en": "Emergency and precautionary landing, and ditching",
+    "es": "Emergency and precautionary landing, and ditching"
+  },
+  "071-02-11": {
+    "en": "Fuel jettisoning",
+    "es": "Fuel jettisoning"
+  },
+  "071-02-12": {
+    "en": "Transport of dangerous goods by air",
+    "es": "Transport of dangerous goods by air"
+  },
+  "071-02-13": {
+    "en": "Contaminated runways",
+    "es": "Contaminated runways"
+  },
+  "071-04": {
+    "en": "Specialised Operations",
+    "es": "Specialised Operations"
+  },
+  "071-04-01": {
+    "en": "Specialized Operations",
+    "es": "Specialized Operations"
+  },
+  "081": {
+    "en": "Principles of Flight",
+    "es": "Principles of Flight"
+  },
+  "081-01": {
+    "en": "Subsonic Aerodynamics",
+    "es": "Subsonic Aerodynamics"
+  },
+  "081-01-01": {
+    "en": "Basics, laws and definitions",
+    "es": "Basics, laws and definitions"
+  },
+  "081-01-02": {
+    "en": "Two-dimensional airflow around an aerofoil",
+    "es": "Two-dimensional airflow around an aerofoil"
+  },
+  "081-01-03": {
+    "en": "Coefficients",
+    "es": "Coefficients"
+  },
+  "081-01-04": {
+    "en": "Three-dimensional airflow around an aeroplane",
+    "es": "Three-dimensional airflow around an aeroplane"
+  },
+  "081-01-05": {
+    "en": "Total drag",
+    "es": "Total drag"
+  },
+  "081-01-06": {
+    "en": "Ground effect",
+    "es": "Ground effect"
+  },
+  "081-01-07": {
+    "en": "The relationship between lift coefficient and speed in steady, straight, and level flight",
+    "es": "The relationship between lift coefficient and speed in steady, straight, and level flight"
+  },
+  "081-01-09": {
+    "en": "CLMAX augmentation",
+    "es": "CLMAX augmentation"
+  },
+  "081-01-10": {
+    "en": "Means to reduce the CL–CD ratio",
+    "es": "Means to reduce the CL–CD ratio"
+  },
+  "081-01-12": {
+    "en": "Aerodynamic degradation",
+    "es": "Aerodynamic degradation"
+  },
+  "081-02": {
+    "en": "High Speed Aerodynamics",
+    "es": "High Speed Aerodynamics"
+  },
+  "081-02-01": {
+    "en": "Speeds",
+    "es": "Speeds"
+  },
+  "081-02-02": {
+    "en": "Shock waves",
+    "es": "Shock waves"
+  },
+  "081-02-03": {
+    "en": "Effects of exceeding the critical Mach number (MCRIT)",
+    "es": "Effects of exceeding the critical Mach number (MCRIT)"
+  },
+  "081-02-05": {
+    "en": "Means to influence critical Mach number (MCRIT)",
+    "es": "Means to influence critical Mach number (MCRIT)"
+  },
+  "081-03": {
+    "en": "Stall, Mach Tuck and Upset Prevention and Recovery",
+    "es": "Stall, Mach Tuck and Upset Prevention and Recovery"
+  },
+  "081-03-01": {
+    "en": "The stall",
+    "es": "The stall"
+  },
+  "081-03-02": {
+    "en": "Buffet onset boundary",
+    "es": "Buffet onset boundary"
+  },
+  "081-03-03": {
+    "en": "Situations in which buffet or stall could occur",
+    "es": "Situations in which buffet or stall could occur"
+  },
+  "081-04": {
+    "en": "Stability",
+    "es": "Stability"
+  },
+  "081-04-01": {
+    "en": "Static and dynamic stability",
+    "es": "Static and dynamic stability"
+  },
+  "081-04-03": {
+    "en": "Static and dynamic longitudinal stability",
+    "es": "Static and dynamic longitudinal stability"
+  },
+  "081-04-04": {
+    "en": "Static directional stability",
+    "es": "Static directional stability"
+  },
+  "081-04-05": {
+    "en": "Static lateral stability",
+    "es": "Static lateral stability"
+  },
+  "081-04-06": {
+    "en": "Dynamic lateral-directional stability",
+    "es": "Dynamic lateral-directional stability"
+  },
+  "081-05": {
+    "en": "Control",
+    "es": "Control"
+  },
+  "081-05-01": {
+    "en": "General",
+    "es": "General"
+  },
+  "081-05-02": {
+    "en": "Pitch (longitudinal) control",
+    "es": "Pitch (longitudinal) control"
+  },
+  "081-05-03": {
+    "en": "Yaw (directional) control",
+    "es": "Yaw (directional) control"
+  },
+  "081-05-04": {
+    "en": "Roll (lateral) control",
+    "es": "Roll (lateral) control"
+  },
+  "081-05-05": {
+    "en": "Roll-yaw interaction",
+    "es": "Roll-yaw interaction"
+  },
+  "081-05-06": {
+    "en": "Means to reduce control forces",
+    "es": "Means to reduce control forces"
+  },
+  "081-05-07": {
+    "en": "Fly-by-wire (FBW)",
+    "es": "Fly-by-wire (FBW)"
+  },
+  "081-05-08": {
+    "en": "Trimming",
+    "es": "Trimming"
+  },
+  "081-06": {
+    "en": "Limitations",
+    "es": "Limitations"
+  },
+  "081-06-01": {
+    "en": "Operating limitations",
+    "es": "Operating limitations"
+  },
+  "081-06-02": {
+    "en": "Manoeuvring envelope",
+    "es": "Manoeuvring envelope"
+  },
+  "081-06-03": {
+    "en": "Gust envelope",
+    "es": "Gust envelope"
+  },
+  "081-07": {
+    "en": "Propellers",
+    "es": "Propellers"
+  },
+  "081-07-01": {
+    "en": "Conversion of engine torque to thrust",
+    "es": "Conversion of engine torque to thrust"
+  },
+  "081-07-02": {
+    "en": "Engine failure",
+    "es": "Engine failure"
+  },
+  "081-07-03": {
+    "en": "Design features for power absorption",
+    "es": "Design features for power absorption"
+  },
+  "081-07-04": {
+    "en": "Secondary effects of propellers",
+    "es": "Secondary effects of propellers"
+  },
+  "081-08": {
+    "en": "Flight Mechanics",
+    "es": "Flight Mechanics"
+  },
+  "081-08-01": {
+    "en": "Forces acting on an aeroplane",
+    "es": "Forces acting on an aeroplane"
+  },
+  "081-08-02": {
+    "en": "Asymmetric thrust",
+    "es": "Asymmetric thrust"
+  },
+  "081-08-03": {
+    "en": "Significant points on a polar curve",
+    "es": "Significant points on a polar curve"
+  },
+  "090": {
+    "en": "Communications",
+    "es": "Communications"
+  },
+  "090-01": {
+    "en": "Concepts",
+    "es": "Concepts"
+  },
+  "090-01-01": {
+    "en": "Associated terms",
+    "es": "Associated terms"
+  },
+  "090-02": {
+    "en": "General Operating Procedures",
+    "es": "General Operating Procedures"
+  },
+  "090-02-01": {
+    "en": "Transmission standards",
+    "es": "Transmission standards"
+  },
+  "090-03": {
+    "en": "Relevant Weather Information",
+    "es": "Relevant Weather Information"
+  },
+  "090-03-01": {
+    "en": "Aerodrome weather",
+    "es": "Aerodrome weather"
+  },
+  "090-04": {
+    "en": "Voice Communication Failure",
+    "es": "Voice Communication Failure"
+  },
+  "090-04-01": {
+    "en": "Required action",
+    "es": "Required action"
+  },
+  "090-05": {
+    "en": "Distress and Urgency Procedures",
+    "es": "Distress and Urgency Procedures"
+  },
+  "090-05-01": {
+    "en": "Signals and procedures",
+    "es": "Signals and procedures"
+  },
+  "090-06": {
+    "en": "VHF Propagation and Allocation of Frequencies",
+    "es": "VHF Propagation and Allocation of Frequencies"
+  },
+  "090-06-01": {
+    "en": "General principles",
+    "es": "General principles"
+  },
+  "090-07": {
+    "en": "Other Communications",
+    "es": "Other Communications"
+  },
+  "090-07-01": {
+    "en": "Weather observations, Morse code",
+    "es": "Weather observations, Morse code"
+  }
+}
