@@ -1005,23 +1005,23 @@
   },
   "033-01": {
     "en": "Flight Planning for VFR Flights",
-    "es": "Flight Planning for VFR Flights"
+    "es": "Planificación de vuelo para vuelos VFR"
   },
   "033-01-01": {
     "en": "VFR navigation plan",
-    "es": "VFR navigation plan"
+    "es": "Plan de navegación VFR"
   },
   "033-02": {
     "en": "Flight Planning for IFR Flights",
-    "es": "Flight Planning for IFR Flights"
+    "es": "Planificación de vuelo para vuelos IFR"
   },
   "033-02-01": {
     "en": "IFR navigation plan",
-    "es": "IFR navigation plan"
+    "es": "Plan de navegación IFR"
   },
   "033-03": {
     "en": "Fuel Planning – CAT.OP.MPA.106 and CAT.OP.MPA.150 plus AMC1, 2 and 3",
-    "es": "Fuel Planning – CAT.OP.MPA.106 and CAT.OP.MPA.150 plus AMC1, 2 and 3"
+    "es": "Planificación de combustible – CAT.OP.MPA.106 y CAT.OP.MPA.150 más AMC1, 2 y 3"
   },
   "033-03-01": {
     "en": "General",
@@ -1029,51 +1029,51 @@
   },
   "033-03-02": {
     "en": "Pre-flight fuel planning for commercial flights",
-    "es": "Pre-flight fuel planning for commercial flights"
+    "es": "Planificación de combustible previa al vuelo para vuelos comerciales"
   },
   "033-03-03": {
     "en": "Specific fuel-calculation procedures",
-    "es": "Specific fuel-calculation procedures"
+    "es": "Procedimientos específicos de cálculo de combustible"
   },
   "033-04": {
     "en": "Pre-Flight Preparation",
-    "es": "Pre-Flight Preparation"
+    "es": "Preparación previa al vuelo"
   },
   "033-04-01": {
     "en": "Notice to airmen (NOTAM) briefing",
-    "es": "Notice to airmen (NOTAM) briefing"
+    "es": "Briefing de NOTAM"
   },
   "033-04-02": {
     "en": "Meteorological briefing",
-    "es": "Meteorological briefing"
+    "es": "Informe meteorológico"
   },
   "033-04-03": {
     "en": "Point of equal time (PET) and point of safe return (PSR)",
-    "es": "Point of equal time (PET) and point of safe return (PSR)"
+    "es": "Punto de tiempo igual (PET) y punto de retorno seguro (PSR)"
   },
   "033-05": {
     "en": "ICAO Flight Plan (ATS Flight Plan (FPL))",
-    "es": "ICAO Flight Plan (ATS Flight Plan (FPL))"
+    "es": "Plan de vuelo OACI (Plan de vuelo ATS (FPL))"
   },
   "033-05-01": {
     "en": "Individual FPL",
-    "es": "Individual FPL"
+    "es": "FPL individual"
   },
   "033-05-02": {
     "en": "Repetitive flight plan (RPL)",
-    "es": "Repetitive flight plan (RPL)"
+    "es": "Plan de vuelo repetitivo (RPL)"
   },
   "033-06": {
     "en": "Flight Monitoring and In-flight Re-planning",
-    "es": "Flight Monitoring and In-flight Re-planning"
+    "es": "Seguimiento del vuelo y replanificación en vuelo"
   },
   "033-06-01": {
     "en": "Flight monitoring",
-    "es": "Flight monitoring"
+    "es": "Seguimiento del vuelo"
   },
   "033-06-02": {
     "en": "In-flight replanning",
-    "es": "In-flight replanning"
+    "es": "Replanificación en vuelo"
   },
   "040": {
     "en": "Human Performance Limitations",
