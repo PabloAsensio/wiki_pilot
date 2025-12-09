@@ -1149,215 +1149,215 @@
   },
   "050-01": {
     "en": "The Atmosphere",
-    "es": "The Atmosphere"
+    "es": "La atmósfera"
   },
   "050-01-01": {
     "en": "Composition, extent, vertical division",
-    "es": "Composition, extent, vertical division"
+    "es": "Composición, extensión y división vertical"
   },
   "050-01-02": {
     "en": "Air temperature",
-    "es": "Air temperature"
+    "es": "Temperatura del aire"
   },
   "050-01-03": {
     "en": "Atmospheric pressure",
-    "es": "Atmospheric pressure"
+    "es": "Presión atmosférica"
   },
   "050-01-04": {
     "en": "Air density",
-    "es": "Air density"
+    "es": "Densidad del aire"
   },
   "050-01-05": {
     "en": "International Standard Atmosphere (ISA)",
-    "es": "International Standard Atmosphere (ISA)"
+    "es": "Atmósfera estándar internacional (ISA)"
   },
   "050-01-06": {
     "en": "Altimetry",
-    "es": "Altimetry"
+    "es": "Altimetría"
   },
   "050-02": {
     "en": "Wind",
-    "es": "Wind"
+    "es": "Viento"
   },
   "050-02-01": {
     "en": "Definition and measurement of wind",
-    "es": "Definition and measurement of wind"
+    "es": "Definición y medición del viento"
   },
   "050-02-02": {
     "en": "Primary cause of wind",
-    "es": "Primary cause of wind"
+    "es": "Causa principal del viento"
   },
   "050-02-03": {
     "en": "General global circulation",
-    "es": "General global circulation"
+    "es": "Circulación global general"
   },
   "050-02-04": {
     "en": "Local winds",
-    "es": "Local winds"
+    "es": "Vientos locales"
   },
   "050-02-05": {
     "en": "Mountain waves (standing waves, lee waves)",
-    "es": "Mountain waves (standing waves, lee waves)"
+    "es": "Ondas de montaña (ondas estacionarias, ondas de sotavento)"
   },
   "050-02-06": {
     "en": "Turbulence",
-    "es": "Turbulence"
+    "es": "Turbulencia"
   },
   "050-02-07": {
     "en": "Jet streams",
-    "es": "Jet streams"
+    "es": "Corrientes en chorro"
   },
   "050-03": {
     "en": "Thermodynamics",
-    "es": "Thermodynamics"
+    "es": "Termodinámica"
   },
   "050-03-01": {
     "en": "Humidity",
-    "es": "Humidity"
+    "es": "Humedad"
   },
   "050-03-02": {
     "en": "Change of state of water",
-    "es": "Change of state of water"
+    "es": "Cambio de estado del agua"
   },
   "050-03-03": {
     "en": "Adiabatic processes",
-    "es": "Adiabatic processes"
+    "es": "Procesos adiabáticos"
   },
   "050-04": {
     "en": "Clouds and Fog",
-    "es": "Clouds and Fog"
+    "es": "Nubes y niebla"
   },
   "050-04-01": {
     "en": "Cloud formation and description",
-    "es": "Cloud formation and description"
+    "es": "Formación y descripción de nubes"
   },
   "050-04-02": {
     "en": "Fog, mist, haze",
-    "es": "Fog, mist, haze"
+    "es": "Niebla, bruma y calina"
   },
   "050-05": {
     "en": "Precipitation",
-    "es": "Precipitation"
+    "es": "Precipitación"
   },
   "050-05-01": {
     "en": "Development of precipitation",
-    "es": "Development of precipitation"
+    "es": "Desarrollo de la precipitación"
   },
   "050-05-02": {
     "en": "Types of precipitation",
-    "es": "Types of precipitation"
+    "es": "Tipos de precipitación"
   },
   "050-06": {
     "en": "Air Masses and Fronts",
-    "es": "Air Masses and Fronts"
+    "es": "Masas de aire y frentes"
   },
   "050-06-01": {
     "en": "Air masses",
-    "es": "Air masses"
+    "es": "Masas de aire"
   },
   "050-06-02": {
     "en": "Fronts",
-    "es": "Fronts"
+    "es": "Frentes"
   },
   "050-07": {
     "en": "Pressure Systems",
-    "es": "Pressure Systems"
+    "es": "Sistemas de presión"
   },
   "050-07-01": {
     "en": "The principal pressure areas",
-    "es": "The principal pressure areas"
+    "es": "Las principales áreas de presión"
   },
   "050-07-02": {
     "en": "Anticyclone",
-    "es": "Anticyclone"
+    "es": "Anticiclón"
   },
   "050-07-03": {
     "en": "Non-frontal depressions",
-    "es": "Non-frontal depressions"
+    "es": "Depresiones no frontales"
   },
   "050-07-04": {
     "en": "Tropical revolving storms",
-    "es": "Tropical revolving storms"
+    "es": "Tormentas tropicales giratorias"
   },
   "050-08": {
     "en": "Climatology",
-    "es": "Climatology"
+    "es": "Climatología"
   },
   "050-08-01": {
     "en": "Climatic zones",
-    "es": "Climatic zones"
+    "es": "Zonas climáticas"
   },
   "050-08-02": {
     "en": "Tropical climatology",
-    "es": "Tropical climatology"
+    "es": "Climatología tropical"
   },
   "050-08-03": {
     "en": "Typical weather situations in the mid-latitudes",
-    "es": "Typical weather situations in the mid-latitudes"
+    "es": "Situaciones meteorológicas típicas en latitudes medias"
   },
   "050-08-04": {
     "en": "Local winds and associated weather",
-    "es": "Local winds and associated weather"
+    "es": "Vientos locales y tiempo asociado"
   },
   "050-09": {
     "en": "Flight Hazards",
-    "es": "Flight Hazards"
+    "es": "Peligros de vuelo"
   },
   "050-09-01": {
     "en": "Icing",
-    "es": "Icing"
+    "es": "Formación de hielo"
   },
   "050-09-02": {
     "en": "Turbulence",
-    "es": "Turbulence"
+    "es": "Turbulencia"
   },
   "050-09-03": {
     "en": "Wind shear",
-    "es": "Wind shear"
+    "es": "Cizalladura del viento"
   },
   "050-09-04": {
     "en": "Thunderstorms",
-    "es": "Thunderstorms"
+    "es": "Tormentas eléctricas"
   },
   "050-09-05": {
     "en": "Tornadoes",
-    "es": "Tornadoes"
+    "es": "Tornados"
   },
   "050-09-06": {
     "en": "Inversions",
-    "es": "Inversions"
+    "es": "Inversiones"
   },
   "050-09-07": {
     "en": "Stratospheric conditions",
-    "es": "Stratospheric conditions"
+    "es": "Condiciones estratosféricas"
   },
   "050-09-08": {
     "en": "Hazards in mountainous areas",
-    "es": "Hazards in mountainous areas"
+    "es": "Peligros en áreas montañosas"
   },
   "050-09-09": {
     "en": "Visibility-reducing phenomena",
-    "es": "Visibility-reducing phenomena"
+    "es": "Fenómenos que reducen la visibilidad"
   },
   "050-10": {
     "en": "Meteorological Information",
-    "es": "Meteorological Information"
+    "es": "Información meteorológica"
   },
   "050-10-01": {
     "en": "Observation",
-    "es": "Observation"
+    "es": "Observación"
   },
   "050-10-02": {
     "en": "Weather charts",
-    "es": "Weather charts"
+    "es": "Cartas meteorológicas"
   },
   "050-10-03": {
     "en": "Information for flight planning",
-    "es": "Information for flight planning"
+    "es": "Información para la planificación del vuelo"
   },
   "050-10-04": {
     "en": "Meteorological services",
-    "es": "Meteorological services"
+    "es": "Servicios meteorológicos"
   },
   "061": {
     "en": "General Navigation",
