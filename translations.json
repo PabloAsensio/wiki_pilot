@@ -949,7 +949,7 @@
   },
   "032-03": {
     "en": "CS-23-Applicable Operational Requirements Performance Class B – Use of Aeroplane Performance Data for Single- and Multi-engine Aeroplanes",
-    "es": "CS-23-Applicable Operational Requirements Performance Class B – Use of Aeroplane Performance Data for Single- and Multi-engine Aeroplanes"
+    "es": "CS-23 - Requisitos operacionales aplicables Clase de rendimiento B – Uso de datos de prestaciones de la aeronave para aviones monomotor y multimotor"
   },
   "032-03-03": {
     "en": "Use of aeroplane performance data",
@@ -957,7 +957,7 @@
   },
   "032-04": {
     "en": "CS-25-Applicable Operational Requirements Performance Class A – Theory",
-    "es": "CS-25-Applicable Operational Requirements Performance Class A – Theory"
+    "es": "CS-25 - Requisitos operacionales aplicables Clase de rendimiento A – Teoría"
   },
   "032-04-01": {
     "en": "Take-off",
@@ -973,7 +973,7 @@
   },
   "032-04-04": {
     "en": "En-route one-engine-inoperative",
-    "es": "En-route one-engine-inoperative"
+    "es": "En ruta con un motor inoperativo"
   },
   "032-04-05": {
     "en": "Descent",
@@ -985,7 +985,7 @@
   },
   "032-05": {
     "en": "CS-25-Applicable Operational Requirements Performance Class A – Use of Aeroplane Performance Data",
-    "es": "CS-25-Applicable Operational Requirements Performance Class A – Use of Aeroplane Performance Data"
+    "es": "CS-25 - Requisitos operacionales aplicables Clase de rendimiento A – Uso de datos de prestaciones de la aeronave"
   },
   "032-05-01": {
     "en": "Take-off",
@@ -993,7 +993,7 @@
   },
   "032-05-02": {
     "en": "Drift-down and stabilising altitude",
-    "es": "Drift-down y altitud de estabilización"
+    "es": "Descenso por pérdida de potencia y altitud de estabilización"
   },
   "032-05-03": {
     "en": "Landing",
