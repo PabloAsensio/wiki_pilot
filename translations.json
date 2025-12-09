@@ -1845,62 +1845,62 @@
   },
   "090": {
     "en": "Communications",
-    "es": "Communications"
+    "es": "Comunicaciones"
   },
   "090-01": {
     "en": "Concepts",
-    "es": "Concepts"
+    "es": "Conceptos"
   },
   "090-01-01": {
     "en": "Associated terms",
-    "es": "Associated terms"
+    "es": "Términos asociados"
   },
   "090-02": {
     "en": "General Operating Procedures",
-    "es": "General Operating Procedures"
+    "es": "Procedimientos operativos generales"
   },
   "090-02-01": {
     "en": "Transmission standards",
-    "es": "Transmission standards"
+    "es": "Normas de transmisión"
   },
   "090-03": {
     "en": "Relevant Weather Information",
-    "es": "Relevant Weather Information"
+    "es": "Información meteorológica relevante"
   },
   "090-03-01": {
     "en": "Aerodrome weather",
-    "es": "Aerodrome weather"
+    "es": "Meteorología del aeródromo"
   },
   "090-04": {
     "en": "Voice Communication Failure",
-    "es": "Voice Communication Failure"
+    "es": "Fallo de comunicación por voz"
   },
   "090-04-01": {
     "en": "Required action",
-    "es": "Required action"
+    "es": "Acción requerida"
   },
   "090-05": {
     "en": "Distress and Urgency Procedures",
-    "es": "Distress and Urgency Procedures"
+    "es": "Procedimientos de socorro y urgencia"
   },
   "090-05-01": {
     "en": "Signals and procedures",
-    "es": "Signals and procedures"
+    "es": "Señales y procedimientos"
   },
   "090-06": {
     "en": "VHF Propagation and Allocation of Frequencies",
-    "es": "VHF Propagation and Allocation of Frequencies"
+    "es": "Propagación VHF y asignación de frecuencias"
   },
   "090-06-01": {
     "en": "General principles",
-    "es": "General principles"
+    "es": "Principios generales"
   },
   "090-07": {
     "en": "Other Communications",
-    "es": "Other Communications"
+    "es": "Otras comunicaciones"
   },
   "090-07-01": {
     "en": "Weather observations, Morse code",
-    "es": "Weather observations, Morse code"
+    "es": "Observaciones meteorológicas, código Morse"
   }
 }
