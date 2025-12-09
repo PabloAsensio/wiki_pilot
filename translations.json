@@ -1681,19 +1681,19 @@
   },
   "081-01-07": {
     "en": "The relationship between lift coefficient and speed in steady, straight, and level flight",
-    "es": "The relationship between lift coefficient and speed in steady, straight, and level flight"
+    "es": "Relación entre el coeficiente de sustentación y la velocidad en vuelo recto y nivel en régimen estable"
   },
   "081-01-09": {
     "en": "CLMAX augmentation",
-    "es": "CLMAX augmentation"
+    "es": "Aumento de CLMAX"
   },
   "081-01-10": {
     "en": "Means to reduce the CL–CD ratio",
-    "es": "Means to reduce the CL–CD ratio"
+    "es": "Medios para reducir la relación CL–CD"
   },
   "081-01-12": {
     "en": "Aerodynamic degradation",
-    "es": "Aerodynamic degradation"
+    "es": "Degradación aerodinámica"
   },
   "081-02": {
     "en": "High Speed Aerodynamics",
@@ -1701,19 +1701,19 @@
   },
   "081-02-01": {
     "en": "Speeds",
-    "es": "Speeds"
+    "es": "Velocidades"
   },
   "081-02-02": {
     "en": "Shock waves",
-    "es": "Shock waves"
+    "es": "Ondas de choque"
   },
   "081-02-03": {
     "en": "Effects of exceeding the critical Mach number (MCRIT)",
-    "es": "Effects of exceeding the critical Mach number (MCRIT)"
+    "es": "Efectos de superar el número de Mach crítico (MCRIT)"
   },
   "081-02-05": {
     "en": "Means to influence critical Mach number (MCRIT)",
-    "es": "Means to influence critical Mach number (MCRIT)"
+    "es": "Medios para influir en el número de Mach crítico (MCRIT)"
   },
   "081-03": {
     "en": "Stall, Mach Tuck and Upset Prevention and Recovery",
@@ -1721,15 +1721,15 @@
   },
   "081-03-01": {
     "en": "The stall",
-    "es": "The stall"
+    "es": "La pérdida"
   },
   "081-03-02": {
     "en": "Buffet onset boundary",
-    "es": "Buffet onset boundary"
+    "es": "Límite de aparición del buffet"
   },
   "081-03-03": {
     "en": "Situations in which buffet or stall could occur",
-    "es": "Situations in which buffet or stall could occur"
+    "es": "Situaciones en las que puede producirse buffet o pérdida"
   },
   "081-04": {
     "en": "Stability",
@@ -1737,23 +1737,23 @@
   },
   "081-04-01": {
     "en": "Static and dynamic stability",
-    "es": "Static and dynamic stability"
+    "es": "Estabilidad estática y dinámica"
   },
   "081-04-03": {
     "en": "Static and dynamic longitudinal stability",
-    "es": "Static and dynamic longitudinal stability"
+    "es": "Estabilidad longitudinal estática y dinámica"
   },
   "081-04-04": {
     "en": "Static directional stability",
-    "es": "Static directional stability"
+    "es": "Estabilidad direccional estática"
   },
   "081-04-05": {
     "en": "Static lateral stability",
-    "es": "Static lateral stability"
+    "es": "Estabilidad lateral estática"
   },
   "081-04-06": {
     "en": "Dynamic lateral-directional stability",
-    "es": "Dynamic lateral-directional stability"
+    "es": "Estabilidad dinámica lateral-direccional"
   },
   "081-05": {
     "en": "Control",
@@ -1765,23 +1765,23 @@
   },
   "081-05-02": {
     "en": "Pitch (longitudinal) control",
-    "es": "Pitch (longitudinal) control"
+    "es": "Control de cabeceo (longitudinal)"
   },
   "081-05-03": {
     "en": "Yaw (directional) control",
-    "es": "Yaw (directional) control"
+    "es": "Control de guiñada (direccional)"
   },
   "081-05-04": {
     "en": "Roll (lateral) control",
-    "es": "Roll (lateral) control"
+    "es": "Control de alabeo (lateral)"
   },
   "081-05-05": {
     "en": "Roll-yaw interaction",
-    "es": "Roll-yaw interaction"
+    "es": "Interacción alabeo–guiñada"
   },
   "081-05-06": {
     "en": "Means to reduce control forces",
-    "es": "Means to reduce control forces"
+    "es": "Medios para reducir las fuerzas de control"
   },
   "081-05-07": {
     "en": "Fly-by-wire (FBW)",
@@ -1789,23 +1789,23 @@
   },
   "081-05-08": {
     "en": "Trimming",
-    "es": "Trimming"
+    "es": "Trimado"
   },
   "081-06": {
     "en": "Limitations",
-    "es": "Limitations"
+    "es": "Limitaciones"
   },
   "081-06-01": {
     "en": "Operating limitations",
-    "es": "Operating limitations"
+    "es": "Limitaciones operativas"
   },
   "081-06-02": {
     "en": "Manoeuvring envelope",
-    "es": "Manoeuvring envelope"
+    "es": "Envolvente de maniobra"
   },
   "081-06-03": {
     "en": "Gust envelope",
-    "es": "Gust envelope"
+    "es": "Envolvente por ráfagas"
   },
   "081-07": {
     "en": "Propellers",
@@ -1813,19 +1813,19 @@
   },
   "081-07-01": {
     "en": "Conversion of engine torque to thrust",
-    "es": "Conversion of engine torque to thrust"
+    "es": "Conversión del par motor en empuje"
   },
   "081-07-02": {
     "en": "Engine failure",
-    "es": "Engine failure"
+    "es": "Fallo de motor"
   },
   "081-07-03": {
     "en": "Design features for power absorption",
-    "es": "Design features for power absorption"
+    "es": "Características de diseño para la absorción de potencia"
   },
   "081-07-04": {
     "en": "Secondary effects of propellers",
-    "es": "Secondary effects of propellers"
+    "es": "Efectos secundarios de las hélices"
   },
   "081-08": {
     "en": "Flight Mechanics",
@@ -1833,15 +1833,15 @@
   },
   "081-08-01": {
     "en": "Forces acting on an aeroplane",
-    "es": "Forces acting on an aeroplane"
+    "es": "Fuerzas que actúan sobre una aeronave"
   },
   "081-08-02": {
     "en": "Asymmetric thrust",
-    "es": "Asymmetric thrust"
+    "es": "Empuje asimétrico"
   },
   "081-08-03": {
     "en": "Significant points on a polar curve",
-    "es": "Significant points on a polar curve"
+    "es": "Puntos significativos en una curva polar"
   },
   "090": {
     "en": "Communications",
