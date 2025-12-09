@@ -1365,99 +1365,99 @@
   },
   "061-01": {
     "en": "Basics of Navigation",
-    "es": "Basics of Navigation"
+    "es": "Fundamentos de navegación"
   },
   "061-01-01": {
     "en": "The Earth",
-    "es": "The Earth"
+    "es": "La Tierra"
   },
   "061-01-02": {
     "en": "Position",
-    "es": "Position"
+    "es": "Posición"
   },
   "061-01-03": {
     "en": "Direction",
-    "es": "Direction"
+    "es": "Dirección"
   },
   "061-01-04": {
     "en": "Distance",
-    "es": "Distance"
+    "es": "Distancia"
   },
   "061-01-05": {
     "en": "Speed",
-    "es": "Speed"
+    "es": "Velocidad"
   },
   "061-01-06": {
     "en": "Triangle of velocities (TOV)",
-    "es": "Triangle of velocities (TOV)"
+    "es": "Triángulo de velocidades (TOV)"
   },
   "061-01-07": {
     "en": "Dead reckoning (DR)",
-    "es": "Dead reckoning (DR)"
+    "es": "Navegación por estima (DR)"
   },
   "061-01-08": {
     "en": "Navigation in climb and descent",
-    "es": "Navigation in climb and descent"
+    "es": "Navegación en ascenso y descenso"
   },
   "061-02": {
     "en": "Visual Flight Rule (VFR) Navigation",
-    "es": "Visual Flight Rule (VFR) Navigation"
+    "es": "Navegación VFR"
   },
   "061-02-01": {
     "en": "Ground features",
-    "es": "Ground features"
+    "es": "Características del terreno"
   },
   "061-02-02": {
     "en": "VFR navigation techniques",
-    "es": "VFR navigation techniques"
+    "es": "Técnicas de navegación VFR"
   },
   "061-03": {
     "en": "Great Circles and Rhumb Lines",
-    "es": "Great Circles and Rhumb Lines"
+    "es": "Grandes círculos y loxodromias"
   },
   "061-03-01": {
     "en": "Great circles",
-    "es": "Great circles"
+    "es": "Grandes círculos"
   },
   "061-03-02": {
     "en": "Rhumb lines",
-    "es": "Rhumb lines"
+    "es": "Loxodromias"
   },
   "061-03-03": {
     "en": "Relationship",
-    "es": "Relationship"
+    "es": "Relación"
   },
   "061-04": {
     "en": "Charts",
-    "es": "Charts"
+    "es": "Cartas"
   },
   "061-04-01": {
     "en": "Chart requirements",
-    "es": "Chart requirements"
+    "es": "Requisitos de cartas"
   },
   "061-04-02": {
     "en": "Projections",
-    "es": "Projections"
+    "es": "Proyecciones"
   },
   "061-04-03": {
     "en": "Practical use",
-    "es": "Practical use"
+    "es": "Uso práctico"
   },
   "061-05": {
     "en": "Time",
-    "es": "Time"
+    "es": "Tiempo"
   },
   "061-05-01": {
     "en": "Local Mean Time (LMT)",
-    "es": "Local Mean Time (LMT)"
+    "es": "Hora media local (LMT)"
   },
   "061-05-02": {
     "en": "Standard time",
-    "es": "Standard time"
+    "es": "Hora estándar"
   },
   "061-05-03": {
     "en": "Sunrise and sunset",
-    "es": "Sunrise and sunset"
+    "es": "Salida y puesta del sol"
   },
   "062": {
     "en": "Radio Navigation",
@@ -1465,47 +1465,47 @@
   },
   "062-01": {
     "en": "Basic Radio Propagation Theory",
-    "es": "Basic Radio Propagation Theory"
+    "es": "Teoría básica de propagación de ondas de radio"
   },
   "062-01-01": {
     "en": "Basic principles",
-    "es": "Basic principles"
+    "es": "Principios básicos"
   },
   "062-01-02": {
     "en": "Antennas",
-    "es": "Antennas"
+    "es": "Antenas"
   },
   "062-01-03": {
     "en": "Wave propagation",
-    "es": "Wave propagation"
+    "es": "Propagación de ondas"
   },
   "062-02": {
     "en": "Radio Aids",
-    "es": "Radio Aids"
+    "es": "Ayudas de radio"
   },
   "062-02-01": {
     "en": "Ground direction finding (DF)",
-    "es": "Ground direction finding (DF)"
+    "es": "Radiogoniometría terrestre (DF)"
   },
   "062-02-02": {
     "en": "Non-directional radio beacon (NDB)-automatic direction finding (ADF)",
-    "es": "Non-directional radio beacon (NDB)-automatic direction finding (ADF)"
+    "es": "Baliza no direccional (NDB) — radiogoniometría automática (ADF)"
   },
   "062-02-03": {
     "en": "VHF omnidirectional radio range (VOR): conventional VOR (CVOR) and Doppler VOR (DVOR)",
-    "es": "VHF omnidirectional radio range (VOR): conventional VOR (CVOR) and Doppler VOR (DVOR)"
+    "es": "Radiofaro omnidireccional VHF (VOR): VOR convencional (CVOR) y VOR Doppler (DVOR)"
   },
   "062-02-04": {
     "en": "Distance-measuring equipment (DME)",
-    "es": "Distance-measuring equipment (DME)"
+    "es": "Equipo de medición de distancia (DME)"
   },
   "062-02-05": {
     "en": "Instrument landing system (ILS)",
-    "es": "Instrument landing system (ILS)"
+    "es": "Sistema de aterrizaje por instrumentos (ILS)"
   },
   "062-02-06": {
     "en": "Microwave landing system (MLS)",
-    "es": "Microwave landing system (MLS)"
+    "es": "Sistema de aterrizaje por microondas (MLS)"
   },
   "062-03": {
     "en": "Radar",
@@ -1513,55 +1513,55 @@
   },
   "062-03-01": {
     "en": "Pulse techniques",
-    "es": "Pulse techniques"
+    "es": "Técnicas de pulso"
   },
   "062-03-02": {
     "en": "Ground radar",
-    "es": "Ground radar"
+    "es": "Radar terrestre"
   },
   "062-03-03": {
     "en": "Airborne weather radar",
-    "es": "Airborne weather radar"
+    "es": "Radar meteorológico a bordo"
   },
   "062-03-04": {
     "en": "Secondary surveillance radar and transponder",
-    "es": "Secondary surveillance radar and transponder"
+    "es": "Radar secundario de vigilancia y transpondedor"
   },
   "062-06": {
     "en": "Global Navigation Satellite Systems (GNSSs)",
-    "es": "Global Navigation Satellite Systems (GNSSs)"
+    "es": "Sistemas globales de navegación por satélite (GNSS)"
   },
   "062-06-01": {
     "en": "Global navigation satellite systems (GNSSs)",
-    "es": "Global navigation satellite systems (GNSSs)"
+    "es": "Sistemas globales de navegación por satélite (GNSS)"
   },
   "062-06-02": {
     "en": "Ground-, satellite- and aircraft-based augmentation systems",
-    "es": "Ground-, satellite- and aircraft-based augmentation systems"
+    "es": "Sistemas de aumentación basados en tierra, satélite y aeronave"
   },
   "062-07": {
     "en": "Performance Based Navigation (PBN)",
-    "es": "Performance Based Navigation (PBN)"
+    "es": "Navegación basada en prestaciones (PBN)"
   },
   "062-07-01": {
     "en": "Performance-based navigation (PBN) concept (as described in ICAO Doc 9613)",
-    "es": "Performance-based navigation (PBN) concept (as described in ICAO Doc 9613)"
+    "es": "Concepto de navegación basada en prestaciones (PBN) (según OACI Doc 9613)"
   },
   "062-07-02": {
     "en": "Navigation specifications",
-    "es": "Navigation specifications"
+    "es": "Especificaciones de navegación"
   },
   "062-07-03": {
     "en": "Use of performance-based navigation (PBN)",
-    "es": "Use of performance-based navigation (PBN)"
+    "es": "Uso de la navegación basada en prestaciones (PBN)"
   },
   "062-07-04": {
     "en": "Performance-based navigation (PBN) operations",
-    "es": "Performance-based navigation (PBN) operations"
+    "es": "Operaciones de navegación basada en prestaciones (PBN)"
   },
   "062-07-05": {
     "en": "Requirements of specific RNAV and RNP specifications",
-    "es": "Requirements of specific RNAV and RNP specifications"
+    "es": "Requisitos de especificaciones RNAV y RNP específicas"
   },
   "070": {
     "en": "Operational Procedures",
