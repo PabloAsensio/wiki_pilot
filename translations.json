@@ -1,143 +1,143 @@
 {
   "010": {
     "en": "Air Law",
-    "es": "Air Law"
+    "es": "Legislación aeronáutica"
   },
   "010-01": {
     "en": "International Law: Conventions, Agreements and Organisations",
-    "es": "International Law: Conventions, Agreements and Organisations"
+    "es": "Derecho internacional: convenios, acuerdos y organizaciones"
   },
   "010-01-01": {
     "en": "The Convention on International Civil Aviation (Chicago) — ICAO Doc 7300-9",
-    "es": "The Convention on International Civil Aviation (Chicago) — ICAO Doc 7300-9"
+    "es": "La Convención sobre Aviación Civil Internacional (Chicago) — OACI Doc 7300-9"
   },
   "010-01-02": {
     "en": "Other conventions and agreements",
-    "es": "Other conventions and agreements"
+    "es": "Otros convenios y acuerdos"
   },
   "010-01-03": {
     "en": "World organisations",
-    "es": "World organisations"
+    "es": "Organizaciones mundiales"
   },
   "010-01-04": {
     "en": "European organisations",
-    "es": "European organisations"
+    "es": "Organizaciones europeas"
   },
   "010-02": {
     "en": "Airworthiness of Aircraft, Aircraft Nationality and Registration Marks",
-    "es": "Airworthiness of Aircraft, Aircraft Nationality and Registration Marks"
+    "es": "Aeronavegabilidad de aeronaves, nacionalidad y marcas de matrícula"
   },
   "010-02-02": {
     "en": "Certificate of Airworthiness (CofA)",
-    "es": "Certificate of Airworthiness (CofA)"
+    "es": "Certificado de aeronavegabilidad (CofA)"
   },
   "010-02-03": {
     "en": "ICAO Annex 7 — Aircraft Nationality and Registration Marks",
-    "es": "ICAO Annex 7 — Aircraft Nationality and Registration Marks"
+    "es": "Anexo 7 de la OACI — Nacionalidad y marcas de matrícula de la aeronave"
   },
   "010-02-04": {
     "en": "Nationality marks, common marks and registration marks",
-    "es": "Nationality marks, common marks and registration marks"
+    "es": "Marcas de nacionalidad, marcas comunes y marcas de matrícula"
   },
   "010-04": {
     "en": "Personnel Licensing",
-    "es": "Personnel Licensing"
+    "es": "Licencias del personal"
   },
   "010-04-02": {
     "en": "Aircrew Regulation — Annex I (Part-FCL)",
-    "es": "Aircrew Regulation — Annex I (Part-FCL)"
+    "es": "Reglamento de tripulación — Anexo I (Parte-FCL)"
   },
   "010-04-03": {
     "en": "Aircrew Regulation — Annex IV (Part-MED)",
-    "es": "Aircrew Regulation — Annex IV (Part-MED)"
+    "es": "Reglamento de tripulación — Anexo IV (Parte-MED)"
   },
   "010-05": {
     "en": "Rules of the Air According to ICAO Annex 2 and SERA",
-    "es": "Rules of the Air According to ICAO Annex 2 and SERA"
+    "es": "Reglas del aire según el Anexo 2 de la OACI y SERA"
   },
   "010-05-01": {
     "en": "Overview of ICAO Annex 2 and SERA (Commission Implementing Regulation (EU) No 923-2012 and its references and subsequent amendments)",
-    "es": "Overview of ICAO Annex 2 and SERA (Commission Implementing Regulation (EU) No 923-2012 and its references and subsequent amendments)"
+    "es": "Descripción general del Anexo 2 de la OACI y SERA (Reglamento de ejecución (UE) nº 923/2012 y sus referencias y enmiendas posteriores)"
   },
   "010-05-02": {
     "en": "Rules of the Air",
-    "es": "Rules of the Air"
+    "es": "Reglas del aire"
   },
   "010-05-03": {
     "en": "General rules",
-    "es": "General rules"
+    "es": "Reglas generales"
   },
   "010-05-04": {
     "en": "Visual flight rules (VFR)",
-    "es": "Visual flight rules (VFR)"
+    "es": "Reglas de vuelo visual (VFR)"
   },
   "010-05-05": {
     "en": "Instrument flight rules (IFR)",
-    "es": "Instrument flight rules (IFR)"
+    "es": "Reglas de vuelo por instrumentos (IFR)"
   },
   "010-05-06": {
     "en": "Interception of civil aircraft",
-    "es": "Interception of civil aircraft"
+    "es": "Intercepción de aeronaves civiles"
   },
   "010-06": {
     "en": "Aircraft Operations",
-    "es": "Aircraft Operations"
+    "es": "Operaciones de aeronaves"
   },
   "010-06-02": {
     "en": "Definitions and abbreviations (PANS-OPS Flight Procedures, ICAO Doc 8168, Volume I)",
-    "es": "Definitions and abbreviations (PANS-OPS Flight Procedures, ICAO Doc 8168, Volume I)"
+    "es": "Definiciones y abreviaturas (PANS-OPS Flight Procedures, OACI Doc 8168, Volumen I)"
   },
   "010-06-03": {
     "en": "Departure procedures — (ICAO Doc 8168, Volume I)",
-    "es": "Departure procedures — (ICAO Doc 8168, Volume I)"
+    "es": "Procedimientos de salida (OACI Doc 8168, Volumen I)"
   },
   "010-06-04": {
     "en": "Approach procedures — ICAO Doc 8168, Volume I",
-    "es": "Approach procedures — ICAO Doc 8168, Volume I"
+    "es": "Procedimientos de aproximación — OACI Doc 8168, Volumen I"
   },
   "010-06-05": {
     "en": "Holding procedures — ICAO Doc 8168, Volume I",
-    "es": "Holding procedures — ICAO Doc 8168, Volume I"
+    "es": "Procedimientos de espera — OACI Doc 8168, Volumen I"
   },
   "010-06-06": {
     "en": "Altimeter-setting procedures — ICAO Doc 8168",
-    "es": "Altimeter-setting procedures — ICAO Doc 8168"
+    "es": "Procedimientos de ajuste del altímetro — OACI Doc 8168"
   },
   "010-06-07": {
     "en": "Parallel or near-parallel instrument RWYs — ICAO Doc 8168, Volume I",
-    "es": "Parallel or near-parallel instrument RWYs — ICAO Doc 8168, Volume I"
+    "es": "Pistas instrumentales paralelas o casi paralelas — OACI Doc 8168, Volumen I"
   },
   "010-06-08": {
     "en": "Secondary surveillance radar (transponder) operating procedures — ICAO Doc 8168",
-    "es": "Secondary surveillance radar (transponder) operating procedures — ICAO Doc 8168"
+    "es": "Procedimientos de operación del radar secundario de vigilancia (transpondedor) — OACI Doc 8168"
   },
   "010-06-09": {
     "en": "REGULATION (EU) No 965-2012 ON AIR OPERATIONS",
-    "es": "REGULATION (EU) No 965-2012 ON AIR OPERATIONS"
+    "es": "REGLAMENTO (UE) nº 965/2012 SOBRE OPERACIONES AÉREAS"
   },
   "010-07": {
     "en": "Air Traffic Services (ATS) and Air Traffic Management (ATM)",
-    "es": "Air Traffic Services (ATS) and Air Traffic Management (ATM)"
+    "es": "Servicios de tránsito aéreo (ATS) y gestión del tráfico aéreo (ATM)"
   },
   "010-07-01": {
     "en": "ICAO Annex 11 — Air Traffic Services",
-    "es": "ICAO Annex 11 — Air Traffic Services"
+    "es": "Anexo 11 de la OACI — Servicios de tránsito aéreo"
   },
   "010-07-02": {
     "en": "ICAO Doc 4444 — Air Traffic Management",
-    "es": "ICAO Doc 4444 — Air Traffic Management"
+    "es": "Doc 4444 de la OACI — Gestión del tráfico aéreo"
   },
   "010-08": {
     "en": "Aeronautical Information Service (AIS)",
-    "es": "Aeronautical Information Service (AIS)"
+    "es": "Servicio de información aeronáutica (AIS)"
   },
   "010-08-01": {
     "en": "Introduction",
-    "es": "Introduction"
+    "es": "Introducción"
   },
   "010-08-02": {
     "en": "Definitions of ICAO Annex 15",
-    "es": "Definitions of ICAO Annex 15"
+    "es": "Definiciones del Anexo 15 de la OACI"
   },
   "010-08-03": {
     "en": "General",
@@ -145,15 +145,15 @@
   },
   "010-08-04": {
     "en": "Aeronautical information products and services",
-    "es": "Aeronautical information products and services"
+    "es": "Productos y servicios de información aeronáutica"
   },
   "010-08-05": {
     "en": "ATM service providers",
-    "es": "ATM service providers"
+    "es": "Proveedores de servicios ATM"
   },
   "010-09": {
     "en": "Aerodromes",
-    "es": "Aerodromes"
+    "es": "Aeródromos"
   },
   "010-09-01": {
     "en": "General",
@@ -161,39 +161,39 @@
   },
   "010-09-02": {
     "en": "Aerodrome (AD) data",
-    "es": "Aerodrome (AD) data"
+    "es": "Datos del aeródromo (AD)"
   },
   "010-09-03": {
     "en": "Physical characteristics",
-    "es": "Physical characteristics"
+    "es": "Características físicas"
   },
   "010-09-04": {
     "en": "Visual aids for navigation",
-    "es": "Visual aids for navigation"
+    "es": "Ayudas visuales para la navegación"
   },
   "010-09-05": {
     "en": "Visual aids for denoting obstacles",
-    "es": "Visual aids for denoting obstacles"
+    "es": "Ayudas visuales para indicar obstáculos"
   },
   "010-09-06": {
     "en": "Visual aids for denoting restricted use of areas",
-    "es": "Visual aids for denoting restricted use of areas"
+    "es": "Ayudas visuales para indicar uso restringido de áreas"
   },
   "010-09-07": {
     "en": "Aerodrome (AD) operational services, equipment and installations",
-    "es": "Aerodrome (AD) operational services, equipment and installations"
+    "es": "Servicios operativos, equipos e instalaciones del aeródromo (AD)"
   },
   "010-09-08": {
     "en": "Supplementary Guidance Material",
-    "es": "Supplementary Guidance Material"
+    "es": "Material de orientación suplementaria"
   },
   "010-10": {
     "en": "Facilitation (ICAO Annex 9)",
-    "es": "Facilitation (ICAO Annex 9)"
+    "es": "Facilitación (Anexo 9 OACI)"
   },
   "010-10-02": {
     "en": "Entry and departure of aircraft",
-    "es": "Entry and departure of aircraft"
+    "es": "Entrada y salida de aeronaves"
   },
   "010-11": {
     "en": "Search and Rescue (SAR)",
