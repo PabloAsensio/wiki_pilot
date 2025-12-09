@@ -27,7 +27,7 @@ Para la navegación aérea, distinguimos dos tipos de círculos en la superficie
 Un concepto práctico es el cálculo de distancia al volar alrededor de la Tierra a una latitud constante (un círculo menor). La fórmula para la distancia (**Apartamiento**) es:
 $$ \text{Distancia (NM)} = \text{Cambio de Longitud (min)} \times \cos(\text{Latitud}) $$
 Por ejemplo, para una aeronave que da la vuelta al mundo (360° de cambio de longitud) a una latitud de 88°:
-$$ 21600' \times \cos(88^\circ) = 753.83 NM $$
+$$ 21600' \times \cos(88^\circ) = 753.83 \text{ NM} $$
 
 ## Magnetismo Terrestre
 
