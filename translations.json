@@ -417,7 +417,7 @@
   },
   "021-10": {
     "en": "Piston Engines",
-    "es": "Piston Engines"
+    "es": "Motores de pistón"
   },
   "021-10-01": {
     "en": "General",
@@ -425,39 +425,39 @@
   },
   "021-10-02": {
     "en": "Fuel",
-    "es": "Fuel"
+    "es": "Combustible"
   },
   "021-10-03": {
     "en": "Engine fuel pumps",
-    "es": "Engine fuel pumps"
+    "es": "Bombas de combustible del motor"
   },
   "021-10-04": {
     "en": "Carburettor-injection system",
-    "es": "Carburettor-injection system"
+    "es": "Sistema carburador-inyección"
   },
   "021-10-05": {
     "en": "Cooling systems",
-    "es": "Cooling systems"
+    "es": "Sistemas de refrigeración"
   },
   "021-10-06": {
     "en": "Lubrication systems",
-    "es": "Lubrication systems"
+    "es": "Sistemas de lubricación"
   },
   "021-10-07": {
     "en": "Ignition circuits",
-    "es": "Ignition circuits"
+    "es": "Circuitos de ignición"
   },
   "021-10-08": {
     "en": "Mixture",
-    "es": "Mixture"
+    "es": "Mezcla"
   },
   "021-10-09": {
     "en": "Aeroplane: propellers",
-    "es": "Aeroplane: propellers"
+    "es": "Aeroplano: hélices"
   },
   "021-10-10": {
     "en": "Performance and engine handling",
-    "es": "Performance and engine handling"
+    "es": "Prestaciones y manejo del motor"
   },
   "021-11": {
     "en": "Turbine Engines",
