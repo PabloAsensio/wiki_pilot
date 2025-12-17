@@ -31,7 +31,7 @@ Un avión se mueve dentro de una masa de aire.
 *   **La Mayor Diferencia:** Ocurre volando a **gran altitud con fuertes vientos de cara**, ya que la diferencia entre TAS y GS es más pronunciada.
 
 **Fórmula de Conversión:**
-\[ \text{NAM} = \text{NGM} \times \frac{\text{TAS}}{\text{GS}} \]
+$$ \text{NAM} = \text{NGM} \times \frac{\text{TAS}}{\text{GS}} $$
 
 ## 5. Encuentros y Velocidad de Cierre
 Cuando dos aviones vuelan uno hacia el otro en la misma ruta, ¿cuándo se encontrarán?

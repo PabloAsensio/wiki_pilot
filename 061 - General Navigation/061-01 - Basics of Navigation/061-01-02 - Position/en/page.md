@@ -41,7 +41,7 @@ On the Earth's surface, we distinguish two main types of paths:
 ## Departure and Environmental Effects
 
 **Departure** is the distance in nautical miles (NM) along a parallel of latitude. It is calculated with the formula:
-\[ \text{Departure} = \text{Change of Longitude (min)} \times \cos(\text{Latitude}) \]
+$$ \text{Departure} = \text{Change of Longitude (min)} \times \cos(\text{Latitude}) $$
 For example, a change of longitude of 500 NM at a latitude of 17°46' results in a longitude change of approximately **8°45'**.
 
 Finally, it is crucial to consider temperature in vertical navigation (**Baro-VNAV**). Temperatures lower than standard cause the aircraft to fly a lower actual vertical path (shallower angle), which can be dangerous near terrain.

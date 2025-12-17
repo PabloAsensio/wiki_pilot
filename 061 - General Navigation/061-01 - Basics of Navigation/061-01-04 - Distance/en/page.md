@@ -41,7 +41,7 @@ An aircraft moves within an air mass.
 * **The Greatest Difference:** Occurs when flying at **high altitude with strong headwinds**, since the difference between TAS and GS is more pronounced.
 
 **Conversion Formula:**
-[ \text{NAM} = \text{NGM} \times \frac{\text{TAS}}{\text{GS}} ]
+$$ \text{NAM} = \text{NGM} \times \frac{\text{TAS}}{\text{GS}} $$
 
 ## 5. Encounters and Closing Speed
 
