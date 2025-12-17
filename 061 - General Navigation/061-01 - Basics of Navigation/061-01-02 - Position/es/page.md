@@ -41,7 +41,7 @@ En la superficie terrestre, distinguimos dos tipos de trayectorias principales:
 ## Apartamiento y Efectos Ambientales
 
 El **Apartamiento (Departure)** es la distancia en millas náuticas (NM) a lo largo de un paralelo de latitud. Se calcula con la fórmula:
-\[ \text{Apartamiento} = \text{Cambio de Longitud (min)} \times \cos(\text{Latitud}) \]
+$$ \text{Apartamiento} = \text{Cambio de Longitud (min)} \times \cos(\text{Latitud}) $$
 Por ejemplo, un cambio de longitud de 500 NM a una latitud de 17°46' resulta en un cambio de longitud de aproximadamente **8°45'**.
 
 Finalmente, es crucial considerar la temperatura en la navegación vertical (**Baro-VNAV**). Temperaturas más bajas que el estándar provocan que la aeronave vuele en una trayectoria vertical real más baja (ángulo menos pronunciado), lo que puede ser peligroso cerca del terreno.

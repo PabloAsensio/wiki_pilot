@@ -24,21 +24,21 @@ It is crucial to distinguish between the climb/descent angle and the vertical sp
 * **Climb/Descent Gradient:** The ratio between the change in altitude and the horizontal distance traveled, usually expressed as a percentage (%).
 
   * Formula:
-    [
-    \text{Gradient (%)} = \frac{\text{Change in Altitude}}{\text{Horizontal Distance}} \times 100
-    ]
+    $$
+    \text{Gradient (\%)} = \frac{\text{Change in Altitude}}{\text{Horizontal Distance}} \times 100
+    $$
 * **Rate of Climb (ROC) / Rate of Descent (ROD):** The vertical speed, measured in feet per minute (ft/min or fpm).
 
 There is a direct relationship between gradient, ground speed, and vertical rate. A practical rule (based on the 1 in 60 rule) to estimate the required **Rate of Descent** is:
 
-[
-\text{ROD (ft/min)} \approx \text{Gradient (%)} \times \text{GS (kt)}
-]
+$$
+\text{ROD (ft/min)} \approx \text{Gradient (\%)} \times \text{GS (kt)}
+$$
 
 Or, for a standard 3-degree glide path:
-[
+$$
 \text{ROD} \approx 5 \times \text{GS}
-]
+$$
 
 For example, with a **GS** of 120 kt on a 3° slope (approximately 5%), the rate would be about 600 fpm.
 
@@ -48,13 +48,13 @@ Finally, to determine how long it will take to reach a given altitude or how muc
 
 * **Climb/Descent Time:** Divide the total altitude difference by the average **Rate of Climb (ROC)** or **Rate of Descent (ROD)**.
 
-  * [
+  * $$
     \text{Time} = \frac{\text{Altitude Difference}}{\text{Rate (fpm)}}
-    ]
+    $$
 * **Ground Distance:** Multiply the average **Ground Speed (GS)** by the calculated time.
 
-  * [
+  * $$
     \text{Distance} = \text{GS} \times \text{Time}
-    ]
+    $$
 
 It is essential to remember that altitudes and distances must be in the same units for gradient calculations (usually feet, where 1 Nautical Mile (NM) ≈ 6,080 feet).

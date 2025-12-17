@@ -61,7 +61,7 @@ In flight, there is sometimes no time to use the computer. There are quick menta
 
 * **1 in 60 Rule for Drift:**
   To estimate how many degrees the wind will push us off course, the formula is:
-  [ \text{Angle} = \frac{\text{Crosswind} \times 60}{\text{TAS}} ]
+  $$ \text{Angle} = \frac{\text{Crosswind} \times 60}{\text{TAS}} $$
   This quickly tells us how many degrees we must turn to maintain the route.
 
 ## Preparing the Data

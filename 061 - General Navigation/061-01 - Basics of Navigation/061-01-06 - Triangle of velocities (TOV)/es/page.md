@@ -50,7 +50,7 @@ En vuelo, a veces no hay tiempo para usar el computador. Existen trucos matemát
 
 *   **Regla 1:60 para Deriva:**
     Para saber cuántos grados corrige el viento, se usa la fórmula:
-    \[ \text{Ángulo} = \frac{\text{Viento Cruzado} \times 60}{\text{TAS}} \]
+    $$ \text{Ángulo} = \frac{\text{Viento Cruzado} \times 60}{\text{TAS}} $$
     Esto nos dice rápidamente cuántos grados debemos virar para mantener la ruta .
 
 ## Preparación de los Datos
