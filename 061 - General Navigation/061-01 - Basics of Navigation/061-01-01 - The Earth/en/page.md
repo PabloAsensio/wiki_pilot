@@ -30,7 +30,7 @@ For air navigation, we distinguish between two types of circles on Earth’s sur
 A practical concept is computing the distance when flying around the Earth at a constant latitude (a small circle). The formula for the distance (**Departure**) is:
 $$ \text{Distance (NM)} = \text{Change in Longitude (min)} \times \cos(\text{Latitude}) $$
 For example, for an aircraft flying around the world (360° of longitude change) at a latitude of 88°:
-$$ 21600' \times \cos(88^\circ) = 753.83 \text{ NM} $$
+$$ 21600^\prime \times \cos(88^\circ) = 753.83 \text{ NM} $$
 
 ## Terrestrial Magnetism
 
