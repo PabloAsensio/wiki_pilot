@@ -38,7 +38,7 @@ To convert between these headings, specific formulas are used:
 If we fly between two points in the northern hemisphere with a mean latitude of 55°N and a change in longitude of 10°:
 *   Convergence = 10° × Sin(55°) ≈ 8°.
 *   Conversion Angle = 4°.
-The rhumb line heading will be the sum (or subtraction, depending on direction) of the initial orthodrome heading and this conversion angle. At the midpoint of the route, the rhumb line heading and the orthodrome heading are **parallel**.
+The rhumb line heading will be the sum (or subtraction, depending on direction) of the initial orthodrome heading and this conversion angle. At the midpoint of the route, the rhumb line heading and the orthodrome heading **have the same direction**.
 
 ## Summary of Properties
 

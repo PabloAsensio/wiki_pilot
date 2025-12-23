@@ -35,7 +35,7 @@ The general rule states that the difference in distance between a great circle r
 For example, the distance difference between two points separated by 20° of longitude will be much greater at 60° latitude than at 20° latitude.
 
 ## Practical Rule: DIID
-To calculate headings and correct the trajectory between a great circle and a rhumb line, the mnemonic rule **D-I-I-D** is used for the northern hemisphere:
+To calculate headings and correct the trajectory between a great circle and a rhumb line, the mnemonic rule **D-I-I-D** (Decrease-Increase-Increase-Decrease) is used for the northern hemisphere:
 
 *   **D (Decrease):** When flying **West**, the great circle heading **Decreases**.
 *   **I (Increase):** When flying **East**, the great circle heading **Increases**.
