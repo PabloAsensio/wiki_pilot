@@ -1360,102 +1360,127 @@
     "es": "Servicios meteorológicos"
   },
   "061": {
+    "ar": "الملاحة العامة",
     "en": "General Navigation",
     "es": "Navegación general"
   },
   "061-01": {
+    "ar": "أساسيات الملاحة",
     "en": "Basics of Navigation",
     "es": "Fundamentos de navegación"
   },
   "061-01-01": {
+    "ar": "الأرض",
     "en": "The Earth",
     "es": "La Tierra"
   },
   "061-01-02": {
+    "ar": "الموقع",
     "en": "Position",
     "es": "Posición"
   },
   "061-01-03": {
+    "ar": "الاتجاه",
     "en": "Direction",
     "es": "Dirección"
   },
   "061-01-04": {
+    "ar": "المسافة",
     "en": "Distance",
     "es": "Distancia"
   },
   "061-01-05": {
+    "ar": "السرعة",
     "en": "Speed",
     "es": "Velocidad"
   },
   "061-01-06": {
+    "ar": "مثلث السرعات (TOV)",
     "en": "Triangle of velocities (TOV)",
     "es": "Triángulo de velocidades (TOV)"
   },
   "061-01-07": {
+    "ar": "الملاحة بالتقدير (DR)",
     "en": "Dead reckoning (DR)",
     "es": "Navegación por estima (DR)"
   },
   "061-01-08": {
+    "ar": "الملاحة في الصعود والهبوط",
     "en": "Navigation in climb and descent",
     "es": "Navegación en ascenso y descenso"
   },
   "061-02": {
+    "ar": "ملاحة قواعد الطيران البصري (VFR)",
     "en": "Visual Flight Rule (VFR) Navigation",
     "es": "Navegación VFR"
   },
   "061-02-01": {
+    "ar": "المعالم الأرضية",
     "en": "Ground features",
     "es": "Características del terreno"
   },
   "061-02-02": {
+    "ar": "تقنيات الملاحة VFR",
     "en": "VFR navigation techniques",
     "es": "Técnicas de navegación VFR"
   },
   "061-03": {
+    "ar": "الدوائر العظمى وخطوط الاتجاه",
     "en": "Great Circles and Rhumb Lines",
     "es": "Grandes círculos y loxodromias"
   },
   "061-03-01": {
+    "ar": "الدوائر العظمى",
     "en": "Great circles",
     "es": "Grandes círculos"
   },
   "061-03-02": {
+    "ar": "خطوط الاتجاه",
     "en": "Rhumb lines",
     "es": "Loxodromias"
   },
   "061-03-03": {
+    "ar": "العلاقة",
     "en": "Relationship",
     "es": "Relación"
   },
   "061-04": {
+    "ar": "الخرائط",
     "en": "Charts",
     "es": "Cartas"
   },
   "061-04-01": {
+    "ar": "متطلبات الخريطة",
     "en": "Chart requirements",
     "es": "Requisitos de cartas"
   },
   "061-04-02": {
+    "ar": "الإسقاطات",
     "en": "Projections",
     "es": "Proyecciones"
   },
   "061-04-03": {
+    "ar": "الاستخدام العملي",
     "en": "Practical use",
     "es": "Uso práctico"
   },
   "061-05": {
+    "ar": "الوقت",
     "en": "Time",
     "es": "Tiempo"
   },
   "061-05-01": {
+    "ar": "الوقت المتوسط المحلي (LMT)",
     "en": "Local Mean Time (LMT)",
     "es": "Hora media local (LMT)"
   },
   "061-05-02": {
+    "ar": "الوقت القياسي",
     "en": "Standard time",
     "es": "Hora estándar"
   },
   "061-05-03": {
+    "ar": "الشروق والغروب",
     "en": "Sunrise and sunset",
     "es": "Salida y puesta del sol"
   },
