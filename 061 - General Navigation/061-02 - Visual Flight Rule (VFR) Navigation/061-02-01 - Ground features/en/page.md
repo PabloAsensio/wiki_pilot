@@ -1,3 +1,4 @@
+VFR navigation is based on identifying **ground features** (ground references) and relating them to the chart. A good VFR pilot chooses references considering their **size, contrast, uniqueness, position relative to the route, flight altitude, season of the year, and lighting conditions**.
 
 ---
 
