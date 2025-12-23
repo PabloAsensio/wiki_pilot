@@ -1360,104 +1360,204 @@
     "es": "Servicios meteorológicos"
   },
   "061": {
+    "ar": "الملاحة العامة",
     "en": "General Navigation",
-    "es": "Navegación general"
+    "es": "Navegación general",
+    "fr": "Navigation Générale",
+    "ru": "Общая навигация",
+    "zh": "一般导航"
   },
   "061-01": {
+    "ar": "أساسيات الملاحة",
     "en": "Basics of Navigation",
-    "es": "Fundamentos de navegación"
+    "es": "Fundamentos de navegación",
+    "fr": "Bases de la Navigation",
+    "ru": "Основы навигации",
+    "zh": "导航基础"
   },
   "061-01-01": {
+    "ar": "الأرض",
     "en": "The Earth",
-    "es": "La Tierra"
+    "es": "La Tierra",
+    "fr": "La Terre",
+    "ru": "Земля",
+    "zh": "地球"
   },
   "061-01-02": {
+    "ar": "الموقع",
     "en": "Position",
-    "es": "Posición"
+    "es": "Posición",
+    "fr": "Position",
+    "ru": "Позиция",
+    "zh": "位置"
   },
   "061-01-03": {
+    "ar": "الاتجاه",
     "en": "Direction",
-    "es": "Dirección"
+    "es": "Dirección",
+    "fr": "Direction",
+    "ru": "Направление",
+    "zh": "方向"
   },
   "061-01-04": {
+    "ar": "المسافة",
     "en": "Distance",
-    "es": "Distancia"
+    "es": "Distancia",
+    "fr": "Distance",
+    "ru": "Расстояние",
+    "zh": "距离"
   },
   "061-01-05": {
+    "ar": "السرعة",
     "en": "Speed",
-    "es": "Velocidad"
+    "es": "Velocidad",
+    "fr": "Vitesse",
+    "ru": "Скорость",
+    "zh": "速度"
   },
   "061-01-06": {
+    "ar": "مثلث السرعات (TOV)",
     "en": "Triangle of velocities (TOV)",
-    "es": "Triángulo de velocidades (TOV)"
+    "es": "Triángulo de velocidades (TOV)",
+    "fr": "Triangle des vitesses (TOV)",
+    "ru": "Треугольник скоростей (TOV)",
+    "zh": "速度三角形 (TOV)"
   },
   "061-01-07": {
+    "ar": "الملاحة بالحساب (DR)",
     "en": "Dead reckoning (DR)",
-    "es": "Navegación por estima (DR)"
+    "es": "Navegación por estima (DR)",
+    "fr": "Navigation à l'estime (DR)",
+    "ru": "Счисление пути (DR)",
+    "zh": "航位推算 (DR)"
   },
   "061-01-08": {
+    "ar": "الملاحة أثناء الصعود والهبوط",
     "en": "Navigation in climb and descent",
-    "es": "Navegación en ascenso y descenso"
+    "es": "Navegación en ascenso y descenso",
+    "fr": "Navigation en montée et descente",
+    "ru": "Навигация при наборе высоты и снижении",
+    "zh": "爬升和下降中的导航"
   },
   "061-02": {
+    "ar": "ملاحة قواعد الطيران البصري (VFR)",
     "en": "Visual Flight Rule (VFR) Navigation",
-    "es": "Navegación VFR"
+    "es": "Navegación VFR",
+    "fr": "Navigation en règles de vol à vue (VFR)",
+    "ru": "Навигация по правилам визуального полета (VFR)",
+    "zh": "目视飞行规则 (VFR) 导航"
   },
   "061-02-01": {
+    "ar": "معالم الأرض",
     "en": "Ground features",
-    "es": "Características del terreno"
+    "es": "Características del terreno",
+    "fr": "Caractéristiques du terrain",
+    "ru": "Наземные ориентиры",
+    "zh": "地面特征"
   },
   "061-02-02": {
+    "ar": "تقنيات ملاحة VFR",
     "en": "VFR navigation techniques",
-    "es": "Técnicas de navegación VFR"
+    "es": "Técnicas de navegación VFR",
+    "fr": "Techniques de navigation VFR",
+    "ru": "Техники навигации VFR",
+    "zh": "VFR导航技术"
   },
   "061-03": {
+    "ar": "الدوائر العظمى والخطوط اللوكسودرومية",
     "en": "Great Circles and Rhumb Lines",
-    "es": "Grandes círculos y loxodromias"
+    "es": "Grandes círculos y loxodromias",
+    "fr": "Grands cercles et loxodromies",
+    "ru": "Большие круги и локсодромы",
+    "zh": "大圆和等角航线"
   },
   "061-03-01": {
+    "ar": "الدوائر العظمى",
     "en": "Great circles",
-    "es": "Grandes círculos"
+    "es": "Grandes círculos",
+    "fr": "Grands cercles",
+    "ru": "Большие круги",
+    "zh": "大圆"
   },
   "061-03-02": {
+    "ar": "الخطوط اللوكسودرومية",
     "en": "Rhumb lines",
-    "es": "Loxodromias"
+    "es": "Loxodromias",
+    "fr": "Loxodromies",
+    "ru": "Локсодромы",
+    "zh": "等角航线"
   },
   "061-03-03": {
+    "ar": "العلاقة",
     "en": "Relationship",
-    "es": "Relación"
+    "es": "Relación",
+    "fr": "Relation",
+    "ru": "Взаимосвязь",
+    "zh": "关系"
   },
   "061-04": {
+    "ar": "الخرائط",
     "en": "Charts",
-    "es": "Cartas"
+    "es": "Cartas",
+    "fr": "Cartes",
+    "ru": "Карты",
+    "zh": "航图"
   },
   "061-04-01": {
+    "ar": "متطلبات الخرائط",
     "en": "Chart requirements",
-    "es": "Requisitos de cartas"
+    "es": "Requisitos de cartas",
+    "fr": "Exigences des cartes",
+    "ru": "Требования к картам",
+    "zh": "航图要求"
   },
   "061-04-02": {
+    "ar": "الإسقاطات",
     "en": "Projections",
-    "es": "Proyecciones"
+    "es": "Proyecciones",
+    "fr": "Projections",
+    "ru": "Проекции",
+    "zh": "投影"
   },
   "061-04-03": {
+    "ar": "الاستخدام العملي",
     "en": "Practical use",
-    "es": "Uso práctico"
+    "es": "Uso práctico",
+    "fr": "Utilisation pratique",
+    "ru": "Практическое использование",
+    "zh": "实际使用"
   },
   "061-05": {
+    "ar": "الوقت",
     "en": "Time",
-    "es": "Tiempo"
+    "es": "Tiempo",
+    "fr": "Temps",
+    "ru": "Время",
+    "zh": "时间"
   },
   "061-05-01": {
+    "ar": "الوقت المحلي الوسطي (LMT)",
     "en": "Local Mean Time (LMT)",
-    "es": "Hora media local (LMT)"
+    "es": "Hora media local (LMT)",
+    "fr": "Heure moyenne locale (LMT)",
+    "ru": "Местное среднее время (LMT)",
+    "zh": "当地平均时间 (LMT)"
   },
   "061-05-02": {
+    "ar": "الوقت القياسي",
     "en": "Standard time",
-    "es": "Hora estándar"
+    "es": "Hora estándar",
+    "fr": "Heure standard",
+    "ru": "Стандартное время",
+    "zh": "标准时间"
   },
   "061-05-03": {
+    "ar": "الشروق والغروب",
     "en": "Sunrise and sunset",
-    "es": "Salida y puesta del sol"
+    "es": "Salida y puesta del sol",
+    "fr": "Lever et coucher du soleil",
+    "ru": "Восход и заход солнца",
+    "zh": "日出和日落"
   },
   "062": {
     "en": "Radio Navigation",
