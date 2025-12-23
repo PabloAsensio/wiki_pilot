@@ -1361,103 +1361,128 @@
   },
   "061": {
     "en": "General Navigation",
-    "es": "Navegación general"
+    "es": "Navegación general",
+    "zh": "通用导航"
   },
   "061-01": {
     "en": "Basics of Navigation",
-    "es": "Fundamentos de navegación"
+    "es": "Fundamentos de navegación",
+    "zh": "导航基础"
   },
   "061-01-01": {
     "en": "The Earth",
-    "es": "La Tierra"
+    "es": "La Tierra",
+    "zh": "地球"
   },
   "061-01-02": {
     "en": "Position",
-    "es": "Posición"
+    "es": "Posición",
+    "zh": "位置"
   },
   "061-01-03": {
     "en": "Direction",
-    "es": "Dirección"
+    "es": "Dirección",
+    "zh": "方向"
   },
   "061-01-04": {
     "en": "Distance",
-    "es": "Distancia"
+    "es": "Distancia",
+    "zh": "距离"
   },
   "061-01-05": {
     "en": "Speed",
-    "es": "Velocidad"
+    "es": "Velocidad",
+    "zh": "速度"
   },
   "061-01-06": {
     "en": "Triangle of velocities (TOV)",
-    "es": "Triángulo de velocidades (TOV)"
+    "es": "Triángulo de velocidades (TOV)",
+    "zh": "速度三角形 (TOV)"
   },
   "061-01-07": {
     "en": "Dead reckoning (DR)",
-    "es": "Navegación por estima (DR)"
+    "es": "Navegación por estima (DR)",
+    "zh": "推算导航 (DR)"
   },
   "061-01-08": {
     "en": "Navigation in climb and descent",
-    "es": "Navegación en ascenso y descenso"
+    "es": "Navegación en ascenso y descenso",
+    "zh": "爬升和下降导航"
   },
   "061-02": {
     "en": "Visual Flight Rule (VFR) Navigation",
-    "es": "Navegación VFR"
+    "es": "Navegación VFR",
+    "zh": "目视飞行规则 (VFR) 导航"
   },
   "061-02-01": {
     "en": "Ground features",
-    "es": "Características del terreno"
+    "es": "Características del terreno",
+    "zh": "地面特征"
   },
   "061-02-02": {
     "en": "VFR navigation techniques",
-    "es": "Técnicas de navegación VFR"
+    "es": "Técnicas de navegación VFR",
+    "zh": "VFR导航技术"
   },
   "061-03": {
     "en": "Great Circles and Rhumb Lines",
-    "es": "Grandes círculos y loxodromias"
+    "es": "Grandes círculos y loxodromias",
+    "zh": "大圆和恒向线"
   },
   "061-03-01": {
     "en": "Great circles",
-    "es": "Grandes círculos"
+    "es": "Grandes círculos",
+    "zh": "大圆"
   },
   "061-03-02": {
     "en": "Rhumb lines",
-    "es": "Loxodromias"
+    "es": "Loxodromias",
+    "zh": "恒向线"
   },
   "061-03-03": {
     "en": "Relationship",
-    "es": "Relación"
+    "es": "Relación",
+    "zh": "关系"
   },
   "061-04": {
     "en": "Charts",
-    "es": "Cartas"
+    "es": "Cartas",
+    "zh": "图表"
   },
   "061-04-01": {
     "en": "Chart requirements",
-    "es": "Requisitos de cartas"
+    "es": "Requisitos de cartas",
+    "zh": "图表要求"
   },
   "061-04-02": {
     "en": "Projections",
-    "es": "Proyecciones"
+    "es": "Proyecciones",
+    "zh": "投影"
   },
   "061-04-03": {
     "en": "Practical use",
-    "es": "Uso práctico"
+    "es": "Uso práctico",
+    "zh": "实际应用"
   },
   "061-05": {
     "en": "Time",
-    "es": "Tiempo"
+    "es": "Tiempo",
+    "zh": "时间"
   },
   "061-05-01": {
     "en": "Local Mean Time (LMT)",
-    "es": "Hora media local (LMT)"
+    "es": "Hora media local (LMT)",
+    "zh": "地方平时 (LMT)"
   },
   "061-05-02": {
     "en": "Standard time",
-    "es": "Hora estándar"
+    "es": "Hora estándar",
+    "zh": "标准时间"
   },
   "061-05-03": {
     "en": "Sunrise and sunset",
-    "es": "Salida y puesta del sol"
+    "es": "Salida y puesta del sol",
+    "zh": "日出和日落"
   },
   "062": {
     "en": "Radio Navigation",
