@@ -1,5 +1,3 @@
-# Ground features
-
 La navegación VFR se basa en identificar **ground features** (referencias en tierra) y relacionarlas con la carta. Un buen piloto VFR elige sus referencias pensando en su **tamaño, contraste, singularidad, posición respecto a la ruta, altitud de vuelo, estación del año y condiciones de luz**.
 
 ---
