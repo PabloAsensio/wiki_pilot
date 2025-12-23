@@ -1361,103 +1361,128 @@
   },
   "061": {
     "en": "General Navigation",
-    "es": "Navegación general"
+    "es": "Navegación general",
+    "ru": "Общая навигация"
   },
   "061-01": {
     "en": "Basics of Navigation",
-    "es": "Fundamentos de navegación"
+    "es": "Fundamentos de navegación",
+    "ru": "Основы навигации"
   },
   "061-01-01": {
     "en": "The Earth",
-    "es": "La Tierra"
+    "es": "La Tierra",
+    "ru": "Земля"
   },
   "061-01-02": {
     "en": "Position",
-    "es": "Posición"
+    "es": "Posición",
+    "ru": "Позиция"
   },
   "061-01-03": {
     "en": "Direction",
-    "es": "Dirección"
+    "es": "Dirección",
+    "ru": "Направление"
   },
   "061-01-04": {
     "en": "Distance",
-    "es": "Distancia"
+    "es": "Distancia",
+    "ru": "Расстояние"
   },
   "061-01-05": {
     "en": "Speed",
-    "es": "Velocidad"
+    "es": "Velocidad",
+    "ru": "Скорость"
   },
   "061-01-06": {
     "en": "Triangle of velocities (TOV)",
-    "es": "Triángulo de velocidades (TOV)"
+    "es": "Triángulo de velocidades (TOV)",
+    "ru": "Треугольник скоростей (TOV)"
   },
   "061-01-07": {
     "en": "Dead reckoning (DR)",
-    "es": "Navegación por estima (DR)"
+    "es": "Navegación por estima (DR)",
+    "ru": "Навигация по счислению (DR)"
   },
   "061-01-08": {
     "en": "Navigation in climb and descent",
-    "es": "Navegación en ascenso y descenso"
+    "es": "Navegación en ascenso y descenso",
+    "ru": "Навигация при наборе высоты и снижении"
   },
   "061-02": {
     "en": "Visual Flight Rule (VFR) Navigation",
-    "es": "Navegación VFR"
+    "es": "Navegación VFR",
+    "ru": "Навигация по правилам визуального полета (VFR)"
   },
   "061-02-01": {
     "en": "Ground features",
-    "es": "Características del terreno"
+    "es": "Características del terreno",
+    "ru": "Наземные ориентиры"
   },
   "061-02-02": {
     "en": "VFR navigation techniques",
-    "es": "Técnicas de navegación VFR"
+    "es": "Técnicas de navegación VFR",
+    "ru": "Техники навигации VFR"
   },
   "061-03": {
     "en": "Great Circles and Rhumb Lines",
-    "es": "Grandes círculos y loxodromias"
+    "es": "Grandes círculos y loxodromias",
+    "ru": "Большие круги и локсодромы"
   },
   "061-03-01": {
     "en": "Great circles",
-    "es": "Grandes círculos"
+    "es": "Grandes círculos",
+    "ru": "Большие круги"
   },
   "061-03-02": {
     "en": "Rhumb lines",
-    "es": "Loxodromias"
+    "es": "Loxodromias",
+    "ru": "Локсодромы"
   },
   "061-03-03": {
     "en": "Relationship",
-    "es": "Relación"
+    "es": "Relación",
+    "ru": "Взаимосвязь"
   },
   "061-04": {
     "en": "Charts",
-    "es": "Cartas"
+    "es": "Cartas",
+    "ru": "Карты"
   },
   "061-04-01": {
     "en": "Chart requirements",
-    "es": "Requisitos de cartas"
+    "es": "Requisitos de cartas",
+    "ru": "Требования к картам"
   },
   "061-04-02": {
     "en": "Projections",
-    "es": "Proyecciones"
+    "es": "Proyecciones",
+    "ru": "Проекции"
   },
   "061-04-03": {
     "en": "Practical use",
-    "es": "Uso práctico"
+    "es": "Uso práctico",
+    "ru": "Практическое использование"
   },
   "061-05": {
     "en": "Time",
-    "es": "Tiempo"
+    "es": "Tiempo",
+    "ru": "Время"
   },
   "061-05-01": {
     "en": "Local Mean Time (LMT)",
-    "es": "Hora media local (LMT)"
+    "es": "Hora media local (LMT)",
+    "ru": "Местное среднее время (LMT)"
   },
   "061-05-02": {
     "en": "Standard time",
-    "es": "Hora estándar"
+    "es": "Hora estándar",
+    "ru": "Стандартное время"
   },
   "061-05-03": {
     "en": "Sunrise and sunset",
-    "es": "Salida y puesta del sol"
+    "es": "Salida y puesta del sol",
+    "ru": "Восход и заход солнца"
   },
   "062": {
     "en": "Radio Navigation",
