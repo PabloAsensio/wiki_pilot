@@ -1,31 +1,55 @@
-Las ondas de radio pueden viajar desde el transmisor al receptor siguiendo diferentes trayectorias, dependiendo principalmente de su frecuencia y de las condiciones atmosféricas.
+La forma en que las ondas de radio viajan desde el transmisor hasta el receptor depende de su frecuencia y del entorno.
 
 ## Modos de Propagación
 
-1.  **Ondas de Espacio (Space Waves):** Viajan en línea recta (**Line-of-Sight**). Es el modo principal para frecuencias **VHF y superiores**. Su alcance está limitado por la curvatura de la Tierra y obstáculos físicos.
-    - Fórmula de alcance teórico: $Alcance (NM) = 1.23 \times (\sqrt{H_T} + \sqrt{H_R})$
-2.  **Ondas de Superficie (Ground/Surface Waves):** Siguen la curvatura de la Tierra gracias a la **difracción**. Son efectivas en frecuencias bajas (**LF y MF**) y viajan mejor sobre el mar que sobre tierra.
-3.  **Ondas de Cielo (Sky Waves):** Son ondas que se dirigen hacia la atmósfera y regresan a la Tierra tras ser **refractadas** por la **ionosfera**. Este fenómeno permite comunicaciones de muy larga distancia en la banda **HF**.
+### 1. Ondas de Espacio (Space Waves)
+Son ondas de **línea de visión (Line-of-Sight)**. Viajan en línea recta a través de la atmósfera.
+*   Es el modo principal para **VHF, UHF, SHF y EHF**.
+*   El alcance está limitado por la curvatura de la Tierra y obstáculos.
+*   **Fórmula de alcance teórico (VHF):**
+    $$Distancia (NM) = 1.23 \times (\sqrt{Altura_{Tx}(ft)} + \sqrt{Altura_{Rx}(ft)})$$
 
-## La Ionosfera y el Fenómeno de "Skip"
+### 2. Ondas de Superficie (Ground/Surface Waves)
+Estas ondas siguen la curvatura de la Tierra debido a la **difracción**.
+*   Efectivas en frecuencias bajas (**VLF, LF, MF**).
+*   El alcance depende de la potencia y del tipo de superficie (mayor alcance sobre el mar que sobre tierra).
+*   Utilizadas por los **NDB**.
 
-La ionosfera es una región de la atmósfera ionizada por la radiación solar. Se divide en capas (**D, E, F1, F2**).
-- **Capa D:** Presente solo de día, absorbe las ondas de baja frecuencia (LF/MF), impidiendo su propagación por onda de cielo durante el día.
-- **Skip Distance (Distancia de Salto):** Es la distancia desde el transmisor hasta el punto donde la primera onda de cielo regresa a la Tierra. Aumenta con frecuencias más altas y con una ionosfera más elevada (noche).
-- **Skip Zone (Zona de Silencio):** Área entre el límite del alcance de la onda de superficie y el punto donde regresa la primera onda de cielo. En esta zona no se recibe señal.
+### 3. Ondas de Cielo (Sky Waves)
+Son ondas que se refractan en la **ionosfera** y regresan a la Tierra, permitiendo comunicaciones más allá del horizonte.
+*   Principal modo de propagación para **HF** (y MF por la noche).
+*   Permite comunicaciones transoceánicas y globales.
 
-## Errores en la Navegación (ADF/NDB)
+## La Ionosfera
 
-El sistema ADF es especialmente sensible a errores de propagación:
-- **Efecto Nocturno:** Causado por la interferencia entre la onda de superficie y la onda de cielo (que aparece al desaparecer la capa D por la noche). Provoca oscilaciones en la aguja ("hunting").
-- **Refracción Costera:** La onda cambia de velocidad y dirección al cruzar de tierra a mar, desviándose hacia la costa.
-- **Efecto de Montaña:** Reflexiones en el terreno que causan lecturas erróneas.
-- **Error Cuadrantal:** Distorsión del frente de onda causada por la estructura metálica del avión.
+Capa de la atmósfera ionizada por la radiación solar. Afecta principalmente a las ondas HF.
+*   **Capas:** D, E, F1, F2.
+*   **Capa D:** Existe solo de día y **absorbe** las ondas de baja frecuencia (LF/MF), impidiendo su propagación como onda de cielo.
+*   **Noche:** La capa D desaparece, permitiendo que las ondas MF y HF alcancen las capas superiores (E y F) y se refracten, aumentando drásticamente el alcance (y las interferencias).
 
-## Fenómenos Físicos Clave
+### Conceptos Clave de Propagación HF
+*   **Skip Distance (Distancia de Salto):** Distancia mínima desde el transmisor hasta donde la primera onda de cielo retorna a la Tierra.
+    *   Aumenta con la frecuencia.
+    *   Aumenta si la ionosfera está más alta (noche).
+*   **Skip Zone (Zona de Silencio):** Área anular donde no se recibe señal: está demasiado lejos para la onda de superficie pero demasiado cerca para la primera onda de cielo.
+*   **Fading (Desvanecimiento):** Fluctuación de la señal debido a cambios en la ionosfera o interferencia entre múltiples caminos (ej. onda de cielo vs. onda de superficie).
 
-- **Refracción:** Cambio de dirección al pasar entre medios de distinta densidad (ej. capas de la atmósfera).
-- **Difracción:** Capacidad de las ondas para bordear obstáculos o seguir la curvatura terrestre.
-- **Reflexión:** Rebote de la onda sobre una superficie (tierra, mar o edificios).
-- **Absorción:** Pérdida de energía de la onda al interactuar con la materia (especialmente en la capa D o por lluvia).
-- **Efecto Doppler:** Cambio aparente de frecuencia debido al movimiento relativo entre emisor y receptor. Se utiliza en el **DVOR**, **GNSS** y radares para medir velocidad o detectar movimiento.
+## Fenómenos y Errores
+
+### Efecto Doppler
+Cambio en la frecuencia percibida debido al movimiento relativo entre fuente y receptor.
+*   **Aumenta** la frecuencia si se acercan, **disminuye** si se alejan.
+*   Usado en: **DVOR** (para crear la señal de fase variable), **GNSS** (para determinar velocidad), Radares MTI y Radares Meteorológicos (para detectar turbulencia).
+
+### Errores del ADF (Ondas LF/MF)
+*   **Efecto Nocturno:** Interferencia entre onda de superficie y onda de cielo por la noche. Causa oscilación de la aguja.
+*   **Refracción Costera:** La onda se curva hacia la costa al pasar de tierra a mar (cambio de velocidad).
+*   **Efecto de Montaña:** Reflexiones en terreno montañoso.
+*   **Tormentas:** Los rayos emiten señales en bandas LF/MF que atraen la aguja del ADF.
+*   **Error Cuadrantal:** Desviación causada por el metal del propio avión. Máximo en rumbos relativos 045°, 135°, 225°, 315°.
+
+## Fenómenos Físicos
+*   **Refracción:** Cambio de dirección al pasar a un medio con diferente densidad (ej. ionosfera).
+*   **Difracción:** Curvatura de la onda alrededor de obstáculos (permite la onda de superficie).
+*   **Reflexión:** Rebote en superficies (tierra, edificios).
+*   **Absorción:** Pérdida de energía (ej. capa D).

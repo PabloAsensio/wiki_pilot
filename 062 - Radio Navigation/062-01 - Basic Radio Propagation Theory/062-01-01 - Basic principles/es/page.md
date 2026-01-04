@@ -1,53 +1,53 @@
-La radio navegación se basa en la transmisión y recepción de ondas electromagnéticas para determinar la posición y guiar a una aeronave. Para comprender su funcionamiento, es esencial conocer el espectro de frecuencias, los tipos de modulación y los principios físicos que rigen estas ondas.
+La radio navegación se fundamenta en la transmisión y recepción de ondas electromagnéticas. Para comprender estos sistemas, es crucial dominar conceptos como el espectro de frecuencias, las propiedades de las ondas y los métodos de modulación.
 
-## El Espectro de Frecuencias
+## Espectro de Frecuencias
 
-Las ondas de radio se clasifican en bandas según su frecuencia. Cada banda comienza en un valor y termina en uno 10 veces superior, comenzando generalmente con el número 3.
+El espectro electromagnético se divide en bandas logarítmicas, donde cada banda abarca un rango de frecuencias que comienza con un valor y termina en uno diez veces superior. Todas las bandas comienzan con el número 3.
 
-| Banda | Siglas | Rango de Frecuencia | Aplicaciones Comunes |
-| :--- | :--- | :--- | :--- |
-| **Very Low Frequency** | **VLF** | 3 - 30 kHz | Navegación de largo alcance |
-| **Low Frequency** | **LF** | 30 - 300 kHz | NDB / ADF |
-| **Medium Frequency** | **MF** | 300 - 3000 kHz | NDB / ADF, Comunicaciones AM |
-| **High Frequency** | **HF** | 3 - 30 MHz | Comunicaciones de largo alcance |
-| **Very High Frequency** | **VHF** | 30 - 300 MHz | Radio ATC, VOR, ILS Localizer |
-| **Ultra High Frequency** | **UHF** | 300 - 3000 MHz | ILS Glide Path, DME, SSR, GNSS |
-| **Super High Frequency** | **SHF** | 3 - 30 GHz | Radar Meteorológico, Radioaltímetro |
-| **Extremely High Frequency** | **EHF** | 30 - 300 GHz | Aplicaciones especializadas |
+| Banda | Frecuencia | Aplicaciones Principales |
+| :--- | :--- | :--- |
+| **VLF** (Very Low Frequency) | 3 - 30 kHz | Navegación de largo alcance (poco uso actual). |
+| **LF** (Low Frequency) | 30 - 300 kHz | **NDB / ADF**. |
+| **MF** (Medium Frequency) | 300 - 3.000 kHz | **NDB / ADF**, radiodifusión comercial. |
+| **HF** (High Frequency) | 3 - 30 MHz | **Comunicaciones de largo alcance** (transoceánicas). |
+| **VHF** (Very High Frequency) | 30 - 300 MHz | **Comunicaciones ATC**, VOR, ILS Localizer, VDF. |
+| **UHF** (Ultra High Frequency) | 300 - 3.000 MHz | ILS Glide Path, DME, SSR, GNSS. |
+| **SHF** (Super High Frequency) | 3 - 30 GHz | Radioaltímetro, Radar Meteorológico, MLS. |
+| **EHF** (Extremely High Frequency) | 30 - 300 GHz | Comunicaciones satelitales avanzadas. |
 
-Una regla mnemotécnica común en inglés para recordar el orden es: *"**V**ery **L**ovely **M**aidens **H**ave **V**ery **U**seful **S**ewing **E**quipment"*.
+**Regla mnemotécnica:** *"**V**ery **L**ovely **M**aidens **H**ave **V**ery **U**seful **S**ewing **E**quipment"*.
 
 ## Propiedades de las Ondas
 
-- **Longitud de onda ($\lambda$):** Es la distancia física de un ciclo completo. Se calcula con la fórmula:
-  $$\lambda = \frac{c}{f}$$
-  Donde $c$ es la velocidad de la luz ($300,000,000$ m/s o $300$ si la frecuencia $f$ está en MHz).
-- **Fase y Ángulo de Fase:** El **ángulo de fase** describe la posición exacta en un ciclo de onda (de 0° a 360°). Comparar la fase de dos señales es el principio de funcionamiento del **VOR**.
-- **Polarización:** Describe la orientación del campo eléctrico. Puede ser **lineal** (vertical u horizontal), **circular** o **elíptica**.
+*   **Frecuencia (f):** Número de ciclos por segundo. Se mide en **Hertz (Hz)**.
+*   **Longitud de Onda ($\lambda$):** Distancia física de un ciclo completo. Se calcula como $\lambda = c / f$, donde $c$ es la velocidad de la luz ($300.000.000$ m/s).
+    *   Ejemplo: Una frecuencia de 100 MHz tiene una longitud de onda de 3 metros.
+*   **Ángulo de Fase:** Describe la posición exacta dentro de un ciclo de onda, medida en grados (0° a 360°). La comparación de fases es el principio base del funcionamiento del **VOR**.
 
-## Modulación y Clasificación ITU
+## Modulación
 
-La **modulación** es el proceso de añadir información (voz o datos) a una onda portadora de alta frecuencia. La ITU clasifica las emisiones con tres caracteres:
+La modulación es el proceso de imprimir información (señal moduladora) sobre una onda portadora (carrier wave).
 
-1.  **Primer símbolo:** Tipo de modulación de la portadora (ej. **A** para amplitud, **F** para frecuencia, **N** para sin modulación).
-2.  **Segundo símbolo:** Naturaleza de la señal moduladora (ej. **1** para datos digitales sin subportadora, **3** para analógica).
-3.  **Tercer símbolo:** Tipo de información transmitida (ej. **A** para Morse auditivo, **E** para voz).
+1.  **Modulación de Amplitud (AM):** Varía la intensidad (amplitud) de la señal. Se generan dos bandas laterales (superior e inferior).
+    *   **Banda Lateral Única (SSB):** En comunicaciones **HF**, se suprime una de las bandas laterales y a veces la portadora para ahorrar energía y ancho de banda.
+2.  **Modulación de Frecuencia (FM):** Varía la frecuencia de la portadora.
+3.  **Modulación de Fase (PM):** Invierte o desplaza la fase de la onda. Se utiliza en sistemas como **MLS** y **GNSS**.
 
-Ejemplos clave:
-- **N0N:** Portadora sin modulación (usada por NDB).
-- **A1A:** Morse por interrupción de portadora (NDB antiguos).
-- **A2A:** Morse modulado en amplitud (NDB modernos).
-- **A3E:** Voz modulada en amplitud (Comunicaciones VHF).
+## Clasificación ITU
 
-En **HF**, se utiliza frecuentemente la **Banda Lateral Única (SSB)** para reducir la potencia necesaria y el ancho de banda.
+La Unión Internacional de Telecomunicaciones (ITU) utiliza códigos de tres caracteres para clasificar las emisiones:
 
-## Sistemas de Navegación y Presentación
+1.  **Primer carácter:** Tipo de modulación (N=Ninguna, A=Amplitud, etc.).
+2.  **Segundo carácter:** Tipo de señal moduladora (0=Ninguna, 1=Digital sin subportadora, 2=Digital con subportadora, 3=Analógica).
+3.  **Tercer carácter:** Tipo de información (N=Ninguna, A=Telegrafía auditiva, E=Telefonía/Voz).
 
-- **Navigation Display (ND):** Ofrece modos como **MAP** (o ARC) para progreso de vuelo, **PLAN** (norte arriba) y modos específicos para **VOR** o **ILS**.
-- **FMS (Flight Management System):** Utiliza el **Filtro de Kalman** para combinar datos de múltiples fuentes (IRS, GPS, Radio) y calcular la posición más precisa.
-- **Datalink (CPDLC/ACARS):** Permite la comunicación de texto entre piloto y controlador o compañía mediante VHF, HF o **SATCOM**.
+**Códigos esenciales:**
+*   **N0N:** Portadora sin modulación (señal base de un NDB).
+*   **A1A:** Telegrafía (Morse) por interrupción de portadora (NDB antiguos).
+*   **A2A:** Telegrafía (Morse) modulada en amplitud (NDB modernos, audible sin BFO).
+*   **A3E:** Telefonía (Voz) modulada en amplitud (Estándar para **comunicaciones VHF**).
 
-## Errores y Fenómenos
+## Fenómenos de Interferencia
 
-- **Fading (Desvanecimiento):** Variación en la intensidad de la señal causada por interferencias, clima o propagación por múltiples trayectorias.
-- **Efecto Multipath:** Ocurre cuando una señal llega a la antena por varios caminos (directo y reflejado), causando errores en la determinación de la dirección, común en radares y ADF.
+*   **Multipath Effect (Efecto Multitrayecto):** Ocurre cuando una señal llega al receptor por múltiples caminos (directo y reflejado), causando confusión o errores. Afecta a sistemas como el VOR, ILS y GNSS.
+*   **Fading (Desvanecimiento):** Variación en la intensidad de la señal recibida, causada por interferencias, condiciones atmosféricas o el efecto multitrayecto.

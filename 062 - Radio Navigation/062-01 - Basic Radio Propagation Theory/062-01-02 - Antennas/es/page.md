@@ -1,34 +1,38 @@
-Las antenas son los componentes encargados de convertir la corriente eléctrica en ondas electromagnéticas (transmisión) y viceversa (recepción). Su diseño y ubicación son críticos para garantizar una comunicación y navegación fiables.
+Las antenas son los dispositivos que permiten la transición entre una corriente eléctrica guiada y una onda electromagnética en el espacio libre.
 
-## Principios de Funcionamiento
+## Principios Básicos
 
-El proceso se basa en la propagación en el espacio libre. En la transmisión, el equipo suministra corriente a la antena, que la radia como **ondas de radio**. En la recepción, la antena intercepta estas ondas para producir una corriente eléctrica que el receptor procesa.
-
-## Ubicación y Sombreado (Shadowing)
-
-El **sombreado de antena** ocurre cuando partes de la aeronave (como las alas o el fuselaje) o obstáculos del terreno bloquean la señal. Para minimizar este efecto:
-- Las antenas para radioayudas terrestres suelen instalarse en la **parte inferior** del fuselaje.
-- Las antenas **GPS** deben situarse en la **parte superior** para tener visión directa de los satélites.
-- La antena del **Glide Slope** (Senda de Planeo) se ubica generalmente en el **morro** del avión.
+*   **Transmisión:** La corriente eléctrica se convierte en ondas electromagnéticas.
+*   **Recepción:** Las ondas electromagnéticas inducen una corriente eléctrica en la antena.
+*   **Reciprocidad:** Las características de una antena (ganancia, patrón de radiación) son idénticas tanto para transmitir como para recibir.
 
 ## Polarización
 
-La **polarización** de una onda electromagnética describe la orientación del campo eléctrico respecto a la dirección de propagación.
-- **Lineal:** El campo oscila en un solo plano (vertical u horizontal).
-- **Circular:** El campo rota a una tasa constante. Se usa en radares para eliminar el **clutter** (ecos no deseados) causado por la precipitación.
-- **Elíptica:** La forma más general de polarización.
+La polarización se define por la orientación del **campo eléctrico (E)** de la onda con respecto a la dirección de propagación.
 
-El campo eléctrico (**E-field**) y el campo magnético (**H-field**) son siempre **perpendiculares** entre sí y a la dirección de propagación.
+*   **Lineal:** El campo eléctrico oscila en un solo plano (Vertical u Horizontal). Para una recepción óptima, la antena receptora debe tener la misma polarización que la transmisora.
+*   **Circular:** El campo eléctrico rota a medida que la onda avanza. Se utiliza en **radares meteorológicos** para reducir el "clutter" (ecos) de la lluvia, ya que las gotas de agua invierten el sentido de giro al reflejar la señal.
+*   **Elíptica:** Una combinación general de las anteriores.
 
-## Tipos de Antenas y Aplicaciones
+## Tipos de Antenas
 
-Existen diversos diseños según la necesidad de direccionalidad:
+1.  **Dipolo:** La forma más básica. Utilizada en VOR y comunicaciones VHF.
+2.  **Antena de Lazo (Loop Antenna):** Utilizada en los receptores **ADF** antiguos. Es direccional y detecta la procedencia de la señal buscando el "nulo" (mínima señal).
+3.  **Antena Parabólica:** Utiliza un reflector curvo para enfocar la energía en un haz estrecho. Alta directividad y ganancia. Usada en radares antiguos.
+4.  **Slotted Planar Array (Matriz Plana):** Antena plana con ranuras, utilizada en **radares meteorológicos modernos**. Es más eficiente, ligera y aerodinámica que la parabólica, produciendo un haz con menos lóbulos laterales.
+5.  **Antena Helicoidal:** Puede ser direccional u omnidireccional. Se usa a menudo para polarización circular.
+6.  **Antena Adcock:** Conjunto de dipolos verticales usados en estaciones terrestres **VDF** (VHF Direction Finding) para determinar la dirección de una aeronave.
 
-1.  **Antena de Lazo (Loop Antenna):** Utilizada en sistemas **ADF** antiguos. Detecta puntos de "nulo" (corriente cero) para determinar la dirección de la estación NDB.
-2.  **Antena Parabólica (Plato):** Ofrece una **alta directividad**. Refleja las señales hacia un punto focal. Común en radares meteorológicos antiguos.
-3.  **Slotted Planar Array (Matriz Plana):** Utilizada en radares meteorológicos modernos. Es más eficiente que la parabólica para concentrar el haz.
-4.  **Antena Adcock:** Consiste en una serie de dipolos verticales dispuestos en círculo. Se utiliza en estaciones terrestres de **VDF** (VHF Direction Finding) para calcular la demora de una aeronave.
+## Ubicación y Sombreado (Shadowing)
 
-## Radar Meteorológico de a Bordo
+La ubicación de las antenas en la aeronave es crítica para evitar el bloqueo de la señal por la propia estructura del avión (alas, fuselaje, empenaje).
 
-Opera típicamente en la **Banda X** (8-12 GHz) con una longitud de onda de aproximadamente **3 cm**. Utiliza pulsos modulados y requiere una antena con un haz estrecho para concentrar la energía y obtener una mejor resolución de los objetivos (lluvia, granizo, etc.).
+*   **Antenas de Comunicaciones y Navegación Terrestre (VOR, DME, ADF):** Generalmente se ubican en la **parte inferior** del fuselaje para tener línea de visión con las estaciones en tierra.
+*   **Antenas Satelitales (GNSS/GPS):** Deben ubicarse en la **parte superior** del fuselaje para tener visión directa del cielo y los satélites.
+*   **Antena de Glide Slope:** Situada generalmente en el **morro** (nariz) del avión o detrás del radomo.
+
+**Nota:** Durante virajes, el ala puede bloquear la señal entre la antena y la estación terrestre/satélite, provocando pérdida temporal de señal.
+
+## Radar Meteorológico
+
+Los radares meteorológicos aerotransportados operan típicamente en la **Banda X** (8-12 GHz), con una longitud de onda de aprox. **3 cm**. Requieren antenas altamente direccionales (haz estrecho) para localizar con precisión las tormentas.
