@@ -1,35 +1,53 @@
-El **VOR (VHF Omnidirectional Radio Range)** es la radioayuda estándar para la navegación en ruta y aproximaciones no de precisión. Opera en la banda VHF (**108.00 - 117.95 MHz**).
+El **VOR** es una radioayuda de navegación que opera en la banda VHF y proporciona al piloto la dirección magnética hacia o desde la estación terrestre.
 
-## Principio de Funcionamiento
+## Principios de Funcionamiento
 
-El VOR determina la posición midiendo la **diferencia de fase** entre dos señales de 30 Hz:
-1.  **Señal de Referencia:** Omnidireccional (igual en todas las direcciones).
-2.  **Señal Variable:** Su fase cambia según el azimut (dirección) respecto a la estación.
-
-La diferencia de fase entre ambas indica el **radial** (QDR) en el que se encuentra la aeronave respecto al Norte Magnético de la estación.
+*   **Frecuencias:** Opera en la banda VHF, entre **108.00 MHz y 117.975 MHz**.
+    *   **108.00 - 111.95 MHz:** Compartido con el ILS. El VOR utiliza frecuencias con el **primer decimal PAR** (ej. 108.20, 108.45). El ILS usa decimales impares.
+    *   **112.00 - 117.975 MHz:** Uso exclusivo para VOR.
+*   **Señales:** La estación transmite dos señales de 30 Hz:
+    *   **Señal de Referencia:** Omnidireccional (fase constante en todas direcciones).
+    *   **Señal Variable:** Direccional (rotatoria). Su fase cambia según la dirección.
+*   **Determinación del Radial:** El receptor mide la **diferencia de fase** entre ambas señales. Esta diferencia en grados corresponde al radial magnético en el que se encuentra el avión.
+    *   Ejemplo: Si la diferencia de fase es 90°, el avión está en el radial 090.
 
 ## Tipos de VOR
 
-- **CVOR (Conventional VOR):** Utiliza una antena rotatoria. La señal de referencia es FM y la variable es AM. Es más sensible a errores de sitio por reflexiones (**scalloping**).
-- **DVOR (Doppler VOR):** Utiliza el principio Doppler con un anillo de antenas fijas. La señal de referencia es AM y la variable es **FM**. Es mucho **menos propenso a errores de sitio** y reflexiones.
-- **TVOR (Terminal VOR):** De baja potencia, usado para aproximaciones en aeródromos (alcance típico de **25 NM**).
-- **VOT (Test VOR):** Emite un radial 000° en todas las direcciones para verificar el equipo en tierra.
+1.  **CVOR (Conventional VOR):**
+    *   Señal de Referencia: Modulada en Frecuencia (FM).
+    *   Señal Variable: Modulada en Amplitud (AM) por una antena rotatoria física.
+    *   Susceptible a errores de sitio (multipath).
+2.  **DVOR (Doppler VOR):**
+    *   Señal de Referencia: Modulada en Amplitud (AM).
+    *   Señal Variable: Modulada en Frecuencia (FM) simulando la rotación mediante un anillo de antenas (Efecto Doppler).
+    *   **Ventaja:** Mucho más preciso y menos susceptible a errores de sitio/multipath gracias a la señal variable en FM.
+3.  **TVOR (Terminal VOR):** Baja potencia, corto alcance (25 NM), usado en aeródromos.
+4.  **VOT (VOR Test Facility):** Emite una señal de prueba con diferencia de fase cero (Radial 180 en todas direcciones). Se usa en tierra para verificar el equipo (Indicación: 180 TO o 360 FROM con aguja centrada).
 
-## Instrumentación y Uso
+## Instrumentos e Indicaciones
 
-- **CDI (Course Deviation Indicator):** El piloto selecciona un curso (**OBS**). Cada punto de desviación representa **2°**. La escala completa es de **10°**.
-- **Indicador TO/FROM:** Indica si el curso seleccionado llevará a la aeronave hacia la estación o alejándose de ella.
-- **RMI:** La aguja apunta directamente a la estación. La cola indica el radial actual.
-- **Establecido:** Se considera establecido en un VOR cuando la desviación es inferior a **media escala (5°)**.
+*   **CDI (Course Deviation Indicator):**
+    *   **OBS (Omni Bearing Selector):** Permite seleccionar el curso deseado.
+    *   **Aguja de Desviación:** Muestra la desviación angular respecto al curso seleccionado.
+    *   **Escala:** Típicamente 5 puntos a cada lado. **Desviación total (Full Scale Deflection) = 10°** (2° por punto).
+    *   **Indicador TO/FROM:** Indica si el curso seleccionado lleva hacia (TO) o desde (FROM) la estación.
+        *   **TO:** El radial seleccionado está a más de 90° del radial actual.
+        *   **FROM:** El radial seleccionado está a menos de 90° del radial actual.
+*   **RMI (Radio Magnetic Indicator):**
+    *   **Cola de la aguja:** Indica el **Radial** actual (QDR).
+    *   **Cabeza de la aguja:** Indica el rumbo magnético hacia la estación (QDM).
 
-## Alcance y Frecuencias
+## Alcance y Precisión
 
-- El alcance está limitado por la **línea de vista**: $Alcance (NM) = 1.23 \times \sqrt{H (ft)}$.
-- Las frecuencias entre 108.0 y 111.95 MHz con el **primer decimal par** (ej. 108.2) son VOR. Los decimales impares (ej. 108.1) son para el Localizador del ILS.
+*   **Alcance:** Limitado por la **línea de visión (Line-of-Sight)**.
+    *   Fórmula aproximada: $Distancia (NM) = 1.23 \times \sqrt{Altura (ft)}$.
+*   **Precisión:** $\pm 5^\circ$ (en rutas aéreas).
+*   **Establecido:** En aproximaciones, se considera establecido dentro de **media escala de desviación (5°)**.
+*   **Monitorización:** El monitor apaga el VOR o retira la identificación si el error de rumbo excede **1°** o la potencia cae más del 15%.
 
-## Monitoreo
+## Procedimientos y Conceptos Adicionales
 
-El sistema se apaga o deja de identificar si:
-- El error de marcación excede **1°**.
-- La fuerza de la señal cae más del **15%**.
-- Falla el monitor automático.
+*   **Radiales:** Siempre son magnéticos y **DESDE (FROM)** la estación. Se usa la variación magnética en la posición del **VOR**.
+*   **Cono de Confusión:** Zona sobre la estación donde no se recibe señal o es errática.
+*   **Scalloping:** Ondulación de la señal causada por reflexiones en el terreno.
+*   **ATIS:** Algunos VOR transmiten la información ATIS del aeropuerto en su frecuencia.
