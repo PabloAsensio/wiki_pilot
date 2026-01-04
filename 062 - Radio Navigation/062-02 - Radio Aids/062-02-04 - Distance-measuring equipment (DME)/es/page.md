@@ -1,4 +1,4 @@
-El **DME** (Distance Measuring Equipment) es un sistema de radar secundario que proporciona la distancia entre una aeronave y una estación terrestre. Opera en la banda **UHF (962 - 1213 MHz)**.
+El **DME (Distance Measuring Equipment)** es un sistema de radar secundario que proporciona la distancia entre una aeronave y una estación terrestre. Opera en la banda **UHF (962 - 1213 MHz)**.
 
 ## Principio de Funcionamiento
 

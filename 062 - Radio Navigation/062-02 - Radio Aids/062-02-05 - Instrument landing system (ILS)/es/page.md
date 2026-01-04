@@ -1,4 +1,4 @@
-El **ILS** (Instrument Landing System) es el sistema estándar de aproximación de precisión, proporcionando guía lateral y vertical para el aterrizaje.
+El **ILS (Instrument Landing System)** es el sistema estándar de aproximación de precisión, proporcionando guía lateral y vertical para el aterrizaje.
 
 ## Componentes del Sistema
 

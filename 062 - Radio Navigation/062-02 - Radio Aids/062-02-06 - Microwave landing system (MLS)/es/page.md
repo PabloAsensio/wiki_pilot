@@ -1,4 +1,4 @@
-El **MLS** (Microwave Landing System) es un sistema de aproximación de precisión diseñado para superar las limitaciones del ILS y ofrecer mayor flexibilidad. Aunque tecnológicamente superior, su implementación ha sido limitada debido al auge de los sistemas basados en satélites (GNSS).
+El **MLS (Microwave Landing System)** es un sistema de aproximación de precisión diseñado para superar las limitaciones del ILS y ofrecer mayor flexibilidad. Aunque tecnológicamente superior, su implementación ha sido limitada debido al auge de los sistemas basados en satélites (GNSS).
 
 ## Características Principales
 
