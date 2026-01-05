@@ -30,14 +30,14 @@ En un mapa, la diferencia angular entre la derrota de ortodromia y la de loxodro
 Para convertir entre estos rumbos, se utilizan fórmulas específicas:
 
 1.  **Convergencia**: Se calcula multiplicando el cambio de longitud por el seno de la latitud media.
-    *   *Fórmula: Convergencia = Cambio de Longitud × Seno (Latitud Media)*
+    *   $ \text{Convergencia} = \text{Cambio de Longitud} \times \sin(\text{Latitud Media}) $
 2.  **Ángulo de Conversión**: Es la mitad de la convergencia.
-    *   *Fórmula: Ángulo de Conversión = ½ Convergencia*
+    *   $ \text{Ángulo de Conversión} = \frac{1}{2} \times \text{Convergencia} $
 
 **Ejemplo Práctico:**
 Si volamos entre dos puntos en el hemisferio norte con una latitud media de 55°N y un cambio de longitud de 10°:
-*   Convergencia = 10° × Sen(55°) ≈ 8°.
-*   Ángulo de Conversión = 4°.
+*   $ \text{Convergencia} = 10^\circ \times \sin(55^\circ) \approx 8^\circ $
+*   $ \text{Ángulo de Conversión} = 4^\circ $
 El rumbo de loxodromia será la suma (o resta, según el sentido) del rumbo inicial de ortodromia y este ángulo de conversión. En el punto medio de la ruta, el rumbo de la loxodromia y el de la ortodromia son **paralelos**.
 
 ## Resumen de Propiedades

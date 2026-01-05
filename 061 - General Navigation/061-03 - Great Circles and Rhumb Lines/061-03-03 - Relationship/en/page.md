@@ -15,9 +15,9 @@ The difference between the great circle route and the rhumb line is most notable
 The angular difference between these two trajectories is governed by the **Convergence** of meridians.
 
 *   **Convergence:** The angle of inclination between two meridians at a given latitude. It is calculated as:
-    \[ \text{Convergence} = \text{Change in Longitude} \times \sin(\text{Mean Latitude}) \]
+    $ \text{Convergence} = \text{Change in Longitude} \times \sin(\text{Mean Latitude}) $
 *   **Conversion Angle (CA):** The angular difference between the great circle direction and the rhumb line. It equals half the convergence.
-    \[ \text{Conversion Angle} = \frac{1}{2} \times \text{Convergence} \]
+    $ \text{Conversion Angle} = \frac{1}{2} \times \text{Convergence} $
 
 As shown in the following graph, both convergence and conversion angle increase significantly as we move away from the Equator toward the poles.
 

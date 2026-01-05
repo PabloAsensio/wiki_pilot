@@ -20,9 +20,9 @@ Para la navegación es crucial distinguir entre los diferentes tipos de hora:
 
 | Conversión Arco a Tiempo | Valor |
 | :--- | :--- |
-| 360° de longitud | 24 horas |
-| 15° de longitud | 1 hora |
-| 1° de longitud | 4 minutos |
+| $ 360^\circ \text{ de longitud} $ | $ 24 \text{ horas} $ |
+| $ 15^\circ \text{ de longitud} $ | $ 1 \text{ hora} $ |
+| $ 1^\circ \text{ de longitud} $ | $ 4 \text{ minutos} $ |
 
 ## Amanecer, Atardecer y Crepúsculo
 Técnicamente, el **amanecer** ocurre cuando el borde superior del Sol aparece en el horizonte, y el **atardecer** cuando desaparece. Sin embargo, hay luz antes y después de estos momentos debido a la atmósfera.

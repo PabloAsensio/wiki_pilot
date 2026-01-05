@@ -13,7 +13,7 @@ Meridians are not parallel lines; they meet (converge) at the Poles. Because of 
 
 **Convergence** expresses how much the track of a Great Circle changes between two points due to converging meridians.
 
-*   **Formula:** Convergence = **Change in Longitude × Sine (Mean Latitude)**.
+*   **Formula:** $ \text{Convergence} = \text{Change in Longitude} \times \sin(\text{Mean Latitude}) $
 
 The value of convergence depends on latitude: it is zero at the Equator (where meridians are parallel) and maximum at the Poles.
 
@@ -21,7 +21,7 @@ The value of convergence depends on latitude: it is zero at the Equator (where m
 
 The angular difference between the direction of a Great Circle and a Rhumb Line between two points is called the **Conversion Angle**.
 
-*   The Conversion Angle equals **½ of the Convergence**.
+*   The Conversion Angle equals: $ \text{Conversion Angle} = \frac{1}{2} \times \text{Convergence} $
 *   This allows us to calculate the Great Circle heading if we know the Rhumb Line heading (and vice versa).
 
 ## The Vertex

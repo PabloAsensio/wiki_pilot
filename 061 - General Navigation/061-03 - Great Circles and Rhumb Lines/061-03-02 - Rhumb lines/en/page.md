@@ -30,14 +30,14 @@ On a map, the angular difference between the orthodrome track and the rhumb line
 To convert between these headings, specific formulas are used:
 
 1.  **Convergence**: Calculated by multiplying the change in longitude by the sine of the mean latitude.
-    *   *Formula: Convergence = Change in Longitude × Sine (Mean Latitude)*
+    *   $ \text{Convergence} = \text{Change in Longitude} \times \sin(\text{Mean Latitude}) $
 2.  **Conversion Angle**: It is half of the convergence.
-    *   *Formula: Conversion Angle = ½ Convergence*
+    *   $ \text{Conversion Angle} = \frac{1}{2} \times \text{Convergence} $
 
 **Practical Example:**
 If we fly between two points in the northern hemisphere with a mean latitude of 55°N and a change in longitude of 10°:
-*   Convergence = 10° × Sin(55°) ≈ 8°.
-*   Conversion Angle = 4°.
+*   $ \text{Convergence} = 10^\circ \times \sin(55^\circ) \approx 8^\circ $
+*   $ \text{Conversion Angle} = 4^\circ $
 The rhumb line heading will be the sum (or subtraction, depending on direction) of the initial orthodrome heading and this conversion angle. At the midpoint of the route, the rhumb line heading and the orthodrome heading **have the same direction**.
 
 ## Summary of Properties

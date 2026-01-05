@@ -23,12 +23,12 @@ Para saber "dónde estamos" sin GPS, utilizamos estaciones terrestres.
 ## Navegación con NDB y el Concepto de Convergencia
 Navegar con estaciones NDB es un poco más complejo porque requiere cálculos adicionales.
 1.  **Marcación Relativa (RBI):** Es el ángulo que muestra la aguja del ADF respecto al morro del avión.
-2.  **Rumbo Verdadero a la Estación (QUJ):** Se calcula sumando el rumbo del avión a la marcación relativa (*QUJ = Heading + RBI*).
+2.  **Rumbo Verdadero a la Estación (QUJ):** Se calcula sumando el rumbo del avión a la marcación relativa: $ \text{QUJ} = \text{Heading} + \text{RBI} $
 3.  **Rumbo Verdadero desde la Estación (QTE):** Es el recíproco del anterior (±180º).
 
 **El problema de la Convergencia:** En cartas como la **Cónica Conforme de Lambert**, los meridianos no son paralelos; convergen hacia los polos. Esto significa que el norte en la posición del avión no es paralelo al norte en la posición de la estación NDB.
 Para trazar una línea precisa desde un NDB lejano hacia el avión, debemos aplicar la **Convergencia de la Carta**.
-*   **Fórmula:** *Convergencia = Cambio de Longitud × Seno de la Latitud Media*.
+*   **Fórmula:** $ \text{Convergencia} = \text{Cambio de Longitud} \times \sin(\text{Latitud Media}) $
 *   Si no aplicamos esta corrección angular, la línea trazada en el mapa no pasará por la posición real del avión.
 
 ## Proyecciones y Tipos de Ruta
