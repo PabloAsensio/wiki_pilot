@@ -1,0 +1,37 @@
+Water exists in the atmosphere in three states: solid (ice), liquid (water), and gas (water vapor). Changes between these states involve the absorption or release of energy in the form of **Latent Heat**.
+
+## Phase Change Processes
+
+### 1. Processes that Absorb Latent Heat
+These processes take energy from the environment, **cooling** the surrounding air.
+
+*   **Melting:** Solid $\rightarrow$ Liquid. (~80 cal/g)
+*   **Evaporation:** Liquid $\rightarrow$ Gas. (~590 cal/g)
+*   **Sublimation:** Solid $\rightarrow$ Gas (directly). (~680 cal/g)
+
+### 2. Processes that Release Latent Heat
+These processes release energy to the environment, **warming** the surrounding air.
+
+*   **Freezing:** Liquid $\rightarrow$ Solid. (~80 cal/g)
+*   **Condensation:** Gas $\rightarrow$ Liquid. (~590 cal/g)
+*   **Deposition:** Gas $\rightarrow$ Solid (directly). (~680 cal/g)
+    *   *Note:* In meteorology (especially in the US), the term "Sublimation" is sometimes used for the Gas to Solid change as well, although the correct technical term is Deposition.
+
+## Importance of Latent Heat
+The energy involved in evaporation and condensation is enormous compared to melting/freezing.
+
+*   **Storm Engine:** When water vapor condenses to form clouds, it releases a large amount of latent heat. This heat warms the air inside the cloud, making it lighter than the surrounding air, which encourages continuous ascent (instability).
+*   **Energy:** This release of latent heat is the main source of energy for the development of **thunderstorms** and **hurricanes**.
+
+## Cloud Formation
+For clouds to form, three ingredients are needed:
+1.  **Water Vapor:** Moisture in the air.
+2.  **Cooling:** The air must cool to its dew point (saturation).
+3.  **Condensation Nuclei:** Microscopic solid particles (dust, salt, smoke) on which vapor can condense.
+    *   Without nuclei, the air could become supersaturated (RH > 100%) without forming clouds.
+
+## Supercooled Water Droplets (SCWD)
+These are water droplets that remain in a **liquid** state at temperatures **below 0°C**.
+*   To freeze, they need to come into contact with a **freezing nucleus** or a solid surface (such as an aircraft).
+*   In the atmosphere, there are many more water droplets than freezing nuclei, so supercooled water is very common in clouds between 0°C and -15°C (and even down to -40°C).
+*   They are the main cause of **icing** on aircraft.
