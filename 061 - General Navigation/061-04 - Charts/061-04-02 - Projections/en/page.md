@@ -7,11 +7,9 @@ Before studying maps, we must understand how lines and angles behave on the Eart
 *   **Orthodrome (Great Circle):** It is the shortest distance between two points on a sphere. Its direction changes constantly as we cross meridians. In most charts, we seek for these routes to appear as straight lines.
 *   **Loxodrome (Rhumb Line):** It is a line that maintains a constant direction, cutting all meridians at the same angle. It is easy to fly (you just follow a fixed heading on the compass), but it is not the shortest route. On polar charts, it is a curve concave toward the pole.
 *   **Convergence (Convergency):** It is the angle of inclination between two meridians. On Earth, meridians meet at the poles.
-    *   Formula:
-        $$ \text{Convergence} = \text{Change in Longitude} \times \sin(\text{Mean Latitude}) $$
+    *   Formula: $ \text{Convergence} = \text{Change in Longitude} \times \sin(\text{Mean Latitude}) $
 *   **Conversion Angle:** It is the angular difference between the direction of the Orthodrome and the Loxodrome.
-    *   Key rule:
-        $$ \text{Conversion Angle} = \frac{1}{2} \times \text{Convergence} $$
+    *   Key rule: $ \text{Conversion Angle} = \frac{1}{2} \times \text{Convergence} $
 
 ***
 
@@ -21,7 +19,7 @@ This chart is created by imagining a flat plane that touches the Earth at one of
 
 *   **Graticule (Geographic Network):** The **meridians** are straight lines radiating from the pole. The **parallels** are concentric circles whose distance increases when moving away from the pole.
 *   **Convergence Factor (n=1):** In this chart, convergence is maximum and identical to polar reality.
-    *   $$ \text{Chart Convergence} = \text{Change in Longitude} $$
+    *   $ \text{Chart Convergence} = \text{Change in Longitude} $
 *   **Route Behavior:**
     *   A straight line drawn passing through the pole is a meridian.
     *   **Orthodromes** (great circles) are almost straight near the pole, but technically are slightly concave curves toward the pole.
@@ -35,12 +33,11 @@ This chart is created by imagining a flat plane that touches the Earth at one of
 It is the standard chart for aviation at mid-latitudes. A cone is used that "cuts" the Earth, intersecting it at two **Standard Parallels**.
 
 *   **Origin Parallel:** It is the central mathematical latitude of the projection, located halfway between the two standard parallels. Here the chart convergence equals the Earth convergence.
-    *   Calculation:
-        $$ \frac{\text{Standard Parallel 1} + \text{Standard Parallel 2}}{2} $$
+    *   Calculation: $ \frac{\text{Standard Parallel 1} + \text{Standard Parallel 2}}{2} $
 *   **Cone Constant (n):** It defines how much the cone has been "flattened" (0 is a cylinder, 1 is a plane).
-    *   $$ \text{Cone Constant} = \sin(\text{Origin Parallel}) $$
+    *   $ \text{Cone Constant} = \sin(\text{Origin Parallel}) $
 *   **Chart Convergence:** It is constant throughout the map.
-    *   $$ \text{Convergence} = \text{Change in Longitude} \times \text{Cone Constant} $$
+    *   $ \text{Convergence} = \text{Change in Longitude} \times \text{Cone Constant} $
 *   **Scale:** It is exact on the standard parallels. It **contracts** (reduces) between them (minimum at the origin parallel) and **expands** (increases) outside them. The scale error is typically kept below **1%**.
 *   **Orthomorphic:** Yes, like all navigation charts, it preserves angles and shapes in small areas.
 

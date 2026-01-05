@@ -33,8 +33,7 @@ In this projection, the scale is exact only on the **standard parallels**. Its m
 ### Mercator Projection
 It is a cylindrical projection where the scale expands as we move away from the Equator.
 *   Scale expansion is proportional to the secant of the latitude.
-*   To solve scale problems in Mercator, the relationship is used:
-    $$ \text{Denominator A} \times \cos(\text{Lat B}) = \text{Denominator B} \times \cos(\text{Lat A}) $$
+*   To solve scale problems in Mercator, the relationship is used: $ \text{Denominator A} \times \cos(\text{Lat B}) = \text{Denominator B} \times \cos(\text{Lat A}) $
 
 ## Convergence and Orthomorphism
 

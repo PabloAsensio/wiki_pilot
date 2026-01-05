@@ -15,9 +15,9 @@ La diferencia entre la ruta de círculo máximo y la línea de rumbo es más not
 La diferencia angular entre estas dos trayectorias se rige por la **Convergencia** de los meridianos.
 
 *   **Convergencia:** Es el ángulo de inclinación entre dos meridianos a una latitud dada. Se calcula como:
-    $$ \text{Convergencia} = \text{Cambio de Longitud} \times \sin(\text{Latitud Media}) $$
+    $ \text{Convergencia} = \text{Cambio de Longitud} \times \sin(\text{Latitud Media}) $
 *   **Ángulo de Conversión (CA):** Es la diferencia angular entre la dirección del círculo máximo y la línea de rumbo. Equivale a la mitad de la convergencia.
-    $$ \text{Ángulo de Conversión} = \frac{1}{2} \times \text{Convergencia} $$
+    $ \text{Ángulo de Conversión} = \frac{1}{2} \times \text{Convergencia} $
 
 Como se muestra en el siguiente gráfico, tanto la convergencia como el ángulo de conversión aumentan significativamente a medida que nos alejamos del Ecuador hacia los polos.
 

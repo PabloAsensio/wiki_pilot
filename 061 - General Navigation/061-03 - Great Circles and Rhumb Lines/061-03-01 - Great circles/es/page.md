@@ -13,8 +13,7 @@ Los meridianos no son líneas paralelas; se juntan (convergen) en los Polos. Deb
 
 La **Convergencia** expresa cuánto cambia la derrota (track) de un Círculo Máximo entre dos puntos debido a los meridianos convergentes.
 
-*   **Fórmula:**
-    $$ \text{Convergencia} = \text{Cambio de Longitud} \times \sin(\text{Latitud Media}) $$
+*   **Fórmula:** $ \text{Convergencia} = \text{Cambio de Longitud} \times \sin(\text{Latitud Media}) $
 
 El valor de la convergencia depende de la latitud: es cero en el Ecuador (donde los meridianos son paralelos) y máxima en los Polos.
 
@@ -22,8 +21,7 @@ El valor de la convergencia depende de la latitud: es cero en el Ecuador (donde 
 
 La diferencia angular entre la dirección de un Círculo Máximo y una Línea de Rumbo entre dos puntos se llama **Ángulo de Conversión**.
 
-*   El Ángulo de Conversión es igual a:
-    $$ \text{Ángulo de Conversión} = \frac{1}{2} \times \text{Convergencia} $$
+*   El Ángulo de Conversión es igual a: $ \text{Ángulo de Conversión} = \frac{1}{2} \times \text{Convergencia} $
 *   Esto nos permite calcular el rumbo de Círculo Máximo si conocemos el rumbo de la Línea de Rumbo (y viceversa).
 
 ## El Vértice (Vertex)

@@ -33,8 +33,7 @@ En esta proyección, la escala es exacta solo en los **paralelos estándar**. Su
 ### Proyección Mercator
 Es una proyección cilíndrica donde la escala se expande a medida que nos alejamos del Ecuador.
 *   La expansión de la escala es proporcional a la secante de la latitud.
-*   Para resolver problemas de escala en Mercator, se utiliza la relación:
-    $$ \text{Denominador A} \times \cos(\text{Lat B}) = \text{Denominador B} \times \cos(\text{Lat A}) $$
+*   Para resolver problemas de escala en Mercator, se utiliza la relación: $ \text{Denominador A} \times \cos(\text{Lat B}) = \text{Denominador B} \times \cos(\text{Lat A}) $
 
 ## Convergencia y Ortomorfismo
 

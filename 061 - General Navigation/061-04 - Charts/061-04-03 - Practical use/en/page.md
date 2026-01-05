@@ -23,14 +23,12 @@ To know "where we are" without GPS, we use ground stations.
 ## Navigation with NDB and the Convergence Concept
 Navigating with NDB stations is a bit more complex because it requires additional calculations.
 1.  **Relative Bearing (RBI):** It is the angle that the ADF needle shows relative to the aircraft's nose.
-2.  **True Bearing to Station (QUJ):** It is calculated by adding the aircraft's heading to the relative bearing:
-    $$ \text{QUJ} = \text{Heading} + \text{RBI} $$
+2.  **True Bearing to Station (QUJ):** It is calculated by adding the aircraft's heading to the relative bearing: $ \text{QUJ} = \text{Heading} + \text{RBI} $
 3.  **True Bearing from Station (QTE):** It is the reciprocal of the previous one (±180º).
 
 **The Convergence Problem:** On charts such as the **Lambert Conformal Conic**, meridians are not parallel; they converge toward the poles. This means that north at the aircraft's position is not parallel to north at the NDB station position.
 To draw a precise line from a distant NDB toward the aircraft, we must apply the **Chart Convergence**.
-*   **Formula:**
-    $$ \text{Convergence} = \text{Change in Longitude} \times \sin(\text{Mean Latitude}) $$
+*   **Formula:** $ \text{Convergence} = \text{Change in Longitude} \times \sin(\text{Mean Latitude}) $
 *   If we don't apply this angular correction, the line drawn on the map will not pass through the aircraft's actual position.
 
 ## Projections and Route Types
