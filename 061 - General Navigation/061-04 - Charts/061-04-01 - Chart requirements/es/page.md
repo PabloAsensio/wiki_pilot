@@ -4,7 +4,7 @@ Las cartas aeronáuticas son representaciones fundamentales para la navegación 
 
 La **escala de la carta** es la relación entre una longitud medida en el mapa y la distancia correspondiente en la Tierra. Se expresa mediante la fórmula:
 
-**Escala = Distancia en la Carta / Distancia en la Tierra**
+$$ \text{Escala} = \frac{\text{Distancia en la Carta}}{\text{Distancia en la Tierra}} $$
 
 Para comparar escalas, se utiliza una regla sencilla basada en el denominador de la fracción representativa:
 *   **A mayor denominador, menor escala**: Cubre más área pero con menos detalle (ej. 1:2,000,000).
@@ -16,7 +16,7 @@ Por ejemplo, al calcular la escala en una latitud de 45°N donde 6 cm en el mapa
 
 Para determinar la distancia real entre dos meridianos a una latitud específica, se utiliza la fórmula de **apartamiento (departure)**. Debido a que los meridianos convergen hacia los polos, la distancia entre ellos disminuye a medida que aumenta la latitud.
 
-**Apartamiento (NM) = Cambio de Longitud x 60 x cos(latitud)**
+$$ \text{Apartamiento (NM)} = \text{Cambio de Longitud} \times 60 \times \cos(\text{latitud}) $$
 
 Esta fórmula permite calcular la distancia en Millas Náuticas (NM) que separa dos puntos de longitud distinta situados en el mismo paralelo.
 
@@ -33,7 +33,8 @@ En esta proyección, la escala es exacta solo en los **paralelos estándar**. Su
 ### Proyección Mercator
 Es una proyección cilíndrica donde la escala se expande a medida que nos alejamos del Ecuador.
 *   La expansión de la escala es proporcional a la secante de la latitud.
-*   Para resolver problemas de escala en Mercator, se utiliza la relación: **Denominador A x cos(Lat B) = Denominador B x cos(Lat A)**.
+*   Para resolver problemas de escala en Mercator, se utiliza la relación:
+    $$ \text{Denominador A} \times \cos(\text{Lat B}) = \text{Denominador B} \times \cos(\text{Lat A}) $$
 
 ## Convergencia y Ortomorfismo
 
@@ -47,6 +48,6 @@ Una propiedad esencial de las cartas de navegación es el **ortomorfismo** (o co
 
 El uso correcto de la escala permite calcular la **Ground Speed (GS)** o velocidad sobre el terreno. Si conocemos la distancia en el mapa y el tiempo que toma recorrerla, primero convertimos la distancia del mapa a distancia terrestre usando la escala, y luego aplicamos la fórmula:
 
-**GS = Distancia Terrestre / Tiempo de Vuelo**
+$$ \text{GS} = \frac{\text{Distancia Terrestre}}{\text{Tiempo de Vuelo}} $$
 
 Por ejemplo, si medimos 13.8 cm en una carta con escala donde 1 cm equivale a 3.1 NM, la distancia real es 42.78 NM. Si volamos ese tramo en 15 minutos, nuestra velocidad sobre el terreno sería de 171 nudos.

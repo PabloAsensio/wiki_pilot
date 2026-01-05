@@ -46,14 +46,14 @@ This difference and the variations in day and night duration are due to the **Ec
 **Standard Time (ST)** is the legal or official time of a region, which differs from the exact LMT. For pilots, it is crucial to convert everything to UTC for flight planning.
 
 **Basic Conversion Formula:**
-*   `UTC = Standard Time (ST) +/- Zone Difference`
+*   $$ \text{UTC} = \text{Standard Time (ST)} \pm \text{Zone Difference} $$
 
 To calculate the duration of a flight or the arrival time before sunset, departure and arrival times must always be converted to UTC, perform the subtraction to obtain flight time, and then convert back to LMT if necessary to determine local sunlight.
 
 ### Arc to Time Conversion Summary
-*   360° = 24 hours
-*   15° = 1 hour
-*   1° = 4 minutes
-*   1' = 4 seconds
+*   $$ 360^\circ = 24 \text{ hours} $$
+*   $$ 15^\circ = 1 \text{ hour} $$
+*   $$ 1^\circ = 4 \text{ minutes} $$
+*   $$ 1' = 4 \text{ seconds} $$
 
 Remembering these equivalences allows for quick and accurate calculations of position and time in flight.

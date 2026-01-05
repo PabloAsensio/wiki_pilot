@@ -46,14 +46,14 @@ Esta diferencia y las variaciones en la duración del día y la noche se deben a
 La **Hora Estándar (ST)** es la hora legal u oficial de una región, que difiere del LMT exacto. Para los pilotos, es crucial convertir todo a UTC para planificar vuelos.
 
 **Fórmula Básica de Conversión:**
-*   `UTC = Hora Estándar (ST) +/- Diferencia de Zona`
+*   $$ \text{UTC} = \text{Hora Estándar (ST)} \pm \text{Diferencia de Zona} $$
 
 Para calcular la duración de un vuelo o la hora de llegada antes de la puesta del sol, siempre se deben convertir las horas de salida y llegada a UTC, realizar la resta para obtener el tiempo de vuelo, y luego convertir de nuevo a LMT si es necesario para determinar la luz solar local.
 
 ### Resumen de Conversiones de Arco a Tiempo
-*   360° = 24 horas
-*   15° = 1 hora
-*   1° = 4 minutos
-*   1' = 4 segundos
+*   $$ 360^\circ = 24 \text{ horas} $$
+*   $$ 15^\circ = 1 \text{ hora} $$
+*   $$ 1^\circ = 4 \text{ minutos} $$
+*   $$ 1' = 4 \text{ segundos} $$
 
 Recordar estas equivalencias permite realizar cálculos rápidos y precisos de posición y tiempo en vuelo.

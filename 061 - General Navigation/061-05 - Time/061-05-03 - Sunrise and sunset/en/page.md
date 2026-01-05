@@ -20,9 +20,9 @@ For navigation, it is crucial to distinguish between different types of time:
 
 | Arc to Time Conversion | Value |
 | :--- | :--- |
-| 360° of longitude | 24 hours |
-| 15° of longitude | 1 hour |
-| 1° of longitude | 4 minutes |
+| $$ 360^\circ \text{ of longitude} $$ | $$ 24 \text{ hours} $$ |
+| $$ 15^\circ \text{ of longitude} $$ | $$ 1 \text{ hour} $$ |
+| $$ 1^\circ \text{ of longitude} $$ | $$ 4 \text{ minutes} $$ |
 
 ## Sunrise, Sunset and Twilight
 Technically, **sunrise** occurs when the upper edge of the Sun appears on the horizon, and **sunset** when it disappears. However, there is light before and after these moments due to the atmosphere.

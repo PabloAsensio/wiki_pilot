@@ -4,7 +4,7 @@ Aeronautical charts are fundamental representations for air navigation, acting a
 
 The **chart scale** is the relationship between a length measured on the map and the corresponding distance on Earth. It is expressed using the formula:
 
-**Scale = Distance on Chart / Distance on Earth**
+$$ \text{Scale} = \frac{\text{Distance on Chart}}{\text{Distance on Earth}} $$
 
 To compare scales, a simple rule based on the denominator of the representative fraction is used:
 *   **Larger denominator, smaller scale**: Covers more area but with less detail (e.g., 1:2,000,000).
@@ -16,7 +16,7 @@ For example, when calculating the scale at a latitude of 45°N where 6 cm on the
 
 To determine the actual distance between two meridians at a specific latitude, the **departure** formula is used. Because meridians converge toward the poles, the distance between them decreases as latitude increases.
 
-**Departure (NM) = Change in Longitude x 60 x cos(latitude)**
+$$ \text{Departure (NM)} = \text{Change in Longitude} \times 60 \times \cos(\text{latitude}) $$
 
 This formula allows calculating the distance in Nautical Miles (NM) that separates two points of different longitude located on the same parallel.
 
@@ -33,7 +33,8 @@ In this projection, the scale is exact only on the **standard parallels**. Its m
 ### Mercator Projection
 It is a cylindrical projection where the scale expands as we move away from the Equator.
 *   Scale expansion is proportional to the secant of the latitude.
-*   To solve scale problems in Mercator, the relationship is used: **Denominator A x cos(Lat B) = Denominator B x cos(Lat A)**.
+*   To solve scale problems in Mercator, the relationship is used:
+    $$ \text{Denominator A} \times \cos(\text{Lat B}) = \text{Denominator B} \times \cos(\text{Lat A}) $$
 
 ## Convergence and Orthomorphism
 
@@ -47,6 +48,6 @@ An essential property of navigation charts is **orthomorphism** (or conformality
 
 The correct use of scale allows calculating **Ground Speed (GS)**. If we know the distance on the map and the time it takes to cover it, we first convert the map distance to ground distance using the scale, and then apply the formula:
 
-**GS = Ground Distance / Flight Time**
+$$ \text{GS} = \frac{\text{Ground Distance}}{\text{Flight Time}} $$
 
 For example, if we measure 13.8 cm on a chart with a scale where 1 cm equals 3.1 NM, the actual distance is 42.78 NM. If we fly that segment in 15 minutes, our ground speed would be 171 knots.
