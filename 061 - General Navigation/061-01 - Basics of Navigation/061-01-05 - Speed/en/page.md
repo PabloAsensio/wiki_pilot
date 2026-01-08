@@ -27,6 +27,8 @@ There is a strict relationship between **EAS**, **CAS**, **TAS**, and **Mach** w
 * When climbing while maintaining a **constant Mach**, both **TAS** and **CAS** decrease.
 * When descending at **constant Mach**, both **TAS** and **CAS** increase.
 
+![Types of Airspeed](https://images.squarespace-cdn.com/content/v1/5beae0c97c932781852acf33/1cac1d2a-76dc-4d58-a13a-9251be743c72/image15.png)
+
 ## The Effect of Wind
 
 The air mass in which the aircraft flies moves relative to the ground:

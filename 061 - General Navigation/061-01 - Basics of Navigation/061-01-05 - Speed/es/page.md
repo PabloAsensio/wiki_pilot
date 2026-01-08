@@ -25,6 +25,8 @@ Existe una relación estricta entre **EAS**, **CAS**, **TAS** y **Mach** cuando 
 *   Si subimos manteniendo un **Mach constante**, tanto la **TAS** como la **CAS** disminuyen.
 *   Si bajamos a **Mach constante**, tanto la **TAS** como la **CAS** aumentan.
 
+![Tipos de Velocidad Aérea](https://images.squarespace-cdn.com/content/v1/5beae0c97c932781852acf33/1cac1d2a-76dc-4d58-a13a-9251be743c72/image15.png)
+
 ## El Efecto del Viento
 
 El aire en el que vuela el avión se mueve respecto al suelo:
