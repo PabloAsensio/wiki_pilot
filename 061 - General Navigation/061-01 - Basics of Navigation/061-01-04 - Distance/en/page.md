@@ -27,6 +27,8 @@ This is where **meridian convergence** comes into play. Lines of longitude conve
 * The higher the latitude (closer to the pole), the shorter the distance for the same change in degrees.
 * On **Lambert charts**, although the distance in NM decreases with latitude, the “angular” distance (degrees of arc) remains constant.
 
+![Lambert Conformal Conic Projection](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Lambert_conformal_conic_projection_SW.jpg/1200px-Lambert_conformal_conic_projection_SW.jpg)
+
 ## 4. Nautical Air Miles (NAM) vs. Nautical Ground Miles (NGM)
 
 An aircraft moves within an air mass.

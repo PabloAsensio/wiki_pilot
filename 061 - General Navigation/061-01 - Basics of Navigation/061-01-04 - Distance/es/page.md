@@ -20,6 +20,8 @@ Aquí es donde entra la **convergencia de meridianos**. Las líneas de longitud 
 *   A mayor latitud (más cerca del polo), menor es la distancia para un mismo cambio de grados.
 *   En cartas **Lambert**, aunque la distancia en NM disminuye con la latitud, la distancia "angular" (grados de arco) permanece constante.
 
+![Lambert Conformal Conic Projection](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Lambert_conformal_conic_projection_SW.jpg/1200px-Lambert_conformal_conic_projection_SW.jpg)
+
 ## 4. Millas Aéreas (NAM) vs. Millas Terrestres (NGM)
 Un avión se mueve dentro de una masa de aire.
 *   **NAM (Nautical Air Miles):** Distancia recorrida con referencia al aire. Depende de la **TAS (True Air Speed)**.
