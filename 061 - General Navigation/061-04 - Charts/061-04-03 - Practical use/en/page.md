@@ -1,5 +1,7 @@
 Practical air navigation consists of transferring real-world information to a two-dimensional plane: the aeronautical chart. To do this successfully, it is necessary to master the use of measurement tools, understand the properties of the Earth, and know how to interpret terrain symbols and radio aids. Below is a detailed step-by-step explanation of how to apply these concepts.
 
+![VFR Aeronautical Chart](https://upload.wikimedia.org/wikipedia/commons/3/3b/Anchorage_Sectional_Aeronautical_Chart%2C_FAA%2C_Cutout_2024.jpg)
+
 ## Tools and Distance Measurement
 To navigate on paper, we use tools such as the **plotter** (for measuring angles and drawing lines), the **ruler**, and the **compass** (for drawing distance arcs).
 
@@ -15,6 +17,9 @@ However, aircraft compasses point to Magnetic North. The difference between the 
 *   **Variation East, Magnetic Least:** If the variation is East (E), it is **subtracted** from the true heading.
 
 ## Positioning with Radio Aids (VOR and DME)
+
+![VOR Radial Navigation](https://upload.wikimedia.org/wikipedia/commons/2/21/Vor_Radial.png)
+
 To know "where we are" without GPS, we use ground stations.
 *   **VOR Radials:** A radial is a **magnetic** heading that goes **from** the station. To draw it, align your plotter with the VOR and trace the line in the indicated direction. Remember that radials are already magnetic, so you don't always need to apply variation if you use the station's own compass rose.
 *   **DME Arcs:** The DME equipment measures the slant range to the station. On the chart, this translates to a **circle or arc** drawn with a compass around the station.
