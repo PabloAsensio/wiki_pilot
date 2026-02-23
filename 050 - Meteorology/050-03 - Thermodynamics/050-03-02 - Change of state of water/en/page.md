@@ -1,5 +1,7 @@
 Water exists in the atmosphere in three states: solid (ice), liquid (water), and gas (water vapor). Changes between these states involve the absorption or release of energy in the form of **Latent Heat**.
 
+![Water Phase Change Diagram](https://upload.wikimedia.org/wikipedia/commons/e/e5/Water_Phase_Change_Diagram.png)
+
 ## Phase Change Processes
 
 ### 1. Processes that Absorb Latent Heat

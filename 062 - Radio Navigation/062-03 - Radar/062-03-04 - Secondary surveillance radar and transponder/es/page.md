@@ -1,5 +1,7 @@
 El **SSR (Secondary Surveillance Radar)** es un sistema de radar que depende de la cooperación de un equipo a bordo de la aeronave llamado **transpondedor**. A diferencia del radar primario, que funciona por reflexión pasiva, el SSR utiliza un sistema de interrogación y respuesta activa.
 
+![Panel de Transpondedor de Aviación](https://upload.wikimedia.org/wikipedia/commons/c/cc/Transponder_in_Private_Aircraft.jpg)
+
 ## Principios de Operación
 
 1.  **Interrogación**: La estación terrestre (interrogador) transmite pulsos codificados en la frecuencia **1030 MHz**.

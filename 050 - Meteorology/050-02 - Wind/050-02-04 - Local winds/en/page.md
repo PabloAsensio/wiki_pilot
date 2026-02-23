@@ -3,6 +3,8 @@ Local winds are small-scale air circulations caused by topography or local therm
 ## Sea and Land Breezes
 Caused by differential heating/cooling between land and sea.
 
+![Sea and Land Breezes](https://upload.wikimedia.org/wikipedia/commons/6/6a/Sea_Land_Breeze.svg)
+
 ### Sea Breeze
 *   **When:** During the **day** (especially sunny days).
 *   **Mechanism:** Land heats up faster than the sea $\rightarrow$ Air over land rises (Low Pressure) $\rightarrow$ Cool air from the sea flows towards the land.
@@ -18,6 +20,8 @@ Caused by differential heating/cooling between land and sea.
 ---
 
 ## Slope and Valley Winds
+
+![Anabatic and Katabatic Winds](https://upload.wikimedia.org/wikipedia/commons/b/b4/Diurnal_mountain_winds_variation.jpg)
 
 ### Anabatic Wind
 *   **When:** During the **day**.

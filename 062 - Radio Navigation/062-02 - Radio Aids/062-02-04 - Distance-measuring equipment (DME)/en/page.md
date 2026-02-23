@@ -9,6 +9,8 @@ It is based on measuring the travel time of radio pulses:
 
 ## Slant Range
 
+![DME Slant Range Diagram](https://upload.wikimedia.org/wikipedia/commons/7/76/DME_Slant_and_Plan_range.jpg)
+
 DME measures the direct distance between the aircraft antenna and the station, not the horizontal distance over the ground. This is known as **Slant Range**.
 - The error is maximum when flying directly over the station, where the DME will indicate the **aircraft's altitude** (in NM).
 - 1 NM $\approx$ 6080 feet.

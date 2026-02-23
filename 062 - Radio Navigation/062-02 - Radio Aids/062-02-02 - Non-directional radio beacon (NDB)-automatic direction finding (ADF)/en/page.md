@@ -13,6 +13,8 @@ The **NDB** is a ground-based radio aid that transmits an omnidirectional signal
 
 ## Instruments and Indications
 
+![ADF Indicator](https://upload.wikimedia.org/wikipedia/commons/9/9a/Automatic_direction_finder_with_fixed_azimuth_and_magnetic_compass.png)
+
 *   **RBI (Relative Bearing Indicator):** Displays the **Relative Bearing (RB)**, which is the angle between the aircraft's nose and the station. The card is fixed (North is always up).
     *   Formula: $QDM = Magnetic Heading (MH) + Relative Bearing (RB)$.
 *   **RMI (Radio Magnetic Indicator):** Combines a directional gyro with the ADF needle. The card rotates automatically to show the aircraft's magnetic heading at the top.
