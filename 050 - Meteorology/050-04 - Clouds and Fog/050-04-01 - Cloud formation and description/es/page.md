@@ -2,6 +2,8 @@ Las nubes se forman cuando el aire se eleva y se enfría adiabáticamente hasta 
 
 ## Clasificación de las Nubes (WMO)
 
+![Tipos de Nubes](https://upload.wikimedia.org/wikipedia/commons/5/57/Cloud_types_en.svg)
+
 La Organización Meteorológica Mundial clasifica las nubes en tres niveles o "etages" según la altura de su base.
 
 | Nivel | Altura de la Base | Prefijo | Composición Principal | Tipos |

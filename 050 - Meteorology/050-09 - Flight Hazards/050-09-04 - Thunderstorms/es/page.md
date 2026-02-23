@@ -3,6 +3,8 @@ Las tormentas son fenómenos meteorológicos violentos asociados siempre a nubes
 2.  **Inestabilidad**: Aire inestable (ELR > SALR) que permita el ascenso vertical profundo.
 3.  **Mecanismo de elevación (Trigger)**: Convección térmica, orografía, frentes o convergencia.
 
+![Ciclo de vida de una tormenta](https://upload.wikimedia.org/wikipedia/commons/7/73/SingleConvCellDevel.png)
+
 ## Etapas de Desarrollo (Ciclo de Vida)
 Una tormenta de masa de aire típica tiene un ciclo de vida de aproximadamente una hora y pasa por tres etapas:
 

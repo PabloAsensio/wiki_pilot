@@ -1,5 +1,7 @@
 ## Tipos de Anticiclones (Alta Presión)
 
+![Anticiclones y Borrascas](https://upload.wikimedia.org/wikipedia/commons/b/bc/Low_pressure_system_over_Iceland.jpg)
+
 Existen cinco tipos principales: cálidos, fríos, fríos temporales, dorsales (ridges) y de bloqueo.
 
 ### Anticiclones Fríos

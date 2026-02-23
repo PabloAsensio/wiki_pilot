@@ -1,5 +1,7 @@
 ## Definiciones Clave
 
+![Ajustes de Altímetro (QNH, QFE, QNE)](https://upload.wikimedia.org/wikipedia/commons/2/2c/Altimeter_mit_qnh.jpg)
+
 *   **Altitud Verdadera (True Altitude)**: La altura real de la aeronave sobre el nivel medio del mar (MSL).
 *   **Altitud Indicada (Indicated Altitude)**: La lectura del altímetro cuando está ajustado al **QNH** local.
 *   **Altitud de Presión (Pressure Altitude)**: La lectura del altímetro cuando está ajustado a la presión estándar (**1013.2 hPa**). Se utiliza para volar en **Niveles de Vuelo (FL)**.

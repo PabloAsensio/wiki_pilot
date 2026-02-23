@@ -2,8 +2,13 @@ Un frente es el límite o zona de transición entre dos masas de aire con difere
 
 ## Tipos de Frentes
 
+![Símbolos de Frentes](https://upload.wikimedia.org/wikipedia/commons/c/ca/Surface_analysis.gif)
+
 ### 1. Frente Cálido (Warm Front)
 Ocurre cuando una masa de aire cálido avanza y reemplaza a una masa de aire más frío. El aire cálido (menos denso) se desliza por encima del aire frío.
+
+![Frente Cálido](https://upload.wikimedia.org/wikipedia/commons/4/40/Warm_front_symbol.svg)
+
 *   **Símbolo:** Semicírculos rojos.
 *   **Pendiente:** Suave (1:150).
 *   **Velocidad:** Lenta (~10 kt, o 2/3 del viento geostrófico).
@@ -13,6 +18,9 @@ Ocurre cuando una masa de aire cálido avanza y reemplaza a una masa de aire má
 
 ### 2. Frente Frío (Cold Front)
 Ocurre cuando una masa de aire frío avanza y empuja (se mete por debajo) a una masa de aire cálido, forzándola a subir violentamente.
+
+![Frente Frío](https://upload.wikimedia.org/wikipedia/commons/c/c0/Cold_front_symbol.svg)
+
 *   **Símbolo:** Triángulos azules.
 *   **Pendiente:** Pronunciada (1:50).
 *   **Velocidad:** Rápida (igual al componente del viento geostrófico).
@@ -26,6 +34,9 @@ Ocurre cuando una masa de aire frío avanza y empuja (se mete por debajo) a una 
 
 ### 3. Frente Ocluido (Occluded Front)
 Se forma cuando un frente frío (más rápido) alcanza a un frente cálido, levantando el sector cálido del suelo.
+
+![Frente Ocluido](https://upload.wikimedia.org/wikipedia/commons/2/2d/Occluded_front_symbol.svg)
+
 *   **Símbolo:** Semicírculos y triángulos morados alternados.
 *   **Oclusión Fría:** El aire detrás del frente frío es **más frío** que el aire delante del frente cálido. (Común en Europa en **Verano**). Actúa como un frente frío.
 *   **Oclusión Cálida:** El aire delante del frente cálido es **más frío** que el aire detrás del frente frío. (Común en Europa en **Invierno**). Actúa como un frente cálido.

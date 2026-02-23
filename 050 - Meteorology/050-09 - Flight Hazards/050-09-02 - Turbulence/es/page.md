@@ -1,5 +1,7 @@
 La turbulencia se define como el movimiento irregular del aire resultante de remolinos y corrientes verticales. Puede ser causada por diversos factores, como el calentamiento de la superficie, la fricción con el terreno, el paso de otras aeronaves o cambios bruscos en la velocidad y dirección del viento.
 
+![Ondas de Montaña y Rotores](https://upload.wikimedia.org/wikipedia/commons/f/fa/Wave_clouds_on_the_lee_of_the_Rocky_Mountains_%28CIRA_2019-11-19%29.gif)
+
 ## Turbulencia en Aire Claro (CAT - Clear Air Turbulence)
 La CAT es una turbulencia severa que ocurre en regiones sin nubes, lo que la hace invisible y difícil de detectar visualmente o por radar meteorológico.
 *   **Ubicación**: Comúnmente asociada con las **corrientes en chorro (Jet Streams)** cerca de la tropopausa (por encima de 15,000 ft). También puede ocurrir cerca de tormentas (hasta 20 NM horizontalmente o 5,000 ft por encima de un Cb) o debido a ondas de montaña.

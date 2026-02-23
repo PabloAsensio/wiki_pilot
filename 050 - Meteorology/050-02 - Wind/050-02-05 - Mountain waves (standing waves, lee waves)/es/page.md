@@ -1,5 +1,7 @@
 Las ondas de montaña (también llamadas ondas estacionarias u ondas de sotavento) son oscilaciones del flujo de aire que se forman en el lado de **sotavento (leeward)** de una cadena montañosa.
 
+![Ondas de Montaña](https://upload.wikimedia.org/wikipedia/commons/f/fa/Wave_clouds_on_the_lee_of_the_Rocky_Mountains_%28CIRA_2019-11-19%29.gif)
+
 ## Condiciones para su Formación
 Para que se formen ondas de montaña significativas, se requieren tres condiciones principales:
 

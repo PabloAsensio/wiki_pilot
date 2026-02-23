@@ -1,5 +1,7 @@
 Una masa de aire es un gran volumen de aire cuyas propiedades físicas (temperatura y humedad) son uniformes en el plano horizontal.
 
+![Masas de Aire](https://upload.wikimedia.org/wikipedia/commons/2/2f/Air_masses.svg)
+
 ## Clasificación
 
 Las masas de aire se clasifican mediante un sistema de tres letras según su contenido de humedad, su región de origen y su temperatura relativa a la superficie.

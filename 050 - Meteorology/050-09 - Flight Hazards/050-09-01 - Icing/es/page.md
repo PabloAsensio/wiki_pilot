@@ -1,5 +1,7 @@
 El engelamiento es uno de los peligros más significativos para la aviación. Ocurre cuando se forma hielo en la estructura del avión, lo que altera sus características aerodinámicas y puede afectar el funcionamiento de los motores e instrumentos.
 
+![Tipos de Engelamiento](https://upload.wikimedia.org/wikipedia/commons/5/5e/Ice_on_an_aircraft_wing.jpg)
+
 ## Condiciones para la Formación de Hielo
 
 Para que se forme hielo estructural en una aeronave, generalmente se requieren tres condiciones simultáneas:

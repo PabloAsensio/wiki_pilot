@@ -1,5 +1,7 @@
 La circulación atmosférica global es el movimiento del aire a gran escala que distribuye el calor por la superficie de la Tierra.
 
+![Circulación Global](https://upload.wikimedia.org/wikipedia/commons/9/9c/Earth_Global_Circulation_-_en.svg)
+
 ## Modelo de Tres Células
 
 Para explicar la circulación general, se utiliza un modelo de tres células en cada hemisferio:
