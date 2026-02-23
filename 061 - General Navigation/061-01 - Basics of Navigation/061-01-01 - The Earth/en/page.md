@@ -1,5 +1,7 @@
 The Earth is a dynamic system whose relationship with the Sun determines fundamental aspects for aviation, such as day length, seasons, and navigation. Below are the key concepts about our planet, solar radiation, and terrestrial magnetism.
 
+![Earth Orbit and Seasons](https://upload.wikimedia.org/wikipedia/commons/1/12/Orbital_relations_of_the_Solstice%2C_Equinox_%26_Intervening_Seasons.svg)
+
 ## Insolation and Seasons
 
 **Insolation** is the measure of solar radiation energy received on a given surface over a specific time. This intensity depends on the angle at which the Sun’s rays arrive, which varies according to latitude, time of day, and season of the year.

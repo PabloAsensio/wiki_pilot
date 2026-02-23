@@ -10,6 +10,8 @@ To measure a direction in degrees (from 0° to 360°), we need a starting point 
 
 ## 2. Errors: Variation and Deviation
 
+![Magnetic Variation Map](https://upload.wikimedia.org/wikipedia/commons/d/de/World_Magnetic_Declination_Map_2005.png)
+
 In order to navigate, the pilot must convert the data from the map (True) to what is seen in the cockpit (Compass). To do this, two angular corrections are applied:
 
 * **Variation:** This is the angular difference between True North and Magnetic North. It depends on the geographical area in which we are flying.

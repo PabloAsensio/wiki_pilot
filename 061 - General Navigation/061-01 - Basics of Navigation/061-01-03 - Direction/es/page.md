@@ -10,6 +10,8 @@ Para medir una dirección en grados (de 0° a 360°), necesitamos un punto de pa
 
 ## 2. Los Errores: Variación y Desviación
 
+![Mapa de Variación Magnética](https://upload.wikimedia.org/wikipedia/commons/d/de/World_Magnetic_Declination_Map_2005.png)
+
 Para poder navegar, el piloto debe convertir los datos del mapa (Verdadero) a lo que ve en su cabina (Brújula). Para ello, se aplican dos correcciones angulares:
 
 *   **Variación (Variation):** Es la diferencia angular entre el Norte Verdadero y el Norte Magnético. Depende de la zona geográfica en la que volemos.
