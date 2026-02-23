@@ -1,5 +1,7 @@
 El **ILS (Instrument Landing System)** es el sistema estándar de aproximación de precisión, proporcionando guía lateral y vertical para el aterrizaje.
 
+![Diagrama del Sistema ILS](https://upload.wikimedia.org/wikipedia/commons/1/13/ILS_diagram.png)
+
 ## Componentes del Sistema
 
 1.  **Localizador (LOC):** Proporciona guía lateral. Opera en VHF (**108.10 - 111.95 MHz**, solo decimales impares). Utiliza dos lóbulos modulados a **90 Hz (izquierda)** y **150 Hz (derecha)**.
@@ -16,6 +18,8 @@ El **ILS (Instrument Landing System)** es el sistema estándar de aproximación 
 - **Sensibilidad:** El ILS es mucho más sensible que el VOR. Una desviación de escala completa en el LOC es de **2.5°** (frente a los 10° del VOR).
 
 ## Uso y Procedimientos
+
+![Indicador ILS](https://upload.wikimedia.org/wikipedia/commons/d/d7/ILS_instrument.svg)
 
 - **Establecido:** Se considera establecido cuando la desviación es inferior a **media escala** (1.25° en LOC, 0.35° en GP).
 - **Intercepción:** Siempre se debe interceptar la senda de planeo desde **abajo** para evitar **falsas sendas** (lóbulos secundarios que aparecen en ángulos superiores, como 9°).

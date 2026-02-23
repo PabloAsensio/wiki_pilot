@@ -13,6 +13,8 @@ The **VOR** is a radio navigation aid that operates in the VHF band and provides
 
 ## VOR Types
 
+![VOR Station (Antenna)](https://upload.wikimedia.org/wikipedia/commons/f/fe/D-VOR_PEK.JPG)
+
 1.  **CVOR (Conventional VOR):**
     *   Reference Signal: Frequency Modulated (FM).
     *   Variable Signal: Amplitude Modulated (AM) by a physical rotating antenna.
@@ -25,6 +27,8 @@ The **VOR** is a radio navigation aid that operates in the VHF band and provides
 4.  **VOT (VOR Test Facility):** Emits a test signal with zero phase difference (Radial 180 in all directions). Used on the ground to check equipment (Indication: 180 TO or 360 FROM with needle centered).
 
 ## Instruments and Indications
+
+![VOR Indicator (CDI)](https://upload.wikimedia.org/wikipedia/commons/3/32/Vor_indicator.png)
 
 *   **CDI (Course Deviation Indicator):**
     *   **OBS (Omni Bearing Selector):** Allows selecting the desired course.

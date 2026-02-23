@@ -1,5 +1,7 @@
 El **VOR** es una radioayuda de navegación que opera en la banda VHF y proporciona al piloto la dirección magnética hacia o desde la estación terrestre.
 
+![Estación VOR](https://upload.wikimedia.org/wikipedia/commons/f/fe/D-VOR_PEK.JPG)
+
 ## Principios de Funcionamiento
 
 *   **Frecuencias:** Opera en la banda VHF, entre **108.00 MHz y 117.975 MHz**.
@@ -25,6 +27,8 @@ El **VOR** es una radioayuda de navegación que opera en la banda VHF y proporci
 4.  **VOT (VOR Test Facility):** Emite una señal de prueba con diferencia de fase cero (Radial 180 en todas direcciones). Se usa en tierra para verificar el equipo (Indicación: 180 TO o 360 FROM con aguja centrada).
 
 ## Instrumentos e Indicaciones
+
+![Indicador VOR (CDI)](https://upload.wikimedia.org/wikipedia/commons/3/32/Vor_indicator.png)
 
 *   **CDI (Course Deviation Indicator):**
     *   **OBS (Omni Bearing Selector):** Permite seleccionar el curso deseado.

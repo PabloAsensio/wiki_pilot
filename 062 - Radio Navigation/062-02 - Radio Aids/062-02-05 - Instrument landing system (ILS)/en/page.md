@@ -1,5 +1,7 @@
 The **ILS (Instrument Landing System)** is the standard precision approach system, providing lateral and vertical guidance for landing.
 
+![ILS System Diagram](https://upload.wikimedia.org/wikipedia/commons/1/13/ILS_diagram.png)
+
 ## System Components
 
 1.  **Localizer (LOC):** Provides lateral guidance. Operates in VHF (**108.10 - 111.95 MHz**, odd decimals only). Uses two lobes modulated at **90 Hz (left)** and **150 Hz (right)**.
@@ -16,6 +18,8 @@ The **ILS (Instrument Landing System)** is the standard precision approach syste
 - **Sensitivity:** The ILS is much more sensitive than the VOR. A full-scale deflection on the LOC is **2.5°** (compared to 10° for VOR).
 
 ## Usage and Procedures
+
+![ILS Indicator](https://upload.wikimedia.org/wikipedia/commons/d/d7/ILS_instrument.svg)
 
 - **Established:** Considered established when deviation is less than **half scale** (1.25° on LOC, 0.35° on GP).
 - **Interception:** Always intercept the glide path from **below** to avoid **false glide paths** (side lobes that appear at higher angles, such as 9°).
