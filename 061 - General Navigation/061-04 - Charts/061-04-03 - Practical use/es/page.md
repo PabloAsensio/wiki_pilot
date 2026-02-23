@@ -1,5 +1,7 @@
 La navegación aérea práctica consiste en trasladar la información del mundo real a un plano bidimensional: la carta aeronáutica. Para hacerlo con éxito, es necesario dominar el uso de herramientas de medición, comprender las propiedades de la Tierra y saber interpretar la simbología del terreno y las radioayudas. A continuación, se detalla cómo aplicar estos conceptos paso a paso.
 
+![Carta Aeronáutica VFR](https://upload.wikimedia.org/wikipedia/commons/3/3b/Anchorage_Sectional_Aeronautical_Chart%2C_FAA%2C_Cutout_2024.jpg)
+
 ## Herramientas y Medición de Distancias
 Para navegar sobre el papel, utilizamos herramientas como el **plotter** (para medir ángulos y trazar líneas), la **regla** y el **compás** (para dibujar arcos de distancia).
 
@@ -15,6 +17,9 @@ Sin embargo, las brújulas de los aviones apuntan al Norte Magnético. La difere
 *   **Variation East, Magnetic Least:** Si la variación es Este (E), se **resta** al rumbo verdadero.
 
 ## Posicionamiento con Radioayudas (VOR y DME)
+
+![Navegación por Radiales VOR](https://upload.wikimedia.org/wikipedia/commons/2/21/Vor_Radial.png)
+
 Para saber "dónde estamos" sin GPS, utilizamos estaciones terrestres.
 *   **Radiales VOR:** Un radial es un rumbo **magnético** que sale **desde** la estación. Para dibujarlo, alinea tu plotter con el VOR y traza la línea en la dirección indicada. Recuerda que los radiales ya son magnéticos, por lo que no siempre necesitas aplicar variación si usas la rosa de los vientos de la propia estación.
 *   **Arcos DME:** El equipo DME mide la distancia oblicua (slant range) a la estación. En la carta, esto se traduce en un **círculo o arco** dibujado con un compás alrededor de la estación.

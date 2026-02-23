@@ -1,5 +1,7 @@
 An air mass is a large volume of air whose physical properties (temperature and humidity) are uniform in the horizontal plane.
 
+![Air Masses](https://upload.wikimedia.org/wikipedia/commons/2/2f/Air_masses.svg)
+
 ## Classification
 
 Air masses are classified using a three-letter system according to their moisture content, their region of origin, and their temperature relative to the surface.

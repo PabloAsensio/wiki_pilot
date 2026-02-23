@@ -13,6 +13,8 @@ El **NDB** es una radioayuda terrestre que transmite una señal omnidireccional.
 
 ## Instrumentos e Indicaciones
 
+![Indicador ADF](https://upload.wikimedia.org/wikipedia/commons/9/9a/Automatic_direction_finder_with_fixed_azimuth_and_magnetic_compass.png)
+
 *   **RBI (Relative Bearing Indicator):** Muestra el **Rumbo Relativo (Relative Bearing - RB)**, que es el ángulo entre el morro del avión y la estación. La tarjeta es fija (el norte siempre está arriba).
     *   Fórmula: $QDM = Rumbo Magnético (MH) + Rumbo Relativo (RB)$.
 *   **RMI (Radio Magnetic Indicator):** Combina un girocompás con la aguja del ADF. La tarjeta gira automáticamente para mostrar el rumbo magnético del avión arriba.

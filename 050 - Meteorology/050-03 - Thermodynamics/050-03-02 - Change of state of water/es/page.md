@@ -1,5 +1,7 @@
 El agua existe en la atmósfera en tres estados: sólido (hielo), líquido (agua) y gas (vapor de agua). Los cambios entre estos estados implican la absorción o liberación de energía en forma de **Calor Latente**.
 
+![Cambios de Estado del Agua](https://upload.wikimedia.org/wikipedia/commons/e/e5/Water_Phase_Change_Diagram.png)
+
 ## Procesos de Cambio de Fase
 
 ### 1. Procesos que Absorben Calor Latente

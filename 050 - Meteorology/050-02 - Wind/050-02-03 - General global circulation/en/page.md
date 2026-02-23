@@ -1,5 +1,7 @@
 Global atmospheric circulation is the large-scale movement of air that distributes heat across the Earth's surface.
 
+![Global Circulation](https://upload.wikimedia.org/wikipedia/commons/9/9c/Earth_Global_Circulation_-_en.svg)
+
 ## Three-Cell Model
 
 To explain the general circulation, a three-cell model is used in each hemisphere:

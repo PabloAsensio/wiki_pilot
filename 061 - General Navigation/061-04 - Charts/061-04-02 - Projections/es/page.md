@@ -2,6 +2,8 @@ Navegar por el mundo requiere traducir una esfera tridimensional (la Tierra) a u
 
 ## Conceptos Fundamentales de Navegación
 
+![Ortodromia vs Loxodromia](https://upload.wikimedia.org/wikipedia/commons/2/2a/Rhumb_line_vs_great-circle_arc.png)
+
 Antes de estudiar los mapas, debemos entender cómo se comportan las líneas y los ángulos sobre la superficie terrestre:
 
 *   **Ortodromia (Great Circle):** Es la distancia más corta entre dos puntos en una esfera. Su dirección cambia constantemente a medida que cruzamos meridianos. En la mayoría de las cartas, buscamos que estas rutas aparezcan como líneas rectas.
@@ -30,6 +32,8 @@ Esta carta se crea imaginando un plano plano que toca la Tierra en uno de los Po
 
 ## 2. Proyección Cónica Conforme de Lambert
 
+![Proyección Cónica Conforme de Lambert](https://upload.wikimedia.org/wikipedia/commons/0/0f/Lambert_conformal_conic_projection_SW.jpg)
+
 Es la carta estándar para la aviación en latitudes medias. Se utiliza un cono que "corta" la Tierra, intersectándola en dos **Paralelos Estándar**.
 
 *   **Paralelo de Origen:** Es la latitud central matemática de la proyección, ubicada a medio camino entre los dos paralelos estándar. Aquí la convergencia de la carta es igual a la convergencia de la Tierra.
@@ -42,6 +46,8 @@ Es la carta estándar para la aviación en latitudes medias. Se utiliza un cono 
 *   **Ortomórfica:** Sí, como todas las cartas de navegación, conserva los ángulos y formas en áreas pequeñas.
 
 ***
+
+![Proyección Mercator](https://upload.wikimedia.org/wikipedia/commons/f/f4/Mercator_projection_SW.jpg)
 
 ## 3. Proyección Mercator Directa
 

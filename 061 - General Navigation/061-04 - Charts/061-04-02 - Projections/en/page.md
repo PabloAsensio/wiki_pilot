@@ -2,6 +2,8 @@ Navigating the world requires translating a three-dimensional sphere (the Earth)
 
 ## Fundamental Navigation Concepts
 
+![Great Circle vs Rhumb Line](https://upload.wikimedia.org/wikipedia/commons/2/2a/Rhumb_line_vs_great-circle_arc.png)
+
 Before studying maps, we must understand how lines and angles behave on the Earth's surface:
 
 *   **Orthodrome (Great Circle):** It is the shortest distance between two points on a sphere. Its direction changes constantly as we cross meridians. In most charts, we seek for these routes to appear as straight lines.
@@ -30,6 +32,8 @@ This chart is created by imagining a flat plane that touches the Earth at one of
 
 ## 2. Lambert Conformal Conic Projection
 
+![Lambert Conformal Conic Projection](https://upload.wikimedia.org/wikipedia/commons/0/0f/Lambert_conformal_conic_projection_SW.jpg)
+
 It is the standard chart for aviation at mid-latitudes. A cone is used that "cuts" the Earth, intersecting it at two **Standard Parallels**.
 
 *   **Origin Parallel:** It is the central mathematical latitude of the projection, located halfway between the two standard parallels. Here the chart convergence equals the Earth convergence.
@@ -42,6 +46,8 @@ It is the standard chart for aviation at mid-latitudes. A cone is used that "cut
 *   **Orthomorphic:** Yes, like all navigation charts, it preserves angles and shapes in small areas.
 
 ***
+
+![Mercator Projection](https://upload.wikimedia.org/wikipedia/commons/f/f4/Mercator_projection_SW.jpg)
 
 ## 3. Direct Mercator Projection
 

@@ -1,5 +1,7 @@
 ## Types of Anticyclones (High Pressure)
 
+![High and Low Pressure Systems](https://upload.wikimedia.org/wikipedia/commons/b/bc/Low_pressure_system_over_Iceland.jpg)
+
 There are five main types: warm, cold, temporary cold, ridges, and blocking.
 
 ### Cold Anticyclones

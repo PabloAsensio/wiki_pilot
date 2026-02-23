@@ -1,5 +1,7 @@
 La formación de niebla, neblina o nubes ocurre cuando el vapor de agua invisible se condensa en agua líquida visible. Esto sucede cuando el aire se satura (Humedad Relativa = 100%), ya sea por enfriamiento hasta el punto de rocío o por adición de humedad.
 
+![Tipos de Niebla](https://upload.wikimedia.org/wikipedia/commons/4/46/Vallee-brouillard.jpg)
+
 ## Definiciones y Diferencias
 
 | Fenómeno | Código METAR | Visibilidad | Agente Obscurante | Humedad Relativa |

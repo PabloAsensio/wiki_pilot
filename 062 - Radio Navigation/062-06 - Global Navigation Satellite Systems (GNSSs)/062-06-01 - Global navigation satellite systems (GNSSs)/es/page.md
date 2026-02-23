@@ -12,6 +12,9 @@ Existen cuatro sistemas GNSS principales reconocidos:
 *   **Nivel de Señal**: Galileo y GPS tienen ciertas frecuencias interoperables a nivel de señal.
 
 ## NAVSTAR GPS
+
+![Constelación de satélites GPS](https://upload.wikimedia.org/wikipedia/commons/d/d3/GPS_satellite_constellation.jpg)
+
 El sistema GPS consta de tres segmentos:
 
 1.  **Segmento Espacial**:
@@ -25,6 +28,9 @@ El sistema GPS consta de tres segmentos:
     *   Receptores GPS (aviones, móviles, etc.).
 
 ### Principio de Funcionamiento
+
+![Trilateración GPS](https://upload.wikimedia.org/wikipedia/commons/f/ff/Trilateration_with_Three_Circles.png)
+
 El receptor calcula su posición mediante **trilateración** midiendo el tiempo que tarda la señal en viajar desde el satélite hasta el receptor (Pseudorango).
 *   **3 Satélites**: Posición 2D (Latitud, Longitud) + Tiempo (si se conoce la altitud).
 *   **4 Satélites**: Posición 3D (Latitud, Longitud, Altitud) + Tiempo.

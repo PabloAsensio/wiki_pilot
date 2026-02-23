@@ -4,6 +4,8 @@ Below, we explain in a simple way how these forces work and how pilots calculate
 
 ## The Three Fundamental Vectors
 
+![Triangle of Velocities](https://upload.wikimedia.org/wikipedia/commons/4/4a/Wind_triangle.png)
+
 To solve any navigation problem, we must visualize three forces or **vectors** interacting with each other. A vector is simply an arrow that indicates a direction and a magnitude (speed).
 
 1. **Air Vector:** Represents the movement of the aircraft through the air. It is made up of:
@@ -41,6 +43,8 @@ The wind rarely blows directly head-on or directly from behind; it usually comes
 ## Calculation Tools
 
 ### The Flight Computer (CRP-5 / E6-B)
+
+![E6-B Flight Computer](https://upload.wikimedia.org/wikipedia/commons/7/7e/E6b-front.jpg)
 
 Pilots use a circular mechanical calculator to solve this triangle. There is a golden rule for plotting the wind on the disk depending on which data you have:
 

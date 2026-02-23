@@ -1,5 +1,7 @@
 Navigation under **Visual Flight Rules (VFR)** is the art of guiding an aircraft using external visual references instead of relying solely on instruments. This article summarizes essential techniques, from how to orient yourself and read maps, to how to handle emergency situations and environmental hazards.
 
+![VFR Visual Navigation](https://upload.wikimedia.org/wikipedia/commons/e/ed/US_Navy_070509-N-6106R-017_Lt._Kris_Carter%2C_from_Dayton%2C_Ohio%2C_flies_towards_Mount_Fuji_in_a_C-2A_Greyhound_from_Fleet_Logistics_Support_Squadron_%28VRC%29_30.jpg)
+
 ## 1. Basic Orientation Concepts
 
 To know where the aircraft is relative to a point on the ground (a "station"), pilots use several specific angles and terms. Understanding them is key to not getting lost:

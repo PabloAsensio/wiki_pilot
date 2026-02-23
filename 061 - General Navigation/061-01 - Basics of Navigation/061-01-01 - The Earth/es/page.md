@@ -1,5 +1,7 @@
 La Tierra es un sistema dinámico cuya relación con el Sol determina aspectos fundamentales para la aviación, como la duración del día, las estaciones y la navegación. A continuación, se detallan los conceptos clave sobre nuestro planeta, la radiación solar y el magnetismo terrestre.
 
+![Órbita y Estaciones de la Tierra](https://upload.wikimedia.org/wikipedia/commons/1/12/Orbital_relations_of_the_Solstice%2C_Equinox_%26_Intervening_Seasons.svg)
+
 ## Insolación y Estaciones
 
 La **insolación** es la medida de la energía de la radiación solar recibida en una superficie determinada en un tiempo dado. Esta intensidad depende del ángulo de llegada de los rayos solares, el cual varía según la latitud, la hora del día y la estación del año.

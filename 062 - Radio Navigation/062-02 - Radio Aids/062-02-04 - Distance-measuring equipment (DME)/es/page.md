@@ -9,6 +9,8 @@ Se basa en la medición del tiempo de viaje de pulsos de radio:
 
 ## Slant Range (Distancia Oblicua)
 
+![Diagrama de Slant Range DME](https://upload.wikimedia.org/wikipedia/commons/7/76/DME_Slant_and_Plan_range.jpg)
+
 El DME mide la distancia directa entre la antena del avión y la estación, no la distancia horizontal sobre el suelo. Esto se conoce como **Slant Range**.
 - El error es máximo cuando se vuela directamente sobre la estación, donde el DME indicará la **altitud de la aeronave** (en NM).
 - 1 NM $\approx$ 6080 pies.

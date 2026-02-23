@@ -1,5 +1,7 @@
 La navegación bajo **Reglas de Vuelo Visual (VFR)** es el arte de guiar una aeronave utilizando referencias visuales externas en lugar de depender únicamente de los instrumentos. Este artículo resume las técnicas esenciales, desde cómo orientarse y leer mapas, hasta cómo manejar situaciones de emergencia y peligros ambientales.
 
+![Navegación Visual VFR](https://upload.wikimedia.org/wikipedia/commons/e/ed/US_Navy_070509-N-6106R-017_Lt._Kris_Carter%2C_from_Dayton%2C_Ohio%2C_flies_towards_Mount_Fuji_in_a_C-2A_Greyhound_from_Fleet_Logistics_Support_Squadron_%28VRC%29_30.jpg)
+
 ## 1. Conceptos Básicos de Orientación
 
 Para saber dónde está el avión respecto a un punto en tierra (una "estación"), los pilotos utilizan varios ángulos y términos específicos. Entenderlos es clave para no perderse:

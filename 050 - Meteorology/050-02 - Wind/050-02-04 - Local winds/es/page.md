@@ -3,6 +3,8 @@ Los vientos locales son circulaciones de aire a pequeña escala causadas por la 
 ## Brisas de Mar y Tierra (Sea and Land Breezes)
 Causadas por el calentamiento/enfriamiento diferencial entre la tierra y el mar.
 
+![Brisas de Mar y Tierra](https://upload.wikimedia.org/wikipedia/commons/6/6a/Sea_Land_Breeze.svg)
+
 ### Brisa de Mar (Sea Breeze)
 *   **Cuándo:** Durante el **día** (especialmente días soleados).
 *   **Mecanismo:** La tierra se calienta más rápido que el mar $\rightarrow$ El aire sobre la tierra sube (Baja Presión) $\rightarrow$ El aire fresco del mar fluye hacia la tierra.
@@ -18,6 +20,8 @@ Causadas por el calentamiento/enfriamiento diferencial entre la tierra y el mar.
 ---
 
 ## Vientos de Ladera y Valle
+
+![Vientos Anabáticos y Catabáticos](https://upload.wikimedia.org/wikipedia/commons/b/b4/Diurnal_mountain_winds_variation.jpg)
 
 ### Viento Anabático (Anabatic Wind)
 *   **Cuándo:** Durante el **día**.

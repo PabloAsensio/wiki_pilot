@@ -1,5 +1,7 @@
 ## Capas de la Atmósfera
 
+![Capas de la Atmósfera](https://upload.wikimedia.org/wikipedia/commons/0/02/Atmosphere_layers-es.svg)
+
 La atmósfera se divide en varias capas según la variación de la temperatura con la altitud:
 
 1.  **Troposfera**:
