@@ -1,5 +1,7 @@
 La **Navegación a Estima** (conocida en inglés como **Dead Reckoning** o DR) es una técnica fundamental en la aviación que permite a un piloto calcular su **posición actual** basándose en una posición conocida anteriormente, llamada **Fix** o punto de referencia.
 
+![Navegación a Estima](https://upload.wikimedia.org/wikipedia/commons/3/30/Navigation_-_dead_reckoning.svg)
+
 A diferencia de la navegación por GPS, que nos dice exactamente dónde estamos gracias a satélites, la navegación a estima es un proceso de cálculo y predicción. Imagina que caminas a una velocidad constante en una dirección fija; si sabes dónde empezaste y cuánto tiempo has caminado, puedes estimar dónde estás, incluso con los ojos cerrados.
 
 ## ¿Cómo funciona?

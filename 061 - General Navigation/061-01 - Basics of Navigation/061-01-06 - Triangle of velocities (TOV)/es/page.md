@@ -4,6 +4,8 @@ A continuación, explicamos de forma sencilla cómo funcionan estas fuerzas y c�
 
 ## Los Tres Vectores Fundamentales
 
+![Triángulo de Velocidades](https://upload.wikimedia.org/wikipedia/commons/4/4a/Wind_triangle.png)
+
 Para resolver cualquier problema de navegación, debemos visualizar tres fuerzas o **vectores** interactuando entre sí. Un vector es simplemente una flecha que nos indica una dirección y una intensidad (velocidad).
 
 1.  **Vector Aire (Air Vector):** Representa el movimiento del avión a través del aire. Está compuesto por:
@@ -34,6 +36,9 @@ El viento rara vez sopla justo de cara o de cola; suele venir en ángulo. Los pi
 ## Herramientas de Cálculo
 
 ### El Computador de Vuelo (CRP-5 / E6-B)
+
+![Computador de Vuelo E6-B](https://upload.wikimedia.org/wikipedia/commons/7/7e/E6b-front.jpg)
+
 Los pilotos utilizan un calculador mecánico circular para resolver este triángulo. Existe una regla de oro para marcar el viento en el disco dependiendo de qué datos tienes:
 *   Si conoces el **Rumbo (Heading)**, marca el viento hacia **ABAJO** desde el centro del disco .
 *   Si conoces la **Derrota (Track)**, marca el viento hacia **ARRIBA** desde el centro .
