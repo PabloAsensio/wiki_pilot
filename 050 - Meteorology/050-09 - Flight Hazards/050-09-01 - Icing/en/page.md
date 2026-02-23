@@ -1,5 +1,7 @@
 Icing is one of the most significant hazards to aviation. It occurs when ice forms on the aircraft structure, altering its aerodynamic characteristics and potentially affecting the operation of engines and instruments.
 
+![Types of Icing](https://upload.wikimedia.org/wikipedia/commons/5/5e/Ice_on_an_aircraft_wing.jpg)
+
 ## Conditions for Ice Formation
 
 For structural ice to form on an aircraft, three simultaneous conditions are generally required:

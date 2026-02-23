@@ -1,5 +1,7 @@
 Turbulence is defined as the irregular movement of air resulting from eddies and vertical currents. It can be caused by various factors, such as surface heating, friction with the terrain, the passage of other aircraft, or sudden changes in wind speed and direction.
 
+![Mountain Waves and Rotors](https://upload.wikimedia.org/wikipedia/commons/f/fa/Wave_clouds_on_the_lee_of_the_Rocky_Mountains_%28CIRA_2019-11-19%29.gif)
+
 ## Clear Air Turbulence (CAT)
 CAT is severe turbulence that occurs in cloudless regions, making it invisible and difficult to detect visually or by weather radar.
 *   **Location**: Commonly associated with **Jet Streams** near the tropopause (above 15,000 ft). It can also occur near thunderstorms (up to 20 NM horizontally or 5,000 ft above a Cb) or due to mountain waves.

@@ -2,6 +2,8 @@ Clouds form when air rises and cools adiabatically until it reaches its dew poin
 
 ## Cloud Classification (WMO)
 
+![Cloud Types](https://upload.wikimedia.org/wikipedia/commons/5/57/Cloud_types_en.svg)
+
 The World Meteorological Organization classifies clouds into three levels or "etages" according to the height of their base.
 
 | Level | Base Height | Prefix | Main Composition | Types |

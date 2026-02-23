@@ -3,6 +3,8 @@ Thunderstorms are violent meteorological phenomena always associated with **Cumu
 2.  **Instability**: Unstable air (ELR > SALR) that allows for deep vertical ascent.
 3.  **Lifting Mechanism (Trigger)**: Thermal convection, orography, fronts, or convergence.
 
+![Thunderstorm Life Cycle](https://upload.wikimedia.org/wikipedia/commons/7/73/SingleConvCellDevel.png)
+
 ## Development Stages (Life Cycle)
 A typical air mass thunderstorm has a life cycle of approximately one hour and passes through three stages:
 

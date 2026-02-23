@@ -2,8 +2,13 @@ A front is the boundary or transition zone between two air masses with different
 
 ## Types of Fronts
 
+![Weather Fronts](https://upload.wikimedia.org/wikipedia/commons/c/ca/Surface_analysis.gif)
+
 ### 1. Warm Front
 Occurs when a warm air mass advances and replaces a colder air mass. The warm air (less dense) slides over the cold air.
+
+![Warm Front](https://upload.wikimedia.org/wikipedia/commons/4/40/Warm_front_symbol.svg)
+
 *   **Symbol:** Red semicircles.
 *   **Slope:** Gentle (1:150).
 *   **Speed:** Slow (~10 kt, or 2/3 of the geostrophic wind).
@@ -13,6 +18,9 @@ Occurs when a warm air mass advances and replaces a colder air mass. The warm ai
 
 ### 2. Cold Front
 Occurs when a cold air mass advances and pushes (wedges under) a warm air mass, forcing it to rise violently.
+
+![Cold Front](https://upload.wikimedia.org/wikipedia/commons/c/c0/Cold_front_symbol.svg)
+
 *   **Symbol:** Blue triangles.
 *   **Slope:** Steep (1:50).
 *   **Speed:** Fast (equal to the geostrophic wind component).
@@ -26,6 +34,9 @@ Occurs when a cold air mass advances and pushes (wedges under) a warm air mass, 
 
 ### 3. Occluded Front
 Forms when a cold front (faster) catches up to a warm front, lifting the warm sector off the ground.
+
+![Occluded Front](https://upload.wikimedia.org/wikipedia/commons/2/2d/Occluded_front_symbol.svg)
+
 *   **Symbol:** Alternating purple semicircles and triangles.
 *   **Cold Occlusion:** The air behind the cold front is **colder** than the air ahead of the warm front. (Common in Europe in **Summer**). Acts like a cold front.
 *   **Warm Occlusion:** The air ahead of the warm front is **colder** than the air behind the cold front. (Common in Europe in **Winter**). Acts like a warm front.

@@ -1,5 +1,7 @@
 ## Layers of the Atmosphere
 
+![Atmosphere Layers](https://upload.wikimedia.org/wikipedia/commons/0/02/Atmosphere_layers-es.svg)
+
 The atmosphere is divided into several layers based on the variation of temperature with altitude:
 
 1.  **Troposphere**:

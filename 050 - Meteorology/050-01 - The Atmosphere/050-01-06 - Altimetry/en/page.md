@@ -1,5 +1,7 @@
 ## Key Definitions
 
+![Altimeter Settings (QNH, QFE, QNE)](https://upload.wikimedia.org/wikipedia/commons/2/2c/Altimeter_mit_qnh.jpg)
+
 *   **True Altitude**: The actual height of the aircraft above mean sea level (MSL).
 *   **Indicated Altitude**: The altimeter reading when set to the local **QNH**.
 *   **Pressure Altitude**: The altimeter reading when set to standard pressure (**1013.2 hPa**). Used for flying at **Flight Levels (FL)**.

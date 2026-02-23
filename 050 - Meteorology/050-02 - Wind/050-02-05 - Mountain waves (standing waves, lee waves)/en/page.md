@@ -1,5 +1,7 @@
 Mountain waves (also called standing waves or lee waves) are oscillations of airflow that form on the **leeward** side of a mountain range.
 
+![Mountain Waves](https://upload.wikimedia.org/wikipedia/commons/f/fa/Wave_clouds_on_the_lee_of_the_Rocky_Mountains_%28CIRA_2019-11-19%29.gif)
+
 ## Conditions for Formation
 For significant mountain waves to form, three main conditions are required:
 
