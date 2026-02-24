@@ -31,6 +31,8 @@ The atmosphere is divided into several layers based on the variation of temperat
 
 It is the boundary between the troposphere and the stratosphere. It is defined as the point where the temperature stops decreasing with height (becomes isothermal or increases).
 
+![Tropopause and Jet Streams Cross Section](https://upload.wikimedia.org/wikipedia/commons/6/64/Jetcrosssection.svg)
+
 *   **Height Variation**: The height of the tropopause is not constant; it varies with **latitude** and **season** (surface temperature).
     *   **Equator**: Higher (~16-18 km / 56,000 ft) due to convection and expansion of warm air.
     *   **Poles**: Lower (~8-10 km / 26,000 ft) due to contraction of cold air.

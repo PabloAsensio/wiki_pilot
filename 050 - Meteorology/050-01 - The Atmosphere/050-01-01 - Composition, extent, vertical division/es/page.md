@@ -31,6 +31,8 @@ La atmósfera se divide en varias capas según la variación de la temperatura c
 
 Es el límite entre la troposfera y la estratosfera. Se define como el punto donde la temperatura deja de disminuir con la altura (se vuelve isotérmica o aumenta).
 
+![Sección Transversal de la Tropopausa y Corrientes en Chorro](https://upload.wikimedia.org/wikipedia/commons/6/64/Jetcrosssection.svg)
+
 *   **Variación de Altura**: La altura de la tropopausa no es constante; varía con la **latitud** y la **estación** (temperatura de la superficie).
     *   **Ecuador**: Más alta (~16-18 km / 56,000 ft) debido a la convección y expansión del aire caliente.
     *   **Polos**: Más baja (~8-10 km / 26,000 ft) debido a la contracción del aire frío.
