@@ -47,9 +47,9 @@ Es la carta estándar para la aviación en latitudes medias. Se utiliza un cono 
 
 ***
 
-![Proyección Mercator](https://upload.wikimedia.org/wikipedia/commons/f/f4/Mercator_projection_SW.jpg)
-
 ## 3. Proyección Mercator Directa
+
+![Proyección Mercator](https://upload.wikimedia.org/wikipedia/commons/f/f4/Mercator_projection_SW.jpg)
 
 Es una proyección cilíndrica donde el cilindro envuelve la Tierra tocando el **Ecuador** (su paralelo de origen).
 

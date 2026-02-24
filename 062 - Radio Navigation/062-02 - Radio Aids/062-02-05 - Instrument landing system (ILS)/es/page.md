@@ -35,3 +35,7 @@ El **ILS (Instrument Landing System)** es el sistema estándar de aproximación 
 
 - **Área Crítica:** Zona donde la presencia de vehículos o aviones causa interferencias inaceptables. Protegida siempre que el ILS esté en uso.
 - **Área Sensible:** Zona más amplia protegida durante operaciones de baja visibilidad (**CAT II/III**) para evitar fluctuaciones en el haz que el piloto automático podría seguir erróneamente.
+
+## Cartas de Aproximación
+
+![Carta de Aproximación ILS](https://upload.wikimedia.org/wikipedia/commons/6/65/KTIW_approach_chart_ILS_RWY_17.svg)

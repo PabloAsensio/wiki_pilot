@@ -38,6 +38,9 @@ Es el límite entre la troposfera y la estratosfera. Se define como el punto don
 *   **Relación Altura/Temperatura**:
     *   Tropopausa **Alta** (Ecuador) -> Temperatura **Más Fría** (aprox. -80°C).
     *   Tropopausa **Baja** (Polos) -> Temperatura **Más Cálida** (aprox. -40°C).
+
+![Perfil de Temperatura de la Atmósfera](https://upload.wikimedia.org/wikipedia/commons/9/9d/Comparison_US_standard_atmosphere_1962.svg)
+
 *   **ISA (Atmósfera Estándar Internacional)**: Asume una tropopausa a **11 km (36,090 ft)** con una temperatura constante de **-56.5°C**.
 *   **Roturas de la Tropopausa**: No es una superficie continua; existen roturas ("breaks") donde ocurren las corrientes en chorro (Jet Streams) y el intercambio de aire entre troposfera y estratosfera.
 

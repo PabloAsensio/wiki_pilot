@@ -35,3 +35,7 @@ The **ILS (Instrument Landing System)** is the standard precision approach syste
 
 - **Critical Area:** Zone where the presence of vehicles or aircraft causes unacceptable interference. Protected whenever the ILS is in use.
 - **Sensitive Area:** Wider zone protected during low visibility operations (**CAT II/III**) to prevent beam fluctuations that the autopilot might erroneously follow.
+
+## Approach Charts
+
+![ILS Approach Chart](https://upload.wikimedia.org/wikipedia/commons/6/65/KTIW_approach_chart_ILS_RWY_17.svg)

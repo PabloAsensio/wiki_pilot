@@ -55,3 +55,7 @@ El **VOR** es una radioayuda de navegación que opera en la banda VHF y proporci
 *   **Cono de Confusión:** Zona sobre la estación donde no se recibe señal o es errática.
 *   **Scalloping:** Ondulación de la señal causada por reflexiones en el terreno.
 *   **ATIS:** Algunos VOR transmiten la información ATIS del aeropuerto en su frecuencia.
+
+## Navegación en Ruta
+
+![Carta Enruta IFR (Aerovías VOR)](https://upload.wikimedia.org/wikipedia/commons/d/d6/Holdings_on_fligth_chart_IFR_Enroute_Low_Altitude.png)

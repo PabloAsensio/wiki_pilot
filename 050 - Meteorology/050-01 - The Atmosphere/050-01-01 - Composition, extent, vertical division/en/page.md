@@ -38,6 +38,9 @@ It is the boundary between the troposphere and the stratosphere. It is defined a
 *   **Height/Temperature Relationship**:
     *   **High** Tropopause (Equator) -> **Colder** Temperature (approx. -80°C).
     *   **Low** Tropopause (Poles) -> **Warmer** Temperature (approx. -40°C).
+
+![Atmosphere Temperature Profile](https://upload.wikimedia.org/wikipedia/commons/9/9d/Comparison_US_standard_atmosphere_1962.svg)
+
 *   **ISA (International Standard Atmosphere)**: Assumes a tropopause at **11 km (36,090 ft)** with a constant temperature of **-56.5°C**.
 *   **Tropopause Breaks**: It is not a continuous surface; there are "breaks" where Jet Streams occur and air exchange between the troposphere and stratosphere takes place.
 

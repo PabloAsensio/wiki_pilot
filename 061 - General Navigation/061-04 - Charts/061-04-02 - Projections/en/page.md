@@ -47,9 +47,9 @@ It is the standard chart for aviation at mid-latitudes. A cone is used that "cut
 
 ***
 
-![Mercator Projection](https://upload.wikimedia.org/wikipedia/commons/f/f4/Mercator_projection_SW.jpg)
-
 ## 3. Direct Mercator Projection
+
+![Mercator Projection](https://upload.wikimedia.org/wikipedia/commons/f/f4/Mercator_projection_SW.jpg)
 
 It is a cylindrical projection where the cylinder wraps the Earth touching the **Equator** (its origin parallel).
 

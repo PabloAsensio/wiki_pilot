@@ -55,3 +55,7 @@ The **VOR** is a radio navigation aid that operates in the VHF band and provides
 *   **Cone of Confusion:** Area above the station where no signal is received or it is erratic.
 *   **Scalloping:** Signal waviness caused by terrain reflections.
 *   **ATIS:** Some VORs transmit airport ATIS information on their frequency.
+
+## Enroute Navigation
+
+![IFR Enroute Chart (VOR Airways)](https://upload.wikimedia.org/wikipedia/commons/d/d6/Holdings_on_fligth_chart_IFR_Enroute_Low_Altitude.png)
