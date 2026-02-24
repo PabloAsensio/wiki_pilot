@@ -1,5 +1,7 @@
 ## Sistemas de Presión
 
+![Mapa de Superficie con Isobaras](https://upload.wikimedia.org/wikipedia/commons/a/a4/2018-04-30_Surface_Weather_Map_NOAA.png)
+
 *   **Isobaras**: Líneas que unen puntos de igual presión atmosférica. En los mapas de superficie, representan la presión reducida al nivel del mar considerando la temperatura real (**QFF**).
 *   **Alta Presión (Anticiclón)**: Región de presión relativamente alta. El aire desciende (subsidencia), lo que inhibe la formación de nubes. Asociado con **buen tiempo**, cielos despejados y condiciones secas.
 *   **Baja Presión (Borrasca/Depresión)**: Región de presión relativamente baja. El aire asciende, favoreciendo la formación de nubes y precipitación.
@@ -31,10 +33,15 @@ Relación aproximada entre Niveles de Vuelo (FL) y Presión:
 
 Ambos son ajustes de presión reducidos al Nivel Medio del Mar (MSL), pero difieren en cómo corrigen la columna de aire ficticia entre la estación y el nivel del mar.
 
+![Ajustes de Altímetro: QNH, QFE, QNE](https://upload.wikimedia.org/wikipedia/commons/b/bb/FL_QNE_QNH_QFE.png)
+
 *   **QNH**: Reduce la presión usando la temperatura de la **Atmósfera Estándar (ISA)**. Es el ajuste que se pone en el altímetro para leer la elevación del aeródromo en tierra.
 *   **QFF**: Reduce la presión usando la **temperatura real** (actual) del aire. Es el valor usado para dibujar las **isobaras** en los mapas del tiempo.
 
 ### Relación según la Temperatura (Estación por encima del MSL)
+
+![Influencia de la Temperatura en el Altímetro](https://upload.wikimedia.org/wikipedia/commons/2/25/Temperature%27s_influence_on_aircraft_altimeters.png)
+
 *   **Más caliente que ISA**: La columna de aire real es menos densa (más expandida) que la estándar. Para alcanzar la misma presión en la estación, la presión al nivel del mar "ficticia" (QFF) tendría que ser menor que la calculada con ISA (QNH).
     *   **QFF < QNH**
 *   **Más frío que ISA**: La columna de aire real es más densa (más comprimida).
