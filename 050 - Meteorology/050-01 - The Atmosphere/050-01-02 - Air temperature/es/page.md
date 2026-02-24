@@ -17,6 +17,8 @@ $$Desviación = T_{Real} - T_{ISA}$$
 
 ## Transferencia de Calor
 
+![Efecto Invernadero](https://upload.wikimedia.org/wikipedia/commons/c/c5/Greenhouse_effect_diagram.png)
+
 1.  **Radiación**:
     *   **Solar (Insolación)**: El sol emite radiación de **onda corta** (UV, visible). La atmósfera es casi transparente a ella.
     *   **Terrestre**: La Tierra absorbe la radiación solar y la re-emite como radiación de **onda larga (Infrarroja)**. Esta es la principal fuente de calor para la troposfera (se calienta desde abajo).
@@ -26,6 +28,8 @@ $$Desviación = T_{Real} - T_{ISA}$$
 4.  **Advección**: Transferencia horizontal de calor por el viento.
 
 ## Variación Diurna
+
+![Ciclo Diario de Radiación y Temperatura](https://upload.wikimedia.org/wikipedia/commons/2/27/24_hour_radiation_and_temperature_cycle.jpg)
 
 *   **Día**: La superficie se calienta por insolación. Máxima temperatura suele ser por la tarde (aprox. 15:00), cuando el calor recibido supera al emitido.
 *   **Noche**: La superficie se enfría por radiación terrestre. Mínima temperatura ocurre justo después del amanecer.
@@ -37,6 +41,8 @@ $$Desviación = T_{Real} - T_{ISA}$$
 ## Inversiones de Temperatura
 
 Una inversión ocurre cuando la temperatura **aumenta con la altitud** en la troposfera. Son capas muy estables.
+
+![Inversión Térmica](https://upload.wikimedia.org/wikipedia/commons/7/7b/Thermal_Inversion_in_Urban_Environment.png)
 
 1.  **Inversión de Radiación (Nocturna)**:
     *   Ocurre en noches **claras y sin viento**.

@@ -17,6 +17,8 @@ $$Deviation = T_{Actual} - T_{ISA}$$
 
 ## Heat Transfer
 
+![Greenhouse Effect](https://upload.wikimedia.org/wikipedia/commons/c/c5/Greenhouse_effect_diagram.png)
+
 1.  **Radiation**:
     *   **Solar (Insolation)**: The sun emits **shortwave** radiation (UV, visible). The atmosphere is almost transparent to it.
     *   **Terrestrial**: The Earth absorbs solar radiation and re-emits it as **longwave (Infrared)** radiation. This is the main heat source for the troposphere (it is heated from below).
@@ -26,6 +28,8 @@ $$Deviation = T_{Actual} - T_{ISA}$$
 4.  **Advection**: Horizontal transfer of heat by the wind.
 
 ## Diurnal Variation
+
+![Daily Radiation and Temperature Cycle](https://upload.wikimedia.org/wikipedia/commons/2/27/24_hour_radiation_and_temperature_cycle.jpg)
 
 *   **Day**: The surface heats up by insolation. Maximum temperature is usually in the afternoon (approx. 15:00), when heat received exceeds heat emitted.
 *   **Night**: The surface cools by terrestrial radiation. Minimum temperature occurs just after sunrise.
@@ -37,6 +41,8 @@ $$Deviation = T_{Actual} - T_{ISA}$$
 ## Temperature Inversions
 
 An inversion occurs when the temperature **increases with altitude** in the troposphere. They are very stable layers.
+
+![Thermal Inversion](https://upload.wikimedia.org/wikipedia/commons/7/7b/Thermal_Inversion_in_Urban_Environment.png)
 
 1.  **Radiation Inversion (Nocturnal)**:
     *   Occurs on **clear and calm** nights.
