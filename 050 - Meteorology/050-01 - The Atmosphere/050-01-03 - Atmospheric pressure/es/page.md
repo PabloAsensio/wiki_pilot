@@ -1,6 +1,6 @@
 ## Sistemas de Presión
 
-![Mapa de Superficie con Isobaras](https://upload.wikimedia.org/wikipedia/commons/a/a4/2018-04-30_Surface_Weather_Map_NOAA.png)
+![Sistemas de Presión: Altas, Bajas, Dorsal, Vaguada y Collado](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgN01y8GWuufT3CbkNR4sU0QryUvNqe1Ao1Q&s)
 
 *   **Isobaras**: Líneas que unen puntos de igual presión atmosférica. En los mapas de superficie, representan la presión reducida al nivel del mar considerando la temperatura real (**QFF**).
 *   **Alta Presión (Anticiclón)**: Región de presión relativamente alta. El aire desciende (subsidencia), lo que inhibe la formación de nubes. Asociado con **buen tiempo**, cielos despejados y condiciones secas.

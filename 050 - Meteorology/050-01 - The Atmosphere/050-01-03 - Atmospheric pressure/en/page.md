@@ -1,6 +1,6 @@
 ## Pressure Systems
 
-![Surface Weather Map with Isobars](https://upload.wikimedia.org/wikipedia/commons/a/a4/2018-04-30_Surface_Weather_Map_NOAA.png)
+![Pressure Systems: High, Low, Ridge, Trough and Col](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgN01y8GWuufT3CbkNR4sU0QryUvNqe1Ao1Q&s)
 
 *   **Isobars**: Lines joining points of equal atmospheric pressure. On surface charts, they represent pressure reduced to sea level considering the actual temperature (**QFF**).
 *   **High Pressure (Anticyclone)**: Region of relatively high pressure. Air descends (subsidence), which inhibits cloud formation. Associated with **good weather**, clear skies, and dry conditions.
