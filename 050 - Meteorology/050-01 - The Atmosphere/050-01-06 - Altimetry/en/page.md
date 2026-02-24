@@ -1,6 +1,6 @@
 ## Key Definitions
 
-![Altimeter Settings (QNH, QFE, QNE)](https://upload.wikimedia.org/wikipedia/commons/2/2c/Altimeter_mit_qnh.jpg)
+![Altimeter Settings (QNH, QFE, QNE)](https://upload.wikimedia.org/wikipedia/commons/b/bb/FL_QNE_QNH_QFE.png)
 
 *   **True Altitude**: The actual height of the aircraft above mean sea level (MSL).
 *   **Indicated Altitude**: The altimeter reading when set to the local **QNH**.
@@ -12,6 +12,8 @@
 ## Altimeter Errors
 
 The altimeter is essentially a barometer that measures pressure and converts it to altitude assuming standard conditions (ISA). If conditions are not standard, the indication will be erroneous.
+
+![Temperature's influence on aircraft altimeters](https://upload.wikimedia.org/wikipedia/commons/2/25/Temperature%27s_influence_on_aircraft_altimeters.png)
 
 ### Pressure Error
 *   **High to Low**: If you fly towards an area of lower pressure without adjusting the altimeter (keeping the previous higher setting), the altimeter will indicate a higher altitude than you actually have.

@@ -2,6 +2,8 @@ The International Standard Atmosphere (ISA) is a hypothetical atmospheric model 
 
 ## Standard Values
 
+![Standard Atmosphere Model (ISA)](https://upload.wikimedia.org/wikipedia/commons/9/9d/Comparison_US_standard_atmosphere_1962.svg)
+
 *   **Mean Sea Level (MSL)**:
     *   Temperature: **+15°C**
     *   Pressure: **1013.25 hPa**
@@ -46,6 +48,8 @@ Relationship between Flight Levels (FL) and pressure in hPa:
 | FL450 | 150 |
 
 ## Lapse Rates
+
+![Adiabatic Lapse Rates (DALR and SALR)](https://upload.wikimedia.org/wikipedia/commons/d/d4/Adiabatic_lapse_rate.svg)
 
 1.  **ELR (Environmental Lapse Rate)**: It is the actual temperature change with height at a given time and place. The ISA average is 2°C/1000 ft.
 2.  **DALR (Dry Adiabatic Lapse Rate)**: Cooling rate of an **unsaturated** air parcel that rises. Constant value: **3°C/1000 ft**.
