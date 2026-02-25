@@ -3,7 +3,7 @@ name: Make Automation
 about: Ask Copilot to review content, add images, or fix errors
 title: ''
 labels: ''
-assignees: ''
+assignees: Copilot
 
 ---
 
