@@ -27,7 +27,16 @@ The altimeter is essentially a barometer that measures pressure and converts it 
 *   **Warm Air (Warmer than ISA)**: The air column expands.
     *   **True Altitude > Indicated Altitude**.
 
-## Altimetry Calculations
+## How to Solve Altimetry Exercises
+
+### Pilot Perspective in the Aircraft
+
+Before diving into the calculations, it is important to understand how these corrections are experienced in the cockpit:
+
+*   **On the ground before departure**: You receive the QNH from the ATIS or air traffic control. You set it in the altimeter (the Kollsman window) and the altimeter should indicate the aerodrome elevation. If there is a significant difference (more than ±50 ft), the altimeter may have an instrument error.
+*   **During climb**: Upon reaching the **Transition Altitude (TA)**, you change the altimeter setting from QNH to **1013 hPa** and begin flying at Flight Levels (FL).
+*   **During descent**: When descending and crossing the **Transition Level (TL)**, you switch from 1013 hPa back to the destination QNH, so the altimeter once again indicates altitude above mean sea level.
+*   **Low-altitude flight**: If flying at low altitude on a cold day, remember that your actual altitude may be **lower** than the indicated altitude. Maintain additional safety margins above terrain.
 
 ### 1. Pressure Correction
 A barometric gradient of **30 ft per hPa** (or 27 ft/hPa if specified) is assumed.

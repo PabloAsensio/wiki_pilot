@@ -27,7 +27,16 @@ El altímetro es esencialmente un barómetro que mide presión y la convierte a 
 *   **Aire Caliente (Warmer than ISA)**: La columna de aire se expande.
     *   **Altitud Verdadera > Altitud Indicada**.
 
-## Cálculos de Altimetría
+## Cómo hacer los ejercicios de altimetría
+
+### Perspectiva del piloto en la aeronave
+
+Antes de entrar en los cálculos, es importante entender cómo se viven estas correcciones desde la cabina:
+
+*   **En tierra antes de despegar**: Recibes el QNH del ATIS o de la torre de control. Lo introduces en el altímetro (la ventanilla de Kollsman) y el altímetro debería indicar la elevación del aeródromo. Si hay una diferencia significativa (más de ±50 ft), el altímetro puede tener un error de instrumento.
+*   **Durante el ascenso**: Al alcanzar la **Altitud de Transición (TA)**, cambias el ajuste del altímetro de QNH a **1013 hPa** y empiezas a volar en Niveles de Vuelo (FL).
+*   **Durante el descenso**: Al descender y cruzar el **Nivel de Transición (TL)**, cambias de 1013 hPa al QNH del destino, para que el altímetro vuelva a indicar altitud sobre el nivel del mar.
+*   **Vuelo a baja altitud**: Si vuelas a baja altura en un día frío, recuerda que la altitud real puede ser **inferior** a la indicada. Mantén márgenes de seguridad adicionales sobre el terreno.
 
 ### 1. Corrección de Presión
 Se asume un gradiente barométrico de **30 ft por hPa** (o 27 ft/hPa si se especifica).
