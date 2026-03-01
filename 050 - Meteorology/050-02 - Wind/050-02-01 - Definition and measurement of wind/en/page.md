@@ -1,5 +1,8 @@
 ## Definition
 Wind is always defined by the direction **from which it comes** (origin).
+
+![Compass rose](https://upload.wikimedia.org/wikipedia/commons/1/17/Compass-rose-32-pt.svg)
+
 *   **NE**: Wind from 045°.
 *   **SE**: Wind from 135°.
 *   **SW**: Wind from 225°.
@@ -7,6 +10,9 @@ Wind is always defined by the direction **from which it comes** (origin).
 
 ## Measurement
 Surface wind is measured by anemometers (speed) and wind vanes (direction) located at a standard height of **10 meters** above the ground.
+
+![Anemometer](https://upload.wikimedia.org/wikipedia/commons/1/1b/Anemometer.jpg)
+*Anemometer used for measuring wind speed.*
 
 ### Averaging Periods and Reference
 How wind is reported depends on the type of report:
