@@ -8,6 +8,9 @@ It is the initiating force of the wind.
 *   Acts **perpendicular (90°)** to the isobars.
 *   The closer the isobars are, the greater the gradient and the stronger the wind.
 
+![Coriolis Effect](https://upload.wikimedia.org/wikipedia/commons/d/d3/Coriolis_effect.svg)
+
+
 ### 2. Coriolis Force (CF)
 It is an apparent force caused by the Earth's rotation.
 *   **Deflects the wind**:
@@ -26,6 +29,9 @@ It is an apparent force caused by the Earth's rotation.
 
 ### Geostrophic Wind
 Occurs when the **PGF** and the **Coriolis Force** are in perfect balance.
+
+![Geostrophic Wind](https://cdns3.eltiempo.es/eltiempo/blog/noticias/2019/03/03065030/gfs_jet_300_conus_9.png)
+
 *   Flows **parallel** to **straight** isobars.
 *   Occurs above the friction layer (> 2000-3000 ft).
 *   Does not exist at the Equator (needs Coriolis, latitude > 15°).
@@ -38,6 +44,8 @@ For the same pressure gradient (same isobar spacing):
 
 ### Gradient Wind
 Occurs when isobars are **curved**. Involves PGF, Coriolis, and Centrifugal Force (inertia).
+
+![Balanced Flow Speeds](https://lh5.googleusercontent.com/proxy/R3j38lQicN3EhJiiuo_SJQeyU_XZeBmAV9DGWYmM-aLu98jaGxZOHqakXDJlJgg2Oyd2HjlL-tNQDvUFCAHsiU1KaTS2fc9pmqcjxw)
 
 1.  **Around a LOW (Cyclone):**
     *   Wind rotates counter-clockwise (NH).
@@ -82,6 +90,10 @@ Friction with the terrain reduces wind speed in the lower layer (up to 2000-3000
 
 ### Buys Ballot's Law
 In the Northern Hemisphere, if you stand with your back to the wind, the **Low Pressure** is on your **left**. (In the SH it is on the right).
+
+![Buys Ballot Law](https://www.pasionporvolar.com/wp-content/uploads/2015/08/buys-ballot-1.png)
+
+![Circulation High Low](https://upload.wikimedia.org/wikipedia/commons/9/9b/High_and_low_pressure_N_and_S.svg)
 
 ### Convergence and Divergence
 
