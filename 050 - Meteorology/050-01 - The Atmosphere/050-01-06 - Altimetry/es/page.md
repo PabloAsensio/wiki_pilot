@@ -29,15 +29,6 @@ El altímetro es esencialmente un barómetro que mide presión y la convierte a 
 
 ## Cómo hacer los ejercicios de altimetría
 
-### Perspectiva del piloto en la aeronave
-
-Antes de entrar en los cálculos, es importante entender cómo se viven estas correcciones desde la cabina:
-
-*   **En tierra antes de despegar**: Recibes el QNH del ATIS o de la torre de control. Lo introduces en el altímetro (la ventanilla de Kollsman) y el altímetro debería indicar la elevación del aeródromo. Si hay una diferencia significativa (más de ±50 ft), el altímetro puede tener un error de instrumento.
-*   **Durante el ascenso**: Al alcanzar la **Altitud de Transición (TA)**, cambias el ajuste del altímetro de QNH a **1013 hPa** y empiezas a volar en Niveles de Vuelo (FL).
-*   **Durante el descenso**: Al descender y cruzar el **Nivel de Transición (TL)**, cambias de 1013 hPa al QNH del destino, para que el altímetro vuelva a indicar altitud sobre el nivel del mar.
-*   **Vuelo a baja altitud**: Si vuelas a baja altura en un día frío, recuerda que la altitud real puede ser **inferior** a la indicada. Mantén márgenes de seguridad adicionales sobre el terreno.
-
 ### 1. Corrección de Presión
 Se asume un gradiente barométrico de **30 ft por hPa** (o 27 ft/hPa si se especifica).
 
@@ -55,6 +46,35 @@ $$Corrección\_Temp = 4 \times (Desviación\_ISA) \times \frac{Altitud\_Indicada
 *   **Más frío que ISA**: Restar corrección (True Alt < Indicated Alt).
 
 *Nota: La corrección de temperatura se aplica a la columna de aire entre la estación (aeródromo) y la aeronave. Si se calcula la altitud verdadera sobre el terreno, usar (Altitud Indicada - Elevación Estación) en la fórmula.*
+
+### Perspectiva del piloto en la aeronave: Ejemplo práctico
+
+Así es cómo se viven estas correcciones en la cabina. Veamos un ejercicio completo:
+
+**Situación**: Estás en aproximación a un aeródromo en un día de invierno. Dispones de los siguientes datos:
+*   QNH del destino: **1003 hPa**
+*   Altitud Indicada actual: **5.000 ft** (altímetro calado a QNH)
+*   OAT (temperatura exterior): **-5°C**
+*   Elevación del aeródromo: **500 ft**
+
+**Paso 1 – Corrección de Presión** (pasar de Altitud Indicada a Altitud de Presión):
+
+$$Corrección = (1003 - 1013) \times 30 = -10 \times 30 = -300 \text{ ft}$$
+
+El QNH está por debajo de 1013, así que tu Altitud de Presión (con 1013 calado) sería **5.300 ft**. Dicho de otro modo, tu altímetro *subestima* lo alto que estás en términos de presión estándar.
+
+**Paso 2 – Corrección de Temperatura** (obtener la Altitud Verdadera):
+
+Temperatura ISA a 5.000 ft = 15 − (5 × 2) = **+5°C**  
+Desviación ISA = OAT − ISA = −5 − 5 = **−10°C** (más frío que ISA)
+
+$$Corrección\_Temp = 4 \times (-10) \times \frac{5.000}{1.000} = -200 \text{ ft}$$
+
+Altitud Verdadera = 5.000 − 200 = **4.800 ft**
+
+**Interpretación desde la cabina**: Tu altímetro marca 5.000 ft con QNH, pero en realidad estás a **4.800 ft** sobre el nivel del mar. El aeródromo está a 500 ft, por lo que la separación real sobre el terreno es de solo 4.300 ft — **200 ft menos** de lo que indica el altímetro. En días fríos como este, aplica siempre márgenes de seguridad adicionales sobre el terreno.
+
+> 💡 **Regla práctica**: En condiciones de baja presión y/o frío intenso, la altitud real siempre es **menor** que la indicada. El altímetro te "miente a tu favor" en el examen pero puede ser peligroso en el vuelo real.
 
 ## Procedimientos de Transición
 

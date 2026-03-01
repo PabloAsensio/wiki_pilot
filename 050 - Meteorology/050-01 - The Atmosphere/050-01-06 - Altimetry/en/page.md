@@ -29,15 +29,6 @@ The altimeter is essentially a barometer that measures pressure and converts it 
 
 ## How to Solve Altimetry Exercises
 
-### Pilot Perspective in the Aircraft
-
-Before diving into the calculations, it is important to understand how these corrections are experienced in the cockpit:
-
-*   **On the ground before departure**: You receive the QNH from the ATIS or air traffic control. You set it in the altimeter (the Kollsman window) and the altimeter should indicate the aerodrome elevation. If there is a significant difference (more than ±50 ft), the altimeter may have an instrument error.
-*   **During climb**: Upon reaching the **Transition Altitude (TA)**, you change the altimeter setting from QNH to **1013 hPa** and begin flying at Flight Levels (FL).
-*   **During descent**: When descending and crossing the **Transition Level (TL)**, you switch from 1013 hPa back to the destination QNH, so the altimeter once again indicates altitude above mean sea level.
-*   **Low-altitude flight**: If flying at low altitude on a cold day, remember that your actual altitude may be **lower** than the indicated altitude. Maintain additional safety margins above terrain.
-
 ### 1. Pressure Correction
 A barometric gradient of **30 ft per hPa** (or 27 ft/hPa if specified) is assumed.
 
@@ -55,6 +46,35 @@ $$Temp\_Correction = 4 \times (ISA\_Deviation) \times \frac{Indicated\_Altitude}
 *   **Colder than ISA**: Subtract correction (True Alt < Indicated Alt).
 
 *Note: The temperature correction applies to the air column between the station (aerodrome) and the aircraft. If calculating true altitude above the ground, use (Indicated Altitude - Station Elevation) in the formula.*
+
+### Pilot Perspective in the Aircraft: Worked Example
+
+Here is how these corrections play out in the cockpit. Let's go through a complete exercise:
+
+**Situation**: You are on approach to an aerodrome on a cold winter day. You have the following information:
+*   Destination QNH: **1003 hPa**
+*   Current Indicated Altitude: **5,000 ft** (altimeter set to QNH)
+*   OAT (Outside Air Temperature): **-5°C**
+*   Aerodrome elevation: **500 ft**
+
+**Step 1 – Pressure Correction** (converting Indicated Altitude to Pressure Altitude):
+
+$$Correction = (1003 - 1013) \times 30 = -10 \times 30 = -300 \text{ ft}$$
+
+The QNH is below 1013, so your Pressure Altitude (with 1013 set) would be **5,300 ft**. In other words, your altimeter is *understating* how high you are in standard pressure terms.
+
+**Step 2 – Temperature Correction** (finding True Altitude):
+
+ISA temperature at 5,000 ft = 15 − (5 × 2) = **+5°C**  
+ISA deviation = OAT − ISA = −5 − 5 = **−10°C** (colder than ISA)
+
+$$Temp\_Correction = 4 \times (-10) \times \frac{5{,}000}{1{,}000} = -200 \text{ ft}$$
+
+True Altitude = 5,000 − 200 = **4,800 ft**
+
+**Cockpit interpretation**: Your altimeter reads 5,000 ft with QNH set, but you are actually at **4,800 ft** above sea level. The aerodrome is at 500 ft, so your actual clearance above terrain is only 4,300 ft — **200 ft less** than the altimeter shows. On cold days like this, always add extra safety margins above terrain.
+
+> 💡 **Practical rule**: In low pressure and/or very cold conditions, your actual altitude is always **lower** than the indicated altitude. The altimeter "lies in your favour" on the exam, but can be dangerous in real flight.
 
 ## Transition Procedures
 
