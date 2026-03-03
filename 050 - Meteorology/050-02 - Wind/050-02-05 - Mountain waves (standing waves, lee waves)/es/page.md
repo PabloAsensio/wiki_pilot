@@ -29,7 +29,7 @@ La presencia de humedad permite visualizar las ondas mediante nubes característ
 *   Indican turbulencia moderada a severa.
 
 ### Nubes Rotor (Rotor/Roll Clouds)
-![Nube Rotor](https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotor_Cloud_over_Carson_Valley.jpg)
+![Nube Rotor](https://www.earthtouchnews.com/media/1692/2013-11-26-rare-roll-cloud-sweeps-across-durban-01.jpg?mode=crop&width=710&height=474)
 *   Se forman **debajo de las crestas** de las ondas (especialmente bajo la primera onda a sotavento).
 *   Parecen rodillos giratorios.
 *   Indican **turbulencia extremadamente severa**.

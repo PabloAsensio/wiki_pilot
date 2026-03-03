@@ -29,7 +29,7 @@ The presence of moisture allows waves to be visualized through characteristic cl
 *   Indicate moderate to severe turbulence.
 
 ### Rotor Clouds (Roll Clouds)
-![Rotor Cloud](https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotor_Cloud_over_Carson_Valley.jpg)
+![Rotor Cloud](https://www.earthtouchnews.com/media/1692/2013-11-26-rare-roll-cloud-sweeps-across-durban-01.jpg?mode=crop&width=710&height=474)
 *   Form **below the crests** of the waves (especially under the first wave downwind).
 *   Look like rotating rolls.
 *   Indicate **extremely severe turbulence**.
