@@ -17,7 +17,7 @@ La turbulencia es el movimiento irregular y violento del aire que provoca sacudi
     *   Estabilidad del aire.
 
 ### 3. Turbulencia Orográfica (Ondas de Montaña)
-*   Ver sección anterior (050-02-05).
+*   Ver sección anterior ([050-02-05](../mountain-waves-standing-waves-lee-waves/es/page.md)).
 *   La zona más peligrosa es el **Rotor**, a sotavento de la montaña.
 
 ### 4. Turbulencia en Aire Claro (CAT - Clear Air Turbulence)

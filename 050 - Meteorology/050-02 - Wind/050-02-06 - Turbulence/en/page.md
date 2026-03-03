@@ -17,7 +17,7 @@ Turbulence is the irregular and violent movement of air that causes the aircraft
     *   Air stability.
 
 ### 3. Orographic Turbulence (Mountain Waves)
-*   See previous section (050-02-05).
+*   See previous section ([050-02-05](../mountain-waves-standing-waves-lee-waves/en/page.md)).
 *   The most dangerous zone is the **Rotor**, on the leeward side of the mountain.
 
 ### 4. Clear Air Turbulence (CAT)
