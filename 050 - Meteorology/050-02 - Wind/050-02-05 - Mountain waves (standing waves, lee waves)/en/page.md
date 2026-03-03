@@ -22,15 +22,18 @@ For significant mountain waves to form, three main conditions are required:
 The presence of moisture allows waves to be visualized through characteristic clouds:
 
 1.  **Lenticular Clouds:**
+    ![Lenticular Clouds](https://upload.wikimedia.org/wikipedia/commons/4/43/Altocumulus_lenticularis_duplicatus.jpg)
     *   Lens or saucer shape.
     *   Form at the **crests** of the waves.
     *   Appear stationary, but the wind flows through them at high speed.
     *   Indicate moderate to severe turbulence.
 2.  **Rotor Clouds (Roll Clouds):**
+    ![Rotor Cloud](https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotor_Cloud_over_Carson_Valley.jpg)
     *   Form **below the crests** of the waves (especially under the first wave downwind).
     *   Look like rotating rolls.
     *   Indicate **extremely severe turbulence**.
 3.  **Cap Cloud:**
+    ![Cap Cloud](https://upload.wikimedia.org/wikipedia/commons/4/49/Orographic_cloud_01.jpg)
     *   Covers the mountain summit.
     *   Air descends down the leeward slope looking like a cloud waterfall.
 
