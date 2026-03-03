@@ -39,6 +39,9 @@ For the same isobar spacing (same pressure gradient):
 ---
 
 ## Buys Ballot's Law (Flight Application)
+
+![Ley de Buys Ballot](https://www.pasionporvolar.com/wp-content/uploads/2015/08/buys-ballot-1.png)
+
 *   **Tailwind (Northern Hemisphere):** If you fly with a tailwind, the **Low Pressure** is on your **left**.
 *   **Headwind (Northern Hemisphere):** If you fly with a headwind, the **Low Pressure** is on your **right**.
 *   **Crossing a system:**

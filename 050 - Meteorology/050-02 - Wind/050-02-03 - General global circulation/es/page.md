@@ -39,6 +39,9 @@ Para un mismo espaciado de isobaras (mismo gradiente de presión):
 ---
 
 ## Ley de Buys Ballot (Aplicación en Vuelo)
+
+![Ley de Buys Ballot](https://www.pasionporvolar.com/wp-content/uploads/2015/08/buys-ballot-1.png)
+
 *   **Viento de Cola (Hemisferio Norte):** Si vuelas con viento de cola, la **Baja Presión** está a tu **izquierda**.
 *   **Viento de Cara (Hemisferio Norte):** Si vuelas con viento de cara, la **Baja Presión** está a tu **derecha**.
 *   **Cruzando un sistema:**
