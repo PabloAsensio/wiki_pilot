@@ -1,5 +1,9 @@
 Mountain waves (also called standing waves or lee waves) are oscillations of airflow that form on the **leeward** side of a mountain range.
 
+> 💡 **Note: Windward vs. Leeward**
+> *   **Windward (Barlovento):** The side of the mountain facing the wind; the side where the air strikes and forced to rise.
+> *   **Leeward (Sotavento):** The opposite, downwind side; the sheltered area where the wind descends after crossing the mountain peak.
+
 ![Mountain Waves](https://upload.wikimedia.org/wikipedia/commons/f/fa/Wave_clouds_on_the_lee_of_the_Rocky_Mountains_%28CIRA_2019-11-19%29.gif)
 
 ## Conditions for Formation
