@@ -21,21 +21,23 @@ Para que se formen ondas de montaña significativas, se requieren tres condicion
 ## Nubes Asociadas
 La presencia de humedad permite visualizar las ondas mediante nubes características:
 
-1.  **Nubes Lenticulares (Lenticular Clouds):**
-    ![Nubes Lenticulares](https://upload.wikimedia.org/wikipedia/commons/4/43/Altocumulus_lenticularis_duplicatus.jpg)
-    *   Forma de lente o platillo.
-    *   Se forman en las **crestas** de las ondas.
-    *   Parecen estacionarias, pero el viento fluye a través de ellas a alta velocidad.
-    *   Indican turbulencia moderada a severa.
-2.  **Nubes Rotor (Rotor/Roll Clouds):**
-    ![Nube Rotor](https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotor_Cloud_over_Carson_Valley.jpg)
-    *   Se forman **debajo de las crestas** de las ondas (especialmente bajo la primera onda a sotavento).
-    *   Parecen rodillos giratorios.
-    *   Indican **turbulencia extremadamente severa**.
-3.  **Nube de "Gorro" (Cap Cloud):**
-    ![Nube de Gorro](https://upload.wikimedia.org/wikipedia/commons/4/49/Orographic_cloud_01.jpg)
-    *   Cubre la cima de la montaña.
-    *   El aire desciende por la ladera de sotavento pareciendo una cascada de nubes.
+### Nubes Lenticulares (Lenticular Clouds)
+![Nubes Lenticulares](https://upload.wikimedia.org/wikipedia/commons/4/43/Altocumulus_lenticularis_duplicatus.jpg)
+*   Forma de lente o platillo.
+*   Se forman en las **crestas** de las ondas.
+*   Parecen estacionarias, pero el viento fluye a través de ellas a alta velocidad.
+*   Indican turbulencia moderada a severa.
+
+### Nubes Rotor (Rotor/Roll Clouds)
+![Nube Rotor](https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotor_Cloud_over_Carson_Valley.jpg)
+*   Se forman **debajo de las crestas** de las ondas (especialmente bajo la primera onda a sotavento).
+*   Parecen rodillos giratorios.
+*   Indican **turbulencia extremadamente severa**.
+
+### Nube de "Gorro" (Cap Cloud)
+![Nube de Gorro](https://upload.wikimedia.org/wikipedia/commons/4/49/Orographic_cloud_01.jpg)
+*   Cubre la cima de la montaña.
+*   El aire desciende por la ladera de sotavento pareciendo una cascada de nubes.
 
 ## Peligros para el Vuelo
 *   **Turbulencia Severa:** Especialmente en la zona del **rotor** (cerca del suelo) y si las ondas "rompen" en altura.
