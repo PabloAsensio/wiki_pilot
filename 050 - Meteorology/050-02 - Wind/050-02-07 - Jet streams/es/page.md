@@ -1,5 +1,7 @@
 Una corriente de chorro (Jet Stream) es una corriente de aire rápida en forma de cinta en la troposfera superior.
 
+![Jet Stream Globe](https://upload.wikimedia.org/wikipedia/commons/d/d7/Straalstroom.jpg)
+
 ## Características Generales
 *   **Velocidad Mínima:** 60 kt (pueden superar los 200-300 kt).
 *   **Dirección:** Generalmente de **Oeste a Este** (Westerly), debido a la rotación de la Tierra (Coriolis).
@@ -11,6 +13,9 @@ Una corriente de chorro (Jet Stream) es una corriente de aire rápida en forma d
 *   **Causa:** Fuertes contrastes horizontales de temperatura entre dos masas de aire.
 
 ## Ubicación del Núcleo (Core)
+
+![Jet Cross Section](https://upload.wikimedia.org/wikipedia/commons/6/64/Jetcrosssection.svg)
+
 *   El núcleo del Jet se encuentra siempre en la masa de **aire cálido** (Tropical).
 *   Verticalmente, está situado:
     *   Justo **debajo** de la tropopausa del aire cálido.

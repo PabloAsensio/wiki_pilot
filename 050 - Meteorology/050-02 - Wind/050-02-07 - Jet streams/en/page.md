@@ -1,5 +1,7 @@
 A Jet Stream is a fast, ribbon-like air current in the upper troposphere.
 
+![Jet Stream Globe](https://upload.wikimedia.org/wikipedia/commons/d/d7/Straalstroom.jpg)
+
 ## General Characteristics
 *   **Minimum Speed:** 60 kt (can exceed 200-300 kt).
 *   **Direction:** Generally from **West to East** (Westerly), due to the Earth's rotation (Coriolis).
@@ -11,6 +13,9 @@ A Jet Stream is a fast, ribbon-like air current in the upper troposphere.
 *   **Cause:** Strong horizontal temperature contrasts between two air masses.
 
 ## Core Location
+
+![Jet Cross Section](https://upload.wikimedia.org/wikipedia/commons/6/64/Jetcrosssection.svg)
+
 *   The Jet core is always found in the **warm air** mass (Tropical).
 *   Vertically, it is located:
     *   Just **below** the tropopause of the warm air.
