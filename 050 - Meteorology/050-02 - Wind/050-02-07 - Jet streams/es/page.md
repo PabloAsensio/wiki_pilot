@@ -23,6 +23,8 @@ Una corriente de chorro (Jet Stream) es una corriente de aire rápida en forma d
 
 ## Tipos Principales
 
+![Tipos de Jet Streams](https://media.sciencephoto.com/c0/21/63/53/c0216353-800px-wm.jpg)
+
 ### 1. Chorro del Frente Polar (Polar Front Jet)
 *   **Ubicación:** Entre la Célula Polar y la Célula de Ferrel (sobre el Frente Polar).
 *   **Altitud:** Aprox. **30,000 ft**.

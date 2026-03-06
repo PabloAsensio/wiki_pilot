@@ -23,6 +23,8 @@ A Jet Stream is a fast, ribbon-like air current in the upper troposphere.
 
 ## Main Types
 
+![Main Jet Streams Types](https://media.sciencephoto.com/c0/21/63/53/c0216353-800px-wm.jpg)
+
 ### 1. Polar Front Jet
 *   **Location:** Between the Polar Cell and the Ferrel Cell (over the Polar Front).
 *   **Altitude:** Approx. **30,000 ft**.
