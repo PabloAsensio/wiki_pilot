@@ -1,3 +1,9 @@
+---
+title: "Procesos adiabáticos"
+description: "Explicación de los procesos adiabáticos, el gradiente térmico, la expansión y compresión adiabática en meteorología y aviación."
+keywords: ["proceso adiabático", "meteorología de aviación", "expansión adiabática", "compresión adiabática", "gradientes térmicos", "lapse rate", "estabilidad atmosférica"]
+---
+
 Un proceso adiabático es aquel en el que **no hay transferencia de calor** hacia o desde el sistema. El cambio de temperatura se debe únicamente a la expansión o compresión del gas.
 
 ## Mecanismo Físico
