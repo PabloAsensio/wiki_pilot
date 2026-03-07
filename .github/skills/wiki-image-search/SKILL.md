@@ -20,6 +20,7 @@ description: 'Search for images on Wikimedia Commons using the workspace script.
 3. Wait for the script execution and capture its output.
 4. **Fallback mechanism**: If no images are found using the initial English term, try alternative English synonyms, or as a last resort, try the original Spanish term.
 5. Once you have the results, use the returned direct URLs to embed the images in markdown format (`![<title>](<url>)`) or provide them directly to the user.
+6. **Multilingual consistency**: If you are adding the images to a file in the workspace, ALWAYS check if the document has multiple language versions (e.g., in `es/`, `en/`, etc. subdirectories). You must inject the images into **every language version** of the file so that no language is left out.
 
 ## Quality Criteria
 - Make sure the query is specific enough to find relevant images.
