@@ -22,6 +22,8 @@ These processes release energy to the environment, **warming** the surrounding a
 ## Importance of Latent Heat
 The energy involved in evaporation and condensation is enormous compared to melting/freezing.
 
+![Cumulonimbus - Thunderstorms](https://upload.wikimedia.org/wikipedia/commons/a/a7/Anvil_shaped_cumulus_panorama_edit.jpg)
+
 *   **Storm Engine:** When water vapor condenses to form clouds, it releases a large amount of latent heat. This heat warms the air inside the cloud, making it lighter than the surrounding air, which encourages continuous ascent (instability).
 *   **Energy:** This release of latent heat is the main source of energy for the development of **thunderstorms** and **hurricanes**.
 
@@ -34,6 +36,9 @@ For clouds to form, three ingredients are needed:
 
 ## Supercooled Water Droplets (SCWD)
 These are water droplets that remain in a **liquid** state at temperatures **below 0°C**.
+
+![Ice on an aircraft wing](https://upload.wikimedia.org/wikipedia/commons/5/5e/Ice_on_an_aircraft_wing.jpg)
+
 *   To freeze, they need to come into contact with a **freezing nucleus** or a solid surface (such as an aircraft).
 *   In the atmosphere, there are many more water droplets than freezing nuclei, so supercooled water is very common in clouds between 0°C and -15°C (and even down to -40°C).
 *   They are the main cause of **icing** on aircraft.

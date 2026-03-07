@@ -22,6 +22,8 @@ Estos procesos liberan energía al entorno, **calentando** el aire circundante.
 ## Importancia del Calor Latente
 La energía involucrada en la evaporación y condensación es enorme comparada con la de fusión/congelación.
 
+![Cumulonimbus - Tormentas Eléctricas](https://upload.wikimedia.org/wikipedia/commons/a/a7/Anvil_shaped_cumulus_panorama_edit.jpg)
+
 *   **Motor de las Tormentas:** Cuando el vapor de agua se condensa para formar nubes, libera una gran cantidad de calor latente. Este calor calienta el aire dentro de la nube, haciéndolo más ligero que el aire circundante, lo que fomenta el ascenso continuo (inestabilidad).
 *   **Energía:** Esta liberación de calor latente es la principal fuente de energía para el desarrollo de **tormentas eléctricas (Thunderstorms)** y **huracanes**.
 
@@ -34,6 +36,9 @@ Para que se formen nubes, se necesitan tres ingredientes:
 
 ## Gotas de Agua Sobrefundida (Supercooled Water Droplets - SCWD)
 Son gotas de agua que permanecen en estado **líquido** a temperaturas **por debajo de 0°C**.
+
+![Ice on an aircraft wing](https://upload.wikimedia.org/wikipedia/commons/5/5e/Ice_on_an_aircraft_wing.jpg)
+
 *   Para congelarse, necesitan entrar en contacto con un **núcleo de congelación** o una superficie sólida (como un avión).
 *   En la atmósfera, hay muchas más gotas de agua que núcleos de congelación, por lo que el agua sobrefundida es muy común en las nubes entre 0°C y -15°C (e incluso hasta -40°C).
 *   Son la causa principal del **engelamiento (icing)** en las aeronaves.
