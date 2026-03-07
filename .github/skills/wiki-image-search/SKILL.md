@@ -11,14 +11,15 @@ description: 'Search for images on Wikimedia Commons using the workspace script.
 - You need direct URLs to images about a specific subject.
 
 ## Procedure
-1. Identify the search keyword or query based on the user's request.
+1. Identify the search keyword or query based on the user's request. **Important: Always translate the search term to English first** before searching (even if the user asks in Spanish), as Wikimedia Commons has much broader image coverage for English terms.
 2. Run the search script located in the workspace root:
    ```bash
    python wiki_image_search.py "<query>"
    ```
    *Optional: Append `--limit <N>` to specify the maximum number of results (default is 5).*
-3. Wait for the script execution and capture its output, which will be a JSON array containing objects with `title` and `url`.
-4. Use the returned direct URLs to embed the images in markdown format (`![<title>](<url>)`) or provide them directly to the user as appropriate to fulfill their request.
+3. Wait for the script execution and capture its output.
+4. **Fallback mechanism**: If no images are found using the initial English term, try alternative English synonyms, or as a last resort, try the original Spanish term.
+5. Once you have the results, use the returned direct URLs to embed the images in markdown format (`![<title>](<url>)`) or provide them directly to the user.
 
 ## Quality Criteria
 - Make sure the query is specific enough to find relevant images.
