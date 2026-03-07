@@ -18,6 +18,8 @@ Un proceso adiabático es aquel en el que **no hay transferencia de calor** haci
 
 ## Gradientes Térmicos (Lapse Rates)
 
+![Adiabatic Lapse Rate](https://upload.wikimedia.org/wikipedia/commons/d/d4/Adiabatic_lapse_rate.svg)
+
 ### DALR (Dry Adiabatic Lapse Rate) - Gradiente Adiabático Seco
 *   Es la tasa de enfriamiento del aire **no saturado** (seco) cuando asciende.
 *   **Valor Constante:** $3^\circ C / 1000 \text{ ft}$ ($1^\circ C / 100 \text{ m}$).
@@ -56,6 +58,9 @@ La estabilidad se determina comparando el ELR con el DALR y el SALR.
 ---
 
 ## Tefigrama (Tephigram)
+
+![Tephigram - Atmospheric Stability](https://upload.wikimedia.org/wikipedia/commons/9/94/Stability_tepfigram.png)
+
 Es un diagrama termodinámico utilizado para analizar la estabilidad y predecir niveles de condensación.
 *   Si la curva de estado de la parcela (DALR/SALR) está a la **derecha** de la curva de temperatura ambiental (ELR), la parcela es más cálida $\rightarrow$ **Inestable** (asciende).
 *   Si está a la **izquierda**, la parcela es más fría $\rightarrow$ **Estable** (resiste el ascenso).

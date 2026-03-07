@@ -18,6 +18,8 @@ An adiabatic process is one in which **there is no heat transfer** to or from th
 
 ## Lapse Rates
 
+![Adiabatic Lapse Rate](https://upload.wikimedia.org/wikipedia/commons/d/d4/Adiabatic_lapse_rate.svg)
+
 ### DALR (Dry Adiabatic Lapse Rate)
 *   It is the cooling rate of **unsaturated** (dry) air when it rises.
 *   **Constant Value:** $3^\circ C / 1000 \text{ ft}$ ($1^\circ C / 100 \text{ m}$).
@@ -56,6 +58,9 @@ Stability is determined by comparing the ELR with the DALR and SALR.
 ---
 
 ## Tephigram
+
+![Tephigram - Atmospheric Stability](https://upload.wikimedia.org/wikipedia/commons/9/94/Stability_tepfigram.png)
+
 It is a thermodynamic diagram used to analyze stability and predict condensation levels.
 *   If the parcel state curve (DALR/SALR) is to the **right** of the environmental temperature curve (ELR), the parcel is warmer $\rightarrow$ **Unstable** (rises).
 *   If it is to the **left**, the parcel is colder $\rightarrow$ **Stable** (resists ascent).
