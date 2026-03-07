@@ -57,10 +57,10 @@ La estabilidad se determina comparando el ELR con el DALR y el SALR.
 
 ---
 
-## Tefigrama (Tephigram)
+## Diagramas Termodinámicos (Tefigrama / Skew-T)
 
-![Tephigram - Atmospheric Stability](https://upload.wikimedia.org/wikipedia/commons/9/94/Stability_tepfigram.png)
+![Annotated Skew-T Diagram](https://upload.wikimedia.org/wikipedia/commons/9/96/Annotated_Skew_T_diagram.png)
 
-Es un diagrama termodinámico utilizado para analizar la estabilidad y predecir niveles de condensación.
+Son diagramas termodinámicos utilizados para analizar la estabilidad y predecir niveles de condensación.
 *   Si la curva de estado de la parcela (DALR/SALR) está a la **derecha** de la curva de temperatura ambiental (ELR), la parcela es más cálida $\rightarrow$ **Inestable** (asciende).
 *   Si está a la **izquierda**, la parcela es más fría $\rightarrow$ **Estable** (resiste el ascenso).
