@@ -1,3 +1,9 @@
+---
+title: "Composition, extent, vertical division"
+description: "Explore the Earth's atmosphere components: Nitrogen and Oxygen. Learn about its vertical structure including Troposphere, Stratosphere and Tropopause."
+keywords: ["layers of the atmosphere aviation", "air composition ATPL meteorology", "troposphere stratosphere tropopause flying", "vertical division of the atmosphere", "nitrogen oxygen argon atmosphere"]
+---
+
 ## Layers of the Atmosphere
 
 ![Atmosphere Layers](https://upload.wikimedia.org/wikipedia/commons/0/02/Atmosphere_layers-es.svg)

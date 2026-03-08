@@ -1,3 +1,9 @@
+---
+title: "Humedad"
+description: "Comprende los conceptos de humedad en aviación: humedad relativa (RH), punto de rocío (dew point), mixing ratio y sus fórmulas para exámenes de meteorología."
+keywords: ["humedad relativa aviación", "cálculo de relative humidity ATPL", "punto de rocío dew point meteorología", "mixing ratio temperatura del aire", "meteorología aeronáutica humedad", "variación diurna humedad relativa"]
+---
+
 La humedad es la medida de la cantidad de vapor de agua presente en el aire.
 
 ## Conceptos Clave

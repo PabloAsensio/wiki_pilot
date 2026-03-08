@@ -1,3 +1,9 @@
+---
+title: "Humidity"
+description: "Understand humidity concepts for aviation: relative humidity (RH), dew point, mixing ratio, and their formulas for meteorology exams."
+keywords: ["relative humidity aviation meteorology", "ATPL dew point calculation", "humidity mixing ratio formula", "daily variation of relative humidity", "aviation weather humidity", "temperature and dew point spread"]
+---
+
 Humidity is the measure of the amount of water vapor present in the air.
 
 ## Key Concepts

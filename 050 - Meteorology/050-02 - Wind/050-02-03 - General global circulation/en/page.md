@@ -1,3 +1,9 @@
+---
+title: "General global circulation"
+description: "Understand the general global atmospheric circulation model: Hadley, Ferrel, and Polar cells for aviation meteorology ATPL studies."
+keywords: ["global atmospheric circulation model", "hadley ferrel polar cells aviation", "intertropical convergence zone ITCZ", "trade winds westerlies ATPL", "general circulation meteorology exams"]
+---
+
 Global atmospheric circulation is the large-scale movement of air that distributes heat across the Earth's surface.
 
 ![Global Circulation](https://upload.wikimedia.org/wikipedia/commons/9/9c/Earth_Global_Circulation_-_en.svg)

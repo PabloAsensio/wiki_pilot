@@ -1,3 +1,9 @@
+---
+title: "Causa principal del viento"
+description: "Aprende las causas principales del viento: Fuerza del Gradiente de Presión (PGF), efecto Coriolis y cómo afectan a la aviación y meteorología."
+keywords: ["causa principal del viento meteorología", "fuerza gradiente de presión meteorología", "efecto coriolis dirección viento aviación", "viento geostrófico ATPL piloto", "fricción de superficie viento"]
+---
+
 El viento es el movimiento horizontal del aire causado principalmente por diferencias de presión atmosférica.
 
 ## Fuerzas Principales

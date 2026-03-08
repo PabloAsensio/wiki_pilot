@@ -1,3 +1,9 @@
+---
+title: "Primary cause of wind"
+description: "Discover the primary causes of wind in aviation meteorology, including Pressure Gradient Force (PGF), Coriolis force, and geostrophic wind."
+keywords: ["primary cause of wind meteorology", "pressure gradient force PGF aviation", "coriolis effect wind direction", "geostrophic wind ATPL study", "surface friction effect on wind"]
+---
+
 Wind is the horizontal movement of air caused primarily by atmospheric pressure differences.
 
 ## Main Forces

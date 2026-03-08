@@ -1,3 +1,9 @@
+---
+title: "Altimetry"
+description: "Understand altimetry in aviation: QNH, QFE, QNE, and the difference between True, Indicated, and Pressure Altitude for ATPL meteorology exams."
+keywords: ["aviation altimetry QNH QFE QNE", "true altitude vs pressure altitude", "altimeter settings flying", "ATPL meteorology altimetry", "flight levels atmospheric pressure"]
+---
+
 ## Key Definitions
 
 ![Altimeter Settings (QNH, QFE, QNE)](https://upload.wikimedia.org/wikipedia/commons/b/bb/FL_QNE_QNH_QFE.png)

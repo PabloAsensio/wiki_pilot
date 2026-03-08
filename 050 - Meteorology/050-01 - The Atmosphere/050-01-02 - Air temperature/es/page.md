@@ -1,3 +1,9 @@
+---
+title: "Temperatura del aire"
+description: "Estudio sobre la temperatura del aire, transferencia de calor, gradientes térmicos y diferentes tipos de inversión térmica para alumnos de aviación."
+keywords: ["temperatura del aire aviación", "gradiente térmico ISA troposfera", "transferencia de calor atmósfera meteorología ATPL", "isotermas e inversiones térmicas vuelo", "radiación convección advección meteorología"]
+---
+
 ## Atmósfera Estándar Internacional (ISA)
 
 La OACI define una atmósfera estándar para calibración y comparación:

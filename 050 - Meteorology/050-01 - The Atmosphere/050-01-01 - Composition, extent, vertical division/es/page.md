@@ -1,3 +1,9 @@
+---
+title: "Composición y división vertical de la atmósfera"
+description: "Estudia las capas de la atmósfera (Troposfera, Estratosfera) y la composición del aire (nitrógeno, oxígeno) clave para la meteorología en aviación."
+keywords: ["capas de la atmósfera aviación", "composición del aire meteorología ATPL", "troposfera estratosfera tropopausa vuelo", "división vertical de la atmósfera", "nitrógeno oxígeno argón aire"]
+---
+
 ## Capas de la Atmósfera
 
 ![Capas de la Atmósfera](https://upload.wikimedia.org/wikipedia/commons/0/02/Atmosphere_layers-es.svg)

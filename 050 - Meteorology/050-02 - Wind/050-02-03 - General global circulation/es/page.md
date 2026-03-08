@@ -1,3 +1,9 @@
+---
+title: "Circulación atmosférica global"
+description: "Aprende el modelo de circulación atmosférica global: las células de Hadley, Ferrel y Polar, la ZCIT y los vientos alisios en meteorología ATPL."
+keywords: ["circulación atmosférica global modelo", "célula de hadley ferrel polar ATPL", "zona convergencia intertropical ZCIT", "vientos alisios meteorología aviación", "estudios clima global piloto", "meteorología vientos generales"]
+---
+
 La circulación atmosférica global es el movimiento del aire a gran escala que distribuye el calor por la superficie de la Tierra.
 
 ![Circulación Global](https://upload.wikimedia.org/wikipedia/commons/9/9c/Earth_Global_Circulation_-_en.svg)

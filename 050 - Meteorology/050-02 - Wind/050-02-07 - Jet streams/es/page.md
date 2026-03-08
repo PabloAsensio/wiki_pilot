@@ -1,3 +1,9 @@
+---
+title: "Corrientes en chorro"
+description: "Descubre las características de la corriente en chorro (jet stream) y su impacto en el vuelo, como la Turbulencia en Aire Claro (CAT), ideal para estudiantes ATPL."
+keywords: ["jet stream meteorología ATPL", "corriente en chorro aviación", "turbulencia en aire claro CAT", "vientos de altura formación de pilotos", "impacto corriente en chorro vuelo"]
+---
+
 Una corriente de chorro (Jet Stream) es una corriente de aire rápida en forma de cinta en la troposfera superior.
 
 ![Jet Stream Globe](https://upload.wikimedia.org/wikipedia/commons/d/d7/Straalstroom.jpg)

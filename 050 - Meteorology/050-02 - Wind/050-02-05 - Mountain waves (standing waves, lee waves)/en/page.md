@@ -1,3 +1,9 @@
+---
+title: "Mountain waves"
+description: "Study the formation and dangers of mountain waves, standing waves, and lee waves in aviation meteorology, including windward and leeward effects."
+keywords: ["mountain waves aviation meteorology", "standing waves lee waves flying", "windward vs leeward mountains", "rotor clouds mountain waves", "mountain flying turbulence ATPL"]
+---
+
 Mountain waves (also called standing waves or lee waves) are oscillations of airflow that form on the **leeward** side of a mountain range.
 
 > 💡 **Note: Windward vs. Leeward**

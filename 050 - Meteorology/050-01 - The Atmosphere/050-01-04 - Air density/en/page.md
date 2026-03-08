@@ -1,3 +1,9 @@
+---
+title: "Air density"
+description: "How air density affects aircraft performance. Learn about the relationship with temperature, pressure, humidity, and Density Altitude for ATPL meteorology."
+keywords: ["air density aviation meteorology", "density altitude ATPL", "effect of pressure temperature on air density", "aircraft performance density", "humidity effect on density altitude"]
+---
+
 ## Relationship with Pressure and Temperature
 
 Air density ($\rho$) is related to pressure ($P$) and temperature ($T$) by the ideal gas law:

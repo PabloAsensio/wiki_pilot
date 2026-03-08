@@ -1,3 +1,9 @@
+---
+title: "Air temperature"
+description: "Aviation meteorology concepts covering air temperature, heat transfer (convection, advection), ISA lapse rates, and temperature inversions."
+keywords: ["air temperature aviation", "ISA lapse rate troposphere", "heat transfer atmosphere ATPL meteorology", "isotherms temperature inversions flying", "radiation conduction convection meteorology"]
+---
+
 ## International Standard Atmosphere (ISA)
 
 ICAO defines a standard atmosphere for calibration and comparison:

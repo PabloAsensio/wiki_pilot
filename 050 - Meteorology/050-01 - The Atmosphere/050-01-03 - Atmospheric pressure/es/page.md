@@ -1,3 +1,9 @@
+---
+title: "Presión atmosférica"
+description: "Sistemas de presión atmosférica en aviación: aprende a leer mapas con isobaras, diferenciar altas y bajas e identificar vaguadas y dorsales."
+keywords: ["presión atmosférica aviación", "isobaras meteorología QFF", "sistemas de alta y baja presión vuelo", "altas bajas dorsales vaguadas meteorología ATPL", "variación de presión atmosférica"]
+---
+
 ## Sistemas de Presión
 
 ![Sistemas de Presión: Altas, Bajas, Dorsal, Vaguada y Collado](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgN01y8GWuufT3CbkNR4sU0QryUvNqe1Ao1Q&s)

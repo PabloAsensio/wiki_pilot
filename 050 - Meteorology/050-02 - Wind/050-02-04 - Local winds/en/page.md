@@ -1,3 +1,9 @@
+---
+title: "Local winds"
+description: "Aviation meteorology guide on local winds: sea and land breezes, Foehn wind, Mistral, Bora, and their impact on aircraft operations."
+keywords: ["local winds aviation meteorology", "sea and land breezes explained", "foehn wind effect meteorology", "mistral and bora wind", "valley and mountain breeze flying ATPL"]
+---
+
 Local winds are small-scale air circulations caused by topography or local thermal differences.
 
 ## Sea and Land Breezes

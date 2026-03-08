@@ -1,3 +1,9 @@
+---
+title: "Jet streams"
+description: "Learn about jet streams, their general characteristics, and their impact on aviation, including Clear Air Turbulence (CAT) for ATPL meteorology."
+keywords: ["jet stream ATPL meteorology", "clear air turbulence CAT aviation", "polar front jet stream", "subtropical jet stream", "high altitude winds flying", "jet stream characteristics"]
+---
+
 A Jet Stream is a fast, ribbon-like air current in the upper troposphere.
 
 ![Jet Stream Globe](https://upload.wikimedia.org/wikipedia/commons/d/d7/Straalstroom.jpg)
