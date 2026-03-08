@@ -1,3 +1,9 @@
+---
+title: "Niebla, neblina, bruma"
+description: "Diferencias entre niebla, neblina y bruma. Tipos de niebla (radiación, advección) para exámenes ATPL de meteorología."
+keywords: ["niebla neblina bruma aviación", "niebla radiación advección vuelo", "reducción visibilidad meteorología ATPL", "formación niebla piloto"]
+---
+
 La formación de niebla, neblina o nubes ocurre cuando el vapor de agua invisible se condensa en agua líquida visible. Esto sucede cuando el aire se satura (Humedad Relativa = 100%), ya sea por enfriamiento hasta el punto de rocío o por adición de humedad.
 
 ![Tipos de Niebla](https://upload.wikimedia.org/wikipedia/commons/4/46/Vallee-brouillard.jpg)

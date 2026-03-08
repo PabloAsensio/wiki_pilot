@@ -1,3 +1,9 @@
+---
+title: "Stratospheric conditions"
+description: "High altitude flying, tropopause, stratospheric conditions, and ozone hazards for commercial aviation."
+keywords: ["stratospheric conditions aviation", "high altitude flight meteorology", "tropopause ATPL exams", "ozone hazards commercial flying"]
+---
+
 The stratosphere is the layer of the atmosphere situated immediately above the troposphere. The boundary between the two is the **tropopause**, which in the International Standard Atmosphere (ISA) is found at 36,090 feet (11 km).
 
 ## Characteristics of the Lower Stratosphere

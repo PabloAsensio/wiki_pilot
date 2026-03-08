@@ -1,3 +1,9 @@
+---
+title: "Typical weather situations in the mid-latitudes"
+description: "Study typical weather patterns, frontal depressions, and high-pressure blocking in mid-latitudes for ATPL."
+keywords: ["mid-latitude weather aviation", "frontal depressions flying", "blocking highs europe ATPL", "typical weather patterns meteorology"]
+---
+
 In the mid-latitudes (between 30° and 60°), the climate is dominated by the movement of pressure systems and fronts, influenced by the jet stream and the westerlies.
 
 ## Cold Air Drop (Cold Pool)

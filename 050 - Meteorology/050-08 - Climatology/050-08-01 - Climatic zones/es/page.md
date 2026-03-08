@@ -1,3 +1,9 @@
+---
+title: "Zonas climáticas"
+description: "Resumen de las zonas climáticas mundiales y su impacto en las operaciones aéreas globales."
+keywords: ["zonas climáticas aviación", "climas del mundo meteorología ATPL", "clima global vuelo", "clasificación climática aviación"]
+---
+
 La climatología estudia los patrones meteorológicos a largo plazo. Una de las clasificaciones más utilizadas es el sistema de **Köppen**, que divide los climas del mundo en cinco grupos principales basados en la temperatura y la precipitación.
 
 ![Mapa de Clasificación Climática de Köppen](https://upload.wikimedia.org/wikipedia/commons/3/32/K%C3%B6ppen-Geiger_Climate_Classification_Map_%281980%E2%80%932016%29_no_borders.png)

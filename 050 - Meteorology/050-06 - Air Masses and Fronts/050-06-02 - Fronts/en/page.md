@@ -1,3 +1,9 @@
+---
+title: "Fronts"
+description: "Detailed guide on weather fronts: cold, warm, occluded, and stationary fronts for ATPL meteorology exams."
+keywords: ["weather fronts aviation", "cold front warm front flying", "occluded stationary fronts ATPL", "frontal weather flights"]
+---
+
 A front is the boundary or transition zone between two air masses with different characteristics (mainly temperature and density).
 
 ## Types of Fronts

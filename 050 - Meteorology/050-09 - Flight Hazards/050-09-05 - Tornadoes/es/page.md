@@ -1,3 +1,9 @@
+---
+title: "Tornados"
+description: "Perspectiva aeronáutica sobre tornados, trombas marinas y peligros de clima convectivo extremo."
+keywords: ["tornados peligros aviación", "trombas marinas vuelo meteorología", "clima convectivo severo ATPL", "evitar tornados vuelos"]
+---
+
 Un tornado es una columna de aire que gira violentamente y se extiende desde la base de una tormenta (generalmente un Cumulonimbus o un gran Cúmulo) hasta el suelo.
 
 ## Características

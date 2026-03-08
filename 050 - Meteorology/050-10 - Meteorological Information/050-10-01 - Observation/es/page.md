@@ -1,3 +1,9 @@
+---
+title: "Observación Meteorológica"
+description: "Cómo se recopilan las observaciones (METAR, SPECI, estaciones automatizadas) para la aviación."
+keywords: ["observación meteorológica aviación", "METAR SPECI vuelo", "estaciones meteorológicas automáticas ATPL", "redes de observación vuelo"]
+---
+
 ## Visibilidad
 
 ### Definición y Reporte

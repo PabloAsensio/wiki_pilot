@@ -1,3 +1,9 @@
+---
+title: "The principal pressure areas"
+description: "Learn about the Earth's principal pressure areas and their role in global weather patterns for pilots."
+keywords: ["principal pressure areas aviation", "global pressure systems flying ATPL", "equatorial trough meteorology", "subtropical highs meteorology exams"]
+---
+
 ## Types of Anticyclones (High Pressure)
 
 ![High and Low Pressure Systems](https://upload.wikimedia.org/wikipedia/commons/b/bc/Low_pressure_system_over_Iceland.jpg)

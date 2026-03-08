@@ -1,3 +1,9 @@
+---
+title: "Information for flight planning"
+description: "Meteorological information required for pre-flight planning: TAF, AIRMET, SIGMET, and pre-flight briefings."
+keywords: ["flight planning meteorology", "TAF AIRMET SIGMET aviation", "pre flight weather briefing ATPL", "pilot weather flight planning"]
+---
+
 ## Aerodrome Meteorological Reports (METAR and SPECI)
 
 ### METAR (Meteorological Aerodrome Report)

@@ -1,3 +1,9 @@
+---
+title: "Tropical climatology"
+description: "Tropical climatology for aviation: ITCZ, monsoons, and typical weather patterns near the equator."
+keywords: ["tropical climatology aviation", "ITCZ crossing flights", "monsoon weather flying ATPL", "equatorial flights meteorology"]
+---
+
 Tropical climatology is dominated by the **Intertropical Convergence Zone (ITCZ)**, the trade winds, and the monsoons.
 
 ## Intertropical Convergence Zone (ITCZ)

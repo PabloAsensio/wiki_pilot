@@ -1,3 +1,9 @@
+---
+title: "Air masses"
+description: "Classification and properties of air masses (polar, tropical, maritime, continental) in aviation meteorology."
+keywords: ["air masses aviation meteorology", "polar tropical maritime continental air", "air mass modification flying", "ATPL meteorology air masses"]
+---
+
 An air mass is a large volume of air whose physical properties (temperature and humidity) are uniform in the horizontal plane.
 
 ![Air Masses](https://upload.wikimedia.org/wikipedia/commons/2/2f/Air_masses.svg)

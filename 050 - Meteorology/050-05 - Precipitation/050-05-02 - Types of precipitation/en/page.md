@@ -1,3 +1,9 @@
+---
+title: "Types of precipitation"
+description: "Learn about different types of precipitation: rain, snow, drizzle, hail and their impact on aviation."
+keywords: ["types of precipitation aviation", "rain snow hail flying ATPL", "freezing rain meteorology", "precipitation visibility pilots"]
+---
+
 Precipitation is classified according to its character (continuity) and its physical form (type).
 
 ## Classification by Character

@@ -1,3 +1,9 @@
+---
+title: "Condiciones estratosféricas"
+description: "Vuelo a gran altitud, la tropopausa, condiciones estratosféricas y peligros del ozono en aviación comercial."
+keywords: ["condiciones estratosféricas aviación", "vuelo de gran altitud meteorología", "exámenes ATPL tropopausa", "peligros del ozono vuelo comercial"]
+---
+
 La estratosfera es la capa de la atmósfera situada inmediatamente por encima de la troposfera. El límite entre ambas es la **tropopausa**, que en la Atmósfera Estándar Internacional (ISA) se encuentra a 36,090 pies (11 km).
 
 ## Características de la Baja Estratosfera

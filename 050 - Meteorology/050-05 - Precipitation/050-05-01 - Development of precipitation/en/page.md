@@ -1,3 +1,9 @@
+---
+title: "Development of precipitation"
+description: "How precipitation develops in atmosphere. Ice crystal process and collision-coalescence for ATPL meteorology."
+keywords: ["development of precipitation aviation", "ice crystal process meteorology", "collision coalescence ATPL", "precipitation formation flying"]
+---
+
 There are two main theories explaining the formation of precipitation droplets: the Bergeron Theory and the Coalescence Process.
 
 ## Bergeron Theory (Ice Crystal Process)

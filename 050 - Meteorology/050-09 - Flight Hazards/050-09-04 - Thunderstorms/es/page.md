@@ -1,3 +1,9 @@
+---
+title: "Tormentas"
+description: "Ciclo de vida de una tormenta (cumulonimbos), peligros asociados en el vuelo y procedimientos para evitarlas."
+keywords: ["tormentas meteorología aviación", "nubes cumulonimbos vuelo", "ciclo de vida tormenta ATPL", "peligros nubes CB evitar"]
+---
+
 Las tormentas son fenómenos meteorológicos violentos asociados siempre a nubes **Cumulonimbus (Cb)**. Para que se forme una tormenta, se requieren tres ingredientes básicos:
 1.  **Humedad suficiente**: Para formar y mantener la nube.
 2.  **Inestabilidad**: Aire inestable (ELR > SALR) que permita el ascenso vertical profundo.

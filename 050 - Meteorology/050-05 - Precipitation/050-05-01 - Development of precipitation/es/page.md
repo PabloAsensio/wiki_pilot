@@ -1,3 +1,9 @@
+---
+title: "Desarrollo de la precipitación"
+description: "Cómo se desarrolla la precipitación en la atmósfera: proceso de cristales de hielo y coalescencia para meteorología ATPL."
+keywords: ["desarrollo precipitación aviación", "proceso cristales de hielo meteorología", "coalescencia lluvia ATPL", "formación precipitación piloto"]
+---
+
 Existen dos teorías principales que explican la formación de las gotas de precipitación: la Teoría de Bergeron y el Proceso de Coalescencia.
 
 ## Teoría de Bergeron (Proceso de Cristales de Hielo)

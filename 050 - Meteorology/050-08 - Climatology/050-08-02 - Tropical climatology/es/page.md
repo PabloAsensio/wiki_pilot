@@ -1,3 +1,9 @@
+---
+title: "Climatología tropical"
+description: "Climatología tropical en aviación: la ZCIT (ITCZ), los monzones y patrones del tiempo cerca del ecuador."
+keywords: ["climatología tropical aviación", "cruzar la ZCIT ITCZ vuelo", "clima de monzón piloto ATPL", "vuelos ecuatoriales meteorología"]
+---
+
 La climatología tropical está dominada por la **Zona de Convergencia Intertropical (ITCZ)**, los vientos alisios y los monzones.
 
 ## Zona de Convergencia Intertropical (ITCZ)

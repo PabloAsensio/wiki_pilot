@@ -1,3 +1,9 @@
+---
+title: "Tornadoes"
+description: "Aviation perspective on tornadoes, waterspouts, and severe convective weather hazards."
+keywords: ["tornadoes aviation hazards", "waterspouts flying meteorology", "severe convective weather ATPL", "tornado avoidance flights"]
+---
+
 A tornado is a violently rotating column of air extending from the base of a thunderstorm (usually a Cumulonimbus or large Cumulus) to the ground.
 
 ## Characteristics

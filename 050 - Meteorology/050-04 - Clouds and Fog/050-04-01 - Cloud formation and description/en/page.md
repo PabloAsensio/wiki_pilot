@@ -1,3 +1,9 @@
+---
+title: "Cloud formation and description"
+description: "Learn how clouds are formed, cloud types, and cloud classification for ATPL aviation meteorology."
+keywords: ["cloud formation aviation meteorology", "types of clouds ATPL", "cloud classification flying", "EASA meteorology cloud types"]
+---
+
 Clouds form when air rises and cools adiabatically until it reaches its dew point (condensation level), at which point water vapor condenses into visible water droplets or ice crystals.
 
 ## Cloud Classification (WMO)

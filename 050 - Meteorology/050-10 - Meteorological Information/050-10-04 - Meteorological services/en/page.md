@@ -1,3 +1,9 @@
+---
+title: "Meteorological services"
+description: "Aviation meteorological services: VOLMET, ATIS, WAFC, and inflight weather broadcasts for commercial pilots."
+keywords: ["meteorological services aviation", "VOLMET ATIS flights", "world area forecast center WAFC ATPL", "inflight weather broadcasts"]
+---
+
 ## World Area Forecast Centres (WAFC)
 
 **WAFCs (World Area Forecast Centres)** are meteorological centres designated to prepare and issue significant and upper-air forecasts in digital form on a global basis.

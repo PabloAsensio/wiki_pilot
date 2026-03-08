@@ -1,3 +1,9 @@
+---
+title: "Hazards in mountainous areas"
+description: "Mountain flying hazards: rotors, downdrafts, density altitude effects, and mountain wave severe turbulence."
+keywords: ["mountain flying hazards", "rotors downdrafts aviation", "density altitude mountains ATPL", "mountain wave turbulence meteorology"]
+---
+
 Mountainous areas present unique challenges and significant hazards to aviation due to the interaction of terrain with the atmosphere.
 
 ## Orographic Effects on Meteorology

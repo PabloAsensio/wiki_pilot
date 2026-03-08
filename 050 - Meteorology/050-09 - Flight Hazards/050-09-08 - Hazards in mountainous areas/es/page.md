@@ -1,3 +1,9 @@
+---
+title: "Peligros en zonas montañosas"
+description: "Peligros del vuelo en montaña: rotores, corrientes descendentes, efectos de altitud de densidad y ondas de montaña."
+keywords: ["vuelo en montaña peligros", "rotores corrientes descendentes aviación", "altitud de densidad montañas ATPL", "turbulencia onda de montaña meteorología"]
+---
+
 Las áreas montañosas presentan desafíos únicos y peligros significativos para la aviación debido a la interacción del terreno con la atmósfera.
 
 ## Efectos Orográficos en la Meteorología

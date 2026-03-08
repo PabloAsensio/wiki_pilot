@@ -1,3 +1,9 @@
+---
+title: "Weather charts"
+description: "How to read aviation weather charts: surface analysis, significant weather (SIGWX), and upper wind charts."
+keywords: ["weather charts aviation", "SIGWX charts flying", "surface analysis chart ATPL", "upper wind charts reading"]
+---
+
 ## Significant Weather Charts (SIGWX)
 
 Significant Weather Charts (SIGWX) provide a forecast of significant meteorological phenomena for aviation.

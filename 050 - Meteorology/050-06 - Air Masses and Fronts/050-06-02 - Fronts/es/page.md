@@ -1,3 +1,9 @@
+---
+title: "Frentes"
+description: "Guía sobre frentes meteorológicos: fríos, cálidos, ocluidos y estacionarios para exámenes ATPL de aviación."
+keywords: ["frentes meteorológicos aviación", "frente frío frente cálido vuelo", "frente ocluido estacionario ATPL", "meteorología frontal piloto"]
+---
+
 Un frente es el límite o zona de transición entre dos masas de aire con diferentes características (principalmente temperatura y densidad).
 
 ## Tipos de Frentes

@@ -1,3 +1,9 @@
+---
+title: "Principales áreas de presión"
+description: "Conoce las principales áreas de presión de la Tierra y su efecto en los patrones meteorológicos globales para pilotos."
+keywords: ["áreas de presión aviación meteorología", "sistemas globales presión vuelo ATPL", "vaguada ecuatorial piloto", "altas presiones subtropicales examen ATPL"]
+---
+
 ## Tipos de Anticiclones (Alta Presión)
 
 ![Anticiclones y Borrascas](https://upload.wikimedia.org/wikipedia/commons/b/bc/Low_pressure_system_over_Iceland.jpg)

@@ -1,3 +1,9 @@
+---
+title: "Anticyclone"
+description: "Understanding anticyclones (high-pressure systems), subsidence, and associated weather conditions for aviation."
+keywords: ["anticyclone aviation weather", "high pressure systems flying", "subsidence meteorology ATPL", "anticyclone weather conditions"]
+---
+
 An **anticyclone** (or high-pressure system) is a region where the atmospheric pressure is higher than in its surroundings. It is characterized by isobars that are more widely spaced than in depressions, indicating weak pressure gradients and generally light winds.
 
 ## Air Dynamics

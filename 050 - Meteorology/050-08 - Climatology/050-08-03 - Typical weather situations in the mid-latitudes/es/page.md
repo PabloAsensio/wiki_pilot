@@ -1,3 +1,9 @@
+---
+title: "Situaciones meteorológicas típicas en latitudes medias"
+description: "Estudia los patrones meteorológicos, depresiones frontales y bloqueos anticiclónicos en latitudes medias para piloto ATPL."
+keywords: ["clima latitudes medias aviación", "depresiones frontales vuelo", "bloqueos anticiclónicos europa ATPL", "patrones meteorológicos EASA"]
+---
+
 En las latitudes medias (entre 30° y 60°), el clima está dominado por el movimiento de sistemas de presión y frentes, influenciados por la corriente en chorro y los vientos del oeste.
 
 ## Gota Fría (Cold Air Drop / Cold Pool)

@@ -1,3 +1,9 @@
+---
+title: "Tipos de precipitación"
+description: "Aprende sobre los tipos de precipitación: lluvia, nieve, llovizna, granizo y su impacto en la aviación y meteorología ATPL."
+keywords: ["tipos de precipitación aviación", "lluvia nieve granizo vuelo ATPL", "lluvia engelante meteorología", "precipitación nubes piloto"]
+---
+
 La precipitación se clasifica según su carácter (continuidad) y su forma física (tipo).
 
 ## Clasificación por Carácter

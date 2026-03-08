@@ -1,3 +1,9 @@
+---
+title: "Engelamiento"
+description: "Guía completa sobre el engelamiento térmico: hielo claro, hielo opaco (rime), peligros y sistemas anti-hielo."
+keywords: ["engelamiento aviación ATPL", "hielo claro rime vuelo", "peligros engelamiento meteorología", "sistemas anti-hielo de-icing piloto"]
+---
+
 El engelamiento es uno de los peligros más significativos para la aviación. Ocurre cuando se forma hielo en la estructura del avión, lo que altera sus características aerodinámicas y puede afectar el funcionamiento de los motores e instrumentos.
 
 ![Tipos de Engelamiento](https://upload.wikimedia.org/wikipedia/commons/5/5e/Ice_on_an_aircraft_wing.jpg)
