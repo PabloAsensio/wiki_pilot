@@ -46,12 +46,12 @@ $$Corrección = (QNH - 1013) \times 30$$
 ### 2. Corrección de Temperatura (Regla del 4%)
 La altitud verdadera cambia aproximadamente un **4% por cada 10°C de desviación ISA**.
 
-$$Corrección\_Temp = 4 \times (Desviación\_ISA) \times \frac{Altitud\_Indicada}{1000}$$
+$$Corrección\_Temp = 4 \times (Desviación\_ISA) \times \frac{Altitud\_Indicada - Elevación\_Estación}{1000}$$
 
 *   **Más caliente que ISA**: Sumar corrección (True Alt > Indicated Alt).
 *   **Más frío que ISA**: Restar corrección (True Alt < Indicated Alt).
 
-*Nota: La corrección de temperatura se aplica a la columna de aire entre la estación (aeródromo) y la aeronave. Si se calcula la altitud verdadera sobre el terreno, usar (Altitud Indicada - Elevación Estación) en la fórmula.*
+*Nota: La corrección de temperatura se aplica a la columna de aire entre la estación (aeródromo) y la aeronave. Si la estación está al nivel del mar, Elevación Estación = 0, y la fórmula se reduce a Altitud Indicada / 1000.*
 
 ### Perspectiva del piloto en la aeronave: Ejemplo práctico
 
@@ -74,11 +74,11 @@ El QNH está por debajo de 1013, así que tu Altitud de Presión (con 1013 calad
 Temperatura ISA a 5.000 ft = 15 − (5 × 2) = **+5°C**  
 Desviación ISA = OAT − ISA = −5 − 5 = **−10°C** (más frío que ISA)
 
-$$Corrección\_Temp = 4 \times (-10) \times \frac{5.000}{1.000} = -200 \text{ ft}$$
+$$Corrección\_Temp = 4 \times (-10) \times \frac{5.000 - 500}{1.000} = 4 \times (-10) \times 4{,}5 = -180 \text{ ft}$$
 
-Altitud Verdadera = 5.000 − 200 = **4.800 ft**
+Altitud Verdadera = 5.000 − 180 = **4.820 ft**
 
-**Interpretación desde la cabina**: Tu altímetro marca 5.000 ft con QNH, pero en realidad estás a **4.800 ft** sobre el nivel del mar. El aeródromo está a 500 ft, por lo que la separación real sobre el terreno es de solo 4.300 ft — **200 ft menos** de lo que indica el altímetro. En días fríos como este, aplica siempre márgenes de seguridad adicionales sobre el terreno.
+**Interpretación desde la cabina**: Tu altímetro marca 5.000 ft con QNH, pero en realidad estás a **4.820 ft** sobre el nivel del mar. El aeródromo está a 500 ft, por lo que la separación real sobre el terreno es de solo 4.320 ft — **180 ft menos** de lo que indica el altímetro. En días fríos como este, aplica siempre márgenes de seguridad adicionales sobre el terreno.
 
 > 💡 **Regla práctica**: En condiciones de baja presión y/o frío intenso, la altitud real siempre es **menor** que la indicada. El altímetro te "miente a tu favor" en el examen pero puede ser peligroso en el vuelo real.
 
