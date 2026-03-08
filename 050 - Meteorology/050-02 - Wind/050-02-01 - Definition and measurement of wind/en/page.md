@@ -1,7 +1,7 @@
 ---
 title: "Definition and measurement of wind"
 description: "How wind is defined, measured, and reported in aviation. Learn about compass rose, METAR/TAF true vs magnetic wind, and anemometers."
-keywords: ["aviation wind measurement meteorology", "METAR wind true vs magnetic", "anemometer wind speed flying", "how is wind direction reported aviation", "ATPL wind definition"]
+keywords: ["definition for wind speed", "define wind direction", "aviation wind measurement meteorology", "METAR wind true vs magnetic", "anemometer wind speed flying"]
 ---
 
 ## Definition

@@ -1,7 +1,7 @@
 ---
 title: "Definición y medición del viento"
 description: "Descubre cómo se define y mide el viento en la aviación: rosa de los vientos, anemómetros, y las diferencias entre viento norte verdadero y magnético."
-keywords: ["medición viento en aviación", "viento METAR verdadero o magnético", "cómo se lee el viento aeródromo", "rosa de los vientos meteorología", "anemómetro velocidad viento ATPL"]
+keywords: ["medicion del viento", "viento como se mide", "medición viento en aviación", "viento METAR verdadero o magnético"]
 ---
 
 ## Definición

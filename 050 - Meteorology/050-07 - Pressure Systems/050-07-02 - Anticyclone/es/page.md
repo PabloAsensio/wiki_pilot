@@ -1,7 +1,7 @@
 ---
 title: "Anticiclón"
 description: "Entiende los anticiclones (sistemas de alta presión), la subsidencia y las condiciones meteorológicas asociadas al vuelo."
-keywords: ["anticiclón meteorología aviación", "sistemas de alta presión vuelo", "subsidencia ATPL", "condiciones de vuelo anticiclón"]
+keywords: ["que es un anticiclón en meteorología", "anticiclón meteorología aviación", "sistemas de alta presión vuelo", "subsidencia ATPL"]
 ---
 
 Un **anticiclón** (o sistema de alta presión) es una región donde la presión atmosférica es más alta que en sus alrededores. Se caracteriza por isobaras más espaciadas que en las depresiones, lo que indica gradientes de presión débiles y vientos generalmente ligeros.
