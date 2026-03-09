@@ -63,9 +63,10 @@ Stability is determined by comparing the ELR with the DALR and SALR.
 
 ---
 
-## Thermodynamic Diagrams (Tephigram / Skew-T)
+## Thermodynamic Diagrams (Tephigram)
 
-![Annotated Skew-T Diagram](https://upload.wikimedia.org/wikipedia/commons/9/96/Annotated_Skew_T_diagram.png)
+
+![Tephigram Diagram](https://upload.wikimedia.org/wikipedia/commons/4/48/Tephigram.png)
 
 These are thermodynamic diagrams used to analyze stability and predict condensation levels.
 *   If the parcel state curve (DALR/SALR) is to the **right** of the environmental temperature curve (ELR), the parcel is warmer $\rightarrow$ **Unstable** (rises).
