@@ -10,7 +10,8 @@ You will be given a series of articles, all on the same topic. Your goal is to w
 The article is intended for readers who may not be familiar with the subject, so it should be simple. 
 
 Guidelines:
-- Do NOT include an H1 (#) title at the beginning of the document (it is set by default).
+- Do NOT include an H1 (#) title at the beginning of the document (it is set by default by the parent folder).
+- Always start the document with a brief, engaging introductory paragraph about the topic before introducing the first H2 (##) header. This avoids having an H1 immediately followed by an H2.
 - Generate the final document translated into all the available languages.
 - Highlight key concepts in bold.
 - You may or may not use the images that can be attached to the content.
