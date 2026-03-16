@@ -8,6 +8,8 @@ keywords: ["mapas meteorológicos aviación", "mapas SIGWX vuelo", "análisis de
 
 Las cartas de tiempo significativo (SIGWX) proporcionan un pronóstico de los fenómenos meteorológicos importantes para la aviación.
 
+![Carta de Pronóstico Aeronáutico](https://upload.wikimedia.org/wikipedia/commons/d/df/Aviation_weather_forecast_chart.png)
+
 ### Simbología de Frentes
 *   **Frente Cálido:** Semicírculos rojos.
 *   **Frente Frío:** Triángulos azules.

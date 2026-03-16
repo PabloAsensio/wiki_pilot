@@ -6,6 +6,8 @@ keywords: ["observación meteorológica aviación", "METAR SPECI vuelo", "estaci
 
 ## Visibilidad
 
+![Estación Meteorológica Automática de Aeropuerto](https://upload.wikimedia.org/wikipedia/commons/2/28/Sydney_Airport_BOM_weather_station.jpg)
+
 ### Definición y Reporte
 Según el **Anexo 3 de la OACI**, la visibilidad para fines aeronáuticos se define como la mayor de las distancias a las que:
 1.  Un objeto negro de dimensiones adecuadas, situado cerca del suelo, puede ser visto y reconocido cuando se observa contra un fondo brillante.

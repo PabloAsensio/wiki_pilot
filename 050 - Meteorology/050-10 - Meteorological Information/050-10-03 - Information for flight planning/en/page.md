@@ -6,6 +6,8 @@ keywords: ["flight planning meteorology", "TAF AIRMET SIGMET aviation", "pre fli
 
 ## Aerodrome Meteorological Reports (METAR and SPECI)
 
+![METAR and TAF Processing Equipment](https://upload.wikimedia.org/wikipedia/commons/9/91/Metar_2010.jpg)
+
 ### METAR (Meteorological Aerodrome Report)
 It is a routine report of meteorological conditions observed at an aerodrome. It is generally issued every 30 or 60 minutes.
 
