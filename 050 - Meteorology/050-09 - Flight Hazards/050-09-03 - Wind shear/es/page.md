@@ -6,6 +6,8 @@ keywords: ["cizalladura del viento", "cizalladura de viento", "microrráfagas pe
 
 La cizalladura del viento (*wind shear*) se define como un cambio brusco en la velocidad y/o dirección del viento en una distancia corta. Puede ocurrir tanto en el plano horizontal como en el vertical.
 
+![Efecto de la Cizalladura en Aeronaves](https://upload.wikimedia.org/wikipedia/commons/b/b9/Downdraft_Wind_shear.jpg)
+
 ## Tipos y Causas
 *   **Cizalladura Vertical**: Cambio de viento con la altura (nudos por cada 100 pies).
 *   **Cizalladura Horizontal**: Cambio de viento en el plano horizontal (nudos por cada 1000 pies).

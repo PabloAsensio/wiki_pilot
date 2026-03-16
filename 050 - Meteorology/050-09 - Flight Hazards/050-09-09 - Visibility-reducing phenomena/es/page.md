@@ -6,6 +6,8 @@ keywords: ["fenómenos reducción visibilidad aviación", "ceniza volcánica pel
 
 La visibilidad aeronáutica puede verse reducida por diversos fenómenos meteorológicos, que se clasifican en hidrometeoros (agua) y litometeoros (partículas sólidas).
 
+![Nube de Ceniza Volcánica](https://upload.wikimedia.org/wikipedia/commons/0/09/Eyjafjallaj%C3%B6kull_volcanic_ash_15_April_2010.png)
+
 ## Obscurecimientos (Obscurations)
 *   **Niebla (Fog - FG)**: Gotas de agua suspendidas. Visibilidad horizontal **menor a 1000 metros**.
 *   **Neblina (Mist - BR)**: Gotas de agua suspendidas. Visibilidad horizontal **de 1000 a 5000 metros**.

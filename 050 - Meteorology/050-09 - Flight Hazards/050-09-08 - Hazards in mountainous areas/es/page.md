@@ -6,6 +6,8 @@ keywords: ["vuelo en montaña peligros", "rotores corrientes descendentes aviaci
 
 Las áreas montañosas presentan desafíos únicos y peligros significativos para la aviación debido a la interacción del terreno con la atmósfera.
 
+![Nube Lenticular indicativo de Ondas de Montaña](https://upload.wikimedia.org/wikipedia/commons/8/8f/Lenticular_cloud_over_Mount_Hood.jpg)
+
 ## Efectos Orográficos en la Meteorología
 Las montañas fuerzan el ascenso del aire (elevación orográfica), lo que modifica los sistemas meteorológicos:
 *   **Lado de Barlovento (Windward)**: El aire asciende, se enfría y condensa. Se forman nubes y precipitación.

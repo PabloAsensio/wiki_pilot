@@ -6,6 +6,8 @@ keywords: ["wind shear aviation hazards", "microburst danger flying", "LLWAS ATP
 
 Wind shear is defined as a sudden change in wind speed and/or direction over a short distance. It can occur in both the horizontal and vertical planes.
 
+![Wind Shear Effect on Aircraft](https://upload.wikimedia.org/wikipedia/commons/b/b9/Downdraft_Wind_shear.jpg)
+
 ## Types and Causes
 *   **Vertical Wind Shear**: Change in wind with height (knots per 100 feet).
 *   **Horizontal Wind Shear**: Change in wind in the horizontal plane (knots per 1000 feet).
