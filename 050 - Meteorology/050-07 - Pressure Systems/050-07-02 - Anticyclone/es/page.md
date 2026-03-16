@@ -6,6 +6,9 @@ keywords: ["que es un anticiclón en meteorología", "anticiclón meteorología 
 
 Un **anticiclón** (o sistema de alta presión) es una región donde la presión atmosférica es más alta que en sus alrededores. Se caracteriza por isobaras más espaciadas que en las depresiones, lo que indica gradientes de presión débiles y vientos generalmente ligeros.
 
+![Sistema de Alta Presión](https://upload.wikimedia.org/wikipedia/commons/2/2e/High_Pressure_Area_Aug_9_2012.jpg)
+*Representación de giro y condiciones visuales de un anticiclón.*
+
 ## Dinámica del Aire
 
 El movimiento del aire en un anticiclón se caracteriza por:

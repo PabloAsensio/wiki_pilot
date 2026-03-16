@@ -6,6 +6,9 @@ keywords: ["depresiones no frontales aviación", "bajas térmicas meteorología 
 
 Una **depresión** (o sistema de baja presión) es una región donde la presión atmosférica es más baja que en sus alrededores. Se caracteriza por isobaras cerradas, donde el valor de la presión disminuye hacia el centro.
 
+![Estructura tridimensional de una depresión extratropical](https://upload.wikimedia.org/wikipedia/commons/2/2b/Extratropical_cyclone_airstreams_3D_structure.jpg)
+*Estructura 3D de las corrientes de aire en un ciclón extratropical o depresión no frontal.*
+
 ## Dinámica General
 
 El movimiento del aire en una depresión es opuesto al de un anticiclón:

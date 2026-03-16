@@ -6,6 +6,9 @@ keywords: ["anticyclone aviation weather", "high pressure systems flying", "subs
 
 An **anticyclone** (or high-pressure system) is a region where the atmospheric pressure is higher than in its surroundings. It is characterized by isobars that are more widely spaced than in depressions, indicating weak pressure gradients and generally light winds.
 
+![High Pressure System](https://upload.wikimedia.org/wikipedia/commons/2/2e/High_Pressure_Area_Aug_9_2012.jpg)
+*Visual representation of circulation in a high pressure area.*
+
 ## Air Dynamics
 
 The movement of air in an anticyclone is characterized by:

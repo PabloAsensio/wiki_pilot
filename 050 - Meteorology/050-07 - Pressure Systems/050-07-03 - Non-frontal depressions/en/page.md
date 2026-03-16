@@ -6,6 +6,9 @@ keywords: ["secondary depression meteorology", "non-frontal depressions aviation
 
 A **depression** (or low-pressure system) is a region where the atmospheric pressure is lower than in its surroundings. It is characterized by closed isobars, where the pressure value decreases towards the center.
 
+![3D Structure of an Extratropical Cyclone](https://upload.wikimedia.org/wikipedia/commons/2/2b/Extratropical_cyclone_airstreams_3D_structure.jpg)
+*3D structure of airstreams in an extratropical cyclone or non-frontal depression.*
+
 ## General Dynamics
 
 The movement of air in a depression is opposite to that of an anticyclone:
