@@ -4,6 +4,9 @@ description: "Learn about different types of precipitation: rain, snow, drizzle,
 keywords: ["types of precipitation aviation", "rain snow hail flying ATPL", "freezing rain meteorology", "precipitation visibility pilots"]
 ---
 
+![Rain and snow mixed](https://upload.wikimedia.org/wikipedia/commons/e/ec/2014-03-30_01_07_43_Rain_and_snow_mixed_on_a_windshield_in_Elko%2C_Nevada.JPG)
+*Mixed precipitation: rain and snow (sleet) on a vehicle's windshield.*
+
 Precipitation is classified according to its character (continuity) and its physical form (type).
 
 ## Classification by Character

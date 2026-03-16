@@ -4,6 +4,9 @@ description: "Aprende sobre los tipos de precipitación: lluvia, nieve, llovizna
 keywords: ["tipos de precipitación aviación", "lluvia nieve granizo vuelo ATPL", "lluvia engelante meteorología", "precipitación nubes piloto"]
 ---
 
+![Rain and snow mixed](https://upload.wikimedia.org/wikipedia/commons/e/ec/2014-03-30_01_07_43_Rain_and_snow_mixed_on_a_windshield_in_Elko%2C_Nevada.JPG)
+*Precipitación mixta: lluvia y nieve (aguanieve) sobre el parabrisas de un vehículo.*
+
 La precipitación se clasifica según su carácter (continuidad) y su forma física (tipo).
 
 ## Clasificación por Carácter
