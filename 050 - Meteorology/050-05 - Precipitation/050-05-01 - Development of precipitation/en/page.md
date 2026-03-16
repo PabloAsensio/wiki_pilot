@@ -11,6 +11,8 @@ There are two main theories explaining the formation of precipitation droplets: 
 
 ## Bergeron Theory (Ice Crystal Process)
 
+![Bergeron Process](https://upload.wikimedia.org/wikipedia/commons/4/41/Bergeron_process.svg)
+
 This process is the dominant mechanism for precipitation formation in **mid and high latitudes**.
 
 *   **Environment:** Occurs in mixed clouds containing both **supercooled water droplets** and **ice crystals** (temperatures below 0°C).

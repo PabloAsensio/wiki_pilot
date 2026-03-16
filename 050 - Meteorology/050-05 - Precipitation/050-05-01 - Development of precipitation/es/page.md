@@ -11,6 +11,8 @@ Existen dos teorías principales que explican la formación de las gotas de prec
 
 ## Teoría de Bergeron (Proceso de Cristales de Hielo)
 
+![Proceso de Bergeron](https://upload.wikimedia.org/wikipedia/commons/4/41/Bergeron_process.svg)
+
 Este proceso es el mecanismo dominante para la formación de precipitación en **latitudes medias y altas**.
 
 *   **Entorno:** Ocurre en nubes mixtas que contienen tanto **gotas de agua subenfriada** como **cristales de hielo** (temperaturas por debajo de 0°C).
