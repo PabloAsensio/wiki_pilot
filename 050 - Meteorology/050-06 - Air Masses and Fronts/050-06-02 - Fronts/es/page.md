@@ -6,6 +6,9 @@ keywords: ["frentes meteorológicos aviación", "frente frío frente cálido vue
 
 Un frente es el límite o zona de transición entre dos masas de aire con diferentes características (principalmente temperatura y densidad).
 
+![Sección transversal cálido y frío](https://upload.wikimedia.org/wikipedia/commons/b/bc/Cross_section_through_a_cold_front_and_warm_front.jpg)
+*Sección transversal mostrando el desarrollo y ascenso del aire en un frente cálido y uno frío.*
+
 ## Tipos de Frentes
 
 ![Símbolos de Frentes](https://upload.wikimedia.org/wikipedia/commons/c/ca/Surface_analysis.gif)
