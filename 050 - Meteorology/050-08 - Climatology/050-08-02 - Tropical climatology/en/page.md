@@ -6,6 +6,9 @@ keywords: ["tropical climatology aviation", "ITCZ crossing flights", "monsoon we
 
 Tropical climatology is dominated by the **Intertropical Convergence Zone (ITCZ)**, the trade winds, and the monsoons.
 
+![ITCZ January-July](https://upload.wikimedia.org/wikipedia/commons/d/d7/ITCZ_january-july.png)
+*Seasonal average displacement of the Intertropical Convergence Zone (ITCZ) between January and July.*
+
 ## Intertropical Convergence Zone (ITCZ)
 
 Also known as the **Doldrums**, **Thermal Equator**, or **Equatorial Trough**.

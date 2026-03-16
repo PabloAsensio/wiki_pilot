@@ -7,6 +7,7 @@ keywords: ["climatic zones aviation", "world climates ATPL meteorology", "global
 Climatology studies long-term weather patterns. One of the most widely used classifications is the **Köppen** system, which divides the world's climates into five main groups based on temperature and precipitation.
 
 ![Köppen Climate Classification Map](https://upload.wikimedia.org/wikipedia/commons/3/32/K%C3%B6ppen-Geiger_Climate_Classification_Map_%281980%E2%80%932016%29_no_borders.png)
+*Köppen-Geiger Climate Classification global map.*
 
 ## Köppen Climate Classification
 
