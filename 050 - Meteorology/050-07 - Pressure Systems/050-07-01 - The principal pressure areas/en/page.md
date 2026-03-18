@@ -9,7 +9,7 @@ keywords: ["principal pressure areas aviation", "global pressure systems flying 
 
 ## Types of Anticyclones (High Pressure)
 
-![High and Low Pressure Systems](https://upload.wikimedia.org/wikipedia/commons/b/bc/Low_pressure_system_over_Iceland.jpg)
+![Anticyclone Diagram](https://upload.wikimedia.org/wikipedia/commons/9/9c/High_Pressure.jpg)
 
 There are five main types: warm, cold, temporary cold, ridges, and blocking.
 

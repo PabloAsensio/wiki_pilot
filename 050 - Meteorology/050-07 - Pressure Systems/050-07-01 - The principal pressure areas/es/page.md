@@ -9,7 +9,7 @@ keywords: ["áreas de presión aviación meteorología", "sistemas globales pres
 
 ## Tipos de Anticiclones (Alta Presión)
 
-![Anticiclones y Borrascas](https://upload.wikimedia.org/wikipedia/commons/b/bc/Low_pressure_system_over_Iceland.jpg)
+![Anticiclón](https://upload.wikimedia.org/wikipedia/commons/9/9c/High_Pressure.jpg)
 
 Existen cinco tipos principales: cálidos, fríos, fríos temporales, dorsales (ridges) y de bloqueo.
 
