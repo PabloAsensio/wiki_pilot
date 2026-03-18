@@ -5,6 +5,9 @@ keywords: ["information processing", "perception", "memory", "attention", "senso
 ---
 
 ## The Processing Model
+
+![Information Processing Model - Atkinson & Shiffrin](https://upload.wikimedia.org/wikipedia/commons/9/94/Information_Processing_Model_-_Atkinson_%26_Shiffrin.jpg)
+
 Information flows through distinct stages:
 1.  **Sensation**: Receptors detect stimuli (Light, Sound).
 2.  **Sensory Memory**: Holds raw data for a split second (Iconic/Visual: 0.5s, Echoic/Auditory: 2-8s).

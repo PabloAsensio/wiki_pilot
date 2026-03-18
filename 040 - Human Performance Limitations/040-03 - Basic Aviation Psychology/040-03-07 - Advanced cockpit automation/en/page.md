@@ -5,6 +5,9 @@ keywords: ["automation", "complacency", "mode confusion", "situational awareness
 ---
 
 ## Benefits vs. Costs
+
+![Airbus A380 cockpit](https://upload.wikimedia.org/wikipedia/commons/a/a4/Airbus_A380_cockpit.jpg)
+
 *   **Benefit**: Reduces physical workload, precise navigation, fuel economy.
 *   **Cost**: Increases mental workload (monitoring), risk of skill decay (manual flying skills atrophy).
 

@@ -19,6 +19,9 @@ Structured methods to solve problems under pressure.
 Diagnosis, Options, Decision, Assign tasks, Review.
 
 ## Cognitive Biases
+
+![Cognitive bias codex](https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg)
+
 Mental shortcuts (Heuristics) that can lead to errors.
 *   **Confirmation Bias**: Seeking information that confirms our hypothesis and ignoring evidence that contradicts it.
     *   *Example*: Ignoring a "Gear Unsafe" light because you "know" you put the gear down.

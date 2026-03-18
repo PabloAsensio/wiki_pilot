@@ -11,6 +11,9 @@ Performance levels determine the type of error:
 3.  **Knowledge-Based (Novel)**: New situations requiring analytical thinking (e.g., complex failure with no checklist).
 
 ## Error Classification (Reason/Norman)
+
+![Pilot Error Wall](https://upload.wikimedia.org/wikipedia/commons/5/57/Pilot_Error_Wall_%2834031395723%29.jpg)
+
 *   **Slips (Action Error)**: Correct intention, wrong execution. Skill-based.
     *   *Example*: Selecting Flaps instead of Gear.
 *   **Lapses (Memory Error)**: Forgetting to do something. Skill-based.

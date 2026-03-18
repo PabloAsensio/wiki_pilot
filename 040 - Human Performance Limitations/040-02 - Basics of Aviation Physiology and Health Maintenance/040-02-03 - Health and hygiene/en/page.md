@@ -12,6 +12,9 @@ keywords: ["alcohol", "medication", "sleep", "circadian rhythm", "decompression 
     *   **CO Affinity**: Hemoglobin loves CO 200x more than Oxygen. Reduces oxygen carrying capacity (Anemic Hypoxia). Smoking lowers performance altitude by ~5,000 ft.
 
 ## Fatigue and Sleep
+
+![Biological clock human](https://upload.wikimedia.org/wikipedia/commons/3/30/Biological_clock_human.svg)
+
 *   **Circadian Rhythm**: The body's natural 24-25 hour cycle (Body temperature drops at night, alertness drops 02:00-06:00).
 *   **Jet Lag**: Desynchronization when crossing time zones. Worse flying East (shortening the day).
 *   **Sleep Inertia**: Groggy feeling for 15-30 mins after waking up (especially from deep/slow-wave sleep).

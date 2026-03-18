@@ -19,6 +19,9 @@ La Atmósfera Estándar (ISA) asume:
     *   Relevancia: Enfermedad por Descompresión (DCS). Burbujas de nitrógeno se forman en la sangre cuando la presión cae rápidamente (Buceo + Vuelo).
 
 ## Hipoxia
+
+![Students in hypobaric chamber simulating hypoxia](https://upload.wikimedia.org/wikipedia/commons/a/a7/US_Navy_090603-N-6651N-001_Students_sit_in_the_hypobaric_chamber_at_the_Aviation_Survival_Training_Center_to_simulate_the_effects_of_high_altitude_on_the_body._The_students_determine_what_their_individual_hypoxia_symptoms_are.jpg)
+
 Estado de deficiencia de oxígeno en el cuerpo.
 1.  **Hipoxia Hipóxica**: Oxígeno insuficiente en el aire (Altitud).
 2.  **Hipoxia Anémica**: La sangre no puede transportar oxígeno (Envenenamiento por CO, Fumar reduce la eficiencia de la hemoglobina).

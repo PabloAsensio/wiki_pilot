@@ -5,6 +5,9 @@ keywords: ["Modelo del Queso Suizo", "Modelo de Reason", "fallo latente", "fallo
 ---
 
 ## El Modelo de Reason (Queso Suizo)
+
+![Swiss cheese model](https://upload.wikimedia.org/wikipedia/commons/0/07/Swiss_cheese_model.svg)
+
 El modelo de James Reason ilustra cómo ocurren los accidentes en sistemas complejos.
 *   **Capas de Defensa**: Los sistemas tienen múltiples capas de defensa (Tecnología, Entrenamiento, Regulaciones). Idealmente, estas capas están intactas.
 *   **Agujeros (Quesos)**: En realidad, cada capa tiene debilidades o "agujeros".

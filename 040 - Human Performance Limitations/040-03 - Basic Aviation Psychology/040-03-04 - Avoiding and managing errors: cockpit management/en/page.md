@@ -5,6 +5,9 @@ keywords: ["CRM", "TEM", "threats", "errors", "UAS", "crew coordination"]
 ---
 
 ## Cockpit Resource Management (CRM)
+
+![Cockpit Austrian Airlines](https://upload.wikimedia.org/wikipedia/commons/b/b0/Cockpit_Austrian_Airlines.jpg)
+
 The effective use of all available resources (hardware, software, liveware) to achieve safe and efficient flight operations.
 *   Originally focused on the cockpit, now "Crew" Resource Management (includes cabin crew, dispatch, ATC).
 *   **Skills**: Communication, Leadership, Situational Awareness, Decision Making.

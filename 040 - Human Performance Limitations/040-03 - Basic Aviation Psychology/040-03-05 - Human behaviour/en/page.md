@@ -5,6 +5,9 @@ keywords: ["leadership", "autocratic", "democratic", "laissez-faire", "risky shi
 ---
 
 ## Leadership Styles
+
+![Leadership Styles Lewin](https://upload.wikimedia.org/wikipedia/commons/a/a1/Leadership_Styles_Lewin.png)
+
 1.  **Autocratic**: Leader imposes decisions. Good for emergencies (time-critical), bad for morale/team input.
 2.  **Democratic (Synergistic)**: Leader consults team. Best for complex problems (using all resources) but slower.
 3.  **Laissez-Faire**: Leader is passive ("hands-off"). Can lead to confusion and lack of direction.

@@ -12,6 +12,9 @@ The body's non-specific response to any demand.
     *   **Chronic**: Long term, persisting (Financial trouble, health issues). Dangerous as it drains reserves.
 
 ## Arousal (Yerkes-Dodson Law)
+
+![Yerkes-Dodson Law](https://upload.wikimedia.org/wikipedia/commons/8/82/Yerkes-Dodson.PNG)
+
 Performance relates to arousal (stimulation/alertness) in an inverted U-curve.
 *   **Under-arousal (Boredom)**: Low performance, complacency, missed cues.
 *   **Optimum Arousal**: Peak performance.

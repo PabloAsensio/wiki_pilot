@@ -5,6 +5,9 @@ keywords: ["CRM", "TEM", "amenazas", "errores", "UAS", "coordinación de tripula
 ---
 
 ## Gestión de Recursos de Cabina (CRM)
+
+![Cockpit Austrian Airlines](https://upload.wikimedia.org/wikipedia/commons/b/b0/Cockpit_Austrian_Airlines.jpg)
+
 El uso efectivo de todos los recursos disponibles (hardware, software, humano) para lograr operaciones de vuelo seguras y eficientes.
 *   Originalmente enfocado en la cabina (Cockpit), ahora Gestión de Recursos de "Tripulación" (incluye tripulación de cabina, despacho, ATC).
 *   **Habilidades**: Comunicación, Liderazgo, Conciencia Situacional, Toma de Decisiones.

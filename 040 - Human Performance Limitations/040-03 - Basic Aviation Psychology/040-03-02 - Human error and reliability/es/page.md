@@ -11,6 +11,9 @@ Los niveles de rendimiento determinan el tipo de error:
 3.  **Basado en Conocimiento (Knowledge)**: Situaciones nuevas que requieren pensamiento analítico (ej. fallo complejo sin lista de chequeo).
 
 ## Clasificación de Errores (Reason/Norman)
+
+![Pilot Error Wall](https://upload.wikimedia.org/wikipedia/commons/5/57/Pilot_Error_Wall_%2834031395723%29.jpg)
+
 *   **Deslices / Slips (Error de Acción)**: Intención correcta, ejecución incorrecta. Basado en habilidades.
     *   *Ejemplo*: Seleccionar Flaps en lugar de Tren.
 *   **Lapsus (Error de Memoria)**: Olvidar hacer algo. Basado en habilidades.

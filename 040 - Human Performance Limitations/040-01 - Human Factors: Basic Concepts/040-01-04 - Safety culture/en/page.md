@@ -6,6 +6,8 @@ keywords: ["safety culture", "just culture", "reporting culture", "non-punitive"
 
 ## Components of Safety Culture
 
+![Safety Culture- Enhancing Transportation Safety](https://upload.wikimedia.org/wikipedia/commons/8/8e/Safety_Culture-_Enhancing_Transportation_Safety_forum_%289727160340%29.jpg)
+
 A safety culture is not a single entity but a combination of several cultures:
 
 1.  **Informed Culture**: Those who manage and operate the system have current knowledge about the human, technical, organizational, and environmental factors that determine the safety of the system.

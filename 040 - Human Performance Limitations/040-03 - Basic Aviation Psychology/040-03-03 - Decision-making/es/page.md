@@ -19,6 +19,9 @@ Métodos estructurados para resolver problemas bajo presión.
 Diagnóstico, Opciones, Decisión, Asignar tareas, Revisar.
 
 ## Sesgos Cognitivos
+
+![Cognitive bias codex](https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg)
+
 Atajos mentales (Heurísticos) que pueden llevar a errores.
 *   **Sesgo de Confirmación**: Buscar información que confirma nuestra hipótesis e ignorar evidencia que la contradice.
     *   *Ejemplo*: Ignorar una luz de "Tren Inseguro" porque "sabes" que bajaste el tren.

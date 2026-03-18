@@ -5,6 +5,9 @@ keywords: ["procesamiento de información", "percepción", "memoria", "atención
 ---
 
 ## El Modelo de Procesamiento
+
+![Information Processing Model - Atkinson & Shiffrin](https://upload.wikimedia.org/wikipedia/commons/9/94/Information_Processing_Model_-_Atkinson_%26_Shiffrin.jpg)
+
 La información fluye a través de etapas distintas:
 1.  **Sensación**: Los receptores detectan estímulos (Luz, Sonido).
 2.  **Memoria Sensorial**: Retiene datos brutos por una fracción de segundo (Icónica/Visual: 0.5s, Ecoica/Auditiva: 2-8s).

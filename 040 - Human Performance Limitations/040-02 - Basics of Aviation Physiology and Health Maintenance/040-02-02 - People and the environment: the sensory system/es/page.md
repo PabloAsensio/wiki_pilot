@@ -15,6 +15,9 @@ La fuente primaria de información para los pilotos ("Ver y Evitar").
 *   **Miopía de Campo Vacío**: En cielos sin rasgos (cielo azul, bruma, noche oscura), el ojo tiende a enfocar a una distancia de descanso de ~1-2 metros, dificultando la detección de tráfico distante.
 
 ## Sistema Vestibular (Equilibrio)
+
+![Vestibular balance system](https://upload.wikimedia.org/wikipedia/commons/7/7a/Vestibular_balance_system.jpg)
+
 Ubicado en el oído interno.
 1.  **Canales Semicirculares**: Detectan aceleración angular (Rotación: Cabeceo, Alabeo, Guiñada).
 2.  **Otolitos (Utrículo y Sáculo)**: Detectan aceleración lineal (Gravedad, Acelerar/Frenar).

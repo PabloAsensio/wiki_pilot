@@ -5,6 +5,9 @@ keywords: ["automatización", "complacencia", "confusión de modo", "conciencia 
 ---
 
 ## Beneficios vs. Costos
+
+![Airbus A380 cockpit](https://upload.wikimedia.org/wikipedia/commons/a/a4/Airbus_A380_cockpit.jpg)
+
 *   **Beneficio**: Reduce carga de trabajo física, navegación precisa, economía de combustible.
 *   **Costo**: Aumenta carga de trabajo mental (monitoreo), riesgo de decaimiento de habilidades (atrofia de habilidades de vuelo manual).
 

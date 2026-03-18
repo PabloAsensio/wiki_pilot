@@ -5,6 +5,9 @@ keywords: ["liderazgo", "autocrático", "democrático", "laissez-faire", "despla
 ---
 
 ## Estilos de Liderazgo
+
+![Leadership Styles Lewin](https://upload.wikimedia.org/wikipedia/commons/a/a1/Leadership_Styles_Lewin.png)
+
 1.  **Autocrático**: El líder impone decisiones. Bueno para emergencias (crítico en tiempo), malo para moral/aporte del equipo.
 2.  **Democrático (Sinérgico)**: El líder consulta al equipo. Mejor para problemas complejos (usando todos los recursos) pero más lento.
 3.  **Laissez-Faire**: El líder es pasivo ("manos fuera"). Puede llevar a confusión y falta de dirección.

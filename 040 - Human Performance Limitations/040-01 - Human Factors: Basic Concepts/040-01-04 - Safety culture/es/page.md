@@ -6,6 +6,8 @@ keywords: ["cultura de seguridad", "cultura justa", "cultura de reporte", "no pu
 
 ## Componentes de la Cultura de Seguridad
 
+![Safety Culture- Enhancing Transportation Safety](https://upload.wikimedia.org/wikipedia/commons/8/8e/Safety_Culture-_Enhancing_Transportation_Safety_forum_%289727160340%29.jpg)
+
 Una cultura de seguridad no es una entidad única, sino una combinación de varias culturas:
 
 1.  **Cultura Informada**: Quienes gestionan y operan el sistema tienen conocimiento actual sobre los factores humanos, técnicos, organizacionales y ambientales que determinan la seguridad del sistema.

@@ -5,6 +5,9 @@ keywords: ["modelo SHELL", "Liveware", "Hardware", "Software", "Environment", "e
 ---
 
 ## Definición
+
+![NTSB discusses human factor issues in general aviation](https://upload.wikimedia.org/wikipedia/commons/5/58/NTSB_discusses_human_factor_issues_in_general_aviation_%2814797380573%29.jpg)
+
 Factores Humanos es la disciplina que estudia las capacidades y limitaciones del ser humano y aplica este conocimiento al diseño de herramientas, máquinas, sistemas, tareas, trabajos y entornos para un uso humano seguro, cómodo y efectivo.
 
 ## El Modelo SHELL

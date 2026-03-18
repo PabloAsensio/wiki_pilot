@@ -12,6 +12,9 @@ La respuesta inespecífica del cuerpo a cualquier demanda.
     *   **Crónico**: Largo plazo, persistente (Problemas financieros, salud). Peligroso ya que agota reservas.
 
 ## Excitación (Ley de Yerkes-Dodson)
+
+![Yerkes-Dodson Law](https://upload.wikimedia.org/wikipedia/commons/8/82/Yerkes-Dodson.PNG)
+
 El rendimiento se relaciona con la excitación (estimulación/alerta) en una curva en U invertida.
 *   **Baja Excitación (Aburrimiento)**: Bajo rendimiento, complacencia, pistas perdidas.
 *   **Excitación Óptima**: Rendimiento máximo.

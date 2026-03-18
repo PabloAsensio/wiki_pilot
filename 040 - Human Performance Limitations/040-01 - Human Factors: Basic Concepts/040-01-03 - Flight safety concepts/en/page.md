@@ -5,6 +5,9 @@ keywords: ["Swiss Cheese Model", "Reason Model", "latent failure", "active failu
 ---
 
 ## The Reason Model (Swiss Cheese)
+
+![Swiss cheese model](https://upload.wikimedia.org/wikipedia/commons/0/07/Swiss_cheese_model.svg)
+
 James Reason's model illustrates how accidents occur in complex systems.
 *   **Layers of Defense**: Systems have multiple layers of defense (Technology, Training, Regulations). Ideally, these layers are intact.
 *   **Holes (Cheeses)**: In reality, each layer has weaknesses or "holes".

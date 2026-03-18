@@ -15,6 +15,9 @@ The primary source of information for pilots ("See and Avoid").
 *   **Empty Field Myopia**: In featureless skies (blue sky, haze, dark night), the eye tends to focus at a resting distance of ~1-2 meters, making distant traffic detection difficult.
 
 ## Vestibular System (Balance)
+
+![Vestibular balance system](https://upload.wikimedia.org/wikipedia/commons/7/7a/Vestibular_balance_system.jpg)
+
 Located in the inner ear.
 1.  **Semicircular Canals**: Detect angular acceleration (Rotation: Pitch, Roll, Yaw).
 2.  **Otoliths (Utricle & Saccule)**: Detect linear acceleration (Gravity, Speed up/down).

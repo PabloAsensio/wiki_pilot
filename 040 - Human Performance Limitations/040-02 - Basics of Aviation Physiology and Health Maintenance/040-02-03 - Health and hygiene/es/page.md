@@ -12,6 +12,9 @@ keywords: ["alcohol", "medicación", "sueño", "ritmo circadiano", "enfermedad p
     *   **Afinidad del CO**: La hemoglobina ama al CO 200 veces más que al Oxígeno. Reduce la capacidad de transporte de oxígeno (Hipoxia Anémica). Fumar reduce la altitud de performance en ~5.000 pies.
 
 ## Fatiga y Sueño
+
+![Biological clock human](https://upload.wikimedia.org/wikipedia/commons/3/30/Biological_clock_human.svg)
+
 *   **Ritmo Circadiano**: El ciclo natural del cuerpo de 24-25 horas (la temperatura corporal baja de noche, la alerta baja 02:00-06:00).
 *   **Jet Lag**: Desincronización al cruzar zonas horarias. Peor volando al Este (acortando el día).
 *   **Inercia del Sueño**: Sensación de atontamiento por 15-30 min después de despertar (especialmente de sueño profundo/ondas lentas).

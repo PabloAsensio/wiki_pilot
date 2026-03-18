@@ -19,6 +19,9 @@ Standard Atmosphere (ISA) assumes:
     *   Relevance: Decompression Sickness (DCS). Nitrogen bubbles form in blood when pressure drops rapidly (Scuba diving + Flying).
 
 ## Hypoxia
+
+![Students in hypobaric chamber simulating hypoxia](https://upload.wikimedia.org/wikipedia/commons/a/a7/US_Navy_090603-N-6651N-001_Students_sit_in_the_hypobaric_chamber_at_the_Aviation_Survival_Training_Center_to_simulate_the_effects_of_high_altitude_on_the_body._The_students_determine_what_their_individual_hypoxia_symptoms_are.jpg)
+
 A state of oxygen deficiency in the body.
 1.  **Hypoxic Hypoxia**: Insufficient oxygen in the air (Altitude).
 2.  **Anemic Hypoxia**: Blood cannot carry oxygen (CO Poisoning, Smoking reduces hemoglobin efficiency).
