@@ -46,12 +46,12 @@ $$Correction = (QNH - 1013) \times 30$$
 ### 2. Temperature Correction (4% Rule)
 True altitude changes approximately **4% for every 10°C of ISA deviation**.
 
-$$Temp\_Correction = 4 \times (ISA\_Deviation) \times \frac{Indicated\_Altitude}{1000}$$
+$$Temp\_Correction = 4 \times (ISA\_Deviation) \times \frac{Indicated\_Altitude - Station\_Elevation}{1000}$$
 
 *   **Warmer than ISA**: Add correction (True Alt > Indicated Alt).
 *   **Colder than ISA**: Subtract correction (True Alt < Indicated Alt).
 
-*Note: The temperature correction applies to the air column between the station (aerodrome) and the aircraft. If calculating true altitude above the ground, use (Indicated Altitude - Station Elevation) in the formula.*
+*Note: The temperature correction applies to the air column between the station (aerodrome) and the aircraft. If the station is at sea level, Station Elevation = 0, so the formula reduces to Indicated Altitude / 1000.*
 
 ### Pilot Perspective in the Aircraft: Worked Example
 
@@ -74,11 +74,11 @@ The QNH is below 1013, so your Pressure Altitude (with 1013 set) would be **5,30
 ISA temperature at 5,000 ft = 15 − (5 × 2) = **+5°C**  
 ISA deviation = OAT − ISA = −5 − 5 = **−10°C** (colder than ISA)
 
-$$Temp\_Correction = 4 \times (-10) \times \frac{5{,}000}{1{,}000} = -200 \text{ ft}$$
+$$Temp\_Correction = 4 \times (-10) \times \frac{5{,}000 - 500}{1{,}000} = 4 \times (-10) \times 4.5 = -180 \text{ ft}$$
 
-True Altitude = 5,000 − 200 = **4,800 ft**
+True Altitude = 5,000 − 180 = **4,820 ft**
 
-**Cockpit interpretation**: Your altimeter reads 5,000 ft with QNH set, but you are actually at **4,800 ft** above sea level. The aerodrome is at 500 ft, so your actual clearance above terrain is only 4,300 ft — **200 ft less** than the altimeter shows. On cold days like this, always add extra safety margins above terrain.
+**Cockpit interpretation**: Your altimeter reads 5,000 ft with QNH set, but you are actually at **4,820 ft** above sea level. The aerodrome is at 500 ft, so your actual clearance above terrain is only 4,320 ft — **180 ft less** than the altimeter shows. On cold days like this, always add extra safety margins above terrain.
 
 > 💡 **Practical rule**: In low pressure and/or very cold conditions, your actual altitude is always **lower** than the indicated altitude. The altimeter "lies in your favour" on the exam, but can be dangerous in real flight.
 
