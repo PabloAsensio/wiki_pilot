@@ -6,6 +6,8 @@ keywords: ["VFR", "flight plan", "route selection", "altitude selection", "fuel 
 
 ## Route Selection
 
+![VFR Sectional Chart](https://upload.wikimedia.org/wikipedia/commons/c/c1/Chicago_VFR_Sectional_Chart_%28Dubuque_Area%29.png)
+
 When planning a VFR flight, the route must be selected to ensure:
 *   **Visual Reference**: Landmarks for navigation (roads, rivers, towns).
 *   **Airspace Avoidance**: Staying clear of controlled airspace (unless clearance is obtained) and restricted/prohibited areas.

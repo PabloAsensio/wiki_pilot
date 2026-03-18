@@ -26,6 +26,8 @@ Las altitudes se asignan basándose en las reglas actuales de RVSM (Mínimos de 
 
 ## Cartas
 
+![Carta IFR de aerovías en ruta](https://upload.wikimedia.org/wikipedia/commons/4/4d/Airway_on_the_enroute_chart.jpg)
+
 *   **Cartas de En Ruta**: Muestran aerovías, waypoints, distancias, puntos de notificación y áreas restringidas.
 *   **Cartas SID/STAR**: Salidas Normalizadas por Instrumentos y Llegadas Normalizadas Terminales que conectan el aeropuerto con la fase en ruta.
 *   **Cartas de Aproximación por Instrumentos**: Procedimientos detallados para el aterrizaje (ILS, VOR, RNP).

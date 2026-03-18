@@ -7,6 +7,8 @@ keywords: ["Plan de Vuelo OACI", "FPL", "Item 10", "Item 18", "estela turbulenta
 ## Propósito
 El FPL proporciona a ATS información sobre el vuelo pretendido para seguridad (SAR) y gestión de tráfico. Debe presentarse al menos **60 min** antes de la salida (o 3 horas para áreas de control de flujo).
 
+![Formulario de Plan de Vuelo Internacional](https://upload.wikimedia.org/wikipedia/commons/9/9e/International_flight_plan.png)
+
 ## Campos Clave
 *   **Item 7 (Indicativo)**: Identificación de la aeronave.
 *   **Item 8 (Reglas)**: I (IFR), V (VFR), Y (IFR a VFR), Z (VFR a IFR).

@@ -6,6 +6,8 @@ keywords: ["VFR", "plan de vuelo", "selección de ruta", "selección de altitud"
 
 ## Selección de Ruta
 
+![Carta Seccional VFR](https://upload.wikimedia.org/wikipedia/commons/c/c1/Chicago_VFR_Sectional_Chart_%28Dubuque_Area%29.png)
+
 Al planificar un vuelo VFR, la ruta debe seleccionarse para asegurar:
 *   **Referencia Visual**: Puntos de referencia para navegación (carreteras, ríos, pueblos).
 *   **Evitación de Espacio Aéreo**: Mantenerse libre de espacio aéreo controlado (a menos que se obtenga autorización) y áreas restringidas/prohibidas.

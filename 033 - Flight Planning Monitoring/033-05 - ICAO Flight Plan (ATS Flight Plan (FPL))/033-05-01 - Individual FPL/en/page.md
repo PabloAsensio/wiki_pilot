@@ -7,6 +7,8 @@ keywords: ["ICAO Flight Plan", "FPL", "Item 10", "Item 18", "wake turbulence", "
 ## Purpose
 The FPL provides ATS with information regarding the intended flight for safety (SAR) and traffic management. It must be submitted at least **60 mins** before departure (or 3 hours for flow control areas).
 
+![International flight plan form](https://upload.wikimedia.org/wikipedia/commons/9/9e/International_flight_plan.png)
+
 ## Key Fields
 *   **Item 7 (Callsign)**: Aircraft identification.
 *   **Item 8 (Rules)**: I (IFR), V (VFR), Y (IFR to VFR), Z (VFR to IFR).

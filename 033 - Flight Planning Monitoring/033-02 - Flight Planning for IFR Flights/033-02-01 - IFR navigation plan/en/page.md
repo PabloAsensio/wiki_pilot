@@ -26,6 +26,8 @@ Altitudes are allocated based on current RVSM (Reduced Vertical Separation Minim
 
 ## Charts
 
+![IFR Enroute Chart](https://upload.wikimedia.org/wikipedia/commons/4/4d/Airway_on_the_enroute_chart.jpg)
+
 *   **En-route Charts**: Show airways, waypoints, distances, reporting points, and restricted areas.
 *   **SID/STAR Charts**: Standard Instrument Departures and Standard Terminal Arrival Routes connecting the airport to the en-route phase.
 *   **Instrument Approach Charts**: Detailed procedures for landing (ILS, VOR, RNP).
