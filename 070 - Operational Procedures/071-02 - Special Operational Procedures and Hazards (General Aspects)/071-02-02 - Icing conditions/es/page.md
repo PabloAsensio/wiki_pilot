@@ -11,6 +11,9 @@ keywords: ["engelamiento", "hielo opaco", "hielo claro", "tiempo de protección"
 *   **Motor**: La ingestión de hielo puede causar apagado de llama (flameout) o daño a los álabes del fan.
 
 ## Deshielo vs Antihielo
+
+![Aeroflot Airbus A330-200 de-icing](https://upload.wikimedia.org/wikipedia/commons/4/48/Aeroflot_Airbus_A330-200_de-icing_Pereslavtsev.jpg)
+
 *   **Deshielo**: Eliminación de contaminantes existentes (hielo, nieve, aguanieve) de las superficies de la aeronave. Usualmente hecho con fluido caliente (Tipo I) o métodos mecánicos.
 *   **Antihielo**: Aplicación de un fluido que previene la acumulación de contaminantes por un tiempo limitado.
 

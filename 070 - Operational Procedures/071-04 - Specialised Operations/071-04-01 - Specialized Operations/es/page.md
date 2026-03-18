@@ -26,6 +26,9 @@ Anteriormente MNPS.
 *   **Requisitos**: Dos Sistemas de Navegación de Largo Alcance (LRNS). Radios HF (o SATCOM donde esté autorizado).
 
 ## LVO (Operaciones de Baja Visibilidad)
+
+![ILS Approach](https://upload.wikimedia.org/wikipedia/commons/1/10/ILS_Approach_Runway_10.jpg)
+
 *   **Despegue**: Despegue con Baja Visibilidad (LVTO) usualmente por debajo de 400m RVR.
 *   **Categorías de Aproximación**:
     *   **CAT I**: DH >= 200 pies, Vis >= 550m.

@@ -5,6 +5,9 @@ keywords: ["fuego", "humo", "vapores", "fuego oculto", "fuego en baño"]
 ---
 
 ## Tipos de Fuego
+
+![Airplane fire training](https://upload.wikimedia.org/wikipedia/commons/7/76/The_24th_Fire_Cadet_of_the_Republic_of_Korea_Gangwon_Fire_Service_Academy_airplane_fire_training_14.jpg)
+
 *   **Fuego de Motor**: Detectado por bucles (loops). Indicado por Campana/Luz. Procedimiento: Palanca de potencia idle, Palanca de combustible corte, Tirador de Fuego Jalar/Rotar (Descargar agente).
 *   **Fuego de Cabina**: Humo/llamas visibles. Usar extintores manuales (Halon 1211). Ponerse PBE (Equipo de Protección Respiratoria).
 *   **Fuego Oculto**: Detrás de paneles/carga. Difícil de localizar.

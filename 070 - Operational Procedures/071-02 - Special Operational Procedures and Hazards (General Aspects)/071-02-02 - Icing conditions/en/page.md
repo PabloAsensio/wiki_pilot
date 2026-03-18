@@ -11,6 +11,9 @@ keywords: ["icing", "rime ice", "clear ice", "holdover time", "HOT", "Type I flu
 *   **Engine**: Ice ingestion can cause flameout or damage fan blades.
 
 ## De-icing vs Anti-icing
+
+![Aeroflot Airbus A330-200 de-icing](https://upload.wikimedia.org/wikipedia/commons/4/48/Aeroflot_Airbus_A330-200_de-icing_Pereslavtsev.jpg)
+
 *   **De-icing**: Removal of existing contaminants (ice, snow, slush) from the aircraft surfaces. Usually done with heated fluid (Type I) or mechanical methods.
 *   **Anti-icing**: Application of a fluid that prevents the accumulation of contaminants for a limited time.
 

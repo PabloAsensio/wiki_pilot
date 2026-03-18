@@ -5,6 +5,9 @@ keywords: ["fuel dumping", "jettison", "MLW", "pollution", "minima"]
 ---
 
 ## Purpose
+
+![Fuel dump A340](https://upload.wikimedia.org/wikipedia/commons/c/cf/FuelDumpA340-600.JPG)
+
 To reduce aircraft weight from Take-off Weight (which can be high) to **Maximum Landing Weight (MLW)** in case of immediate return. Landing overweight puts stress on landing gear and structure, and requires inspection.
 
 ## Regulations

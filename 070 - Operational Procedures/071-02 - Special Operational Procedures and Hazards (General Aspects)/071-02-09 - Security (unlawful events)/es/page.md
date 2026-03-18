@@ -10,6 +10,9 @@ keywords: ["secuestro", "amenaza de bomba", "código 7500", "lugar de menor ries
 *   **7700**: Emergencia General.
 
 ## Procedimientos de Secuestro
+
+![Cockpit door](https://upload.wikimedia.org/wikipedia/commons/c/c4/Cockpit_door_Airbus_A319-100_D-AKNM_Germanwings.jpg)
+
 *   **Código 7500**: Para alertar al ATC silenciosamente.
 *   **Cumplir**: Generalmente, cumplir con las demandas de los secuestradores para proteger la vida, a menos que hacerlo lleve a un resultado catastrófico.
 *   **Puerta de Cabina**: Mantener cerrada en todo momento.

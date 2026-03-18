@@ -5,6 +5,9 @@ keywords: ["vaciado de combustible", "jettison", "MLW", "contaminación"]
 ---
 
 ## Propósito
+
+![Fuel dump A340](https://upload.wikimedia.org/wikipedia/commons/c/cf/FuelDumpA340-600.JPG)
+
 Reducir el peso de la aeronave desde el Peso de Despegue (que puede ser alto) al **Peso Máximo de Aterrizaje (MLW)** en caso de retorno inmediato.
 
 ## Regulaciones

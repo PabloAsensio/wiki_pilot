@@ -26,6 +26,9 @@ Formerly MNPS (Minimum Navigation Performance Specifications).
 *   **Requirements**: Two Long Range Navigation Systems (LRNS). HF Radios (or SATCOM where authorized).
 
 ## LVO (Low Visibility Operations)
+
+![ILS Approach](https://upload.wikimedia.org/wikipedia/commons/1/10/ILS_Approach_Runway_10.jpg)
+
 *   **Take-off**: Low Visibility Take-off (LVTO) usually below 400m RVR.
 *   **Approach Categories**:
     *   **CAT I**: DH >= 200ft, Vis >= 550m.

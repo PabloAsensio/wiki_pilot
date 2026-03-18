@@ -10,6 +10,9 @@ keywords: ["decompression", "explosive decompression", "rapid decompression", "e
 *   **Slow**: Gradual loss. Dangerous because it may go unnoticed (insiduous hypoxia).
 
 ## Immediate Actions (Memory Items)
+
+![Passenger oxygen mask](https://upload.wikimedia.org/wikipedia/commons/f/fb/Passenger_oxygen_mask_dsc06035.jpg)
+
 1.  **Oxygen Masks**: ON and 100% (Emergency).
 2.  **Communications**: Establish between flight crew.
 3.  **Descent**: Initiate Emergency Descent if cabin altitude exceeds 10,000 ft (or structural damage suspected).

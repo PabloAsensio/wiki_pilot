@@ -10,6 +10,9 @@ A sudden change in wind speed and/or direction over a short distance. Can be ver
 *   **Sources**: Thunderstorms, Frontal systems, Jet stream, Topography.
 
 ## Microburst
+
+![Microburst cross section](https://upload.wikimedia.org/wikipedia/commons/2/22/Microburst_crosssection_%28vectored%29.svg)
+
 A small scale intense downdraft that descends to the ground and spreads out (outflow).
 *   **Size**: From 1 to 4 km diameter.
 *   **Duration**: Short lived (5-15 mins).

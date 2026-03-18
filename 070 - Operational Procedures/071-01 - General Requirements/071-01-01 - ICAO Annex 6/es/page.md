@@ -6,6 +6,8 @@ keywords: ["Anexo 6 OACI", "Norma", "Método Recomendado", "AOC", "manual de ope
 
 ## Estructura del Anexo 6
 
+![Aerial photograph of airliners in flight](https://upload.wikimedia.org/wikipedia/commons/e/e1/Aerial_photograph_of_airliners_in_flight.jpg)
+
 El Anexo 6 de la OACI se divide en tres partes:
 1.  **Parte I**: Transporte Aéreo Comercial Internacional – Aviones.
 2.  **Parte II**: Aviación General Internacional – Aviones.

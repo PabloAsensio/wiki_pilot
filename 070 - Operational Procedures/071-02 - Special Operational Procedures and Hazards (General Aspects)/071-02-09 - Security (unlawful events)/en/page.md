@@ -10,6 +10,9 @@ keywords: ["hijacking", "bomb threat", "squawk 7500", "least risk bomb location"
 *   **7700**: General Emergency.
 
 ## Hijacking Procedures
+
+![Cockpit door](https://upload.wikimedia.org/wikipedia/commons/c/c4/Cockpit_door_Airbus_A319-100_D-AKNM_Germanwings.jpg)
+
 *   **Squawk 7500**: To alert ATC silently.
 *   **Comply**: Generally, comply with hijackers' demands to protect life, unless doing so leads to catastrophic outcome (e.g., suicide attack).
 *   **Cockpit Door**: Keep locked at all times (post 9/11 hardened doors).

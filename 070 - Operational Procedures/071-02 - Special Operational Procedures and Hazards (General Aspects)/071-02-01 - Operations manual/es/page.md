@@ -6,6 +6,8 @@ keywords: ["Manual de Operaciones", "Parte A", "Parte B", "Parte C", "Parte D", 
 
 ## Estructura del Manual de Operaciones
 
+![T-43A Flight Manual Title Page](https://upload.wikimedia.org/wikipedia/commons/4/44/T-43AFlightManualTitlePage.jpg)
+
 El Manual de Operaciones se divide típicamente en cuatro partes:
 
 ### Parte A: General / Básico

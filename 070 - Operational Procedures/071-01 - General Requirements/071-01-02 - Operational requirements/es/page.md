@@ -18,6 +18,9 @@ Diseñados para minimizar el impacto del ruido sobre áreas pobladas durante la 
 *   **CDL (Lista de Desviación de Configuración)**: Lista de partes externas faltantes (ej. carenados, descargadores estáticos) que pueden faltar, usualmente con una penalización de performance.
 
 ## Briefing de Pasajeros
+
+![Female flight attendant performing a pre-flight safety demonstration](https://upload.wikimedia.org/wikipedia/commons/9/93/Female_flight_attendant_performing_a_pre-flight_safety_demonstration.jpg)
+
 Los pasajeros deben recibir instrucciones sobre asuntos de seguridad:
 *   Antes del Despegue: Cinturones, salidas de emergencia, oxígeno, chalecos salvavidas, posición de impacto (brace).
 *   Después del Despegue: Restricciones de fumar.

@@ -10,6 +10,9 @@ Un cambio repentino en la velocidad y/o dirección del viento en una distancia c
 *   **Fuentes**: Tormentas eléctricas, Sistemas frontales, Corriente en chorro, Topografía.
 
 ## Microburst
+
+![Microburst cross section](https://upload.wikimedia.org/wikipedia/commons/2/22/Microburst_crosssection_%28vectored%29.svg)
+
 Una corriente descendente intensa de pequeña escala que desciende al suelo y se expande (flujo de salida).
 *   **Tamaño**: De 1 a 4 km de diámetro.
 *   **Duración**: Vida corta (5-15 mins).

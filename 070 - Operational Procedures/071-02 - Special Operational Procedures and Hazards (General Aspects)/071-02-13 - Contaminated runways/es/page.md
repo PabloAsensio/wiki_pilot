@@ -5,6 +5,9 @@ keywords: ["pista contaminada", "aquaplaning", "eficacia de frenado", "coeficien
 ---
 
 ## Definición
+
+![Snow covered runway](https://upload.wikimedia.org/wikipedia/commons/6/64/Snow_covered_Schipol_airport_runway_1.JPG)
+
 Una pista se considera contaminada cuando más del **25%** de la superficie está cubierta por:
 *   Agua superficial > 3mm de profundidad.
 *   Aguanieve, nieve suelta.

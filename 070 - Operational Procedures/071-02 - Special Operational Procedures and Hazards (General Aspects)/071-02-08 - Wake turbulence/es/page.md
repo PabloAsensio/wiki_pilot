@@ -5,6 +5,9 @@ keywords: ["estela turbulenta", "vórtices", "mínimas de separación", "pesada"
 ---
 
 ## Generación
+
+![Wake turbulence vortices](https://upload.wikimedia.org/wikipedia/commons/f/fe/Airplane_vortex_edit.jpg)
+
 Producida por la diferencia de presión entre las superficies superior e inferior del ala.
 *   Más fuerte cuando la aeronave es: **Pesada**, **Limpia**, **Lenta** (Alto Ángulo de Ataque).
 *   Comienza en la **Rotación** (Rueda de nariz arriba) y termina en el **Toque** (Rueda de nariz abajo).

@@ -10,6 +10,9 @@ keywords: ["aterrizaje de emergencia", "amaraje", "aterrizaje forzoso", "posici�
 *   **Amaraje (Ditching)**: Aterrizaje de emergencia en agua.
 
 ## Procedimientos de Amaraje
+
+![US Airways Flight 1549 ditching](https://upload.wikimedia.org/wikipedia/commons/c/c0/US_Airways_Flight_1549_in_Hudson.JPG)
+
 *   **Preparación**: Notificar ATC. Preparar cabina (Chalecos ON, ítems sueltos asegurados).
 *   **Dirección**:
     *   **Viento Fuerte**: Aterrizar contra el viento (reducir velocidad respecto al agua).

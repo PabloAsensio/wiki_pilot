@@ -9,6 +9,9 @@ keywords: ["mercancías peligrosas", "DGR", "hazmat", "NOTOC", "etiquetas"]
 *   **IATA DGR**: Regulaciones de Mercancías Peligrosas.
 
 ## Clasificación (9 Clases)
+
+![Hazmat Label - Corrosive](https://upload.wikimedia.org/wikipedia/commons/d/db/1991_-_United_States_Hazmat_Label_-_Corrosive.svg)
+
 1.  **Explosivos**.
 2.  **Gases**.
 3.  **Líquidos Inflamables**.

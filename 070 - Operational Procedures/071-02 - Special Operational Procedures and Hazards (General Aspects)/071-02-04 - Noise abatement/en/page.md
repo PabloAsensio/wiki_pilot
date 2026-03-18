@@ -5,6 +5,9 @@ keywords: ["NADP 1", "NADP 2", "noise abatement", "departure procedures"]
 ---
 
 ## Operational Procedures for Noise Abatement
+
+![Qantas b747 over houses](https://upload.wikimedia.org/wikipedia/commons/3/3c/Qantas_b747_over_houses_arp.jpg)
+
 *   **NADP 1 (Noise Abatement Departure Procedure 1)**: Intended to provide noise reduction for noise-sensitive areas in close proximity to the departure end of the runway.
     *   Thrust reduction at/above 800 ft (and typically below 1500 ft).
     *   Maintain V2 + 10-20 kt.

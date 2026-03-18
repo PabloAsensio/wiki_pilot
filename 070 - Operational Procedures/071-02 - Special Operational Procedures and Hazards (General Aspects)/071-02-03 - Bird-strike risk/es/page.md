@@ -11,6 +11,9 @@ keywords: ["impacto de aves", "peligro de fauna", "energía cinética", "ingesti
 *   **Ubicación**: Vertederos, cuerpos de agua y áreas de pasto cerca de aeropuertos atraen aves.
 
 ## Física del Impacto
+
+![F16 after bird strike](https://upload.wikimedia.org/wikipedia/commons/d/de/F16_after_bird_strike.jpg)
+
 La energía del impacto es proporcional a la masa del ave y al **cuadrado de la velocidad**.
 $$ E_k = \frac{1}{2} m v^2 $$
 Duplicar la velocidad cuadruplica la energía del impacto. Por debajo de 10.000 pies, la velocidad se restringe a 250 kt para reducir la severidad del impacto (entre otras razones).

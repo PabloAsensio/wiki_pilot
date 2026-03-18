@@ -10,6 +10,9 @@ keywords: ["emergency landing", "ditching", "forced landing", "brace position", 
 *   **Ditching**: Emergency landing on water.
 
 ## Ditching Procedures
+
+![US Airways Flight 1549 ditching](https://upload.wikimedia.org/wikipedia/commons/c/c0/US_Airways_Flight_1549_in_Hudson.JPG)
+
 *   **Preparation**: Notify ATC (Position, Souls, fuel). Prepare cabin (Life vests ON, loose items secured).
 *   **Direction**:
     *   **High Wind**: Land into wind (reduce ground/water speed).

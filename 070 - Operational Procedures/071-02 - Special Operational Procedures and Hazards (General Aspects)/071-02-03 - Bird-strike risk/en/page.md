@@ -11,6 +11,9 @@ keywords: ["bird strike", "wildlife hazard", "kinetic energy", "bird ingestion"]
 *   **Location**: Landfills, water bodies, and grass areas near airports attract birds.
 
 ## Impact Physics
+
+![F16 after bird strike](https://upload.wikimedia.org/wikipedia/commons/d/de/F16_after_bird_strike.jpg)
+
 The energy of the impact is proportional to the mass of the bird and the **square of the speed**.
 $$ E_k = \frac{1}{2} m v^2 $$
 Doubling the speed quadruples the impact energy. Below 10,000 ft, speed is restricted to 250 kt to reduce impact severity (among other reasons).

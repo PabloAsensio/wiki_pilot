@@ -5,6 +5,9 @@ keywords: ["wake turbulence", "vortices", "separation minima", "heavy", "super"]
 ---
 
 ## Generation
+
+![Wake turbulence vortices](https://upload.wikimedia.org/wikipedia/commons/f/fe/Airplane_vortex_edit.jpg)
+
 Produced by pressure differential between upper and lower wing surfaces.
 *   Strongest when aircraft is: **Heavy**, **Clean**, **Slow** (High Angle of Attack).
 *   Starts at **Rotation** (Nose wheel off) and ends at **Touchdown** (Nose wheel on).

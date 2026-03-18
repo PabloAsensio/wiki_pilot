@@ -10,6 +10,9 @@ keywords: ["despresurización", "despresurización explosiva", "descenso de emer
 *   **Lenta**: Pérdida gradual. Peligrosa porque puede pasar desapercibida (hipoxia insidiosa).
 
 ## Acciones Inmediatas (Memory Items)
+
+![Passenger oxygen mask](https://upload.wikimedia.org/wikipedia/commons/f/fb/Passenger_oxygen_mask_dsc06035.jpg)
+
 1.  **Máscaras de Oxígeno**: ON y 100% (Emergencia).
 2.  **Comunicaciones**: Establecer entre la tripulación de vuelo.
 3.  **Descenso**: Iniciar Descenso de Emergencia si la altitud de cabina excede 10.000 pies (o se sospecha daño estructural).

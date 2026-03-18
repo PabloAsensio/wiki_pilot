@@ -18,6 +18,9 @@ Designed to minimize noise impact over populated areas during departure.
 *   **CDL (Configuration Deviation List)**: List of missing external parts (e.g., fairings, static wicks) that can be missing, usually with a performance penalty.
 
 ## Passenger Briefing
+
+![Female flight attendant performing a pre-flight safety demonstration](https://upload.wikimedia.org/wikipedia/commons/9/93/Female_flight_attendant_performing_a_pre-flight_safety_demonstration.jpg)
+
 Passengers must be briefed on safety matters:
 *   Before Take-off: Seat belts, emergency exits, oxygen, life vests, braces.
 *   After Take-off: Smoking restrictions.

@@ -5,6 +5,9 @@ keywords: ["ETOPS", "EDTO", "polar operations", "magnetic variation", "fuel free
 ---
 
 ## ETOPS / EDTO
+
+![ETOPS rating flight path](https://upload.wikimedia.org/wikipedia/commons/1/17/ETOPS_rating_flight_path.svg)
+
 **Extended Diversion Time Operations (EDTO)** is the modern term for ETOPS (Extended-range Twin-engine Operational Performance Standards).
 *   **Definition**: Operations of twin-engine aircraft further than a specific threshold time (usually 60 minutes) from an adequate aerodrome at one-engine-inoperative cruise speed.
 *   **Approval**: Requires both **Type Design Approval** (Aircraft reliability) and **Operational Approval** (Maintenance, procedures, training).

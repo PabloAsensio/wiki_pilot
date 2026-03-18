@@ -9,6 +9,9 @@ keywords: ["dangerous goods", "DGR", "hazmat", "NOTOC", "labels"]
 *   **IATA DGR**: Dangerous Goods Regulations (Operational manual used by airlines).
 
 ## Classification (9 Classes)
+
+![Hazmat Label - Corrosive](https://upload.wikimedia.org/wikipedia/commons/d/db/1991_-_United_States_Hazmat_Label_-_Corrosive.svg)
+
 1.  **Explosives** (Dynamite).
 2.  **Gases** (Flammable, Non-flammable, Toxic).
 3.  **Flammable Liquids** (Petrol, Alcohol).

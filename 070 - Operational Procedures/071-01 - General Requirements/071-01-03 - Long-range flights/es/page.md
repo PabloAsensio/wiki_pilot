@@ -5,6 +5,9 @@ keywords: ["ETOPS", "EDTO", "operaciones polares", "variación magnética", "con
 ---
 
 ## ETOPS / EDTO
+
+![ETOPS rating flight path](https://upload.wikimedia.org/wikipedia/commons/1/17/ETOPS_rating_flight_path.svg)
+
 **Operaciones con Tiempo de Desvío Extendido (EDTO)** es el término moderno para ETOPS.
 *   **Definición**: Operaciones de aviones bimotores más allá de un tiempo umbral específico (usualmente 60 minutos) de un aeródromo adecuado a velocidad de crucero con un motor inoperativo.
 *   **Aprobación**: Requiere tanto **Aprobación de Diseño de Tipo** (Confiabilidad del avión) como **Aprobación Operacional** (Mantenimiento, procedimientos, entrenamiento).

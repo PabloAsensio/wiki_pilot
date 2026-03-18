@@ -6,6 +6,8 @@ keywords: ["ICAO Annex 6", "Standard", "Recommended Practice", "AOC", "operation
 
 ## Structure of Annex 6
 
+![Aerial photograph of airliners in flight](https://upload.wikimedia.org/wikipedia/commons/e/e1/Aerial_photograph_of_airliners_in_flight.jpg)
+
 ICAO Annex 6 is divided into three parts:
 1.  **Part I**: International Commercial Air Transport – Aeroplanes.
 2.  **Part II**: International General Aviation – Aeroplanes.

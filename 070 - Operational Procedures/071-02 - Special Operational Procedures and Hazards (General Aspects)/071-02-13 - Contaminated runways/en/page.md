@@ -5,6 +5,9 @@ keywords: ["contaminated runway", "aquaplaning", "braking action", "friction coe
 ---
 
 ## Definition
+
+![Snow covered runway](https://upload.wikimedia.org/wikipedia/commons/6/64/Snow_covered_Schipol_airport_runway_1.JPG)
+
 A runway is considered contaminated when more than **25%** of the surface area is covered by:
 *   Surface water > 3mm deep.
 *   Slush, loose snow.
