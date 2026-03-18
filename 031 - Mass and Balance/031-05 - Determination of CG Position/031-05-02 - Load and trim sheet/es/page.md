@@ -10,6 +10,8 @@ La **Hoja de Carga y Centrado (Load & Trim Sheet)** es el registro legal del cá
 1.  **Verificación de Masa**: Asegura que se respeten los límites MTOM, MLM y MZFM.
 2.  **Verificación de Balance**: Asegura que el CG esté dentro de los límites y determina el ajuste del trim para el despegue.
 
+![Hoja de carga y centrado de ejemplo](https://upload.wikimedia.org/wikipedia/commons/6/6c/Load_and_trim_sheet_%C3%B6rne%C4%9Fi.jpg)
+
 ## Secciones de la Hoja
 
 ### 1. Cabecera

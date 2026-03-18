@@ -12,6 +12,8 @@ El **Centro de Gravedad (CG)** es el punto a través del cual se considera que a
 
 El CG debe permanecer dentro de un rango específico (la **envolvente del CG**) definido por el fabricante. Este rango garantiza que la aeronave sea estable y controlable durante todas las fases del vuelo.
 
+![Gráfico de peso y balance](https://upload.wikimedia.org/wikipedia/commons/0/0c/Weight_and_balance_chart_2a.svg)
+
 ### Efectos del CG Adelantado
 
 Un CG situado cerca del límite delantero crea una condición de "nariz pesada".

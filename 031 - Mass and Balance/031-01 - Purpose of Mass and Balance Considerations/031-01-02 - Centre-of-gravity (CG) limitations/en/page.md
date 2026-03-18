@@ -12,6 +12,8 @@ The **Centre of Gravity (CG)** is the point through which the force of gravity i
 
 The CG must remain within a specified range (the **CG envelope**) defined by the manufacturer. This range ensures the aircraft is stable and controllable throughout all phases of flight.
 
+![Weight and balance chart](https://upload.wikimedia.org/wikipedia/commons/0/0c/Weight_and_balance_chart_2a.svg)
+
 ### Effects of Forward CG
 
 A CG located near the forward limit creates a "nose-heavy" condition.

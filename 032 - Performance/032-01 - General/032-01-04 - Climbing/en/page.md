@@ -6,6 +6,8 @@ keywords: ["climb", "rate of climb", "climb gradient", "ROC", "service ceiling",
 
 ## Calculating Climb Performance
 
+![Angle of Climb](https://upload.wikimedia.org/wikipedia/commons/b/be/AngleOfClimb.jpg)
+
 Climbing generally requires **Excess Thrust** or **Excess Power**. The aircraft uses this excess energy to gain potential energy (altitude).
 
 ### Angle of Climb ($\gamma$)

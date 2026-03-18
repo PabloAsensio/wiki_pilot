@@ -28,6 +28,9 @@ Drag is the resistance the aircraft faces moving through the air. It has two mai
 
 ### Total Drag Curve
 The sum of Parasite and Induced Drag creates a U-shaped curve when plotted against speed.
+
+![Drag curves for aircraft in flight](https://upload.wikimedia.org/wikipedia/commons/5/5a/Drag_curves_for_aircraft_in_flight.svg)
+
 *   **$V_{MD}$ (Minimum Drag Speed)**: The speed at the bottom of the curve where Total Drag is minimum.
 *   At $V_{MD}$, Induced Drag equals Parasite Drag.
 

@@ -15,6 +15,7 @@ Shifted cargo can dangerously affect the CG (stability) or damage the fuselage.
 ## Restraint Methods
 
 ### 1. Tie-down Straps and Nets
+![Sailors attach a Cargo Net to a Puma Helicopter](https://upload.wikimedia.org/wikipedia/commons/e/e1/US_Navy_020729-N-2329T-002_Sailors_attach_a_Cargo_Net_to_a_Puma_Helicopter.jpg)
 *   Used for bulk cargo.
 *   Check the rating (capacity) of the straps and the attachment points (D-rings) on the floor.
 

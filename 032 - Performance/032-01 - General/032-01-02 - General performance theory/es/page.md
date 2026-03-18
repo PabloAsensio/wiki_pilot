@@ -28,6 +28,9 @@ La resistencia es la fuerza que se opone al movimiento de la aeronave a través 
 
 ### Curva de Resistencia Total
 La suma de la Resistencia Parásita e Inducida crea una curva en forma de U cuando se grafíca contra la velocidad.
+
+![Curva de Resistencia Total](https://upload.wikimedia.org/wikipedia/commons/5/5a/Drag_curves_for_aircraft_in_flight.svg)
+
 *   **$V_{MD}$ (Velocidad de Mínima Resistencia)**: La velocidad en el fondo de la curva donde la Resistencia Total es mínima.
 *   En $V_{MD}$, la Resistencia Inducida iguala a la Resistencia Parásita.
 

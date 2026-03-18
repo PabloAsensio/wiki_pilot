@@ -10,6 +10,8 @@ The **Load and Trim Sheet** is the legal record of the aircraft's mass and balan
 1.  **Mass Check**: Ensures MTOM, MLM, and MZFM limits are respected.
 2.  **Balance Check**: Ensures the CG is within limits and determines the take-off trim setting.
 
+![Load and trim sheet](https://upload.wikimedia.org/wikipedia/commons/6/6c/Load_and_trim_sheet_%C3%B6rne%C4%9Fi.jpg)
+
 ## Sections of the Sheet
 
 ### 1. Header

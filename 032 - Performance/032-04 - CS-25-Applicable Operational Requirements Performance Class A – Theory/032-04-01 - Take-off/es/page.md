@@ -15,6 +15,8 @@ La performance de Clase A se define por velocidades críticas:
 
 ## Distancias Requeridas
 
+![Diagrama de distancias declaradas](https://upload.wikimedia.org/wikipedia/commons/0/04/Aim_fig_4-3-5_Declared_Distances_with_Full-Standard_Runway_Safety_Areas%2C_Runway_Object_Free_areas%2C_and_Runway_Protection_Zones.jpg)
+
 ### Distancia de Despegue Requerida (TODR)
 La distancia horizontal desde la suelta de frenos hasta el punto donde la aeronave alcanza una altura de pantalla de **35 pies**.
 *   **Condición**: La mayor de:

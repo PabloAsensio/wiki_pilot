@@ -8,6 +8,8 @@ keywords: ["alcance", "autonomía", "SAR", "alcance específico", "flujo de comb
 
 La planificación de performance se centra en la eficiencia: cuánta distancia o tiempo se puede ganar por unidad de combustible.
 
+![Máximo Alcance y Autonomía](https://upload.wikimedia.org/wikipedia/commons/3/34/Maximum_Endurance_and_Range.jpg)
+
 ### Alcance Específico (SR - Specific Range)
 *   **Definición**: Distancia volada por unidad de combustible.
     $$

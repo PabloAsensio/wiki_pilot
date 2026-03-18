@@ -6,6 +6,8 @@ keywords: ["ascenso", "régimen de ascenso", "gradiente de ascenso", "ROC", "tec
 
 ## Cálculo de Performance de Ascenso
 
+![Ángulo de Ascenso de una Aeronave](https://upload.wikimedia.org/wikipedia/commons/b/be/AngleOfClimb.jpg)
+
 El ascenso generalmente requiere **Exceso de Empuje** o **Exceso de Potencia**. La aeronave utiliza este exceso de energía para ganar energía potencial (altitud).
 
 ### Ángulo de Ascenso ($\gamma$)

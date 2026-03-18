@@ -24,6 +24,8 @@ El menor de los dos (estructural o rendimiento) es la masa máxima permitida par
 
 ## Efectos de la Sobrecarga
 
+![Control de peso y balance de una aeronave](https://upload.wikimedia.org/wikipedia/commons/6/67/Weight_control_and_balance_of_an_aircraft.png)
+
 Exceder los límites de masa máxima tiene varios efectos perjudiciales en el rendimiento y la seguridad:
 
 *   **Aumento de la Distancia de Despegue y Aterrizaje**: Mayor masa requiere mayor velocidad para la sustentación, necesitando más pista.

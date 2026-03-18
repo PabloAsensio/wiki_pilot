@@ -15,6 +15,7 @@ La carga desplaza puede afectar peligrosamente el CG (estabilidad) o dañar el f
 ## Métodos de Restricción
 
 ### 1. Correas de Amarre y Redes
+![Uso de red de carga y amarres](https://upload.wikimedia.org/wikipedia/commons/e/e1/US_Navy_020729-N-2329T-002_Sailors_attach_a_Cargo_Net_to_a_Puma_Helicopter.jpg)
 *   Utilizadas para carga a granel.
 *   Verificar la capacidad nominal de las correas y los puntos de anclaje (anillas en D) en el piso.
 

@@ -7,6 +7,8 @@ keywords: ["cargo types", "special cargo", "dangerous goods", "ULD", "live anima
 ## General Cargo
 Standard freight that does not require special handling or precautions (e.g., clothes, machinery parts).
 
+![Boeing 747-200F nose loading door open](https://upload.wikimedia.org/wikipedia/commons/4/4c/AirBridgeCargo_Airlines_Boeing_747-200F_nose_loading_door_open_and_cargo_loader_at_Sheremetyevo_International_Airport.jpg)
+
 ## Special Cargo
 Requires specific handling, loading, or notification procedures.
 *   **Live Animals (AVI)**: Requires ventilation, temperature control, and specific container types. IATA Live Animals Regulations (LAR) apply.
@@ -31,6 +33,9 @@ Articles or substances capable of posing a risk to health, safety, property, or 
 
 ## Unit Load Devices (ULD)
 Standardized containers or pallets used to consolidate cargo.
+
+![Aircraft cargo ULD loader in operation](https://upload.wikimedia.org/wikipedia/commons/2/2f/Aircraft_cargo_%28ULD%29_loader_in_operaton.jpg)
+
 *   **Pallets**: Flat aluminum bases with nets.
 *   **Containers (AKE, AKH)**: Enclosed aluminum/fiberglass boxes shaped to fit the aircraft hold.
 *   **Benefits**: Faster loading/unloading, protection of cargo, efficient space utilization.

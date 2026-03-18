@@ -24,6 +24,8 @@ The lower of the two (structural or performance) is the maximum allowable mass f
 
 ## Effects of Overloading
 
+![Weight control and balance of an aircraft](https://upload.wikimedia.org/wikipedia/commons/6/67/Weight_control_and_balance_of_an_aircraft.png)
+
 Exceeding the maximum mass limits has several detrimental effects on performance and safety:
 
 *   **Increased Take-off and Landing Distance**: Higher mass requires higher speed for lift, requiring more runway.

@@ -8,6 +8,8 @@ keywords: ["range", "endurance", "SAR", "specific range", "fuel flow", "maximum 
 
 Performance planning focuses on efficiency: how much distance or time can be gained per unit of fuel.
 
+![Maximum Endurance and Range](https://upload.wikimedia.org/wikipedia/commons/3/34/Maximum_Endurance_and_Range.jpg)
+
 ### Specific Range (SR)
 *   **Definition**: Distance flown per unit of fuel.
     $$

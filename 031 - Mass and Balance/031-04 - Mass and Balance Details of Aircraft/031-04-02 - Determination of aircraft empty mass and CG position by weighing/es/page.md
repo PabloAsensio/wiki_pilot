@@ -17,6 +17,9 @@ Antes de pesar, la aeronave debe estar en una configuración específica:
 
 ### Método de Pesaje
 La aeronave se coloca sobre básculas en los **puntos de izado (gatos)** o bajo las **ruedas**.
+
+![Pesaje de Aeronave](https://upload.wikimedia.org/wikipedia/commons/5/59/Weighing_Wittman_W-10_Tailwind._%283729290613%29.jpg)
+
 *   **Fuerzas de Reacción**: Las básculas miden la fuerza de reacción ($R$) en cada punto (Rueda de Nariz/Cola, Ruedas Principales).
     *   $R_I, R_D$: Reacciones de Rueda Principal Izquierda y Derecha.
     *   $R_N$ o $R_C$: Reacción de Rueda de Nariz o Cola.

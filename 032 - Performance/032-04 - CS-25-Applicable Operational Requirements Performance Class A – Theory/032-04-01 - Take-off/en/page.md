@@ -15,6 +15,8 @@ Class A performance is defined by critical speeds:
 
 ## Distances Required
 
+![Declared Distances Diagram](https://upload.wikimedia.org/wikipedia/commons/0/04/Aim_fig_4-3-5_Declared_Distances_with_Full-Standard_Runway_Safety_Areas%2C_Runway_Object_Free_areas%2C_and_Runway_Protection_Zones.jpg)
+
 ### Take-Off Distance Required (TODR)
 The horizontal distance from brake release to the point where the aircraft reaches a screen height of **35 ft**.
 *   **Condition**: The longer of:

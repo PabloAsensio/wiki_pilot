@@ -17,6 +17,9 @@ Before weighing, the aircraft must be in a specific configuration:
 
 ### Weighing Method
 The aircraft is placed on scales at the **jacking points** or under the **wheels**.
+
+![Weighing Aircraft](https://upload.wikimedia.org/wikipedia/commons/5/59/Weighing_Wittman_W-10_Tailwind._%283729290613%29.jpg)
+
 *   **Reaction Forces**: The scales measure the reaction force ($R$) at each point (Nose/Tail wheel, Main wheels).
     *   $R_L, R_R$: Left and Right Main Wheel reactions.
     *   $R_N$ or $R_T$: Nose or Tail Wheel reaction.
