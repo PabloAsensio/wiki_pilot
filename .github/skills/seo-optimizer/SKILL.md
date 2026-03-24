@@ -32,7 +32,12 @@ description: 'Analyze a markdown article, extract key concepts, and inject or op
    - **Featured Snippets**: Add `## Q&A style` headings (e.g., `## What is [Topic]?` / `## ¿Qué es [Tema]?`) followed by a direct 2-3 line answer. **The information in this answer MUST be extracted solely from the lesson's `.txt` theory file.**
    - **Image Alt Texts**: Ensure all `![alt text]` for images contain descriptive keywords.
    - **Internal Linking**: Insert relevant internal links to other lessons in the syllabus using relative paths.
-7. **Multilingual consistency**: ALWAYS check if the document has multiple language versions (e.g., in `es/`, `en/`). Repeat this process manually for every language version.
+7. **Multilingual workflow and consistency**:
+   - ALWAYS use the English version (`en/`) as the primary working source. Apply SEO/content structure updates there first.
+   - After the English version is finalized, adapt the same updates to the other language versions (e.g., `es/`) manually.
+   - Do NOT do literal translation. Use the correct technical lexicon used by professionals in each language.
+   - Preserve domain-accurate terminology per language (example: `Mass and Balance` -> `Carga y Centrado`).
+   - ALWAYS check if the document has multiple language versions and keep structural parity (title intent, opening paragraph, key sections, and internal links) across languages.
 8. **Report**: Inform the user about the changes made to both the markdown files and `translations.json`.
 
 ## Quality Criteria
@@ -41,4 +46,5 @@ description: 'Analyze a markdown article, extract key concepts, and inject or op
 - For syllabus pages, titles must be explicit and contextual, avoiding overly question-like phrasing.
 - The article opening must be clean: avoid redundant generic first headings (e.g., Introducción, Resumen, Definición, Contexto) when they add no structural value.
 - The article opening must be complete: include a clear first paragraph when missing, sourced only from the lesson `.txt` theory.
+- Multilingual updates must follow an EN-first workflow and use language-specific technical terminology, not literal translations.
 - Do not remove existing frontmatter data; safely update or append elements like `title`, `description`, and `keywords`.
