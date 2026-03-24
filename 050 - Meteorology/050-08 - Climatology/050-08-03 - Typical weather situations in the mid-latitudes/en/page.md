@@ -8,6 +8,9 @@ In the mid-latitudes (between 30° and 60°), the climate is dominated by the mo
 
 ## Cold Air Drop (Cold Pool)
 
+![Cut-off Low CIRA](https://upload.wikimedia.org/wikipedia/commons/f/f5/Cut-off_low_drifts_across_eastern_Pacific_%28CIRA_2021-04-05%29.gif)
+*Satellite animation of a Cut-off low (Cold Drop) drifting.*
+
 Also known as "Gota Fría" in Spanish contexts.
 
 *   **Definition**: It is a depression (low-pressure system) that exists **only in the upper troposphere**. It consists of a pocket of air much colder than the surroundings at high levels, which has detached from the main polar air mass.

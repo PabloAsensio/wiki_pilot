@@ -6,6 +6,8 @@ keywords: ["visibility reducing phenomena aviation", "volcanic ash flying hazard
 
 Aeronautical visibility can be reduced by various meteorological phenomena, which are classified into hydrometeors (water) and lithometeors (solid particles).
 
+![Volcanic Ash Cloud](https://upload.wikimedia.org/wikipedia/commons/0/09/Eyjafjallaj%C3%B6kull_volcanic_ash_15_April_2010.png)
+
 ## Obscurations
 *   **Fog (FG)**: Suspended water droplets. Horizontal visibility **less than 1000 meters**.
 *   **Mist (BR)**: Suspended water droplets. Horizontal visibility **from 1000 to 5000 meters**.

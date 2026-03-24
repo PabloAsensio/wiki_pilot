@@ -18,6 +18,9 @@ Existen vientos específicos en diversas regiones del mundo que tienen caracter�
 
 ## Efecto Foehn
 
+![Ilustración Viento Foehn](https://upload.wikimedia.org/wikipedia/commons/0/0d/Foehn_wind_illustration.svg)
+*Diagrama de ascenso a barlovento y calentamiento dinámico descendente a sotavento característico del viento Foehn.*
+
 El Foehn es un viento **cálido, seco y racheado** que desciende por la ladera de sotavento de una cadena montañosa.
 
 ### Mecanismo de Formación

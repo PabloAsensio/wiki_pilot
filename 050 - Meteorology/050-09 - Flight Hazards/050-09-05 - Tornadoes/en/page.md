@@ -6,6 +6,8 @@ keywords: ["tornadoes aviation hazards", "waterspouts flying meteorology", "seve
 
 A tornado is a violently rotating column of air extending from the base of a thunderstorm (usually a Cumulonimbus or large Cumulus) to the ground.
 
+![Severe F5 Tornado](https://upload.wikimedia.org/wikipedia/commons/9/98/F5_tornado_Elie_Manitoba_2007.jpg)
+
 ## Characteristics
 *   **Formation**: Typically associated with severe thunderstorms, especially **supercells**. They require great instability and strong vertical wind shear (warm, moist air at the surface, cold, dry air aloft).
 *   **Funnel Cloud**: This is the initial stage, when the vortex descends from the cloud but does not yet touch the ground. It becomes a tornado upon making contact with the surface.

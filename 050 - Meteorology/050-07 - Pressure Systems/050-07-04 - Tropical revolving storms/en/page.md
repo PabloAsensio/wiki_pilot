@@ -6,6 +6,9 @@ keywords: ["tropical revolving storms aviation", "hurricanes typhoons cyclones f
 
 **Tropical Revolving Storms** (TRS) are large-scale thermal depressions that develop over warm tropical oceans. They are the most destructive weather systems on earth, deriving their energy from the release of **latent heat** of condensation.
 
+![Hurricane Structure](https://upload.wikimedia.org/wikipedia/commons/4/4f/Hurricane-en.svg)
+*Vertical cross section of the anatomy and structure of a Hurricane (TRS).*
+
 ## Classification
 
 Terminology changes according to sustained wind speed:

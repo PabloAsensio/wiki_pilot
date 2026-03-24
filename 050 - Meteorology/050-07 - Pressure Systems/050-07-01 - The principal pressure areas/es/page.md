@@ -4,9 +4,12 @@ description: "Conoce las principales áreas de presión de la Tierra y su efecto
 keywords: ["áreas de presión aviación meteorología", "sistemas globales presión vuelo ATPL", "vaguada ecuatorial piloto", "altas presiones subtropicales examen ATPL"]
 ---
 
+![Circulación Atmosférica y Áreas de Presión](https://upload.wikimedia.org/wikipedia/commons/7/79/Atmospheric_circulation.svg)
+*Circulación atmosférica global mostrando los principales cinturones de alta y baja presión.*
+
 ## Tipos de Anticiclones (Alta Presión)
 
-![Anticiclones y Borrascas](https://upload.wikimedia.org/wikipedia/commons/b/bc/Low_pressure_system_over_Iceland.jpg)
+![Anticiclón](https://upload.wikimedia.org/wikipedia/commons/9/9c/High_Pressure.jpg)
 
 Existen cinco tipos principales: cálidos, fríos, fríos temporales, dorsales (ridges) y de bloqueo.
 

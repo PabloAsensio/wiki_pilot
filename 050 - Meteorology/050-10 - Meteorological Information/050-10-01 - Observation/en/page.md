@@ -6,6 +6,8 @@ keywords: ["meteorological observation aviation", "METAR SPECI flying", "automat
 
 ## Visibility
 
+![Automated Airport Weather Station](https://upload.wikimedia.org/wikipedia/commons/2/28/Sydney_Airport_BOM_weather_station.jpg)
+
 ### Definition and Reporting
 According to **ICAO Annex 3**, visibility for aeronautical purposes is defined as the greater of:
 1.  The greatest distance at which a black object of suitable dimensions, situated near the ground, can be seen and recognized when observed against a bright background.

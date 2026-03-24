@@ -6,6 +6,9 @@ keywords: ["climatología tropical aviación", "cruzar la ZCIT ITCZ vuelo", "cli
 
 La climatología tropical está dominada por la **Zona de Convergencia Intertropical (ITCZ)**, los vientos alisios y los monzones.
 
+![ITCZ Enero y Julio](https://upload.wikimedia.org/wikipedia/commons/d/d7/ITCZ_january-july.png)
+*Desplazamiento promedio estacional de la Zona de Convergencia Intertropical (ITCZ) entre Enero y Julio.*
+
 ## Zona de Convergencia Intertropical (ITCZ)
 
 También conocida como **Doldrums**, **Ecuador Térmico** o **Vaguada Ecuatorial**.

@@ -8,6 +8,8 @@ keywords: ["weather charts aviation", "SIGWX charts flying", "surface analysis c
 
 Significant Weather Charts (SIGWX) provide a forecast of significant meteorological phenomena for aviation.
 
+![Aviation Weather Forecast Chart](https://upload.wikimedia.org/wikipedia/commons/d/df/Aviation_weather_forecast_chart.png)
+
 ### Front Symbols
 *   **Warm Front:** Red semicircles.
 *   **Cold Front:** Blue triangles.

@@ -8,6 +8,9 @@ En las latitudes medias (entre 30° y 60°), el clima está dominado por el movi
 
 ## Gota Fría (Cold Air Drop / Cold Pool)
 
+![Gota Fría CIRA](https://upload.wikimedia.org/wikipedia/commons/f/f5/Cut-off_low_drifts_across_eastern_Pacific_%28CIRA_2021-04-05%29.gif)
+*Animación satelital del progreso de un Cut-off Low (Depresión Aislada en Niveles Altos / Gota Fría).*
+
 También conocida como "Cold Pool" en el syllabus anterior.
 
 *   **Definición**: Es una depresión (sistema de baja presión) que existe **solo en la troposfera superior**. Consiste en una bolsa de aire mucho más frío que el entorno en niveles altos, que se ha desprendido de la masa de aire polar principal.

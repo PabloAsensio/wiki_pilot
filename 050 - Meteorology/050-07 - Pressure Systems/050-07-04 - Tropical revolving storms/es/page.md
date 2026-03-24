@@ -7,6 +7,7 @@ keywords: ["tormentas tropicales giratorias aviación", "huracanes tifones ciclo
 Las **Tormentas Tropicales Giratorias** (Tropical Revolving Storms - TRS) son depresiones térmicas de gran escala que se desarrollan sobre océanos tropicales cálidos. Son los sistemas meteorológicos más destructivos de la tierra, obteniendo su energía de la liberación de **calor latente** de condensación.
 
 ![Estructura de un Huracán](https://upload.wikimedia.org/wikipedia/commons/4/4f/Hurricane-en.svg)
+*Sección transversal de la anatomía y estructura de un Huracán (TRS).*
 
 ## Clasificación
 

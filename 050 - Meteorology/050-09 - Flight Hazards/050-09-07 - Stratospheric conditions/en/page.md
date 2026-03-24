@@ -6,6 +6,8 @@ keywords: ["stratospheric conditions aviation", "high altitude flight meteorolog
 
 The stratosphere is the layer of the atmosphere situated immediately above the troposphere. The boundary between the two is the **tropopause**, which in the International Standard Atmosphere (ISA) is found at 36,090 feet (11 km).
 
+![Atmosphere Layers](https://upload.wikimedia.org/wikipedia/commons/f/f9/Atmosphere_layers-en.svg)
+
 ## Characteristics of the Lower Stratosphere
 1.  **Temperature**:
     *   It is an **isothermal** layer in its lower part (up to approx. 60,000 feet), meaning the temperature remains constant with height (at -56.5°C in ISA).

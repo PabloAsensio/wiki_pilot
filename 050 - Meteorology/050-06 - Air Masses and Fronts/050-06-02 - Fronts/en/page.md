@@ -6,6 +6,9 @@ keywords: ["weather fronts aviation", "cold front warm front flying", "occluded 
 
 A front is the boundary or transition zone between two air masses with different characteristics (mainly temperature and density).
 
+![Cross section warm and cold](https://upload.wikimedia.org/wikipedia/commons/b/bc/Cross_section_through_a_cold_front_and_warm_front.jpg)
+*Cross section showing the development and lifting of air in warm and cold fronts.*
+
 ## Types of Fronts
 
 ![Weather Fronts](https://upload.wikimedia.org/wikipedia/commons/c/ca/Surface_analysis.gif)

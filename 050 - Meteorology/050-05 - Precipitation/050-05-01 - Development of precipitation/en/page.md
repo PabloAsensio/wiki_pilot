@@ -4,9 +4,14 @@ description: "How precipitation develops in atmosphere. Ice crystal process and 
 keywords: ["development of precipitation aviation", "ice crystal process meteorology", "collision coalescence ATPL", "precipitation formation flying"]
 ---
 
+![Diagram of the Water Cycle](https://upload.wikimedia.org/wikipedia/commons/b/b1/Diagram_of_the_Water_Cycle.jpg)
+*Schematic diagram of the water cycle and precipitation types.*
+
 There are two main theories explaining the formation of precipitation droplets: the Bergeron Theory and the Coalescence Process.
 
 ## Bergeron Theory (Ice Crystal Process)
+
+![Bergeron Process](https://upload.wikimedia.org/wikipedia/commons/4/41/Bergeron_process.svg)
 
 This process is the dominant mechanism for precipitation formation in **mid and high latitudes**.
 

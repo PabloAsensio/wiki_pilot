@@ -11,16 +11,18 @@ description: 'Search for images on Wikimedia Commons using the workspace script.
 - You need direct URLs to images about a specific subject.
 
 ## Procedure
-1. Identify the search keyword or query based on the user's request. **Important: Always translate the search term to English first** before searching (even if the user asks in Spanish), as Wikimedia Commons has much broader image coverage for English terms.
-2. Run the search script located in the workspace root:
+1. **Iterative Process (Topic by Topic)**: When asked to add images to multiple topics or a whole module, you MUST work iteratively. Focus on **one specific topic at a time**.
+2. For the current topic, identify the search keyword or query based on its content. **Important: Always translate the search term to English first** before searching (even if the user asks in Spanish), as Wikimedia Commons has much broader image coverage for English terms.
+3. Run the search script located in the workspace root:
    ```bash
    python wiki_image_search.py "<query>"
    ```
    *Optional: Append `--limit <N>` to specify the maximum number of results (default is 5).*
-3. Wait for the script execution and capture its output.
-4. **Fallback mechanism**: If no images are found using the initial English term, try alternative English synonyms, or as a last resort, try the original Spanish term.
-5. Once you have the results, use the returned direct URLs to embed the images in markdown format (`![<title>](<url>)`) or provide them directly to the user.
-6. **Multilingual consistency**: If you are adding the images to a file in the workspace, ALWAYS check if the document has multiple language versions (e.g., in `es/`, `en/`, etc. subdirectories). You must inject the images into **every language version** of the file so that no language is left out.
+4. Wait for the script execution and capture its output.
+5. **Fallback mechanism**: If no images are found using the initial English term, try alternative English synonyms, or as a last resort, try the original Spanish term.
+6. **Insertion**: Once you have the results, immediately embed the returned direct URLs as images in the markdown format (`![<title>](<url>)`) in the most coherent place within the current topic's file.
+7. **Multilingual consistency**: ALWAYS check if the document has multiple language versions (e.g., in `es/`, `en/`, etc. subdirectories). You must inject the imágenes into **every language version** of the file so that no language is left out. Make sure the context where it is inserted is exactly the same across languages.
+8. **Advance**: Only after successfully inserting the images for the current topic across all its language versions, proceed to step 1 for the **next topic** in the list.
 
 ## Quality Criteria
 - Make sure the query is specific enough to find relevant images.

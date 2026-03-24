@@ -1,0 +1,30 @@
+---
+title: "Mass and Balance Documentation"
+description: "Overview of the required mass and balance documentation and its contents."
+keywords: ["mass and balance documentation", "manual", "CG envelope", "weighing schedule"]
+---
+
+## Required Documentation
+
+Every aircraft must have a **Mass and Balance Manual** (or section in the Flight Manual/POH) approved by the authority. This document contains:
+
+1.  **Datum Definition**: The reference line from which all longitudinal distances (arms) are measured.
+2.  **CG Envelope**: A graph or table showing the allowable range of CG positions for various masses.
+3.  **Maximum Mass Limits**: MTOM, MLM, MZFM.
+4.  **Weighing Report**: The most recent weighing data, establishing the aircraft's Basic Empty Mass (BEM) and its CG position.
+5.  **Equipment List**: A list of installed equipment included in the BEM.
+
+## CG Envelope
+
+The allowable CG range typically changes with mass. The documentation provides a **CG Envelope** diagram with:
+*   **X-axis**: Centre of Gravity location (inches, meters, or % MAC).
+*   **Y-axis**: Aircraft Mass (kg or lbs).
+
+The pilot must verify that the calculated mass and CG for the flight fall *within* the boundaries of this envelope.
+
+## Weighing Schedule
+
+Commercial aircraft must be re-weighed periodically:
+*   **Individual Aircraft**: Every 4 years.
+*   **Fleet Mass**: If using fleet values, sampling weighing is required.
+*   **Modifications**: After major modifications or repairs that significantly affect mass or CG.

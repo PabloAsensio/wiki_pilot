@@ -6,6 +6,8 @@ keywords: ["inversiones térmicas aviación", "inversión cizalladura ATPL", "re
 
 Una inversión de temperatura es una capa en la atmósfera donde la temperatura **aumenta con la altitud**, en lugar de disminuir como es habitual en la troposfera. Esto significa que hay una capa de aire más cálido situada sobre una capa de aire más frío.
 
+![Ejemplo de Inversión Térmica](https://upload.wikimedia.org/wikipedia/commons/e/ea/Temperature_inversion_in_the_Lake_District.jpg)
+
 ## Características y Estabilidad
 *   Las inversiones actúan como una "tapa" en la atmósfera, creando una capa extremadamente **estable**.
 *   Inhiben el movimiento vertical del aire y la mezcla entre capas.

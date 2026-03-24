@@ -6,6 +6,8 @@ keywords: ["temperature inversions aviation", "inversions wind shear ATPL", "vis
 
 A temperature inversion is a layer in the atmosphere where the temperature **increases with altitude**, instead of decreasing as is usual in the troposphere. This means there is a layer of warmer air situated above a layer of colder air.
 
+![Temperature Inversion Example](https://upload.wikimedia.org/wikipedia/commons/e/ea/Temperature_inversion_in_the_Lake_District.jpg)
+
 ## Characteristics and Stability
 *   Inversions act as a "lid" on the atmosphere, creating an extremely **stable** layer.
 *   They inhibit vertical air movement and mixing between layers.

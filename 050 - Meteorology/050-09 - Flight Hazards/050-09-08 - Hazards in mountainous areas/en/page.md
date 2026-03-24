@@ -6,6 +6,8 @@ keywords: ["mountain flying hazards", "rotors downdrafts aviation", "density alt
 
 Mountainous areas present unique challenges and significant hazards to aviation due to the interaction of terrain with the atmosphere.
 
+![Lenticular Cloud indicating Mountain Waves](https://upload.wikimedia.org/wikipedia/commons/8/8f/Lenticular_cloud_over_Mount_Hood.jpg)
+
 ## Orographic Effects on Meteorology
 Mountains force air to rise (orographic lifting), which modifies weather systems:
 *   **Windward Side**: Air rises, cools, and condenses. Clouds and precipitation form.

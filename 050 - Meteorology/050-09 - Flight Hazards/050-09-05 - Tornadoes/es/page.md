@@ -6,6 +6,8 @@ keywords: ["tornados peligros aviación", "trombas marinas vuelo meteorología",
 
 Un tornado es una columna de aire que gira violentamente y se extiende desde la base de una tormenta (generalmente un Cumulonimbus o un gran Cúmulo) hasta el suelo.
 
+![Tornado F5 Severo](https://upload.wikimedia.org/wikipedia/commons/9/98/F5_tornado_Elie_Manitoba_2007.jpg)
+
 ## Características
 *   **Formación**: Se asocian típicamente con tormentas severas, especialmente **supercélulas**. Requieren gran inestabilidad y fuerte cizalladura vertical del viento (aire cálido y húmedo en superficie, aire frío y seco en altura).
 *   **Nube Embudo (Funnel Cloud)**: Es la etapa inicial, cuando el vórtice desciende de la nube pero aún no toca el suelo. Se convierte en tornado al hacer contacto con la superficie.

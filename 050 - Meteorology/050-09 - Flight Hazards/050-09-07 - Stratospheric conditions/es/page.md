@@ -6,6 +6,8 @@ keywords: ["condiciones estratosféricas aviación", "vuelo de gran altitud mete
 
 La estratosfera es la capa de la atmósfera situada inmediatamente por encima de la troposfera. El límite entre ambas es la **tropopausa**, que en la Atmósfera Estándar Internacional (ISA) se encuentra a 36,090 pies (11 km).
 
+![Capas de la Atmósfera](https://upload.wikimedia.org/wikipedia/commons/f/f9/Atmosphere_layers-en.svg)
+
 ## Características de la Baja Estratosfera
 1.  **Temperatura**:
     *   Es una capa **isotérmica** en su parte inferior (hasta aprox. 60,000 pies), lo que significa que la temperatura se mantiene constante con la altura (a -56.5°C en ISA).

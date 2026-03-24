@@ -18,6 +18,9 @@ There are specific winds in various regions of the world that have significant c
 
 ## Foehn Effect
 
+![Foehn wind illustration](https://upload.wikimedia.org/wikipedia/commons/0/0d/Foehn_wind_illustration.svg)
+*Diagram showing windward uplift and leeward dynamic warming characteristic of the Foehn wind.*
+
 The Foehn is a **warm, dry, and gusty** wind that descends the leeward slope of a mountain range.
 
 ### Formation Mechanism
