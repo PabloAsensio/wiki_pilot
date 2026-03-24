@@ -30,6 +30,7 @@ description: 'Analyze a markdown article, extract key concepts, and inject or op
 6. **Optimize Content for Position Zero & Engagement**:
    - **Clean Opening Structure**: If the first section heading is a generic opener (e.g., `## Introducción`, `## Introduction`, `## Resumen`, `## Summary`, `## Definición`, `## Definition`, `## Contexto`) and it only repeats a generic opening after the title/frontmatter, remove that heading and keep a clean start like the best-formatted lessons.
    - **Avoid Redundant Heading Bridges**: If the first `##` heading after the H1 is semantically redundant with the H1 (e.g., H1: `Sistemas de Deteccion de Humo en Aeronaves` and first H2: `Deteccion de Humo`), remove that H2 and continue with the first meaningful section heading.
+   - **Heading Level Hierarchy at Opening**: Do not start content structure with a `###` immediately under the H1. The first section heading after H1 must be `##`.
    - **Opening Paragraph Completeness**: If the lesson is missing the first introductory paragraph after the title/frontmatter, add a concise opening paragraph (2-4 lines) based strictly on the corresponding section `.txt` theory file.
    - **Featured Snippets**: Add `## Q&A style` headings (e.g., `## What is [Topic]?` / `## ¿Qué es [Tema]?`) followed by a direct 2-3 line answer. **The information in this answer MUST be extracted solely from the lesson's `.txt` theory file.**
    - **Image Alt Texts**: Ensure all `![alt text]` for images contain descriptive keywords.
@@ -48,6 +49,7 @@ description: 'Analyze a markdown article, extract key concepts, and inject or op
 - For syllabus pages, titles must be explicit and contextual, avoiding overly question-like phrasing.
 - The article opening must be clean: avoid redundant generic first headings (e.g., Introducción, Resumen, Definición, Contexto) when they add no structural value.
 - The article opening must not contain an H2 that repeats the H1 topic with less context; remove that bridge heading and start with the first substantive section.
+- The first heading level after H1 must be H2 (never H3 directly under H1).
 - The article opening must be complete: include a clear first paragraph when missing, sourced only from the lesson `.txt` theory.
 - Multilingual updates must follow an EN-first workflow and use language-specific technical terminology, not literal translations.
 - Never modify `translations.json` as part of SEO optimization.
