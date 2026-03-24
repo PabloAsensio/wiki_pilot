@@ -16,14 +16,15 @@ description: 'Analyze a markdown article, extract key concepts, and inject or op
    - **CRITICAL**: Do NOT just guess keywords. You MUST use the **Google Search Console MCP server tools** (such as `get_search_analytics` or `get_advanced_search_analytics`) to find real, high-performance SEO queries related to the document's topic.
    - Look specifically for queries ranking in positions 11-20 (page 2 of Google) with high impressions to push them to the first page.
    - Match the queries to the actual content intent.
-4. **Optimize Titles and `translations.json`**:
+4. **Optimize Titles (without changing `translations.json`)**:
    - Create an SEO-optimized title that clearly explains the lesson scope and captures the search intent (e.g. including target audience like "ATPL", "EASA").
    - For syllabus-style content, prioritize descriptive academic wording over question-style headlines.
    - If the existing title is too generic (e.g. "General"), expand it with the section context (e.g. "Generalidades del Despegue").
-   - **CRITICAL:** Update the global `translations.json` file in the root directory to replace the old title with your new SEO-optimized title for that specific topic ID (e.g., "050-01-01") and language.
+   - **CRITICAL:** Do NOT modify `translations.json` because it is used to generate URLs.
 5. **Generate & Optimize Frontmatter (CTR Improvement)**:
    - **Keywords**: Select 5 to 10 highly relevant SEO keywords/keyphrases from the real GSC data, matching the language of the file.
-   - **Title**: Update the `title` in the YAML frontmatter to exactly match the new title you just set in `translations.json`. (Do NOT add an explicit `# H1` overwriting the title in the markdown body, it is no longer needed).
+   - **Title in YAML**: Update the `title` in the YAML frontmatter with the SEO-optimized title.
+   - **Title as H1 in body**: Insert an explicit `# H1` with the same optimized title immediately after the YAML block.
    - **Description**: Add or update the YAML `description` to act as a compelling hook that summarizes the content and includes primary keywords.
    - Inject or update the YAML block (enclosed in `---`) at the very top of the file.
 6. **Optimize Content for Position Zero & Engagement**:
@@ -38,7 +39,7 @@ description: 'Analyze a markdown article, extract key concepts, and inject or op
    - Do NOT do literal translation. Use the correct technical lexicon used by professionals in each language.
    - Preserve domain-accurate terminology per language (example: `Mass and Balance` -> `Carga y Centrado`).
    - ALWAYS check if the document has multiple language versions and keep structural parity (title intent, opening paragraph, key sections, and internal links) across languages.
-8. **Report**: Inform the user about the changes made to both the markdown files and `translations.json`.
+8. **Report**: Inform the user about the changes made to the markdown files.
 
 ## Quality Criteria
 - Keywords must be data-driven via GSC, not blindly assumed.
@@ -47,4 +48,5 @@ description: 'Analyze a markdown article, extract key concepts, and inject or op
 - The article opening must be clean: avoid redundant generic first headings (e.g., Introducción, Resumen, Definición, Contexto) when they add no structural value.
 - The article opening must be complete: include a clear first paragraph when missing, sourced only from the lesson `.txt` theory.
 - Multilingual updates must follow an EN-first workflow and use language-specific technical terminology, not literal translations.
+- Never modify `translations.json` as part of SEO optimization.
 - Do not remove existing frontmatter data; safely update or append elements like `title`, `description`, and `keywords`.
