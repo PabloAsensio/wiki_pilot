@@ -17,7 +17,9 @@ description: 'Analyze a markdown article, extract key concepts, and inject or op
    - Look specifically for queries ranking in positions 11-20 (page 2 of Google) with high impressions to push them to the first page.
    - Match the queries to the actual content intent.
 4. **Optimize Titles and `translations.json`**:
-   - Create a catchy SEO-optimized title capturing the search intent (e.g. including target audience like "ATPL", "EASA").
+   - Create an SEO-optimized title that clearly explains the lesson scope and captures the search intent (e.g. including target audience like "ATPL", "EASA").
+   - For syllabus-style content, prioritize descriptive academic wording over question-style headlines.
+   - If the existing title is too generic (e.g. "General"), expand it with the section context (e.g. "Generalidades del Despegue").
    - **CRITICAL:** Update the global `translations.json` file in the root directory to replace the old title with your new SEO-optimized title for that specific topic ID (e.g., "050-01-01") and language.
 5. **Generate & Optimize Frontmatter (CTR Improvement)**:
    - **Keywords**: Select 5 to 10 highly relevant SEO keywords/keyphrases from the real GSC data, matching the language of the file.
@@ -34,4 +36,5 @@ description: 'Analyze a markdown article, extract key concepts, and inject or op
 ## Quality Criteria
 - Keywords must be data-driven via GSC, not blindly assumed.
 - The tone should match the aviation/meteorology/technical domain context of the project.
+- For syllabus pages, titles must be explicit and contextual, avoiding overly question-like phrasing.
 - Do not remove existing frontmatter data; safely update or append elements like `title`, `description`, and `keywords`.
