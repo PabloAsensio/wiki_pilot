@@ -27,6 +27,8 @@ description: 'Analyze a markdown article, extract key concepts, and inject or op
    - **Description**: Add or update the YAML `description` to act as a compelling hook that summarizes the content and includes primary keywords.
    - Inject or update the YAML block (enclosed in `---`) at the very top of the file.
 6. **Optimize Content for Position Zero & Engagement**:
+   - **Clean Opening Structure**: If the first section heading is a generic opener (e.g., `## Introducción`, `## Introduction`, `## Resumen`, `## Summary`, `## Definición`, `## Definition`, `## Contexto`) and it only repeats a generic opening after the title/frontmatter, remove that heading and keep a clean start like the best-formatted lessons.
+   - **Opening Paragraph Completeness**: If the lesson is missing the first introductory paragraph after the title/frontmatter, add a concise opening paragraph (2-4 lines) based strictly on the corresponding section `.txt` theory file.
    - **Featured Snippets**: Add `## Q&A style` headings (e.g., `## What is [Topic]?` / `## ¿Qué es [Tema]?`) followed by a direct 2-3 line answer. **The information in this answer MUST be extracted solely from the lesson's `.txt` theory file.**
    - **Image Alt Texts**: Ensure all `![alt text]` for images contain descriptive keywords.
    - **Internal Linking**: Insert relevant internal links to other lessons in the syllabus using relative paths.
@@ -37,4 +39,6 @@ description: 'Analyze a markdown article, extract key concepts, and inject or op
 - Keywords must be data-driven via GSC, not blindly assumed.
 - The tone should match the aviation/meteorology/technical domain context of the project.
 - For syllabus pages, titles must be explicit and contextual, avoiding overly question-like phrasing.
+- The article opening must be clean: avoid redundant generic first headings (e.g., Introducción, Resumen, Definición, Contexto) when they add no structural value.
+- The article opening must be complete: include a clear first paragraph when missing, sourced only from the lesson `.txt` theory.
 - Do not remove existing frontmatter data; safely update or append elements like `title`, `description`, and `keywords`.
