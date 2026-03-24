@@ -1,9 +1,11 @@
 ---
-title: "Generation"
+title: "Aircraft Electrical Power Generation Systems"
 description: "AC and DC generation, CSD, IDG, TRUs, Inverters, and power distribution."
 ---
 
-### AC Generation
+# Aircraft Electrical Power Generation Systems
+
+## AC Generation
 
 Large aircraft typically require High Voltage AC power (115/200V, 400Hz, 3-phase).
 *   **Brushless AC Generators**: Use a set of **permanent magnets** for initial excitation.

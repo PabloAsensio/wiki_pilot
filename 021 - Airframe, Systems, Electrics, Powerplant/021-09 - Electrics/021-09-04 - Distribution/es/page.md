@@ -1,9 +1,11 @@
 ---
-title: "Distribución"
+title: "Sistemas de Distribución Eléctrica en Aeronaves"
 description: "Barras colectoras, sistemas de bus dividido frente a paralelo, conversión DC/AC y escenarios de fallo."
 ---
 
-### Barras Colectoras (Bus Bars)
+# Sistemas de Distribución Eléctrica en Aeronaves
+
+## Barras Colectoras (Bus Bars)
 
 *   **Definición**: Barras de cobre gruesas que actúan como punto de distribución central para la energía eléctrica.
 *   **Función**: Simplifica el cableado (más ligero que cables individuales a cada consumidor). Recolecta energía de fuentes y la distribuye a consumidores.

@@ -1,4 +1,9 @@
-# Turbine Engines: Basic Principles
+---
+title: "Fundamentals of Turbine Engine Operation"
+description: "Brayton cycle fundamentals, core components, turbine engine types, and start sequence basics."
+---
+
+# Fundamentals of Turbine Engine Operation
 
 A gas turbine engine is a heat engine that uses air as a working fluid to produce thrust. It operates on the **Brayton Cycle**.
 

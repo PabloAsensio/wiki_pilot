@@ -1,9 +1,11 @@
 ---
-title: "Distribution"
+title: "Aircraft Electrical Power Distribution Systems"
 description: "Bus bars, split vs. parallel bus systems, DC/AC conversion, and failure scenarios."
 ---
 
-### Bus Bars
+# Aircraft Electrical Power Distribution Systems
+
+## Bus Bars
 
 *   **Definition**: Thick copper bars that act as a central distribution point for electrical power.
 *   **Function**: Simplifies wiring (lighter than individual wires to each consumer). Collects power from sources and distributes it to consumers.

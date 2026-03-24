@@ -1,4 +1,9 @@
-# Smoke Detection
+---
+title: "Aircraft Smoke Detection Systems"
+description: "Optical and ionization smoke detection principles, installation zones, and cockpit warning logic."
+---
+
+# Aircraft Smoke Detection Systems
 
 ## General Principles
 *   **Application**: Smoke detectors are mandatory in areas that cannot be kept under constant physical surveillance by the crew.

@@ -1,4 +1,9 @@
-# Mixture
+---
+title: "Fuel-Air Mixture Control in Piston Engines"
+description: "Mixture ratios, leaning procedure, altitude effects, and detonation prevention in piston engines."
+---
+
+# Fuel-Air Mixture Control in Piston Engines
 
 The fuel-air mixture must be correctly proportioned for the engine to run efficiently. The ratio is measured by mass (weight).
 

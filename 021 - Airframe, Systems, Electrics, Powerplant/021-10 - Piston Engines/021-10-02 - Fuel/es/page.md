@@ -1,9 +1,11 @@
 ---
-title: "Combustible (Motores de Pistón)"
+title: "Propiedades y Gestión del Combustible en Motores de Pistón"
 description: "Propiedades del combustible, detonación, preencendido, bloqueo de vapor y gestión del combustible."
 ---
 
-### Propiedades del Combustible de Aviación
+# Propiedades y Gestión del Combustible en Motores de Pistón
+
+## Propiedades del Combustible de Aviación
 
 *   **Octanaje (Octane Rating)**: Indica la resistencia del combustible a la **detonación**.
     *   **Octanaje más alto**: Mayor resistencia a la detonación (se quema más lento/suave).

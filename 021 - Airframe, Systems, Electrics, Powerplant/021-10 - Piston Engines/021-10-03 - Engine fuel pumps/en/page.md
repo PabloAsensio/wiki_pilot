@@ -3,7 +3,9 @@ title: "Engine Fuel Pumps"
 description: "Pumps used in piston engine fuel systems, including engine-driven and auxiliary electric pumps."
 ---
 
-### Auxiliary Pumps
+# Engine Fuel Pumps
+
+## Auxiliary Pumps
 
 *   **Type**: Usually **electrical** (not engine-driven).
 *   **Function**:

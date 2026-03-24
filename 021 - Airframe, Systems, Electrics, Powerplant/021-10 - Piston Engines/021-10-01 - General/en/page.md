@@ -1,9 +1,11 @@
 ---
-title: "General (Piston Engines)"
+title: "Fundamentals of Piston Engine Operation"
 description: "Basic principles of reciprocating engines, components, cycle differences, and power definitions."
 ---
 
-### Basic Principles & Components
+# Fundamentals of Piston Engine Operation
+
+## Basic Principles & Components
 
 The **reciprocating engine** (piston engine) consists of:
 *   **Cylinder**: Closed at one end (Cylinder Head) containing inlet/exhaust valves and a spark plug.

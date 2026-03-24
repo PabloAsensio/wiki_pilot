@@ -1,9 +1,11 @@
 ---
-title: "General (Motores de Pistón)"
+title: "Fundamentos del Funcionamiento de los Motores de Pistón"
 description: "Principios básicos de los motores alternativos, componentes, diferencias de ciclo y definiciones de potencia."
 ---
 
-### Principios Básicos y Componentes
+# Fundamentos del Funcionamiento de los Motores de Pistón
+
+## Principios Básicos y Componentes
 
 El **motor alternativo** (motor de pistón) consta de:
 *   **Cilindro**: Cerrado en un extremo (Culata) que contiene las válvulas de admisión/escape y una bujía.

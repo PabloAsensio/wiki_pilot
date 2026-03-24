@@ -3,7 +3,9 @@ title: "Sistemas de Refrigeración"
 description: "Principios de refrigeración por aire, uso de aletas de capó y gestión de la temperatura del motor."
 ---
 
-### Principios de Refrigeración por Aire
+# Sistemas de Refrigeración
+
+## Principios de Refrigeración por Aire
 
 *   **Mecanismo**: Los motores alternativos (especialmente en Aviación General) suelen ser **refrigerados por aire**.
     *   Utiliza **Aire de Impacto (Ram Air)** de la atmósfera para enfriar los cilindros.

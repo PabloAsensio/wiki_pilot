@@ -3,7 +3,9 @@ title: "Sistemas de Carburación e Inyección"
 description: "Principios de carburadores y sistemas de inyección, formación de hielo en la admisión, control de mezcla y cebado."
 ---
 
-### Principios del Carburador
+# Sistemas de Carburación e Inyección
+
+## Principios del Carburador
 
 *   **Función**: Mezcla combustible y aire en las proporciones correctas antes de entregarlo a los cilindros.
 *   **Operación**: Basado en el **Principio de Bernoulli**.

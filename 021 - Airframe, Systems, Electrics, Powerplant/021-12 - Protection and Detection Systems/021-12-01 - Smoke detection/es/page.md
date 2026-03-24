@@ -1,4 +1,9 @@
-# Detección de Humo
+---
+title: "Sistemas de Detección de Humo en Aeronaves"
+description: "Principios de detección óptica e ionización, zonas de instalación y lógica de aviso en cabina de vuelo."
+---
+
+# Sistemas de Detección de Humo en Aeronaves
 
 ## Principios Generales
 *   **Aplicación**: Los detectores de humo son obligatorios en áreas que no pueden mantenerse bajo vigilancia física constante por la tripulación.

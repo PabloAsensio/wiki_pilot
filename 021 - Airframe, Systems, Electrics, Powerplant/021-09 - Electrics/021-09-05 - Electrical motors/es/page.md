@@ -1,9 +1,11 @@
 ---
-title: "Motores Eléctricos"
+title: "Motores Eléctricos de Aeronave y Principios de Control"
 description: "Principios de motores DC, par motor, fuerza contra-electromotriz y modos de fallo (agarrotamiento, embalamiento)."
 ---
 
-### Principios Básicos
+# Motores Eléctricos de Aeronave y Principios de Control
+
+## Principios Básicos
 
 *   **Función**: Convertir energía eléctrica en energía mecánica (rotación).
 *   **Fuerza Contra-electromotriz (Back EMF)**: Un voltaje generado por el rotor giratorio que se opone al voltaje suministrado.

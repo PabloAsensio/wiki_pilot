@@ -3,7 +3,9 @@ title: "Generalidades, Definiciones y Aplicaciones Básicas"
 description: "Conceptos eléctricos básicos, unidades, ley de Ohm, protección de circuitos, electricidad estática y puertas lógicas."
 ---
 
-### Unidades y Definiciones Básicas
+# Generalidades, Definiciones y Aplicaciones Básicas
+
+## Unidades y Definiciones Básicas
 
 Las unidades fundamentales en los sistemas eléctricos son:
 

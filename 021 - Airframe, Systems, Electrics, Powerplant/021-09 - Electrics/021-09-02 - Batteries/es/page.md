@@ -1,9 +1,11 @@
 ---
-title: "Baterías"
+title: "Baterías Eléctricas de Aeronave y Protección ante Fuga Térmica"
 description: "Tipos de baterías de aeronaves, propiedades, peligros (fuga térmica) y métodos de carga."
 ---
 
-### Conceptos Básicos de Baterías
+# Baterías Eléctricas de Aeronave y Protección ante Fuga Térmica
+
+## Conceptos Básicos de Baterías
 
 Las baterías convierten energía química en energía eléctrica.
 

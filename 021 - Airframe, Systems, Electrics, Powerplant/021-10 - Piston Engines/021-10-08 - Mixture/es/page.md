@@ -1,4 +1,9 @@
-# Mezcla (Mixture)
+---
+title: "Control de la Mezcla Aire-Combustible en Motores de Pistón"
+description: "Relaciones de mezcla, ajuste por altitud, procedimiento de leaning y prevención de detonación en motores de pistón."
+---
+
+# Control de la Mezcla Aire-Combustible en Motores de Pistón
 
 La mezcla de aire y combustible debe estar correctamente proporcionada para que el motor funcione de manera eficiente. La relación se mide por masa (peso).
 

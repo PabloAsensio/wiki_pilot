@@ -3,7 +3,9 @@ title: "Cooling Systems"
 description: "Air cooling principles, cowl flaps usage, and engine temperature management."
 ---
 
-### Air Cooling Principles
+# Cooling Systems
+
+## Air Cooling Principles
 
 *   **Mechanism**: Reciprocating engines (especially in GA) are typically **air-cooled**.
     *   Uses **Ram Air** from the atmosphere to cool cylinders.

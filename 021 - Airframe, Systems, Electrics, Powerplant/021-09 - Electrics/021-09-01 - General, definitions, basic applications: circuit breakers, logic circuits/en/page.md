@@ -3,7 +3,9 @@ title: "General, Definitions, Basic Applications"
 description: "Basic electrical concepts, units, Ohm's law, circuit protection, static electricity, and logic gates."
 ---
 
-### Basic Units and Definitions
+# General, Definitions, Basic Applications
+
+## Basic Units and Definitions
 
 The fundamental units in electrical systems are:
 

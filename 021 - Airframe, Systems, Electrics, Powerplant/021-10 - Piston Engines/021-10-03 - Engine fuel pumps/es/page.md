@@ -3,7 +3,9 @@ title: "Bombas de Combustible del Motor"
 description: "Bombas utilizadas en sistemas de combustible de motores de pistón, incluyendo bombas accionadas por motor y auxiliares eléctricas."
 ---
 
-### Bombas Auxiliares
+# Bombas de Combustible del Motor
+
+## Bombas Auxiliares
 
 *   **Tipo**: Generalmente **eléctricas** (no accionadas por el motor).
 *   **Función**:

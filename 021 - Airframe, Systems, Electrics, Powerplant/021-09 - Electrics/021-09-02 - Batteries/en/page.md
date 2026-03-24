@@ -1,9 +1,11 @@
 ---
-title: "Batteries"
+title: "Aircraft Electrical Batteries and Thermal Runaway Protection"
 description: "Aircraft battery types, properties, hazards (thermal runaway), and charging methods."
 ---
 
-### Battery Basics
+# Aircraft Electrical Batteries and Thermal Runaway Protection
+
+## Battery Basics
 
 Batteries convert chemical energy into electrical energy.
 

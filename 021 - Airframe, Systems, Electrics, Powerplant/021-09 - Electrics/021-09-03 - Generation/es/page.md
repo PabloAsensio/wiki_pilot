@@ -1,9 +1,11 @@
 ---
-title: "Generación"
+title: "Sistemas de Generación Eléctrica en Aeronaves"
 description: "Generación de AC y DC, CSD, IDG, TRUs, Inversores y distribución de energía."
 ---
 
-### Generación de AC
+# Sistemas de Generación Eléctrica en Aeronaves
+
+## Generación de AC
 
 Las aeronaves grandes suelen requerir energía AC de Alto Voltaje (115/200V, 400Hz, trifásica).
 *   **Generadores AC Sin Escobillas**: Usan un conjunto de **imanes permanentes** para la excitación inicial.

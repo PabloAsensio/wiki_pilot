@@ -1,9 +1,11 @@
 ---
-title: "Fuel (Piston Engines)"
+title: "Piston Engine Fuel Properties and Management"
 description: "Fuel properties, detonation, pre-ignition, vapour lock, and fuel management."
 ---
 
-### Aviation Fuel Properties
+# Piston Engine Fuel Properties and Management
+
+## Aviation Fuel Properties
 
 *   **Octane Rating**: Indicates the fuel's resistance to **detonation**.
     *   **Higher Octane**: Higher resistance to detonation (burns slower/smoother).

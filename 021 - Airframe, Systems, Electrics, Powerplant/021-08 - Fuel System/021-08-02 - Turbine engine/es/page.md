@@ -1,4 +1,10 @@
-**Introducción**
+---
+title: "Fundamentos del Sistema de Combustible en Motores de Turbina"
+description: "Propiedades del combustible Jet, bombas booster y HP, gestión de crossfeed y arquitectura del sistema de combustible en turbinas."
+---
+
+# Fundamentos del Sistema de Combustible en Motores de Turbina
+
 Los sistemas de combustible de aeronaves de turbina están diseñados para manejar caudales altos, temperaturas muy variadas y una gestión crítica del peso. Utilizan tipos específicos de combustibles a base de queroseno.
 
 ## Características del Combustible Jet

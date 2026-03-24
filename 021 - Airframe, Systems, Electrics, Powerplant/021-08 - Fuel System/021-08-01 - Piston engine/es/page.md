@@ -1,4 +1,11 @@
-**Introducción**
+---
+title: "Fundamentos del Sistema de Combustible en Motores de Pistón"
+description: "Arquitectura de tanques, lógica de crossfeed, ventilación y requisitos operativos del sistema de combustible en motores de pistón."
+---
+
+# Fundamentos del Sistema de Combustible en Motores de Pistón
+
+
 El sistema de combustible está diseñado para almacenar y suministrar combustible al motor a la presión y caudal correctos en todas las condiciones de funcionamiento. También gestiona la distribución de combustible para mantener el equilibrio de la aeronave.
 
 ## Requisitos del Sistema

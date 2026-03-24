@@ -1,4 +1,9 @@
-# Motores de Turbina: Principios Básicos
+---
+title: "Fundamentos del Funcionamiento de los Motores de Turbina"
+description: "Fundamentos del ciclo Brayton, componentes principales, tipos de motores de turbina y secuencia de arranque."
+---
+
+# Fundamentos del Funcionamiento de los Motores de Turbina
 
 Un motor de turbina de gas es un motor térmico que usa aire como fluido de trabajo para producir empuje. Opera bajo el **Ciclo Brayton**.
 
