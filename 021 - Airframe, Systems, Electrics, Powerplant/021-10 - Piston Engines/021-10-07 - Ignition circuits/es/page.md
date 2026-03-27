@@ -27,7 +27,7 @@ A bajas revoluciones (durante el arranque), la magneto gira demasiado lento para
 *   **Función 2 (Aceleración)**: Tensa el resorte y lo libera rápidamente, haciendo girar la magneto lo suficientemente rápido para generar una chispa fuerte para el arranque.
 *   Una vez arranca el motor, la fuerza centrífuga desacopla el mecanismo.
 
-## Interruptor de Encendido y Puesta a Tierra (Massa)
+## Interruptor de Encendido y Puesta a Tierra (Masa)
 
 A menudo se hace referencia a la prueba de magnetos ("Mag Check") o prueba de corte ("Dead Cut").
 *   **Interruptor OFF**: El interruptor de encendido funciona **poniendo a tierra (masa) el circuito primario**. Esto detiene la generación de alto voltaje.

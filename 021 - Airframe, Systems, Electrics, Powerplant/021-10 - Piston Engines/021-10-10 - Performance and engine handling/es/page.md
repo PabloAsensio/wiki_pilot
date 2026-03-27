@@ -35,7 +35,7 @@ Para mantener la potencia en altitud, se utiliza un **Turbocompresor**.
 
 **FADEC** es un sistema electrónico que gestiona todas las funciones del motor.
 *   **Control**: Operación con una sola palanca (Palanca de potencia). Sin palancas separadas de mezcla o hélice.
-*   **Funciones**: Controla la inyección de combustible, el **tiempol de encendido (ignition timing)** (una mejora importante de eficiencia sobre los sistemas mecánicos) y el paso de la hélice.
+*   **Funciones**: Controla la inyección de combustible, el **tiempo de encendido (ignition timing)** (una mejora importante de eficiencia sobre los sistemas mecánicos) y el paso de la hélice.
 *   **Redundancia**: Para prevenir la pérdida total de potencia, los sistemas FADEC tienen **dos canales separados e idénticos** (ECUs) y a menudo una fuente de energía de respaldo.
 *   **Ventajas**: Eficiencia óptima, protección de límites del motor, reducción de carga de trabajo del piloto, diagnóstico fácil.
 *   **Desventajas**: Complejidad, dependencia de la energía eléctrica.

@@ -29,7 +29,7 @@ Los compartimentos de motor y APU usan **detección térmica/calor** (no humo de
 *   **Redundancia (Doble Lazo)**:
     *   Aviones modernos usan dos lazos paralelos (A y B).
     *   **Lógica AND**: Ambos lazos deben detectar fuego para activar la advertencia (minimiza falsas alarmas).
-    *   **Fallo**: Si una lazo falla (ej. corto a tierra), el sistema puede revertir a operación "Single Loop" o indicar fallo. Una condición de **baja resistencia Y baja capacitancia** típicamente indica un fallo/corto.
+    *   **Fallo**: Si un lazo falla (ej. corto a tierra), el sistema puede revertir a operación "Single Loop" o indicar fallo. Una condición de **baja resistencia Y baja capacitancia** típicamente indica un fallo/corto.
 
 ## Extinción de Incendios
 *   **Mecanismo**: Botellas de descarga de alta tasa (esferas) con agente extintor (reemplazo de Halon).
