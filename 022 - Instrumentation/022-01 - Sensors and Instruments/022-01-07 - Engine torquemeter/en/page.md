@@ -1,3 +1,14 @@
+---
+title: "Engine Torquemeter Systems: Phase-Shift Torque Measurement Principles"
+description: "Study torquemeter operation in propeller and turboprop aircraft, including torque units, power relationships, and phase-shift electronic sensing architecture."
+keywords:
+    - "engine torque"
+    - "rpm"
+    - "flight level"
+    - "minimum speed"
+---
+# Engine Torquemeter Systems: Phase-Shift Torque Measurement Principles
+
 Torquemeters are used primarily on propeller-driven and turboprop aircraft to measure the turning force applied to the propeller shaft.
 
 ## Definitions and Units

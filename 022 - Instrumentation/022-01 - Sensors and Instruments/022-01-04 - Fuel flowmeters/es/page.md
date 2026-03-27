@@ -1,3 +1,14 @@
+---
+title: "Caudalímetros de Combustible: Flujo Volumétrico/Gravimétrico e Integración"
+description: "Estudia los métodos de medición de flujo de combustible y el cálculo integrado de combustible usado para verificar consumo, detectar fugas y predecir combustible en destino."
+keywords:
+    - "fuel flow"
+    - "fuel used"
+    - "flight level"
+    - "minimum speed"
+---
+# Caudalímetros de Combustible: Flujo Volumétrico/Gravimétrico e Integración
+
 Los caudalímetros de combustible proporcionan a los pilotos y a los ordenadores de a bordo datos en tiempo real sobre el rendimiento del motor y el consumo de combustible.
 
 ## Principios de medición

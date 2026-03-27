@@ -1,3 +1,14 @@
+---
+title: "Turn Indicator and Turn Coordinator: Rate-1 Turns, Slip, and Skid"
+description: "Understand turn-indication instruments, including turn-rate sensing, Rate-1 turns, and slip/skid coordination with the inclinometer ball."
+keywords:
+    - "compass turns"
+    - "points on the compass"
+    - "magnetic headings"
+    - "magnetic course"
+---
+# Turn Indicator and Turn Coordinator: Rate-1 Turns, Slip, and Skid
+
 These instruments indicate the **rate** of turn (yaw) and the quality of the turn (coordination).
 
 ## Turn Indicator vs. Turn Coordinator

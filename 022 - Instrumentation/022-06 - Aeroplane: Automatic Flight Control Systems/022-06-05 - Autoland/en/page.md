@@ -1,12 +1,18 @@
 ---
 layout: default
-title: "022-06-05 - Autoland"
+title: "Autoland Systems: Fail-Passive/Fail-Operational Logic and Alert Height"
+description: "Study autoland architecture, redundancy classes, alert-height decision logic, and flare/rollout sequence for low-visibility operations."
+keywords:
+    - "flight level"
+    - "minimum speed"
+    - "magnetic headings"
+    - "compass turns"
 parent: "022-06 - Aeroplane: Automatic Flight Control Systems"
 grand_parent: "022 - Instrumentation"
 nav_order: 5
 ---
 
-# Autoland Systems
+# Autoland Systems: Fail-Passive/Fail-Operational Logic and Alert Height
 
 ## Purpose and Components
 

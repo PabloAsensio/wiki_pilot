@@ -1,3 +1,14 @@
+---
+title: "Efectos del Campo Magnético de la Aeronave: Desvío, Compensación y Compass Swing"
+description: "Aprende cómo el magnetismo propio de la aeronave genera desvío de brújula y cómo se corrige mediante compensación, swing y tarjeta de desvíos."
+keywords:
+	- "rumbos magnéticos"
+	- "desvío de brújula"
+	- "compass turns"
+	- "magnetic headings"
+---
+# Efectos del Campo Magnético de la Aeronave: Desvío, Compensación y Compass Swing
+
 La propia aeronave genera un campo magnético debido a su estructura metálica, circuitos eléctricos y motores. Este campo perturbador afecta la precisión de la brújula.
 
 ## Desvío de la Brújula (Deviation)

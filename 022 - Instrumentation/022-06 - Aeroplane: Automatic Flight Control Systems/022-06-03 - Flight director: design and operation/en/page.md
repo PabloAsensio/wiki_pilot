@@ -1,12 +1,18 @@
 ---
 layout: default
-title: "022-06-03 - Flight director: design and operation"
+title: "Flight Director Design and Operation: Command Bars, Modes, and Crew Use"
+description: "Learn flight-director command logic, crossbar/V-bar interpretation, manual and AP-coupled operation, and safe handling during failures."
+keywords:
+  - "flight level"
+  - "minimum speed"
+  - "magnetic headings"
+  - "compass turns"
 parent: "022-06 - Aeroplane: Automatic Flight Control Systems"
 grand_parent: "022 - Instrumentation"
 nav_order: 3
 ---
 
-# Flight Director: Design and Operation
+# Flight Director Design and Operation: Command Bars, Modes, and Crew Use
 
 ## Principles
 

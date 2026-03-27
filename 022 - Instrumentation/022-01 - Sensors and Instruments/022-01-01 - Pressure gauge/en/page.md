@@ -1,3 +1,14 @@
+---
+title: "Aircraft Pressure Gauges: Aneroid, Bellows, and Bourdon Applications"
+description: "Study aircraft pressure-gauge technologies across low, medium, and high pressure ranges, including aneroid capsules, bellows, bourdon tubes, and remote transducers."
+keywords:
+	- "altimeter readings"
+	- "altimeter pressure"
+	- "calibrated altitude"
+	- "air density"
+---
+# Aircraft Pressure Gauges: Aneroid, Bellows, and Bourdon Applications
+
 Pressure gauges provide critical information about the state of aircraft systems, from engine health to flight data. The choice of pressure sensor depends heavily on the magnitude of the pressure being measured, ranging from delicate atmospheric variations to high-pressure hydraulic lines.
 
 ## Pressure Sensing Mechanisms

@@ -1,10 +1,18 @@
 ---
-title: Cockpit Voice Recorder (CVR) - Registrador de Voces de Cabina
+title: "Cockpit Voice Recorder (CVR): Alcance de Grabación, Activación y Supervivencia"
+description: "Aprende la arquitectura del CVR, lógica de activación, canales de audio obligatorios y características de supervivencia para investigación de accidentes."
+keywords:
+    - "cvr"
+    - "flight recorder"
+    - "flight level"
+    - "minimum speed"
 ---
+
+# Cockpit Voice Recorder (CVR): Alcance de Grabación, Activación y Supervivencia
 
 El **CVR** está diseñado para grabar el entorno auditivo de la cabina de vuelo para asistir en investigaciones de accidentes.
 
-### Operación y Capacidad
+## Operación y Capacidad
 *   **Duración de Grabación**: Históricamente preserva las **últimas 2 horas** de grabación (grabación en bucle). Las nuevas regulaciones a menudo exigen duraciones más largas (ej. 25 horas) para aeronaves modernas.
 *   **Activación**: Se energiza automáticamente:
     *   En vuelo.
@@ -14,7 +22,7 @@ El **CVR** está diseñado para grabar el entorno auditivo de la cabina de vuelo
     *   **Registrador a Prueba de Impactos**: Alojado en la sección de cola para máxima supervivencia, equipado con una **Baliza de Localización Subacuática (ULB)**.
     *   **Panel de Control**: Incluye un botón de prueba y un **Botón de Evento** para marcar momentos específicos en la cinta para una recuperación rápida.
 
-### Información Grabada
+## Información Grabada
 Según **CS-25** / **EASA AIR OPS**, el CVR debe grabar:
 1.  **Comunicaciones de Radio**: Transmitidas y recibidas.
 2.  **Entorno Aural**: A través del **Micrófono de Área** (sonidos de la cabina).

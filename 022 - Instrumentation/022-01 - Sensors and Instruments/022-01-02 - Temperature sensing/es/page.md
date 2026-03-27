@@ -1,3 +1,14 @@
+---
+title: "Sensado de Temperatura en Aeronaves: Conversión de Escalas y Monitoreo CSD"
+description: "Aprende los fundamentos del sensado de temperatura en aviación: conversión Celsius/Fahrenheit/Kelvin y control operativo de la temperatura de aceite en CSD."
+keywords:
+	- "densidad del aire"
+	- "altitud de densidad"
+	- "temperatura"
+	- "calibrated altitude"
+---
+# Sensado de Temperatura en Aeronaves: Conversión de Escalas y Monitoreo CSD
+
 La medición de la temperatura en la aviación es esencial para controlar sistemas como motores y generadores, así como para obtener datos atmosféricos.
 
 ## Conversión de temperatura

@@ -1,3 +1,14 @@
+---
+title: "Airspeed Indicator (ASI): IAS, CAS, TAS, and Pitot-Static Errors"
+description: "Understand ASI operation, color-code ranges, IAS/CAS/TAS relationships, and classic pitot-static blockage effects used in ATPL Instrumentation."
+keywords:
+    - "calibrated altitude"
+    - "air density"
+    - "low air density"
+    - "what is the air density"
+---
+# Airspeed Indicator (ASI): IAS, CAS, TAS, and Pitot-Static Errors
+
 The **Airspeed Indicator (ASI)** measures the speed of the aircraft through the air by comparing total pressure and static pressure.
 
 ## Principle

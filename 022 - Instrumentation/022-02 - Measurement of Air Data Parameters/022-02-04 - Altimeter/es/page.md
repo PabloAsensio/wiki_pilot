@@ -1,3 +1,15 @@
+---
+title: "Fundamentos del Altímetro: Presión Estática, Ajustes de Subescala y Errores"
+description: "Domina el funcionamiento del altímetro: medición de presión estática, ajustes QNH/QFE/STD y efectos de bloqueo, retardo y desviaciones ISA."
+keywords:
+    - "altímetro"
+    - "altitud de densidad"
+    - "presión estática"
+    - "calibrated altitude"
+    - "altimeter altitude"
+---
+# Fundamentos del Altímetro: Presión Estática, Ajustes de Subescala y Errores
+
 El altímetro es esencialmente un barómetro calibrado que mide la **presión estática** y la muestra como altitud basada en la Atmósfera Estándar Internacional (ISA).
 
 ## Principio de Operación

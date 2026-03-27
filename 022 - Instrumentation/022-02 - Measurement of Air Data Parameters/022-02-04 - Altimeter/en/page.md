@@ -1,3 +1,15 @@
+---
+title: "Altimeter Fundamentals: Static Pressure, Subscale Settings, and Errors"
+description: "Master altimeter operation from static-pressure sensing to QNH/QFE/STD settings, including lag, blockage behavior, and ISA-related indication errors."
+keywords:
+    - "altimeter altitude"
+    - "altimeter reading"
+    - "altimeter readings"
+    - "altimeter pressure"
+    - "calibrated altitude"
+---
+# Altimeter Fundamentals: Static Pressure, Subscale Settings, and Errors
+
 The altimeter is essentially a calibrated barometer that measures **static pressure** and displays it as altitude based on the International Standard Atmosphere (ISA).
 
 ## Principle of Operation

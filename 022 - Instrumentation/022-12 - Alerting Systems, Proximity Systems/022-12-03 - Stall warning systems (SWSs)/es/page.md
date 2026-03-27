@@ -1,6 +1,14 @@
 ---
-title: "Sistemas de Aviso de Pérdida (SWS)"
+title: "Sistemas de Aviso de Pérdida (SWS): Márgenes, Entradas y Alertas"
+description: "Estudia el funcionamiento del SWS: márgenes CS-25, lógica basada en AoA, señales táctiles/auditivas/visuales e implicaciones de fallos de sensor."
+keywords:
+	- "stall warning"
+	- "ángulo de ataque"
+	- "minimum speed"
+	- "flight level"
 ---
+
+# Sistemas de Aviso de Pérdida (SWS): Márgenes, Entradas y Alertas
 
 ## Descripción General
 

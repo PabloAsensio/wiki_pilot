@@ -1,3 +1,14 @@
+---
+title: "Computador de Datos de Aire (ADC): Entradas, Salidas y Lógica de Cálculo de TAS"
+description: "Aprende la arquitectura del ADC en ATPL Instrumentación: entradas pitot-estáticas y TAT, derivación de SAT, cálculo de TAS y distribución de datos a sistemas."
+keywords:
+    - "altitud de densidad"
+    - "densidad del aire"
+    - "altímetro"
+    - "adc"
+---
+# Computador de Datos de Aire (ADC): Entradas, Salidas y Lógica de Cálculo de TAS
+
 El **Computador de Datos de Aire (ADC)** es un ordenador digital que procesa las entradas de varios sensores para calcular parámetros de vuelo precisos para los instrumentos y sistemas de vuelo (EFIS, FMS, AFCS, Transpondedor, etc.).
 
 ## Entradas

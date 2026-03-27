@@ -1,6 +1,14 @@
 ---
-title: "Operaciones y Limitaciones del FMS"
+title: "Operaciones y Limitaciones del FMS: Inicialización, CI, LNAV/VNAV y Precisión"
+description: "Aprende la operación práctica del FMS desde IDENT/POS INIT/RTE/PERF hasta estrategia de cost index, comportamiento LNAV/VNAV y degradación de precisión."
+keywords:
+    - "cost index"
+    - "lnav vnav"
+    - "flight level"
+    - "minimum speed"
 ---
+
+# Operaciones y Limitaciones del FMS: Inicialización, CI, LNAV/VNAV y Precisión
 
 ## Secuencia de Inicialización
 

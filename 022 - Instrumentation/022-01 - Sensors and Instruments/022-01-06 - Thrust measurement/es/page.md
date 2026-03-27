@@ -1,3 +1,14 @@
+---
+title: "Medición de Empuje en Reactores: Indicaciones N1 y EPR con Verificación"
+description: "Comprende los parámetros de ajuste de empuje N1 y EPR, la lógica de relación de presiones, riesgos de bloqueo en sensores y verificación cruzada operativa."
+keywords:
+	- "minimum speed"
+	- "flight level"
+	- "rumbos magnéticos"
+	- "compass turns"
+---
+# Medición de Empuje en Reactores: Indicaciones N1 y EPR con Verificación
+
 En los motores a reacción, el empuje es la fuerza de salida directa. Los pilotos dependen de parámetros específicos para ajustar y monitorizar esta potencia.
 
 ## Parámetros principales de empuje

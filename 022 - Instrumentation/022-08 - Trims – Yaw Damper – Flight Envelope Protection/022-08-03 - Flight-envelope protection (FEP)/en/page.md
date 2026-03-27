@@ -1,16 +1,22 @@
 ---
 layout: default
-title: "022-08-03 - Flight-envelope protection (FEP)"
+title: "Flight Envelope Protection (FEP): Stall, Overspeed, and G-Load Limits"
+description: "Study flight-envelope protection logic in conventional and FBW aircraft, including alpha protections, overspeed handling, attitude limits, and load-factor caps."
+keywords:
+    - "minimum speed"
+    - "flight level"
+    - "magnetic headings"
+    - "compass turns"
 parent: "022-08 - Trims – Yaw Damper – Flight Envelope Protection"
 grand_parent: "022 - Instrumentation"
 nav_order: 3
 ---
 
-# Flight-Envelope Protection (FEP)
+# Flight Envelope Protection (FEP): Stall, Overspeed, and G-Load Limits
 
 ## Concept and Purpose
 
-**Flight Envelope Protection (FEP)** systems serve to monitoring and restricting the aircraft's flight parameters to ensure they remain within safe structural and aerodynamic limits.
+**Flight Envelope Protection (FEP)** systems monitor and restrict aircraft flight parameters to ensure they remain within safe structural and aerodynamic limits.
 
 - **Objective**: To allow the pilot to use the full capabilities of the aircraft without fear of entering an unsafe state (stall, overstress, overspeed).
 - **Implementation**:

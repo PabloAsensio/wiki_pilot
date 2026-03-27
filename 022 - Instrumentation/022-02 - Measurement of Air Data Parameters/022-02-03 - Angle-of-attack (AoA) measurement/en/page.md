@@ -1,3 +1,14 @@
+---
+title: "Angle-of-Attack (AoA) Measurement: Sensors, Heating, and Failure Modes"
+description: "Understand AoA measurement methods, anti-icing, output paths to ADC and stall-warning systems, and operational implications of sensor failures."
+keywords:
+	- "air density"
+	- "altimeter altitude"
+	- "calibrated altitude"
+	- "what is the air density"
+---
+# Angle-of-Attack (AoA) Measurement: Sensors, Heating, and Failure Modes
+
 The **Angle of Attack (AoA)** or alpha ($\alpha$) is the angle between the wing's chord line and the relative airflow. It is a critical parameter for stall warning and flight envelope protection.
 
 ## AoA Sensors

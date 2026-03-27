@@ -1,3 +1,14 @@
+---
+title: "Indicador de Actitud (Horizonte Artificial): Sistemas de Erección y Errores"
+description: "Estudia el horizonte artificial: principio de giro vertical, sistemas de erección y errores por aceleración/viraje en vuelo instrumental."
+keywords:
+    - "rumbos magnéticos"
+    - "compass turns"
+    - "points on the compass"
+    - "curso magnético"
+---
+# Indicador de Actitud (Horizonte Artificial): Sistemas de Erección y Errores
+
 El **Indicador de Actitud (AI)** u Horizonte Artificial proporciona información de cabeceo y alabeo relativa al horizonte de la Tierra. Es el único instrumento que da una imagen inmediata y directa de la actitud de la aeronave.
 
 ## Principios

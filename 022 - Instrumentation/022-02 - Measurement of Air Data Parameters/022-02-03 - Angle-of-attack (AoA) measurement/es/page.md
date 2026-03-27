@@ -1,3 +1,14 @@
+---
+title: "Medición del Ángulo de Ataque (AoA): Sensores, Calefacción y Modos de Fallo"
+description: "Comprende cómo se mide el AoA, su calefacción antihielo, su integración con ADC y avisos de pérdida, y las consecuencias de sensores congelados."
+keywords:
+	- "altitud de densidad"
+	- "ángulo de ataque"
+	- "sistema aviso de pérdida"
+	- "densidad del aire"
+---
+# Medición del Ángulo de Ataque (AoA): Sensores, Calefacción y Modos de Fallo
+
 El **Ángulo de Ataque (AoA)** o alfa ($\alpha$) es el ángulo entre la línea de cuerda del ala y el flujo de aire relativo. Es un parámetro crítico para el aviso de pérdida y la protección de la envolvente de vuelo.
 
 ## Sensores AoA

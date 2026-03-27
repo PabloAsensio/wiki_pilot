@@ -1,3 +1,14 @@
+---
+title: "Remote-Reading Compass Systems: Slaved Correction and Free Mode"
+description: "Understand remote-reading compass architecture, including flux-valve slaving loops, FEAT correction chain, and DG-style operation in free mode."
+keywords:
+    - "magnetic headings"
+    - "magnetic course"
+    - "points on the compass"
+    - "compass turns"
+---
+# Remote-Reading Compass Systems: Slaved Correction and Free Mode
+
 A **Remote Indicating Compass** (often called a Gyro-Magnetic Compass) combines a Directional Gyro with a Flux Valve to provide a stable, magnetically-referenced heading without manual resetting.
 
 ## System Components (FEAT)

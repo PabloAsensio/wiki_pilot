@@ -1,3 +1,14 @@
+---
+title: "Air Data Computer (ADC): Inputs, Outputs, and TAS Computation Logic"
+description: "Learn ADC architecture for ATPL Instrumentation, including pitot-static and TAT inputs, SAT derivation, TAS computation, and system output distribution."
+keywords:
+    - "calibrated altitude"
+    - "air density"
+    - "altimeter altitude"
+    - "what is the air density"
+---
+# Air Data Computer (ADC): Inputs, Outputs, and TAS Computation Logic
+
 The **Air Data Computer (ADC)** is a digital computer that processes inputs from various sensors to calculate accurate flight parameters for flight instruments and systems (EFIS, FMS, AFCS, Transponder, etc.).
 
 ## Inputs

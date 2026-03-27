@@ -1,3 +1,14 @@
+---
+title: "Indicador de Velocidad del Aire (ASI): IAS, CAS, TAS y Errores Pitot-Estáticos"
+description: "Comprende el ASI, los rangos por colores, la relación IAS/CAS/TAS y los efectos típicos de bloqueos pitot-estáticos en ATPL Instrumentación."
+keywords:
+    - "altitud de densidad"
+    - "densidad del aire"
+    - "presión estática"
+    - "asi"
+---
+# Indicador de Velocidad del Aire (ASI): IAS, CAS, TAS y Errores Pitot-Estáticos
+
 El **Indicador de Velocidad del Aire (ASI)** mide la velocidad de la aeronave a través del aire comparando la presión total y la presión estática.
 
 ## Principio

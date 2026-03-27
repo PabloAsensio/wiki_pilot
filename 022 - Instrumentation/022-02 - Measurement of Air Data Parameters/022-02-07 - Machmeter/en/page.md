@@ -1,3 +1,14 @@
+---
+title: "Machmeter Operation: Mach Number, Pressure Ratios, and Speed Margins"
+description: "Study Machmeter principles, TAS-to-local-speed-of-sound relationships, and how constant-Mach climbs affect CAS, TAS, and stall margin."
+keywords:
+	- "calibrated altitude"
+	- "air density"
+	- "low air density"
+	- "altimeter altitude"
+---
+# Machmeter Operation: Mach Number, Pressure Ratios, and Speed Margins
+
 The **Machmeter** displays the Mach number ($M$), which is the ratio of the aircraft's True Airspeed (TAS) to the Local Speed of Sound (LSS).
 
 ## Formula

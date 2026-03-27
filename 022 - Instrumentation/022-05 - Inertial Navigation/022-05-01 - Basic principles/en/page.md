@@ -1,8 +1,14 @@
 ---
-title: "Basic Principles"
-description: "Fundamentals of Inertial Navigation Systems (INS) and Inertial Reference Systems (IRS), including integration of acceleration and system types."
-keywords: ["INS", "IRS", "accelerometers", "gyroscopes", "integration", "Schuler tuning", "strap-down"]
+title: "Inertial Navigation Basic Principles: INS, IRS, and Error Behaviour"
+description: "Master INS and IRS fundamentals, from acceleration integration and strap-down architecture to Schuler-tuned and cumulative drift errors."
+keywords:
+    - "magnetic headings"
+    - "magnetic course"
+    - "points on the compass"
+    - "compass turns"
 ---
+
+# Inertial Navigation Basic Principles: INS, IRS, and Error Behaviour
 
 ## Inertial Navigation System (INS)
 

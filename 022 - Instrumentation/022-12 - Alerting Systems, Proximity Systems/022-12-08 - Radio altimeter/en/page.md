@@ -1,6 +1,14 @@
 ---
-title: "Radio Altimeter (RA)"
+title: "Radio Altimeter (RA): FMCW Principle, Integration, and Failure Impacts"
+description: "Study radio-altimeter operation, FMCW ranging, calibration to touchdown geometry, and integration with autoland, GPWS/TAWS, and TCAS inhibitions."
+keywords:
+    - "radio altimeter"
+    - "altimeter readings"
+    - "flight level"
+    - "minimum speed"
 ---
+
+# Radio Altimeter (RA): FMCW Principle, Integration, and Failure Impacts
 
 ## Overview
 

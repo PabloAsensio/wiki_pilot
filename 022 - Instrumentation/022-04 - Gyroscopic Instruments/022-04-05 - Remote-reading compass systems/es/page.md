@@ -1,3 +1,14 @@
+---
+title: "Sistemas de Brújula de Lectura Remota: Corrección Esclava y Modo Libre"
+description: "Comprende la arquitectura de brújula remota, incluyendo lazo de esclavitud con flux valve, cadena FEAT y operación tipo DG en modo libre."
+keywords:
+    - "rumbos magnéticos"
+    - "curso magnético"
+    - "compass turns"
+    - "points on the compass"
+---
+# Sistemas de Brújula de Lectura Remota: Corrección Esclava y Modo Libre
+
 Una **Brújula de Indicación Remota** (a menudo llamada Brújula Giro-Magnética) combina un Giro Direccional con una Válvula de Flujo para proporcionar un rumbo estable y referenciado magnéticamente sin necesidad de reinicio manual.
 
 ## Componentes del Sistema (FEAT)

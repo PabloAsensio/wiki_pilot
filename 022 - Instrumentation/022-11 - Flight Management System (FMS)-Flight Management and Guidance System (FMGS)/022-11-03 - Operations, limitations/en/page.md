@@ -1,6 +1,14 @@
 ---
-title: "FMS Operations and Limitations"
+title: "FMS Operations and Limitations: Initialization, CI, LNAV/VNAV, and Accuracy"
+description: "Learn practical FMS operation from IDENT/POS INIT/RTE/PERF setup to cost-index strategy, LNAV/VNAV behavior, and position-accuracy degradation scenarios."
+keywords:
+    - "cost index"
+    - "lnav vnav"
+    - "flight level"
+    - "minimum speed"
 ---
+
+# FMS Operations and Limitations: Initialization, CI, LNAV/VNAV, and Accuracy
 
 ## Initialization Sequence
 

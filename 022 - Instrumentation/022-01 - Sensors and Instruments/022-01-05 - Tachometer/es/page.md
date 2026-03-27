@@ -1,3 +1,14 @@
+---
+title: "Tacómetros en Aeronaves: Medición RPM Mecánica, Eléctrica y Electrónica"
+description: "Aprende las arquitecturas de tacómetros en aviación: indicadores mecánicos por corrientes de Foucault, sistemas con tacogenerador y sensado electrónico por pulsos."
+keywords:
+    - "rpm"
+    - "velocidad del motor"
+    - "flight level"
+    - "minimum speed"
+---
+# Tacómetros en Aeronaves: Medición RPM Mecánica, Eléctrica y Electrónica
+
 Los tacómetros miden la velocidad de rotación del motor, expresada en Revoluciones Por Minuto (RPM).
 
 ## Tipos de tacómetros

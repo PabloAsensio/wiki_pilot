@@ -1,8 +1,16 @@
 ---
-title: Digital Circuits and Computers
+title: "Circuitos Digitales y Computadores: CPU, Memoria, Buses y Procesamiento"
+description: "Estudia conceptos base de computación digital aplicados a aviónica: arquitectura CPU, tipos de memoria, diseño de buses y multitarea vs multiprocesamiento."
+keywords:
+    - "circuitos digitales"
+    - "arquitectura de computadores"
+    - "flight level"
+    - "minimum speed"
 ---
 
-### Arquitectura de Computadoras
+# Circuitos Digitales y Computadores: CPU, Memoria, Buses y Procesamiento
+
+## Arquitectura de Computadoras
 Un ordenador consta de **Hardware** (componentes físicos) y **Software** (programas).
 *   **CPU (Unidad Central de Procesamiento)**: El "cerebro" del ordenador.
     *   **ALU (Unidad Aritmético-Lógica)**: Realiza operaciones matemáticas y lógicas.
@@ -13,7 +21,7 @@ Un ordenador consta de **Hardware** (componentes físicos) y **Software** (progr
     *   **ROM** (Memoria de Solo Lectura): No volátil (permanente).
     *   **Almacenamiento**: Cintas magnéticas, memoria Flash (USB/Circuitos de chip), discos ópticos.
 
-### Bus de Datos
+## Bus de Datos
 Un **Bus** es un sistema de comunicación (cables, fibra óptica) que transfiere datos entre componentes.
 *   **Función**:
     *   **Bus Interno**: Comunicación entre componentes internos (CPU, Memoria). Utiliza buses de **Datos**, **Direcciones** y **Control**.
@@ -22,6 +30,6 @@ Un **Bus** es un sistema de comunicación (cables, fibra óptica) que transfiere
     *   **Serie**: Los datos se envían bit a bit secuencialmente (ej. Ethernet). Ahorra peso en cableado.
     *   **Paralelo**: Los datos se envían simultáneamente a través de múltiples líneas. Más rápido pero requiere más cables.
 
-### Terminología
+## Terminología
 *   **Multitarea**: Una sola CPU ejecutando múltiples programas alternando rápidamente entre ellos (tiempo compartido).
 *   **Multiprocesamiento**: Uso de dos o más CPUs (solución de hardware) para aumentar la velocidad de procesamiento y manejar mayores cantidades de datos.

@@ -1,6 +1,14 @@
 ---
-title: "Bases de Datos del FMC"
+title: "Bases de Datos FMC: Navegación AIRAC y Modelos de Rendimiento"
+description: "Estudia la estructura de bases de datos del FMC: ciclos AIRAC de navegación, contenido de rendimiento y lógica de waypoints definidos por usuario."
+keywords:
+    - "airac"
+    - "fmc"
+    - "flight level"
+    - "minimum speed"
 ---
+
+# Bases de Datos FMC: Navegación AIRAC y Modelos de Rendimiento
 
 ## Descripción General
 

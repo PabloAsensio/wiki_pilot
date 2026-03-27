@@ -1,6 +1,14 @@
 ---
-title: "CDU / MCDU Interface"
+title: "CDU/MCDU Interface: Data Entry Logic, EXEC Workflow, and Redundancy"
+description: "Understand CDU/MCDU human-machine interaction, including scratchpad workflow, LSK/EXEC logic, mandatory fields, and dual-FMS operational redundancy."
+keywords:
+    - "mcdu"
+    - "cdu"
+    - "flight level"
+    - "minimum speed"
 ---
+
+# CDU/MCDU Interface: Data Entry Logic, EXEC Workflow, and Redundancy
 
 ## Overview
 

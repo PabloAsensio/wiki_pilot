@@ -1,12 +1,18 @@
 ---
 layout: default
-title: "022-08-03 - Flight-envelope protection (FEP)"
+title: "Protección de la Envolvente de Vuelo (FEP): Pérdida, Overspeed y Límites G"
+description: "Estudia la lógica de protección de envolvente en aeronaves convencionales y FBW: protección alpha, overspeed, límites de actitud y factor de carga."
+keywords:
+    - "minimum speed"
+    - "flight level"
+    - "rumbos magnéticos"
+    - "compass turns"
 parent: "022-08 - Trims – Yaw Damper – Flight Envelope Protection"
 grand_parent: "022 - Instrumentation"
 nav_order: 3
 ---
 
-# Protección de la Envolvente de Vuelo (FEP)
+# Protección de la Envolvente de Vuelo (FEP): Pérdida, Overspeed y Límites G
 
 ## Concepto y Propósito
 

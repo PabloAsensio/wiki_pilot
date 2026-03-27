@@ -1,6 +1,14 @@
 ---
-title: "Sistema de Aviso de Exceso de Velocidad"
+title: "Sistema de Aviso de Overspeed: Límites VMO/MMO, Barber Pole y Alertas"
+description: "Aprende la lógica del aviso de overspeed, interpretación del barber pole en PFD, límites VMO/MMO por configuración y alertado inmediato a la tripulación."
+keywords:
+    - "overspeed"
+    - "vmo mmo"
+    - "minimum speed"
+    - "flight level"
 ---
+
+# Sistema de Aviso de Overspeed: Límites VMO/MMO, Barber Pole y Alertas
 
 ## Descripción General
 

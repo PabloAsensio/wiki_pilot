@@ -1,3 +1,15 @@
+---
+title: "Medición de Presión Pitot-Estática: Presión Estática, Total y Dinámica"
+description: "Estudia la medición de presión pitot-estática para ATPL Instrumentación: presión estática, total, dinámica y efectos de bloqueos en instrumentos."
+keywords:
+    - "altímetro"
+    - "altitud de densidad"
+    - "presión estática"
+    - "sistema pitot estática"
+    - "calibrated altitude"
+---
+# Medición de Presión Pitot-Estática: Presión Estática, Total y Dinámica
+
 La medición de la presión es fundamental para la instrumentación de vuelo. El **Sistema Pitot-Estática** proporciona los datos de presión brutos necesarios para determinar la velocidad, la altitud y la velocidad vertical.
 
 ## Principios de Presión

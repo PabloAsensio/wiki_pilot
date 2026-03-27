@@ -1,3 +1,14 @@
+---
+title: "Engine Vibration Monitoring (EVM): Accelerometers, Filtering, and Alerts"
+description: "Understand gas-turbine vibration monitoring using accelerometers, signal filtering, and cockpit indication to detect imbalance and bearing-related faults early."
+keywords:
+	- "engine vibration"
+	- "minimum speed"
+	- "flight level"
+	- "magnetic headings"
+---
+# Engine Vibration Monitoring (EVM): Accelerometers, Filtering, and Alerts
+
 Gas turbine (jet) engines operate very smoothly. Therefore, any detectable vibration is a critical warning sign of potential mechanical failure, such as rotor imbalance or bearing wear.
 
 ## Monitoring System

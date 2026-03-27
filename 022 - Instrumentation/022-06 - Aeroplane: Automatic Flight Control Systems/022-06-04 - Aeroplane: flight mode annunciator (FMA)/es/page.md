@@ -1,12 +1,18 @@
 ---
 layout: default
-title: "022-06-04 - Aeroplane: flight mode annunciator (FMA)"
+title: "Flight Mode Annunciator (FMA): Modos Activos/Armados y Conciencia de Modo"
+description: "Comprende la estructura del FMA, indicaciones de modos activos/armados, reversiones automáticas y disciplina de callouts para evitar confusión."
+keywords:
+  - "flight level"
+  - "minimum speed"
+  - "rumbos magnéticos"
+  - "compass turns"
 parent: "022-06 - Aeroplane: Automatic Flight Control Systems"
 grand_parent: "022 - Instrumentation"
 nav_order: 4
 ---
 
-# Flight Mode Annunciator (FMA)
+# Flight Mode Annunciator (FMA): Modos Activos/Armados y Conciencia de Modo
 
 ## Propósito y Ubicación
 

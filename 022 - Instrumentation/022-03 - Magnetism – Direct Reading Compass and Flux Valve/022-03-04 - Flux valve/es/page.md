@@ -1,3 +1,14 @@
+---
+title: "Válvula de Flujo y Brújula Giro-Magnética: Modo Esclavo y Modo Libre"
+description: "Aprende el principio de detección de la válvula de flujo y la operación de la brújula giro-magnética, incluyendo corrección en modo esclavo y uso en modo libre."
+keywords:
+	- "rumbos magnéticos"
+	- "brújula giro magnética"
+	- "magnetic headings"
+	- "points on the compass"
+---
+# Válvula de Flujo y Brújula Giro-Magnética: Modo Esclavo y Modo Libre
+
 La **Válvula de Flujo** (o Detector de Flujo) es un sensor utilizado en sistemas de brújula de lectura remota para detectar la **componente horizontal** del campo magnético terrestre sin las partes móviles y los errores de una brújula de lectura directa.
 
 ## Construcción y Operación

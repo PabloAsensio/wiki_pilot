@@ -1,3 +1,14 @@
+---
+title: "Earth's Magnetic Field for Aviation: Variation, Dip, and Directive Force"
+description: "Understand Earth's magnetic field components for aviation navigation, including variation, dip, directive force, and compass reliability limits near poles."
+keywords:
+    - "points on the compass"
+    - "magnetic course"
+    - "magnetic headings"
+    - "compass turns"
+---
+# Earth's Magnetic Field for Aviation: Variation, Dip, and Directive Force
+
 The Earth acts like a giant magnet with magnetic poles that do not coincide with the geographic poles. This field is fundamental for navigation but introduces specific errors that must be understood.
 
 ## Components of the Field

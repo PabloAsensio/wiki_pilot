@@ -1,3 +1,14 @@
+---
+title: "Gyroscope Basic Principles: Rigidity, Precession, and Wander"
+description: "Learn gyroscope fundamentals for ATPL instrumentation, including rigidity in space, precession, real and apparent wander, and degrees of freedom."
+keywords:
+    - "magnetic headings"
+    - "magnetic course"
+    - "points on the compass"
+    - "compass turns"
+---
+# Gyroscope Basic Principles: Rigidity, Precession, and Wander
+
 A gyroscope is a rotating mass that maintains its orientation in space unless acted upon by an external force. This property makes it essential for flight instrumentation (Attitude Indicator, Heading Indicator, Turn Indicator).
 
 ## Key Properties

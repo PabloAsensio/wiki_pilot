@@ -1,3 +1,14 @@
+---
+title: "Aircraft Tachometers: Mechanical, Electrical, and Electronic RPM Sensing"
+description: "Learn tachometer architectures in aviation, including eddy-current mechanical indicators, tacho-generator systems, and pulse-based electronic RPM measurement."
+keywords:
+    - "rpm"
+    - "engine speed"
+    - "flight level"
+    - "minimum speed"
+---
+# Aircraft Tachometers: Mechanical, Electrical, and Electronic RPM Sensing
+
 Tachometers measure the rotational speed of the engine, expressed in Revolutions Per Minute (RPM).
 
 ## Types of Tachometers

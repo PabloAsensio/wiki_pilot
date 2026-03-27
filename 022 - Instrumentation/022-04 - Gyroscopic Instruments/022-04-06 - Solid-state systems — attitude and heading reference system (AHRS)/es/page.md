@@ -1,3 +1,14 @@
+---
+title: "AHRS y Giroscopios de Estado Sólido: Sensores MEMS y Cálculo de Actitud/Rumbo"
+description: "Estudia la arquitectura AHRS con giros MEMS, acelerómetros y magnetómetros, además del principio RLG para referencia de actitud y rumbo precisa."
+keywords:
+    - "rumbos magnéticos"
+    - "curso magnético"
+    - "compass turns"
+    - "points on the compass"
+---
+# AHRS y Giroscopios de Estado Sólido: Sensores MEMS y Cálculo de Actitud/Rumbo
+
 Las aeronaves modernas utilizan tecnología de estado sólido para reemplazar los giroscopios mecánicos giratorios, aumentando la fiabilidad y precisión.
 
 ## AHRS (Sistema de Referencia de Actitud y Rumbo)

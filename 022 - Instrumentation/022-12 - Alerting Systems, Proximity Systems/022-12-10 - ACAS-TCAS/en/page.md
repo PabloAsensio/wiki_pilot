@@ -1,12 +1,20 @@
 ---
-title: ACAS (Airborne Collision Avoidance System) / TCAS
+title: "ACAS/TCAS: Traffic Advisories, Resolution Advisories, and Inhibitions"
+description: "Understand ACAS/TCAS surveillance logic, TA/RA symbology, coordinated vertical maneuvers, low-altitude inhibitions, and pilot response sequence."
+keywords:
+    - "tcas"
+    - "acas"
+    - "traffic advisory"
+    - "resolution advisory"
 ---
+
+# ACAS/TCAS: Traffic Advisories, Resolution Advisories, and Inhibitions
 
 **ACAS** (Airborne Collision Avoidance System) is the ICAO standard for systems designed to prevent mid-air collisions. **TCAS II** (Traffic Alert and Collision Avoidance System) is the equipment that meets this standard.
 *   **Principle**: Operates independently of ground-based ATC. Uses transponder interrogations (Mode C or S) to detect nearby aircraft.
 *   **Requirement**: Mandatory for turbine-powered aircraft > 5,700 kg or > 19 passengers.
 
-### Equipment and Operation
+## Equipment and Operation
 TCAS II interrogates the transponders of other aircraft to determine:
 1.  **Range**: From the time delay of the reply.
 2.  **Bearing**: Using directional antennas.
@@ -15,7 +23,7 @@ TCAS II interrogates the transponders of other aircraft to determine:
 *   **Vertical Guidance Only**: TCAS II provides resolution advisories (RAs) only in the **vertical plane** (climb/descend). It does not issue turn commands.
 *   **Coordination**: If both aircraft are TCAS II equipped, they coordinate via Mode S data link to ensure complementary maneuvers (e.g., one climbs, the other descends).
 
-### Display Symbology
+## Display Symbology
 Traffic is displayed on the Navigation Display (ND) or a dedicated IVSI (Instantaneous Vertical Speed Indicator).
 
 | Symbol | Description | Meaning |
@@ -27,7 +35,7 @@ Traffic is displayed on the Navigation Display (ND) or a dedicated IVSI (Instant
 
 *   **Data Tag**: Shows relative altitude in hundreds of feet (e.g., `+10` is 1000 ft above) and a trend arrow if climbing/descending > 500 fpm.
 
-### Alerts and Pilot Actions
+## Alerts and Pilot Actions
 1.  **Traffic Advisory (TA)**: "TRAFFIC, TRAFFIC".
     *   **Action**: Do **not** maneuver based solely on a TA. Visually search for the intruder. Prepare for a possible RA.
 2.  **Resolution Advisory (RA)**: e.g., "CLIMB, CLIMB", "DESCEND, DESCEND", "MONITOR VERTICAL SPEED".
@@ -37,7 +45,7 @@ Traffic is displayed on the Navigation Display (ND) or a dedicated IVSI (Instant
         *   **ATC**: Notify as soon as possible ("TCAS RA").
         *   **Clear of Conflict**: Return to clearance only when "CLEAR OF CONFLICT" is heard.
 
-### Inhibitions and Limitations
+## Inhibitions and Limitations
 *   **No Altitude Data**: If an intruder has a Mode A transponder (no altitude reporting), TCAS cannot generate an RA (vertical separation unknown), only a TA (bearing/range known).
 *   **Low Altitude Inhibitions**:
     *   **< 1000 ft (approx)**: "TA ONLY" mode usually active (descent RAs inhibited to prevent flying into terrain).

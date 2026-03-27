@@ -1,3 +1,14 @@
+---
+title: "Synchroscope Operation: Multi-Engine Propeller RPM Synchronization"
+description: "Learn synchroscope principles for multi-engine propeller aircraft, including AC frequency comparison, master-slave adjustment, and vibration reduction."
+keywords:
+    - "engine speed"
+    - "rpm"
+    - "flight level"
+    - "minimum speed"
+---
+# Synchroscope Operation: Multi-Engine Propeller RPM Synchronization
+
 In multi-engine propeller aircraft, unsynchronized engine speeds (RPM) generate uncomfortable "beat" noises and vibrations, leading to structural fatigue and passenger discomfort.
 
 ## Purpose and Function

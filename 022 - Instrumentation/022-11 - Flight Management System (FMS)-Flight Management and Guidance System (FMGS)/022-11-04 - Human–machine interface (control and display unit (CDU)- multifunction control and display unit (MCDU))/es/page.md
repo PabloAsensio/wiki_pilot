@@ -1,6 +1,14 @@
 ---
-title: "Interfaz CDU / MCDU"
+title: "Interfaz CDU/MCDU: Lógica de Entrada, Flujo EXEC y Redundancia"
+description: "Comprende la interacción tripulación-FMS en CDU/MCDU: uso de scratchpad, lógica LSK/EXEC, campos obligatorios y redundancia operacional dual."
+keywords:
+    - "mcdu"
+    - "cdu"
+    - "flight level"
+    - "minimum speed"
 ---
+
+# Interfaz CDU/MCDU: Lógica de Entrada, Flujo EXEC y Redundancia
 
 ## Descripción General
 

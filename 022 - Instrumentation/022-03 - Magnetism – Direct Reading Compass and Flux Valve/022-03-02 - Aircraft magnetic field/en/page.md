@@ -1,3 +1,14 @@
+---
+title: "Aircraft Magnetic Field Effects: Deviation, Compensation, and Compass Swing"
+description: "Learn how aircraft-induced magnetism creates compass deviation, and how swing, compensation, and deviation cards are used to maintain heading accuracy."
+keywords:
+	- "magnetic headings"
+	- "magnetic course"
+	- "compass turns"
+	- "points on the compass"
+---
+# Aircraft Magnetic Field Effects: Deviation, Compensation, and Compass Swing
+
 The aircraft itself generates a magnetic field due to its metal structure, electrical circuits, and engines. This disruptive field affects the compass accuracy.
 
 ## Compass Deviation

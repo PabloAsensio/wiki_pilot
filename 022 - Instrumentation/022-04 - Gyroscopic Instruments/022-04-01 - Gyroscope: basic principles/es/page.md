@@ -1,3 +1,14 @@
+---
+title: "Principios Básicos del Giroscopio: Rigidez, Precesión y Deriva"
+description: "Aprende los fundamentos del giroscopio en instrumentación ATPL: rigidez en el espacio, precesión, deriva real/aparente y grados de libertad."
+keywords:
+    - "rumbos magnéticos"
+    - "curso magnético"
+    - "points on the compass"
+    - "compass turns"
+---
+# Principios Básicos del Giroscopio: Rigidez, Precesión y Deriva
+
 Un giroscopio es una masa giratoria que mantiene su orientación en el espacio a menos que actúe sobre ella una fuerza externa. Esta propiedad lo hace esencial para la instrumentación de vuelo (Horizonte Artificial, Indicador de Rumbo, Indicador de Viraje).
 
 ## Propiedades Clave

@@ -1,3 +1,14 @@
+---
+title: "AHRS and Solid-State Gyros: MEMS Sensors and Attitude/Heading Computation"
+description: "Study AHRS architecture with MEMS gyros, accelerometers, and magnetometers, plus RLG principles for high-accuracy attitude and heading reference."
+keywords:
+    - "magnetic headings"
+    - "magnetic course"
+    - "points on the compass"
+    - "compass turns"
+---
+# AHRS and Solid-State Gyros: MEMS Sensors and Attitude/Heading Computation
+
 Modern aircraft use solid-state technology to replace mechanical spinning gyroscopes, increasing reliability and accuracy.
 
 ## AHRS (Attitude and Heading Reference System)

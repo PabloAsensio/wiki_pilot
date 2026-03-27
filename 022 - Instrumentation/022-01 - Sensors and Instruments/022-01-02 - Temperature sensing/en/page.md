@@ -1,3 +1,14 @@
+---
+title: "Aircraft Temperature Sensing: Scale Conversion and CSD Monitoring"
+description: "Learn aviation temperature sensing fundamentals, including Celsius/Fahrenheit/Kelvin conversion and operational monitoring of CSD oil temperature limits."
+keywords:
+	- "air density"
+	- "low air density"
+	- "calibrated altitude"
+	- "what is the air density"
+---
+# Aircraft Temperature Sensing: Scale Conversion and CSD Monitoring
+
 Temperature measurement in aviation is essential for monitoring systems like engines and generators, as well as for atmospheric data.
 
 ## Temperature Conversion

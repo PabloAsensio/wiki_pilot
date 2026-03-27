@@ -1,6 +1,14 @@
 ---
-title: "Stall Warning Systems (SWS)"
+title: "Stall Warning Systems (SWS): Detection Margins, Inputs, and Alerts"
+description: "Study SWS operation from CS-25 warning margins to AoA-driven logic, tactile/aural/visual cues, and typical sensor-failure implications."
+keywords:
+	- "stall warning"
+	- "angle of attack"
+	- "minimum speed"
+	- "flight level"
 ---
+
+# Stall Warning Systems (SWS): Detection Margins, Inputs, and Alerts
 
 ## Overview
 

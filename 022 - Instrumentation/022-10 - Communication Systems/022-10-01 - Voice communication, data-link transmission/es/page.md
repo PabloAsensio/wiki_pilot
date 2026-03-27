@@ -1,12 +1,18 @@
 ---
 layout: default
-title: "022-10-01 - Voice communication, data-link transmission"
+title: "Comunicación de Voz y Data-Link: ACARS, CPDLC y D-ATIS"
+description: "Estudia la arquitectura de comunicaciones aeronáuticas por voz y enlace de datos, incluyendo ACARS, CPDLC, D-ATIS, DCL y medios VHF/HF/SATCOM."
+keywords:
+    - "cpdlc"
+    - "acars"
+    - "flight level"
+    - "minimum speed"
 parent: "022-10 - Communication Systems"
 grand_parent: "022 - Instrumentation"
 nav_order: 1
 ---
 
-# Transmisión Data-link y Comunicación de Voz
+# Comunicación de Voz y Data-Link: ACARS, CPDLC y D-ATIS
 
 ## ACARS (Aircraft Communication Addressing and Reporting System)
 

@@ -1,6 +1,14 @@
 ---
-title: "Diseño y Arquitectura del FMS"
+title: "Diseño y Arquitectura FMS: Lógica Dual FMC y Gestión de Trayectoria 4D"
+description: "Comprende la arquitectura FMS/FMGS, los modos dual/independiente/single, la fusión de sensores para posición y la integración con sistemas automáticos."
+keywords:
+    - "fms"
+    - "sistema de gestión de vuelo"
+    - "flight level"
+    - "minimum speed"
 ---
+
+# Diseño y Arquitectura FMS: Lógica Dual FMC y Gestión de Trayectoria 4D
 
 ## Descripción General
 

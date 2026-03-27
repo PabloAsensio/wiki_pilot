@@ -1,6 +1,12 @@
 ---
 layout: default
-title: "022-09-01 - Autothrust system"
+title: "Sistema Autothrust: Modo SPEED, Modo THRUST y Protecciones de Vuelo"
+description: "Comprende la lógica del autothrust/autothrottle: modos SPEED y THRUST, diferencias Boeing/Airbus y protecciones de velocidad y alpha floor."
+keywords:
+    - "minimum speed"
+    - "flight level"
+    - "rumbos magnéticos"
+    - "compass turns"
 parent: "022-09 - Autothrust – Automatic Thrust Control System"
 grand_parent: "022 - Instrumentation"
 nav_order: 1

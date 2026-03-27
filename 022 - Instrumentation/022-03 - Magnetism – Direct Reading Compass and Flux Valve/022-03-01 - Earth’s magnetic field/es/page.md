@@ -1,3 +1,14 @@
+---
+title: "Campo Magnético Terrestre en Aviación: Variación, Inclinación y Fuerza Directriz"
+description: "Comprende los componentes del campo magnético terrestre aplicados a navegación aérea: variación, inclinación, fuerza directriz y límites de la brújula."
+keywords:
+    - "rumbos magnéticos"
+    - "variación magnética"
+    - "inclinación magnética"
+    - "points on the compass"
+---
+# Campo Magnético Terrestre en Aviación: Variación, Inclinación y Fuerza Directriz
+
 La Tierra actúa como un imán gigante con polos magnéticos que no coinciden con los polos geográficos. Este campo es fundamental para la navegación, pero introduce errores específicos que deben entenderse.
 
 ## Componentes del Campo

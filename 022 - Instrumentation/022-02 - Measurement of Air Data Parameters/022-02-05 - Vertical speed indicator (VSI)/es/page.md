@@ -1,3 +1,14 @@
+---
+title: "Indicador de Velocidad Vertical (VSI/IVSI): Principio, Retardo y Error en Viraje"
+description: "Aprende cómo VSI e IVSI miden la velocidad vertical con presión estática, incluyendo reducción de lag, comportamiento ante bloqueos y errores por aceleración."
+keywords:
+	- "altímetro"
+	- "presión estática"
+	- "altitud de densidad"
+	- "vsi"
+---
+# Indicador de Velocidad Vertical (VSI/IVSI): Principio, Retardo y Error en Viraje
+
 El **Indicador de Velocidad Vertical (VSI)** muestra la tasa de ascenso o descenso en pies por minuto (ft/min) o metros por segundo (m/s).
 
 ## Principio de Operación

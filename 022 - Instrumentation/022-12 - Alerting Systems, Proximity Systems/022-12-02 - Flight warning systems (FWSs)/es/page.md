@@ -1,6 +1,14 @@
 ---
-title: "Sistemas de Alerta de Vuelo (FWS)"
+title: "Sistemas de Alerta de Vuelo (FWS): Prioridades, CWS y Respuesta de Tripulación"
+description: "Aprende la arquitectura FWS, niveles de prioridad de alertas, canales visuales/auditivos y disciplina de cabina para gestionar advertencias de forma segura."
+keywords:
+    - "warning systems"
+    - "master caution"
+    - "flight level"
+    - "minimum speed"
 ---
+
+# Sistemas de Alerta de Vuelo (FWS): Prioridades, CWS y Respuesta de Tripulación
 
 ## Visión General del Sistema
 

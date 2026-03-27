@@ -1,3 +1,14 @@
+---
+title: "Jet Thrust Measurement: N1 and EPR Indication with Sensor Cross-Check"
+description: "Understand jet thrust-setting parameters N1 and EPR, including pressure-ratio logic, inlet-sensor blockage risks, and operational cross-checking techniques."
+keywords:
+	- "minimum speed"
+	- "flight level"
+	- "magnetic headings"
+	- "compass turns"
+---
+# Jet Thrust Measurement: N1 and EPR Indication with Sensor Cross-Check
+
 In jet engines, thrust is the direct output force. Pilots rely on specific parameters to set and monitor this power.
 
 ## Primary Thrust Parameters

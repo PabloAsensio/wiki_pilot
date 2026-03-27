@@ -1,3 +1,14 @@
+---
+title: "Indicador y Coordinador de Viraje: Viraje Clase 1, Slip y Skid"
+description: "Comprende los instrumentos de viraje: medición de tasa de giro, viraje clase 1 y coordinación de viraje mediante la bola del inclinómetro."
+keywords:
+    - "compass turns"
+    - "points on the compass"
+    - "rumbos magnéticos"
+    - "curso magnético"
+---
+# Indicador y Coordinador de Viraje: Viraje Clase 1, Slip y Skid
+
 Estos instrumentos indican la **tasa** de viraje (guiñada) y la calidad del viraje (coordinación).
 
 ## Indicador de Viraje vs. Coordinador de Viraje

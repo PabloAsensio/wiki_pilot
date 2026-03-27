@@ -1,3 +1,14 @@
+---
+title: "Operación del Sincróscopo: Sincronización RPM en Multimotores de Hélice"
+description: "Aprende el principio del sincróscopo en aeronaves multimotor de hélice: comparación de frecuencias AC, ajuste maestro-esclavo y reducción de vibraciones."
+keywords:
+    - "velocidad del motor"
+    - "rpm"
+    - "flight level"
+    - "minimum speed"
+---
+# Operación del Sincróscopo: Sincronización RPM en Multimotores de Hélice
+
 En aeronaves multimotor de hélice, las velocidades de motor (RPM) no sincronizadas generan ruidos de "batido" y vibraciones incómodas, lo que provoca fatiga estructural y malestar en los pasajeros.
 
 ## Propósito y Función

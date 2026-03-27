@@ -1,8 +1,14 @@
 ---
-title: "Alineación y Operación"
-description: "Procedimientos de alineación, modos de operación (NAV, ATT) y monitoreo de rendimiento del INS/IRS."
-keywords: ["alineación", "modo NAV", "modo ATT", "deriva", "gyrocompassing", "vertical local"]
+title: "Alineación y Operación INS/IRS: Modos NAV-ATT y Control de Deriva"
+description: "Aprende la alineación inercial, el gyrocompassing hacia norte verdadero, la lógica de modos NAV/ATT y la verificación de deriva post-vuelo."
+keywords:
+    - "rumbos magnéticos"
+    - "curso magnético"
+    - "compass turns"
+    - "points on the compass"
 ---
+
+# Alineación y Operación INS/IRS: Modos NAV-ATT y Control de Deriva
 
 ## Proceso de Alineación
 

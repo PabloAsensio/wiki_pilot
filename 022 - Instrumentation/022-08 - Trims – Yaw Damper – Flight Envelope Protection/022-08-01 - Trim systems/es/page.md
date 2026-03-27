@@ -1,12 +1,18 @@
 ---
 layout: default
-title: "022-08-01 - Trim systems"
+title: "Sistemas de Trim en Control de Vuelo: Auto-Trim, Mach Trim y Runaway"
+description: "Aprende el funcionamiento del trim en vuelo manual y automático: lógica del THS, compensación Mach trim y acciones ante stabilizer runaway."
+keywords:
+    - "minimum speed"
+    - "flight level"
+    - "rumbos magnéticos"
+    - "compass turns"
 parent: "022-08 - Trims – Yaw Damper – Flight Envelope Protection"
 grand_parent: "022 - Instrumentation"
 nav_order: 1
 ---
 
-# Sistemas de Compensación (Trim Systems)
+# Sistemas de Trim en Control de Vuelo: Auto-Trim, Mach Trim y Runaway
 
 ## Propósito y Función
 

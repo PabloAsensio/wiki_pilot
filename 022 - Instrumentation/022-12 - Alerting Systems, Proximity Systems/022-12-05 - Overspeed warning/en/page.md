@@ -1,6 +1,14 @@
 ---
-title: "Overspeed Warning System"
+title: "Overspeed Warning System: VMO/MMO Limits, Barber Pole, and Aural Alerts"
+description: "Learn overspeed warning logic, PFD barber-pole interpretation, VMO/MMO and configuration limits, plus immediate crew alerting behavior."
+keywords:
+    - "overspeed"
+    - "vmo mmo"
+    - "minimum speed"
+    - "flight level"
 ---
+
+# Overspeed Warning System: VMO/MMO Limits, Barber Pole, and Aural Alerts
 
 ## Overview
 

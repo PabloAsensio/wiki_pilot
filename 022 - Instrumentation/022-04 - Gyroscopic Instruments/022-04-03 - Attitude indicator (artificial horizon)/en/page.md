@@ -1,3 +1,14 @@
+---
+title: "Attitude Indicator (Artificial Horizon): Erection Systems and Errors"
+description: "Study artificial-horizon operation, including vertical gyro erection systems, acceleration/turning errors, and ADI integration for instrument flight."
+keywords:
+    - "magnetic headings"
+    - "points on the compass"
+    - "compass turns"
+    - "magnetic course"
+---
+# Attitude Indicator (Artificial Horizon): Erection Systems and Errors
+
 The **Attitude Indicator (AI)** or Artificial Horizon provides pitch and roll information relative to the Earth's horizon. It is the only instrument that gives an immediate, direct picture of the aircraft's attitude.
 
 ## Principles

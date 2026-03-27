@@ -1,6 +1,14 @@
 ---
-title: "Sistemas de Protección de Pérdida (SPS)"
+title: "Sistemas de Protección de Pérdida (SPS): Stick Pusher y Prevención Activa"
+description: "Comprende las estrategias activas de protección contra pérdida: lógica del stick pusher, secuencia tras aviso y diagnóstico entre aviso y protección."
+keywords:
+	- "stick pusher"
+	- "stall protection"
+	- "minimum speed"
+	- "flight level"
 ---
+
+# Sistemas de Protección de Pérdida (SPS): Stick Pusher y Prevención Activa
 
 ## Descripción General
 

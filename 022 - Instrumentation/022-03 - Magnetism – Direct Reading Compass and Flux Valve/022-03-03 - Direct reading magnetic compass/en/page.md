@@ -1,3 +1,14 @@
+---
+title: "Direct Reading Magnetic Compass (DRC): Turning and Acceleration Errors"
+description: "Study direct-reading magnetic compass behavior in flight, including UNOS/ANDS error patterns, pendulous suspension effects, and serviceability checks."
+keywords:
+    - "compass turns"
+    - "points on the compass"
+    - "magnetic headings"
+    - "magnetic course"
+---
+# Direct Reading Magnetic Compass (DRC): Turning and Acceleration Errors
+
 The **Direct Reading Compass (DRC)**, often called the "whiskey compass", is a standalone instrument that aligns itself with the Earth's magnetic field.
 
 ## Principle and Limitations

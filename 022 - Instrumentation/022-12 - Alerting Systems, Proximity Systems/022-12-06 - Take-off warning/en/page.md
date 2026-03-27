@@ -1,6 +1,14 @@
 ---
-title: "Take-off Configuration Warning (TOCW)"
+title: "Take-off Configuration Warning (TOCW): Trigger Logic and Crew Checks"
+description: "Study TOCW trigger conditions and certification logic for flap/slat, trim, spoiler, brake, and door checks before takeoff roll."
+keywords:
+	- "takeoff warning"
+	- "tocw"
+	- "minimum speed"
+	- "flight level"
 ---
+
+# Take-off Configuration Warning (TOCW): Trigger Logic and Crew Checks
 
 ## Overview
 

@@ -1,12 +1,18 @@
 ---
 layout: default
-title: "022-06-03 - Flight director: design and operation"
+title: "Diseño y Operación del Flight Director: Barras, Modos y Uso en Cabina"
+description: "Aprende la lógica del flight director, interpretación de barras de comando, uso manual/acoplado al AP y actuación segura ante fallos."
+keywords:
+  - "flight level"
+  - "minimum speed"
+  - "rumbos magnéticos"
+  - "compass turns"
 parent: "022-06 - Aeroplane: Automatic Flight Control Systems"
 grand_parent: "022 - Instrumentation"
 nav_order: 3
 ---
 
-# Flight Director: Design and Operation
+# Diseño y Operación del Flight Director: Barras, Modos y Uso en Cabina
 
 ## Principios
 
@@ -41,7 +47,7 @@ Los modos disponibles para el Flight Director son **idénticos** a los disponibl
 ### Modos de Operación
 
 - **Solo FD (Vuelo Manual)**: El piloto vuela a mano siguiendo estrictamente las barras del FD para lograr la trayectoria deseada. Reduce la carga de trabajo al convertir datos complejos de navegación en objetivos simples de actitud.
-- **FD + AP (Vuelo Automático)**: El AP está activado y los servos mueven las superficies de control para seguir los comandos del FD. El rol del piloto pasa a ser **siguiente (monitoring)** de que el AP sigue correctamente las indicaciones del FD.
+- **FD + AP (Vuelo Automático)**: El AP está activado y los servos mueven las superficies de control para seguir los comandos del FD. El rol del piloto pasa a ser de **monitorización** para confirmar que el AP sigue correctamente las indicaciones del FD.
 - **Despegue (TO/GA)**:
   - Se activa con los interruptores TO/GA.
   - Comando inicial: Cabeceo fijo arriba (ej. 10°-15°) y alas niveladas.
@@ -63,5 +69,5 @@ Si las barras del FD desaparecen o aparece una bandera de fallo:
 
 ### Indicaciones
 
-- **Barras Cedradas**: La aeronave tiene el pitch y bank requeridos para satisfacer el modo activo.
+- **Barras Centradas**: La aeronave tiene el pitch y bank requeridos para satisfacer el modo activo.
 - **Barras Desviadas**: Se requiere input de control en la dirección de la barra para volver a la trayectoria.

@@ -1,8 +1,14 @@
 ---
-title: "Alignment and Operation"
-description: "Procedures for alignment, operating modes (NAV, ATT), and performance monitoring of INS/IRS."
-keywords: ["alignment", "NAV mode", "ATT mode", "drift", "gyrocompassing", "local vertical"]
+title: "INS/IRS Alignment and Operation: NAV-ATT Modes and Drift Monitoring"
+description: "Learn inertial-system alignment, gyrocompassing to true north, NAV and ATT mode logic, and post-flight drift checks for INS/IRS accuracy."
+keywords:
+    - "magnetic headings"
+    - "magnetic course"
+    - "compass turns"
+    - "points on the compass"
 ---
+
+# INS/IRS Alignment and Operation: NAV-ATT Modes and Drift Monitoring
 
 ## Alignment Process
 

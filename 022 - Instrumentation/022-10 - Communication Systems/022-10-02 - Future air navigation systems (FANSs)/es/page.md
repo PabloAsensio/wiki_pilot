@@ -1,12 +1,18 @@
 ---
 layout: default
-title: "022-10-02 - Future air navigation systems (FANSs)"
+title: "Future Air Navigation Systems (FANS): AFN, CPDLC y Contratos ADS-C"
+description: "Aprende la arquitectura FANS 1/A para operaciones oceánicas y remotas, incluyendo logon AFN, mensajería CPDLC y vigilancia ADS-C por contrato."
+keywords:
+    - "cpdlc"
+    - "ads-c"
+    - "flight level"
+    - "minimum speed"
 parent: "022-10 - Communication Systems"
 grand_parent: "022 - Instrumentation"
 nav_order: 2
 ---
 
-# Future Air Navigation Systems (FANS)
+# Future Air Navigation Systems (FANS): AFN, CPDLC y Contratos ADS-C
 
 ## Concepto y Objetivos
 

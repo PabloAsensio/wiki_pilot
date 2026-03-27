@@ -1,3 +1,14 @@
+---
+title: "Giro Direccional (DG): Estabilidad de Rumbo, Deriva y Resincronización"
+description: "Aprende cómo opera el giro direccional para referencia estable de rumbo, incluyendo deriva real/aparente, deriva de transporte y resincronización periódica."
+keywords:
+	- "rumbos magnéticos"
+	- "curso magnético"
+	- "compass turns"
+	- "points on the compass"
+---
+# Giro Direccional (DG): Estabilidad de Rumbo, Deriva y Resincronización
+
 El **Giro Direccional (DG)** o Indicador de Dirección (DI) proporciona una referencia de rumbo estable, libre de los errores de viraje y aceleración de una brújula magnética.
 
 ## Principios

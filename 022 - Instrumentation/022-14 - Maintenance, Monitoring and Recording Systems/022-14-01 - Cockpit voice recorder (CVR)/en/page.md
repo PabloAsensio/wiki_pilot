@@ -1,10 +1,18 @@
 ---
-title: Cockpit Voice Recorder (CVR)
+title: "Cockpit Voice Recorder (CVR): Recording Scope, Activation, and Survivability"
+description: "Learn CVR architecture, activation logic, required audio channels, and recorder survivability features used in post-accident investigation."
+keywords:
+    - "cvr"
+    - "flight recorder"
+    - "flight level"
+    - "minimum speed"
 ---
+
+# Cockpit Voice Recorder (CVR): Recording Scope, Activation, and Survivability
 
 The **CVR** is designed to record the audio environment of the flight deck to assist in accident investigations.
 
-### Operation and Capability
+## Operation and Capability
 *   **Recording Duration**: Historically preserves the **last 2 hours** of recording (loop recording). Newer regulations often mandate longer durations (e.g., 25 hours) for modern aircraft.
 *   **Activation**: Automatically energized:
     *   In flight.
@@ -14,7 +22,7 @@ The **CVR** is designed to record the audio environment of the flight deck to as
     *   **Crashproof Recorder**: Housed in the aft section (tail) for maximum survivability, fitted with an **Underwater Locating Beacon (ULB)**.
     *   **Control Panel**: Includes a test button and an **Event Button** to mark specific moments on the tape for rapid retrieval.
 
-### Recorded Information
+## Recorded Information
 According to **CS-25** / **EASA AIR OPS**, the CVR must record:
 1.  **Radio Communications**: Transmitted and received.
 2.  **Aural Environment**: Via the **Area Microphone** (cockpit sounds).

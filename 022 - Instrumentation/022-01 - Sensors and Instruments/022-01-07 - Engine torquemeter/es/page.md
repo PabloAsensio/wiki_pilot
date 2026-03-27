@@ -1,3 +1,14 @@
+---
+title: "Sistemas Torquímetro de Motor: Principios de Medición por Desfase"
+description: "Estudia el funcionamiento del torquímetro en aeronaves de hélice y turbohélice, incluyendo unidades de par, relación con potencia y medición electrónica por desfase."
+keywords:
+    - "torque motor"
+    - "rpm"
+    - "flight level"
+    - "minimum speed"
+---
+# Sistemas Torquímetro de Motor: Principios de Medición por Desfase
+
 Los torquímetros se utilizan principalmente en aviones de hélice y turbohélices para medir la fuerza de giro aplicada al eje de la hélice.
 
 ## Definiciones y Unidades

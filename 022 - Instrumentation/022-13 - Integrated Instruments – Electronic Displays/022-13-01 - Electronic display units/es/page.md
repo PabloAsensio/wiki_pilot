@@ -1,15 +1,23 @@
 ---
-title: Electronic Display Units (EFIS Architecture)
+title: "Unidades de Visualización EFIS: Redundancia, Conmutación y Lógica de Prioridad"
+description: "Estudia la arquitectura de unidades de visualización EFIS, la reconfiguración automática tras fallos de DU y la lógica de prioridad de información crítica."
+keywords:
+    - "efis"
+    - "pfd nd"
+    - "flight level"
+    - "minimum speed"
 ---
+
+# Unidades de Visualización EFIS: Redundancia, Conmutación y Lógica de Prioridad
 
 Los sistemas modernos **EFIS** (Electronic Flight Instrument Systems) utilizan **Unidades de Visualización (DUs)** (pantallas CRT o LCD) para presentar la información de vuelo. Una característica clave es la **redundancia** e **intercambiabilidad** de las pantallas para asegurar que la información crítica permanezca disponible en caso de fallo de hardware.
 
-### Disposición Típica (Airbus/Boeing)
+## Disposición Típica (Airbus/Boeing)
 *   **DU Exterior (Outboard)**: Generalmente el **PFD** (Primary Flight Display - Pantalla Principal de Vuelo).
 *   **DU Interior (Inboard)**: Generalmente el **ND** (Navigation Display - Pantalla de Navegación).
 *   **DUs Centrales**: Superior e Inferior para Motor/Sistemas (EICAS/ECAM).
 
-### Lógica de Fallo de Pantalla (Conmutación Automática)
+## Lógica de Fallo de Pantalla (Conmutación Automática)
 Dado que la información del **PFD** (Actitud, Velocidad, Altitud) es crítica para la seguridad del vuelo ("máxima importancia"):
 
 1.  **Fallo del DU Exterior (Falla la pantalla del PFD)**:
@@ -25,6 +33,6 @@ Dado que la información del **PFD** (Actitud, Velocidad, Altitud) es crítica p
     *   La **pantalla Primaria de Motor/Avisos se transfiere automáticamente** al **DU Inferior**.
     *   La información que estaba en el DU Inferior (ej. parámetros secundarios, listas de chequeo) puede compactarse o desplazarse.
 
-### Independencia
+## Independencia
 *   El lado del Capitán y del Primer Oficial son generalmente independientes para esta conmutación.
 *   Si falla la pantalla PFD del Capitán, se cambia a la **pantalla ND del Capitán** (no a la del Copiloto).

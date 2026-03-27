@@ -1,6 +1,14 @@
 ---
-title: "Aviso de Configuración de Despegue (TOCW)"
+title: "Aviso de Configuración de Despegue (TOCW): Lógica de Activación y Chequeos"
+description: "Estudia las condiciones de activación TOCW y la lógica de certificación para flaps/slats, trim, spoilers, frenos y puertas antes del despegue."
+keywords:
+	- "takeoff warning"
+	- "tocw"
+	- "minimum speed"
+	- "flight level"
 ---
+
+# Aviso de Configuración de Despegue (TOCW): Lógica de Activación y Chequeos
 
 ## Descripción General
 

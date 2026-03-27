@@ -1,6 +1,12 @@
 ---
 layout: default
-title: "022-09-01 - Autothrust system"
+title: "Autothrust System: Speed Mode, Thrust Mode, and Flight Protections"
+description: "Understand autothrust/autothrottle logic, including SPEED and THRUST modes, Boeing vs Airbus lever concepts, and alpha-floor/speed protections."
+keywords:
+    - "minimum speed"
+    - "flight level"
+    - "magnetic headings"
+    - "compass turns"
 parent: "022-09 - Autothrust – Automatic Thrust Control System"
 grand_parent: "022 - Instrumentation"
 nav_order: 1
@@ -10,7 +16,7 @@ nav_order: 1
 
 ## Purpose and Principles
 
-The **Autothrust** (Airbus) or **Autothrottle** (Boeing) system automates the control of engine power. It sets the required trust to satisfy the current flight phase demands, reducing pilot workload and optimizing fuel efficiency.
+The **Autothrust** (Airbus) or **Autothrottle** (Boeing) system automates the control of engine power. It sets the required thrust to satisfy the current flight phase demands, reducing pilot workload and optimizing fuel efficiency.
 
 - **Primary Control Parameters**:
     - **N1**: Rotational speed of the low-pressure compressor (Fan). Used on most high-bypass turbofans (e.g., CFM56).

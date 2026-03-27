@@ -1,6 +1,14 @@
 ---
-title: "Sistema de Alerta de Altitud"
+title: "Sistema de Alerta de Altitud: Alertas de Captura/Desviación y Requisitos"
+description: "Comprende la lógica de alerta de altitud para captura y desviación, umbrales regulatorios de aplicación e integración de señales ADC/MCP."
+keywords:
+    - "altitude alert"
+    - "flight level"
+    - "minimum speed"
+    - "altímetro"
 ---
+
+# Sistema de Alerta de Altitud: Alertas de Captura/Desviación y Requisitos
 
 ## Descripción General
 

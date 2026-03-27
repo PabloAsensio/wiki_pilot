@@ -1,12 +1,18 @@
 ---
 layout: default
-title: "022-06-05 - Autoland"
+title: "Sistemas Autoland: Lógica Fail-Passive/Fail-Operational y Alert Height"
+description: "Estudia arquitectura autoland, clases de redundancia, lógica de decisión por alert height y secuencia flare/rollout en baja visibilidad."
+keywords:
+    - "flight level"
+    - "minimum speed"
+    - "rumbos magnéticos"
+    - "compass turns"
 parent: "022-06 - Aeroplane: Automatic Flight Control Systems"
 grand_parent: "022 - Instrumentation"
 nav_order: 5
 ---
 
-# Sistemas de Aterrizaje Automático (Autoland)
+# Sistemas Autoland: Lógica Fail-Passive/Fail-Operational y Alert Height
 
 ## Propósito y Componentes
 

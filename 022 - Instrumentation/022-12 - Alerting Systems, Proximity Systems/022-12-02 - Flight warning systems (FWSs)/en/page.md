@@ -1,6 +1,14 @@
 ---
-title: "Flight Warning Systems (FWS)"
+title: "Flight Warning Systems (FWS): Alert Priorities, CWS, and Crew Response"
+description: "Learn FWS architecture, alert priority levels, visual/aural channels, and disciplined crew handling to manage warnings and cautions safely."
+keywords:
+    - "warning systems"
+    - "master caution"
+    - "flight level"
+    - "minimum speed"
 ---
+
+# Flight Warning Systems (FWS): Alert Priorities, CWS, and Crew Response
 
 ## System Overview
 

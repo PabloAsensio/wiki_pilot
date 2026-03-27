@@ -1,3 +1,14 @@
+---
+title: "Air Temperature Measurement: SAT, TAT, and Ram Rise"
+description: "Learn SAT, TAT, and ram-rise measurement principles used by air data systems to calculate TAS and temperature corrections in flight."
+keywords:
+	- "air density"
+	- "low air density"
+	- "what is the air density"
+	- "calibrated altitude"
+---
+# Air Temperature Measurement: SAT, TAT, and Ram Rise
+
 Accurate air temperature measurement is crucial for calculating True Airspeed (TAS) and monitoring engine performance.
 
 ## Temperature Definitions

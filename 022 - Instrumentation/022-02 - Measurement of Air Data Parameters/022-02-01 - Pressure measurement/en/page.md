@@ -1,3 +1,15 @@
+---
+title: "Pitot-Static Pressure Measurement: Static, Total, and Dynamic Pressure"
+description: "Study pitot-static pressure measurement for ATPL Instrumentation, including static pressure, total pressure, dynamic pressure, and blockage effects."
+keywords:
+    - "altimeter altitude"
+    - "altimeter reading"
+    - "altimeter readings"
+    - "calibrated altitude"
+    - "air density"
+---
+# Pitot-Static Pressure Measurement: Static, Total, and Dynamic Pressure
+
 The measurement of pressure is fundamental to flight instrumentation. The **Pitot-Static System** provides the raw pressure data needed to determine airspeed, altitude, and vertical speed.
 
 ## Principles of Pressure

@@ -1,3 +1,14 @@
+---
+title: "Manómetros Aeronáuticos: Aplicaciones Aneroide, Fuelle y Bourdon"
+description: "Estudia las tecnologías de manómetros en aeronaves para rangos de baja, media y alta presión, incluyendo cápsulas aneroides, fuelles, tubos Bourdon y transductores remotos."
+keywords:
+	- "altímetro"
+	- "presión estática"
+	- "altitud de densidad"
+	- "calibrated altitude"
+---
+# Manómetros Aeronáuticos: Aplicaciones Aneroide, Fuelle y Bourdon
+
 Los manómetros proporcionan información crítica sobre el estado de los sistemas de la aeronave, desde la salud del motor hasta los datos de vuelo. La elección del sensor de presión depende en gran medida de la magnitud de la presión que se mide, abarcando desde delicadas variaciones atmosféricas hasta líneas hidráulicas de alta presión.
 
 ## Mecanismos de detección de presión

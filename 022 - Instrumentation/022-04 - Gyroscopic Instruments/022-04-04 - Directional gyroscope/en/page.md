@@ -1,3 +1,14 @@
+---
+title: "Directional Gyro (DG): Heading Stability, Drift, and Re-Synchronization"
+description: "Learn DG operation for stable heading reference, including real/apparent drift, transport wander, and periodic synchronization with magnetic compass."
+keywords:
+	- "magnetic headings"
+	- "magnetic course"
+	- "compass turns"
+	- "points on the compass"
+---
+# Directional Gyro (DG): Heading Stability, Drift, and Re-Synchronization
+
 The **Directional Gyro (DG)** or Direction Indicator (DI) provides a stable heading reference, free from the turning and acceleration errors of a magnetic compass.
 
 ## Principles

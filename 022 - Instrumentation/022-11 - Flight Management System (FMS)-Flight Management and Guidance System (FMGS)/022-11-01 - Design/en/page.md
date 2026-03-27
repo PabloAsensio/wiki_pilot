@@ -1,6 +1,14 @@
 ---
-title: "FMS Design and Architecture"
+title: "FMS Design and Architecture: Dual FMC Logic and 4D Trajectory Management"
+description: "Understand FMS/FMGS architecture, dual/independent/single operation modes, sensor fusion for position computation, and integration with autoflight systems."
+keywords:
+    - "fms"
+    - "flight management system"
+    - "flight level"
+    - "minimum speed"
 ---
+
+# FMS Design and Architecture: Dual FMC Logic and 4D Trajectory Management
 
 ## Overview
 

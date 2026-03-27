@@ -1,12 +1,18 @@
 ---
 layout: default
-title: "022-08-02 - Yaw damper"
+title: "Yaw Damper Systems: Dutch Roll Damping and Rudder-Rate Control"
+description: "Understand yaw-damper architecture, Dutch-roll instability, rate-gyro sensing, and filtering that damps oscillations without opposing coordinated turns."
+keywords:
+    - "compass turns"
+    - "magnetic headings"
+    - "points on the compass"
+    - "minimum speed"
 parent: "022-08 - Trims – Yaw Damper – Flight Envelope Protection"
 grand_parent: "022 - Instrumentation"
 nav_order: 2
 ---
 
-# Yaw Damper
+# Yaw Damper Systems: Dutch Roll Damping and Rudder-Rate Control
 
 ## Purpose: Counteracting Dutch Roll
 

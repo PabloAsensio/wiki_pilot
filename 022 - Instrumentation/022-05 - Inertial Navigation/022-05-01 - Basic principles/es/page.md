@@ -1,8 +1,14 @@
 ---
-title: "Principios Básicos"
-description: "Fundamentos de los Sistemas de Navegación Inercial (INS) y Sistemas de Referencia Inercial (IRS), incluyendo la integración de la aceleración y tipos de sistemas."
-keywords: ["INS", "IRS", "acelerómetros", "giroscopios", "integración", "Schuler tuning", "strap-down"]
+title: "Principios Básicos de Navegación Inercial: INS, IRS y Comportamiento de Errores"
+description: "Domina los fundamentos de INS e IRS: integración de aceleración, arquitectura strap-down y errores acotados Schuler frente a deriva acumulativa."
+keywords:
+    - "rumbos magnéticos"
+    - "curso magnético"
+    - "points on the compass"
+    - "compass turns"
 ---
+
+# Principios Básicos de Navegación Inercial: INS, IRS y Comportamiento de Errores
 
 ## Sistema de Navegación Inercial (INS)
 

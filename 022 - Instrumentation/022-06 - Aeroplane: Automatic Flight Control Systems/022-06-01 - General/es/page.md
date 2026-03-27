@@ -1,8 +1,14 @@
 ---
-title: "Principios Generales de los Sistemas de Control de Vuelo Automático"
-description: "Visión general de las funciones del piloto automático, lazos de control y roles de los pilotos en el vuelo automatizado."
-keywords: ["piloto automático", "lazo cerrado", "retroalimentación", "leyes de control", "piloto monitoreando", "piloto volando", "desconexión"]
+title: "Principios Generales AFCS: Lazos de Control, Modos y Supervisión de Tripulación"
+description: "Visión general del control automático de vuelo: lazos interno/externo, lógica de modos y responsabilidades PF/PM en monitorización."
+keywords:
+	- "flight level"
+	- "minimum speed"
+	- "rumbos magnéticos"
+	- "compass turns"
 ---
+
+# Principios Generales AFCS: Lazos de Control, Modos y Supervisión de Tripulación
 
 ## Visión General del Sistema de Control de Vuelo Automático (AFCS)
 

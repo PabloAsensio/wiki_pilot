@@ -1,3 +1,14 @@
+---
+title: "Fuel Flowmeters: Volumetric vs Gravimetric Flow and Fuel-Used Integration"
+description: "Study fuel-flow measurement methods and integrated fuel-used calculations used by crews and FMS for burn verification, leak detection, and destination prediction."
+keywords:
+    - "fuel flow"
+    - "fuel used"
+    - "flight level"
+    - "minimum speed"
+---
+# Fuel Flowmeters: Volumetric vs Gravimetric Flow and Fuel-Used Integration
+
 Fuel flowmeters provide pilots and onboard computers with real-time data on engine performance and fuel consumption.
 
 ## Principles of Measurement

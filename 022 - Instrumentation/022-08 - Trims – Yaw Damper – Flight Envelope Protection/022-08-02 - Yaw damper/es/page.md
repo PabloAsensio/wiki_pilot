@@ -1,12 +1,18 @@
 ---
 layout: default
-title: "022-08-02 - Yaw damper"
+title: "Sistema Yaw Damper: Amortiguación del Dutch Roll y Control de Guiñada"
+description: "Comprende la arquitectura del yaw damper, la inestabilidad Dutch roll, el sensado de tasa de guiñada y el filtrado para amortiguar oscilaciones."
+keywords:
+    - "compass turns"
+    - "rumbos magnéticos"
+    - "points on the compass"
+    - "minimum speed"
 parent: "022-08 - Trims – Yaw Damper – Flight Envelope Protection"
 grand_parent: "022 - Instrumentation"
 nav_order: 2
 ---
 
-# Yaw Damper (Amortiguador de Guiñada)
+# Sistema Yaw Damper: Amortiguación del Dutch Roll y Control de Guiñada
 
 ## Propósito: Contrarrestar el Dutch Roll
 

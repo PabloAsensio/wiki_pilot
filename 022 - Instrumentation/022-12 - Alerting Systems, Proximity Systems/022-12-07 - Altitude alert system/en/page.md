@@ -1,6 +1,14 @@
 ---
-title: "Altitude Alert System"
+title: "Altitude Alert System: Acquisition/Deviation Alerts and Legal Requirements"
+description: "Understand altitude-alerting logic for capture and deviation events, regulatory applicability thresholds, and ADC/MCP signal integration."
+keywords:
+    - "altitude alert"
+    - "flight level"
+    - "minimum speed"
+    - "altimeter readings"
 ---
+
+# Altitude Alert System: Acquisition/Deviation Alerts and Legal Requirements
 
 ## Overview
 

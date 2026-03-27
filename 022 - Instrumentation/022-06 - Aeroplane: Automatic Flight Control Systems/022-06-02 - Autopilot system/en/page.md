@@ -1,8 +1,14 @@
 ---
-title: "Autopilot System & Modes"
-description: "Detailed operation of autopilot modes, including synchronization, TO/GA, and interaction with Flight Director."
-keywords: ["synchronization", "TO/GA", "CWS", "automation modes", "FMA", "flight envelope"]
+title: "Autopilot System Modes: Synchronization, TO/GA, CWS, and FMA Awareness"
+description: "Detailed autopilot-mode behavior, including engagement synchronization, TO/GA logic, vertical/lateral modes, CWS operation, and FMA monitoring."
+keywords:
+    - "flight level"
+    - "minimum speed"
+    - "magnetic headings"
+    - "compass turns"
 ---
+
+# Autopilot System Modes: Synchronization, TO/GA, CWS, and FMA Awareness
 
 ## Autopilot Engagement & Synchronization
 

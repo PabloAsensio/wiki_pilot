@@ -1,6 +1,14 @@
 ---
-title: "Radioaltímetro (RA)"
+title: "Radioaltímetro (RA): Principio FMCW, Integración e Impacto de Fallos"
+description: "Estudia el funcionamiento del radioaltímetro, medición FMCW, calibración a geometría de toque e integración con autoland, GPWS/TAWS y TCAS."
+keywords:
+    - "radio altímetro"
+    - "altímetro"
+    - "flight level"
+    - "minimum speed"
 ---
+
+# Radioaltímetro (RA): Principio FMCW, Integración e Impacto de Fallos
 
 ## Descripción General
 

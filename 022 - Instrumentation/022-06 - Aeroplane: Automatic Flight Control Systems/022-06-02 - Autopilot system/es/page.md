@@ -1,8 +1,14 @@
 ---
-title: "Sistema y Modos del Piloto Automático"
-description: "Operación detallada de los modos del piloto automático, incluyendo sincronización, TO/GA e interacción con el Director de Vuelo."
-keywords: ["sincronización", "TO/GA", "CWS", "modos de automatización", "FMA", "envolvente de vuelo"]
+title: "Modos del Piloto Automático: Sincronización, TO/GA, CWS y Conciencia FMA"
+description: "Operación detallada del AP: sincronización de enganche, lógica TO/GA, modos verticales/laterales, CWS y supervisión del FMA."
+keywords:
+    - "flight level"
+    - "minimum speed"
+    - "rumbos magnéticos"
+    - "compass turns"
 ---
+
+# Modos del Piloto Automático: Sincronización, TO/GA, CWS y Conciencia FMA
 
 ## Conexión y Sincronización del Piloto Automático
 

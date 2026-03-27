@@ -1,3 +1,14 @@
+---
+title: "Medición de Temperatura del Aire: SAT, TAT y Ram Rise"
+description: "Aprende los principios de SAT, TAT y ram rise en instrumentación aérea para calcular TAS y correcciones térmicas en vuelo."
+keywords:
+	- "altitud de densidad"
+	- "densidad del aire"
+	- "temperatura total del aire"
+	- "temperatura estática del aire"
+---
+# Medición de Temperatura del Aire: SAT, TAT y Ram Rise
+
 La medición precisa de la temperatura del aire es crucial para calcular la Velocidad Verdadera (TAS) y monitorizar el rendimiento del motor.
 
 ## Definiciones de Temperatura

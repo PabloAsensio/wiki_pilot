@@ -1,6 +1,14 @@
 ---
-title: "FMC Databases"
+title: "FMC Databases: AIRAC Navigation Data and Performance Models"
+description: "Study FMC database structure, including AIRAC navigation cycles, performance-model content, and user-defined waypoint logic for route customization."
+keywords:
+    - "airac"
+    - "fmc"
+    - "flight level"
+    - "minimum speed"
 ---
+
+# FMC Databases: AIRAC Navigation Data and Performance Models
 
 ## Overview
 

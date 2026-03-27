@@ -1,3 +1,14 @@
+---
+title: "Brújula Magnética de Lectura Directa (DRC): Errores de Viraje y Aceleración"
+description: "Estudia el comportamiento de la brújula de lectura directa en vuelo, incluyendo errores UNOS/ANDS, suspensión pendular y comprobaciones operativas."
+keywords:
+    - "brújula magnética"
+    - "rumbos magnéticos"
+    - "compass turns"
+    - "points on the compass"
+---
+# Brújula Magnética de Lectura Directa (DRC): Errores de Viraje y Aceleración
+
 La **Brújula de Lectura Directa (DRC)**, a menudo llamada "brújula de whisky", es un instrumento autónomo que se alinea con el campo magnético terrestre.
 
 ## Principio y Limitaciones
