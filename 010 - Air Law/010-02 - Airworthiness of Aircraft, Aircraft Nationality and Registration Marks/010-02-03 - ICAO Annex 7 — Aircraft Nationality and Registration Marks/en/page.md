@@ -1,3 +1,16 @@
+---
+title: "ICAO Annex 7: Aircraft Nationality and Registration Marks"
+description: "Study ICAO Annex 7 aircraft nationality and registration marks, including definitions, character format, and Chicago Convention registry requirements."
+keywords:
+	- "icao annex 7"
+	- "annex 7 icao"
+	- "icao annex 7 aircraft nationality and registration marks"
+	- "chicago convention annex 7"
+	- "aircraft nationality and registration marks"
+	- "state of registry"
+---
+# ICAO Annex 7: Aircraft Nationality and Registration Marks
+
 **Annex 7** to the Chicago Convention establishes the standards for aircraft nationality and registration marks.
 
 ## Key Definitions

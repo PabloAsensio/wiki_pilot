@@ -1,3 +1,9 @@
+---
+title: "Aerodrome General Concepts: Reference Code and Runway Surface Conditions"
+description: "Learn essential aerodrome concepts, including reference code elements and standardized runway surface condition terminology for operational safety."
+---
+# Aerodrome General Concepts: Reference Code and Runway Surface Conditions
+
 ## Aerodrome Reference Code
 The **Aerodrome Reference Code** is used for planning purposes and determines whether the aerodrome dimensions are adequate for a specific type of aircraft. It consists of two elements:
 

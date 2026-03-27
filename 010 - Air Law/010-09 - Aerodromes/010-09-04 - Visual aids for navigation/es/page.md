@@ -1,3 +1,9 @@
+---
+title: "Ayudas Visuales de Navegación en Aeródromos: PAPI, ALS y Luces de Pista"
+description: "Comprende las ayudas visuales de navegación en aeródromos: indicaciones PAPI, sistemas de luces de aproximación y transición de colores en eje de pista."
+---
+# Ayudas Visuales de Navegación en Aeródromos: PAPI, ALS y Luces de Pista
+
 ## Indicadores de Pendiente de Aproximación (PAPI/APAPI)
 El **PAPI** (Precision Approach Path Indicator) consta de 4 unidades (luces) en una barra de ala, generalmente a la izquierda de la pista.
 

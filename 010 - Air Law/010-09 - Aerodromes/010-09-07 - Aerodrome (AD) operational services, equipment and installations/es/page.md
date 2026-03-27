@@ -1,3 +1,9 @@
+---
+title: "Servicios Operacionales del Aeródromo: Respuesta RFF, Gestión de Plataforma y Seguridad en Repostaje"
+description: "Estudia los servicios operacionales del aeródromo: tiempos de respuesta RFF, funciones del servicio de plataforma y seguridad durante repostaje con pasajeros."
+---
+# Servicios Operacionales del Aeródromo: Respuesta RFF, Gestión de Plataforma y Seguridad en Repostaje
+
 ## Salvamento y Extinción de Incendios (Rescue and Firefighting - RFF)
 *   **Objetivo Principal:** Salvar vidas humanas.
 *   **Tiempo de Respuesta:**

@@ -1,3 +1,9 @@
+---
+title: "Interception of Civil Aircraft: Procedures, Signals, and Emergency Communications"
+description: "Understand interception procedures for civil aircraft, including immediate pilot actions, Annex 2 visual signals, phraseology, and emergency frequency use."
+---
+# Interception of Civil Aircraft: Procedures, Signals, and Emergency Communications
+
 Interception of civil aircraft should be avoided and is a measure of **last resort**. It generally occurs if an aircraft has lost communication, enters airspace without authorization, or deviates from its track in restricted areas.
 
 ## Action by Intercepted Aircraft

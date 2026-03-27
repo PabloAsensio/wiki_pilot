@@ -1,4 +1,10 @@
 
+---
+title: "Procedimientos de Transpondedor SSR: Operación Modo C, Códigos de Emergencia y ACAS/TCAS"
+description: "Estudia las reglas de operación del transpondedor SSR, códigos de emergencia, gestión de fallos y función de los avisos ACAS/TCAS."
+---
+# Procedimientos de Transpondedor SSR: Operación Modo C, Códigos de Emergencia y ACAS/TCAS
+
 El transpondedor (SSR) es vital para la identificación, información de altitud y sistemas anticolisión.
 
 ## Operación del Transpondedor

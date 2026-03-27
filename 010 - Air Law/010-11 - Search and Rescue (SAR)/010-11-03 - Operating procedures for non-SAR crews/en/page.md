@@ -1,3 +1,9 @@
+---
+title: "Non-SAR Crew Procedures: Distress Signal Interception and On-Scene Coordination"
+description: "Understand procedures for non-SAR crews when intercepting distress signals, including acknowledgment, reporting, and initial on-scene command duties."
+---
+# Non-SAR Crew Procedures: Distress Signal Interception and On-Scene Coordination
+
 ## Interception of Distress Signals
 If a pilot-in-command intercepts a distress transmission and is not a dedicated SAR aircraft, they should:
 1.  **Acknowledge** the distress transmission (if feasible).

@@ -1,4 +1,10 @@
 
+---
+title: "Operaciones en Pistas Instrumentales Paralelas: Modos Independientes, Dependientes y Segregados"
+description: "Revisa los modos operativos en pistas instrumentales paralelas o casi paralelas, incluyendo requisitos NTZ y restricciones de interceptación de localizador."
+---
+# Operaciones en Pistas Instrumentales Paralelas: Modos Independientes, Dependientes y Segregados
+
 Operaciones simultáneas en pistas instrumentales paralelas requieren procedimientos y separaciones específicas.
 
 ## Modos de Operación

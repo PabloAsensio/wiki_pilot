@@ -1,3 +1,9 @@
+---
+title: "Aerodrome Data (AD): Pavement Strength, Declared Distances, and Friction Codes"
+description: "Review aerodrome data for pavement strength using ACN-PCN, declared distances TORA/TODA/ASDA/LDA, and runway friction coding principles."
+---
+# Aerodrome Data (AD): Pavement Strength, Declared Distances, and Friction Codes
+
 ## Pavement Strength
 The strength of pavements for aircraft over 5,700 kg is reported using the **ACN-PCN** (Aircraft Classification Number - Pavement Classification Number) method.
 *   **ACN (Aircraft Classification Number):** Expresses the relative effect of an aircraft on a pavement.

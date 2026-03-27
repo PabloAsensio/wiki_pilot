@@ -1,4 +1,10 @@
 
+---
+title: "Organizaciones Globales de Aviación: Funciones de OACI, EASA e IATA"
+description: "Comprende las diferencias de misión, autoridad e impacto regulatorio entre OACI, EASA e IATA en la aviación civil internacional."
+---
+# Organizaciones Globales de Aviación: Funciones de OACI, EASA e IATA
+
 En la aviación civil internacional, varias organizaciones juegan roles clave, representando diferentes intereses y estableciendo normas globales.
 
 ## Asociación Internacional de Transporte Aéreo (IATA)

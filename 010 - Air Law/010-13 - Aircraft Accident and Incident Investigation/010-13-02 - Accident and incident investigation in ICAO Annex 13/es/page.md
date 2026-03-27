@@ -1,3 +1,9 @@
+---
+title: "Investigación de Accidentes según OACI Anexo 13: Objetivo, Responsabilidades y Derechos"
+description: "Revisa los principios de investigación del Anexo 13: objetivo preventivo, responsabilidades estatales, notificaciones y derechos de representantes acreditados."
+---
+# Investigación de Accidentes según OACI Anexo 13: Objetivo, Responsabilidades y Derechos
+
 ## Objetivo de la Investigación
 El **único objetivo** de la investigación de accidentes o incidentes será la **prevención de futuros accidentes e incidentes**.
 *   **No** es el propósito de esta actividad determinar la culpa o la responsabilidad.

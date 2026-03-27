@@ -1,3 +1,9 @@
+---
+title: "Security Procedures Across ICAO Annexes and EU Rules: Annexes 2, 6, 14 and Doc 4444"
+description: "Explore how aviation security procedures are distributed across ICAO Annexes and EU regulations, including hijack, interception, cockpit security, and ATC response."
+---
+# Security Procedures Across ICAO Annexes and EU Rules: Annexes 2, 6, 14 and Doc 4444
+
 Although Annex 17 is the primary reference for Security, operational defense and response procedures are scattered in other documents to ensure comprehensive coverage.
 
 ## ICAO Annex 2 (Rules of the Air)

@@ -1,3 +1,9 @@
+---
+title: "Marcas para Uso Restringido de Áreas: Superficies No Portantes y Chevron"
+description: "Aprende los estándares de marcado en áreas de uso restringido: franjas laterales de calle de rodaje y chevrons en áreas preumbral pavimentadas."
+---
+# Marcas para Uso Restringido de Áreas: Superficies No Portantes y Chevron
+
 ## Superficies No Portantes (Non-load-bearing surfaces)
 Las áreas como arcenes (shoulders) de calles de rodaje, que no pueden soportar el peso de la aeronave pero no se distinguen fácilmente del pavimento resistente, deben marcarse.
 

@@ -1,3 +1,9 @@
+---
+title: "Reglamento (UE) No 965/2012: Estructura de Operaciones Aéreas y Partes Aplicables"
+description: "Comprende la arquitectura del Reglamento (UE) 965/2012 y cuándo aplican las Partes ARO, ORO, CAT, SPA, NCC, NCO y SPO según la operación."
+---
+# Reglamento (UE) No 965/2012: Estructura de Operaciones Aéreas y Partes Aplicables
+
 ## Reglamento (UE) No 965/2012
 Este reglamento establece los requisitos técnicos y procedimientos administrativos para las operaciones aéreas en la Unión Europea. Abarca desde grandes aerolíneas hasta la aviación general.
 

@@ -1,3 +1,9 @@
+---
+title: "Instrument Flight Rules (IFR): Minimum Levels, Equipment, and Vertical Separation"
+description: "Study IFR requirements for minimum altitudes, route equipment, RVSM versus non-RVSM separation, and arrival reporting to close flight plans."
+---
+# Instrument Flight Rules (IFR): Minimum Levels, Equipment, and Vertical Separation
+
 Instrument Flight Rules (IFR) allow operation without external visual references, relying on aircraft instruments.
 
 ## Minimum Levels (ICAO Annex 2, 5.1.2)

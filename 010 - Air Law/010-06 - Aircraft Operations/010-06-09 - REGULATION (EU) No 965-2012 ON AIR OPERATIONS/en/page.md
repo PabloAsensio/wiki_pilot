@@ -1,3 +1,9 @@
+---
+title: "Regulation (EU) No 965/2012: Air Operations Structure and Applicable Parts"
+description: "Understand the architecture of Regulation (EU) 965/2012 and when Parts ARO, ORO, CAT, SPA, NCC, NCO, and SPO apply to operations."
+---
+# Regulation (EU) No 965/2012: Air Operations Structure and Applicable Parts
+
 ## Regulation (EU) No 965/2012
 This regulation establishes technical requirements and administrative procedures for air operations in the European Union. It covers everything from large airlines to general aviation.
 

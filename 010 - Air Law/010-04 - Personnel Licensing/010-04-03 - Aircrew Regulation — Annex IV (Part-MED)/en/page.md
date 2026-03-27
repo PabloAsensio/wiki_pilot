@@ -1,3 +1,9 @@
+---
+title: "Part-MED Medical Certification: Classes, Validity, and Fitness to Fly"
+description: "Review Part-MED medical certificate classes, validity periods, issue and renewal rules, and limits on licence use after medical deterioration."
+---
+# Part-MED Medical Certification: Classes, Validity, and Fitness to Fly
+
 **Part-MED** regulates the medical requirements for aircrew. Medical fitness is essential for aviation safety, and without a valid medical certificate, a licence cannot be exercised.
 
 ## Medical Certificates (MED.A.030)

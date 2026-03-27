@@ -1,3 +1,9 @@
+---
+title: "Características Físicas del Aeródromo: RESA, Stopway, Clearway y Puntos de Espera"
+description: "Estudia las características físicas del aeródromo: áreas de seguridad, OFZ, efectos del umbral desplazado y criterios de puntos de espera."
+---
+# Características Físicas del Aeródromo: RESA, Stopway, Clearway y Puntos de Espera
+
 ## Áreas de Seguridad y Zonas Definidas
 *   **Runway Strip (Franja de pista):** Área definida que incluye la pista y la zona de parada (stopway), destinada a reducir el riesgo de daños si una aeronave se sale de la pista y proteger a las aeronaves que vuelan sobre ella.
 *   **RESA (Runway End Safety Area):** Área simétrica al eje de pista extendido, adyacente al final de la franja. Su fin es reducir el riesgo de daños en caso de **undershoot** (aterrizaje corto) o **overrun** (salida por el final).

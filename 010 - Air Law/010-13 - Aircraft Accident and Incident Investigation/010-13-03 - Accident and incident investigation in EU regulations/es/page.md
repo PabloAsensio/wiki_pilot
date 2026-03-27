@@ -1,3 +1,9 @@
+---
+title: "Marco UE de Accidentes e Incidentes: Reglamentos 376/2014 y 996/2010"
+description: "Comprende cómo se complementan los Reglamentos UE 376/2014 y 996/2010 en reporte de sucesos, independencia investigadora y cultura justa."
+---
+# Marco UE de Accidentes e Incidentes: Reglamentos 376/2014 y 996/2010
+
 ## Reglamento (UE) No 376/2014 (Reporte de Sucesos)
 Este reglamento complementa la investigación de accidentes mejorando la **recopilación y análisis de datos**.
 

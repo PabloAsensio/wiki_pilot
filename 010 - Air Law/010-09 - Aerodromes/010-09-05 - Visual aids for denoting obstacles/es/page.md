@@ -1,3 +1,9 @@
+---
+title: "Ayudas Visuales para Señalizar Obstáculos: Objetos Móviles, Fijos y Esferas de Marcación"
+description: "Revisa las ayudas visuales para señalizar obstáculos: colores en objetos móviles y fijos, y normas de esferas marcadoras en cables aéreos."
+---
+# Ayudas Visuales para Señalizar Obstáculos: Objetos Móviles, Fijos y Esferas de Marcación
+
 ## Objetos Móviles (Mobile Objects)
 *   **Vehículos de emergencia:** Preferiblemente color **Rojo** o **Verde amarillento**.
 *   **Vehículos de servicio:** Preferiblemente color **Amarillo**.

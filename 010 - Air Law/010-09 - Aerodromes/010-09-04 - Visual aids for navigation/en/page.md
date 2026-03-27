@@ -1,3 +1,9 @@
+---
+title: "Aerodrome Visual Aids for Navigation: PAPI, ALS, and Runway Lighting"
+description: "Understand visual navigation aids at aerodromes, including PAPI indications, approach lighting systems, and runway centreline light color transitions."
+---
+# Aerodrome Visual Aids for Navigation: PAPI, ALS, and Runway Lighting
+
 ## Approach Slope Indicators (PAPI/APAPI)
 The **PAPI** (Precision Approach Path Indicator) consists of 4 units (lights) in a wing bar, usually on the left side of the runway.
 

@@ -1,3 +1,9 @@
+---
+title: "Medidas Preventivas de Seguridad: Screening, Control de Armas y Reinspección"
+description: "Estudia las medidas preventivas del Anexo 17: prevención de objetos peligrosos, reinspección de pasajeros y procedimientos de transporte de armas."
+---
+# Medidas Preventivas de Seguridad: Screening, Control de Armas y Reinspección
+
 ## Prevención de Objetos Peligrosos
 Los Estados deben prevenir la introducción a bordo de:
 1.  Armas no autorizadas.

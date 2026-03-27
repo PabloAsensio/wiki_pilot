@@ -1,4 +1,10 @@
 
+---
+title: "Reglas de Vuelo Visual (VFR): Mínimos VMC, SVFR y Transición a IFR"
+description: "Aprende los límites operativos VFR, mínimos VMC, condiciones de autorización SVFR y acciones necesarias al pasar de VFR a IFR."
+---
+# Reglas de Vuelo Visual (VFR): Mínimos VMC, SVFR y Transición a IFR
+
 Las Reglas de Vuelo Visual (VFR) permiten volar basándose en referencias visuales externas.
 
 ## Condiciones Meteorológicas Visuales (VMC)

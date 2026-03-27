@@ -1,3 +1,9 @@
+---
+title: "Part-FCL Pilot Licensing: Privileges, Ratings, and Document Requirements"
+description: "Learn Part-FCL licensing requirements, pilot privileges, rating structure, and mandatory documents needed to exercise licence privileges."
+---
+# Part-FCL Pilot Licensing: Privileges, Ratings, and Document Requirements
+
 **Part-FCL** (Flight Crew Licensing) establishes the requirements for the issue and maintenance of pilot licences and ratings.
 
 ## Licensing Authority (ICAO Annex 1)

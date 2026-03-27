@@ -1,4 +1,10 @@
 
+---
+title: "Part-MED y Certificación Médica: Clases, Vigencia y Aptitud para Volar"
+description: "Revisa las clases de certificados médicos del Part-MED, su vigencia, reglas de emisión y renovación, y límites por disminución de aptitud médica."
+---
+# Part-MED y Certificación Médica: Clases, Vigencia y Aptitud para Volar
+
 El **Part-MED** regula los requisitos médicos para la tripulación aérea. La aptitud médica es esencial para la seguridad aérea, y sin un certificado médico válido, una licencia no puede ejercerse.
 
 ## Certificados Médicos (MED.A.030)

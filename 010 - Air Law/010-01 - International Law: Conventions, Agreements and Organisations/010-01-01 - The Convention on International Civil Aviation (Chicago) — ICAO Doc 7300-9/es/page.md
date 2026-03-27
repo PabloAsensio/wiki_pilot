@@ -1,4 +1,10 @@
 
+---
+title: "Convenio de Chicago (OACI Doc 7300): Soberanía, Estructura OACI y SARPs"
+description: "Estudia los principios clave del Convenio de Chicago: soberanía estatal, estructura de la OACI, SARPs y reglas del aire sobre alta mar."
+---
+# Convenio de Chicago (OACI Doc 7300): Soberanía, Estructura OACI y SARPs
+
 El Convenio sobre Aviación Civil Internacional, también conocido como el **Convenio de Chicago**, establece las bases para la regulación de la aviación mundial. Su objetivo principal, definido en el **Artículo 44**, es desarrollar los principios y técnicas de la navegación aérea internacional y fomentar la planificación y el desarrollo del transporte aéreo internacional.
 
 ## Soberanía y Territorio

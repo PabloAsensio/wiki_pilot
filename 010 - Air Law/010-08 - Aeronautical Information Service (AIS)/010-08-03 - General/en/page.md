@@ -1,3 +1,9 @@
+---
+title: "AIS General Provisions: Integrated Information Package and Movement Area Reporting"
+description: "Learn general AIS provisions, including integrated information package components, post-flight reporting channels, and movement area condition reporting duties."
+---
+# AIS General Provisions: Integrated Information Package and Movement Area Reporting
+
 ## Integrated Aeronautical Information Package
 Aeronautical information is published as an integrated package that includes:
 1.  **AIP** (Aeronautical Information Publication).

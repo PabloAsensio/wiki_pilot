@@ -1,3 +1,9 @@
+---
+title: "Preventive Security Measures: Screening, Weapon Control, and Rescreening Rules"
+description: "Study preventive aviation security measures under Annex 17, including dangerous-object prevention, passenger rescreening, and carriage-of-weapons procedures."
+---
+# Preventive Security Measures: Screening, Weapon Control, and Rescreening Rules
+
 ## Prevention of Dangerous Objects
 States must prevent the introduction on board of:
 1.  Unauthorized weapons.

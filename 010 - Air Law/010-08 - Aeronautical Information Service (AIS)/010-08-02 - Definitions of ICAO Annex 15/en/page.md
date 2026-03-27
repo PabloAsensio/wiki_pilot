@@ -1,3 +1,9 @@
+---
+title: "Annex 15 Definitions: Movement Area, SNOWTAM, and ASHTAM Reporting"
+description: "Review Annex 15 definitions for movement areas and special aeronautical notices, including SNOWTAM contamination reporting and ASHTAM volcanic ash alerts."
+---
+# Annex 15 Definitions: Movement Area, SNOWTAM, and ASHTAM Reporting
+
 Fundamental concepts for aerodrome condition reporting.
 
 ## Movement Area

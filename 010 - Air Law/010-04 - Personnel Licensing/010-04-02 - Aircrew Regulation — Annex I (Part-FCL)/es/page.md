@@ -1,4 +1,10 @@
 
+---
+title: "Part-FCL de Licencias de Vuelo: Atribuciones, Habilitaciones y Documentación"
+description: "Aprende los requisitos del Part-FCL para licencias de pilotos, atribuciones, estructura de habilitaciones y documentación obligatoria en vuelo."
+---
+# Part-FCL de Licencias de Vuelo: Atribuciones, Habilitaciones y Documentación
+
 El **Part-FCL** (Flight Crew Licensing) establece los requisitos para la obtención y mantenimiento de licencias y habilitaciones de las tripulaciones de vuelo.
 
 ## Autoridad de Licencias (OACI Anexo 1)

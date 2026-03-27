@@ -1,3 +1,9 @@
+---
+title: "Rules of the Air: PIC Responsibility, Preflight Duties, and Collision Avoidance"
+description: "Study core rules of the air, including pilot-in-command authority, required preflight preparation, territorial applicability, and collision avoidance duties."
+---
+# Rules of the Air: PIC Responsibility, Preflight Duties, and Collision Avoidance
+
 The Rules of the Air establish the fundamental standards for the safe operation of aircraft.
 
 ## Responsibility of Pilot-in-Command (PIC)

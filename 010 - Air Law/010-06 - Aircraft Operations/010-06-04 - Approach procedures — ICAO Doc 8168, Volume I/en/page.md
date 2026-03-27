@@ -1,3 +1,9 @@
+---
+title: "Instrument Approach Procedures: Segments, Minima, and Missed Approach Criteria"
+description: "Review instrument approach segment logic from IAF to missed approach, including obstacle clearance minima OCA/H and operational minima MDA/H."
+---
+# Instrument Approach Procedures: Segments, Minima, and Missed Approach Criteria
+
 Instrument approach procedures are divided into segments with specific purposes and obstacle clearance criteria.
 
 ## Segments of the Approach

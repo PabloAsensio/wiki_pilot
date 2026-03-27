@@ -1,3 +1,9 @@
+---
+title: "Restricted-Use Area Markings: Non-Load-Bearing Surfaces and Chevron Areas"
+description: "Learn marking standards for restricted-use areas, including taxiway side-stripe markings and chevron markings in pre-threshold paved areas."
+---
+# Restricted-Use Area Markings: Non-Load-Bearing Surfaces and Chevron Areas
+
 ## Non-load-bearing surfaces
 Areas such as taxiway shoulders, which cannot support the weight of the aircraft but are not readily distinguishable from the load-bearing pavement, shall be marked.
 

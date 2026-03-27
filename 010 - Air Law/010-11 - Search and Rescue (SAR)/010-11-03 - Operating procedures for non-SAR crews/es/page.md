@@ -1,3 +1,9 @@
+---
+title: "Procedimientos para Tripulaciones No SAR: Interceptación de Socorro y Coordinación en Escena"
+description: "Comprende los procedimientos para tripulaciones no SAR al interceptar señales de socorro, incluyendo acuse, reporte y coordinación inicial en la escena."
+---
+# Procedimientos para Tripulaciones No SAR: Interceptación de Socorro y Coordinación en Escena
+
 ## Interceptación de Señales de Socorro
 Si un piloto al mando intercepta una transmisión de socorro y no es una aeronave SAR dedicada, debe:
 1.  **Acusar recibo** de la transmisión (si es factible).

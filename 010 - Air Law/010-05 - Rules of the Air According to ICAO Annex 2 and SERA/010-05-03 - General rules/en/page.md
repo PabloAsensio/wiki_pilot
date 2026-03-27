@@ -1,3 +1,9 @@
+---
+title: "General Rules of the Air: Flight Plans, Lights, SSR Codes, and Lost Communications"
+description: "Review general operational air rules, including flight plan adherence, navigation lights, transponder emergency codes, and communication failure procedures."
+---
+# General Rules of the Air: Flight Plans, Lights, SSR Codes, and Lost Communications
+
 ## Flight Plan
 A flight plan shall be submitted prior to operating any flight to which air traffic control service is to be provided.
 

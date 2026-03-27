@@ -1,4 +1,10 @@
 
+---
+title: "Reglas Generales del Aire: Plan de Vuelo, Luces, Códigos SSR y Fallo de Comunicaciones"
+description: "Revisa las reglas generales de operación aérea: adherencia al plan de vuelo, luces de navegación, códigos de emergencia SSR y procedimientos por fallo de radio."
+---
+# Reglas Generales del Aire: Plan de Vuelo, Luces, Códigos SSR y Fallo de Comunicaciones
+
 ## Plan de Vuelo
 Se debe presentar un plan de vuelo antes de operar cualquier vuelo al que se vaya a proporcionar servicio de control de tránsito aéreo.
 

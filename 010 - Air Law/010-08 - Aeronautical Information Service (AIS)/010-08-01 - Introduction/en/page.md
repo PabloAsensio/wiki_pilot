@@ -1,3 +1,9 @@
+---
+title: "AIS Introduction (Annex 15): Definition, State Responsibilities, and Service Availability"
+description: "Understand AIS purpose under Annex 15, including State obligations to collect, publish, and distribute aeronautical information and maintain service availability."
+---
+# AIS Introduction (Annex 15): Definition, State Responsibilities, and Service Availability
+
 ## Definition and Object (Annex 15)
 The **Aeronautical Information Service (AIS)** is the service established to provide aeronautical data and aeronautical information necessary for the:
 *   **Safety**.

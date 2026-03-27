@@ -1,4 +1,10 @@
 
+---
+title: "Disposiciones Generales AIS: Paquete Integrado e Información del Área de Movimiento"
+description: "Aprende las disposiciones generales del AIS: componentes del paquete integrado, información post-vuelo y reporte de condiciones del área de movimiento."
+---
+# Disposiciones Generales AIS: Paquete Integrado e Información del Área de Movimiento
+
 ## Paquete de Documentación Integrada
 La información aeronáutica se publica como un paquete integrado que incluye:
 1.  **AIP** (Publicación de Información Aeronáutica).

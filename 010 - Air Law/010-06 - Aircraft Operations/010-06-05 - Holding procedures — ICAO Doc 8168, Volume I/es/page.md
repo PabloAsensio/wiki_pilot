@@ -1,4 +1,10 @@
 
+---
+title: "Procedimientos de Espera (Doc 8168): Sectores de Entrada, Tiempos y Distancias DME"
+description: "Comprende las entradas al patrón de espera, los criterios de temporización en outbound y las reglas de distancia DME en espacio protegido."
+---
+# Procedimientos de Espera (Doc 8168): Sectores de Entrada, Tiempos y Distancias DME
+
 Los procedimientos de espera mantienen a la aeronave dentro de un espacio aéreo protegido mientras espera autorización posterior.
 
 ## Entradas a la Espera (Sectores)

@@ -1,4 +1,10 @@
 
+---
+title: "Ubicación de Marcas de Identificación: Reglas del Anexo 7 en Alas, Fuselaje y Cola"
+description: "Aprende los requisitos del Anexo 7 para colocar marcas de nacionalidad y matrícula en alas, fuselaje y superficies de cola con visibilidad adecuada."
+---
+# Ubicación de Marcas de Identificación: Reglas del Anexo 7 en Alas, Fuselaje y Cola
+
 El Anexo 7 especifica dónde deben colocarse las marcas de identificación en las aeronaves más pesadas que el aire (aviones, helicópteros, etc.) para asegurar su visibilidad.
 
 ## Ubicación en Aeronaves Más Pesadas que el Aire

@@ -1,3 +1,9 @@
+---
+title: "Aerodrome Supplementary Guidance: Declared Distances, Lighting Reference, and Sign Colors"
+description: "Review supplementary aerodrome guidance on declared distances, threshold-based approach lighting references, and mandatory sign color conventions."
+---
+# Aerodrome Supplementary Guidance: Declared Distances, Lighting Reference, and Sign Colors
+
 ## Summary of Declared Distances
 
 | Distance | Definition | Formula (Simplified) |

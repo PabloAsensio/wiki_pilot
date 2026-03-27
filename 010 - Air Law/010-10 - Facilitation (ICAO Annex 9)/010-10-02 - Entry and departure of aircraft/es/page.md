@@ -1,3 +1,9 @@
+---
+title: "Facilitación OACI Anexo 9: Documentación de Entrada/Salida y Procedimientos de Inadmisibles"
+description: "Comprende los requisitos de facilitación del Anexo 9 para entrada y salida de aeronaves: documentos, tripulación, inadmisibles y equipaje extraviado."
+---
+# Facilitación OACI Anexo 9: Documentación de Entrada/Salida y Procedimientos de Inadmisibles
+
 ## Documentación y Procedimientos
 El **Anexo 9 (Facilitación)** establece normas para acelerar el despacho de personas y bienes, evitando retrasos innecesarios.
 

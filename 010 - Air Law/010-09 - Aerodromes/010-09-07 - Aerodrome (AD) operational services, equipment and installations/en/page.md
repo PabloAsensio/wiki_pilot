@@ -1,3 +1,9 @@
+---
+title: "Aerodrome Operational Services: RFF Response, Apron Management, and Refuelling Safety"
+description: "Study aerodrome operational services, including rescue and firefighting response targets, apron management functions, and refuelling safety with passengers on board."
+---
+# Aerodrome Operational Services: RFF Response, Apron Management, and Refuelling Safety
+
 ## Rescue and Firefighting (RFF)
 *   **Main Objective:** Save human lives.
 *   **Response Time:**

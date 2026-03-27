@@ -1,4 +1,10 @@
 
+---
+title: "Reglas de Vuelo por Instrumentos (IFR): Niveles Mínimos, Equipamiento y Separación Vertical"
+description: "Estudia los requisitos IFR de altitudes mínimas, equipamiento de ruta, separación RVSM y cierre del plan de vuelo tras la llegada."
+---
+# Reglas de Vuelo por Instrumentos (IFR): Niveles Mínimos, Equipamiento y Separación Vertical
+
 Las Reglas de Vuelo por Instrumentos (IFR) permiten operar sin referencias visuales externas, basándose en los instrumentos de la aeronave.
 
 ## Niveles Mínimos (OACI Anexo 2, 5.1.2)

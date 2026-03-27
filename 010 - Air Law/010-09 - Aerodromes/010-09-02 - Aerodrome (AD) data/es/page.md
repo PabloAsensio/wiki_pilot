@@ -1,3 +1,9 @@
+---
+title: "Datos de Aeródromo (AD): Resistencia de Pavimento, Distancias Declaradas y Códigos de Fricción"
+description: "Revisa los datos AD sobre resistencia de pavimento con ACN-PCN, distancias declaradas TORA/TODA/ASDA/LDA y codificación de fricción en pista."
+---
+# Datos de Aeródromo (AD): Resistencia de Pavimento, Distancias Declaradas y Códigos de Fricción
+
 ## Resistencia de Pavimentos (Pavement Strength)
 La resistencia de los pavimentos para aeronaves de más de 5,700 kg se notifica usando el método **ACN-PCN** (Aircraft Classification Number - Pavement Classification Number).
 *   **ACN (Aircraft Classification Number):** Expresa el efecto relativo de una aeronave sobre un pavimento.

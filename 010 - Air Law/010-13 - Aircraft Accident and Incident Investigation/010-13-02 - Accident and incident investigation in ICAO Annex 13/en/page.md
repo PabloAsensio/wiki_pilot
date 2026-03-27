@@ -1,3 +1,9 @@
+---
+title: "Accident Investigation under ICAO Annex 13: Objective, Responsibilities, and Rights"
+description: "Review Annex 13 investigation principles, including safety-only objective, State responsibilities, notification duties, and rights of accredited representatives."
+---
+# Accident Investigation under ICAO Annex 13: Objective, Responsibilities, and Rights
+
 ## Objective of the Investigation
 The **sole objective** of the investigation of an accident or incident shall be the **prevention of accidents and incidents**.
 *   It is **not** the purpose of this activity to apportion blame or liability.

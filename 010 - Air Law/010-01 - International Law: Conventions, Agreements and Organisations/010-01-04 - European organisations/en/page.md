@@ -1,3 +1,9 @@
+---
+title: "European Aviation Regulation: Basic Regulation, EASA Hard Law, and Soft Law"
+description: "Learn the EU aviation safety framework under Regulation (EU) 2018/1139 and the distinction between EASA hard law and soft law material."
+---
+# European Aviation Regulation: Basic Regulation, EASA Hard Law, and Soft Law
+
 In Europe, aviation safety regulation is structured through the European Union and its specialized agency.
 
 ## Basic Regulation

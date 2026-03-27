@@ -1,3 +1,9 @@
+---
+title: "Instrument Departure Procedures (Doc 8168): Omnidirectional, Straight, and Turning Departures"
+description: "Study ICAO Doc 8168 departure procedure types, turn initiation criteria, wind considerations, and noise abatement principles after takeoff."
+---
+# Instrument Departure Procedures (Doc 8168): Omnidirectional, Straight, and Turning Departures
+
 Instrument departure procedures are designed to ensure safety and separation from obstacles after takeoff.
 
 ## Types of Departure

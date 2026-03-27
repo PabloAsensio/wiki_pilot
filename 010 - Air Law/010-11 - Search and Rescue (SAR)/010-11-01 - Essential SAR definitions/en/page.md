@@ -1,3 +1,9 @@
+---
+title: "Essential SAR Definitions: INCERFA, ALERFA, DETRESFA, and RCC"
+description: "Learn Annex 12 search and rescue definitions, including emergency phase criteria and the coordination role of the Rescue Coordination Centre (RCC)."
+---
+# Essential SAR Definitions: INCERFA, ALERFA, DETRESFA, and RCC
+
 ## Emergency Phases
 Annex 12 defines three phases to classify emergency situations:
 

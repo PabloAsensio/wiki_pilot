@@ -1,3 +1,9 @@
+---
+title: "Certificate of Airworthiness (CofA): Issuance, Validity, and State Responsibilities"
+description: "Understand CofA legal requirements under ICAO Annex 8, including issuance, continuing validity, damage assessment, and State of Registry duties."
+---
+# Certificate of Airworthiness (CofA): Issuance, Validity, and State Responsibilities
+
 The **Certificate of Airworthiness (CofA)** is an official document issued by the State of Registry confirming that the aircraft complies with the design and construction standards approved by that State and is safe to fly in accordance with applicable airworthiness requirements.
 
 ## Issuance and Validity (ICAO Annex 8)

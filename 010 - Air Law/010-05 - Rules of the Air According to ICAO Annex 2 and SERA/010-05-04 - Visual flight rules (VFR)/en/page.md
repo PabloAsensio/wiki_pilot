@@ -1,3 +1,9 @@
+---
+title: "Visual Flight Rules (VFR): VMC Minima, SVFR, and VFR-to-IFR Transition"
+description: "Learn VFR operating limits, VMC minima, special VFR clearance conditions, and required actions when transitioning from VFR to IFR."
+---
+# Visual Flight Rules (VFR): VMC Minima, SVFR, and VFR-to-IFR Transition
+
 Visual Flight Rules (VFR) permit flight based on external visual references.
 
 ## Visual Meteorological Conditions (VMC)

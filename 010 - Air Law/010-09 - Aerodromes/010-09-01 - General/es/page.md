@@ -1,3 +1,9 @@
+---
+title: "Conceptos Generales de Aeródromos: Código de Referencia y Estado de Superficie"
+description: "Aprende los conceptos esenciales del aeródromo: elementos del código de referencia y terminología normalizada del estado de superficie de pista."
+---
+# Conceptos Generales de Aeródromos: Código de Referencia y Estado de Superficie
+
 ## Referencia de Aeródromo (Aerodrome Reference Code)
 El **Código de Referencia de Aeródromo** se utiliza para fines de planificación y determina si las dimensiones del aeródromo son adecuadas para un tipo específico de aeronave. Se compone de dos elementos:
 

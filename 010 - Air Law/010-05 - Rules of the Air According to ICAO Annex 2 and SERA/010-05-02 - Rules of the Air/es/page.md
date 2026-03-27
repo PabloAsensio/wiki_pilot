@@ -1,4 +1,10 @@
 
+---
+title: "Reglas del Aire: Responsabilidad del PIC, Preparación Prevuelo y Prevención de Colisiones"
+description: "Estudia las reglas fundamentales del aire: autoridad del PIC, preparación previa al vuelo, aplicación territorial y deber de evitar colisiones."
+---
+# Reglas del Aire: Responsabilidad del PIC, Preparación Prevuelo y Prevención de Colisiones
+
 Las Reglas del Aire establecen las normas fundamentales para la operación segura de las aeronaves.
 
 ## Responsabilidad del Piloto al Mando (PIC)

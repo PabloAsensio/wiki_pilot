@@ -1,3 +1,9 @@
+---
+title: "Altimeter-Setting Procedures: Transition Altitude, Transition Level, and QNH/FL References"
+description: "Learn altimeter-setting procedures for safe vertical separation, including transition altitude, transition level, transition layer, and standard pressure use."
+---
+# Altimeter-Setting Procedures: Transition Altitude, Transition Level, and QNH/FL References
+
 Procedures to ensure vertical separation and terrain clearance using standard barometric references.
 
 ## Basic Principles

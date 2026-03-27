@@ -1,3 +1,9 @@
+---
+title: "PANS-OPS Definitions and Abbreviations: Protection Areas, Segments, and Tolerances"
+description: "Learn core ICAO Doc 8168 PANS-OPS concepts, including primary and secondary areas, maneuver definitions, and tolerance factors in procedure design."
+---
+# PANS-OPS Definitions and Abbreviations: Protection Areas, Segments, and Tolerances
+
 This section introduces key concepts from ICAO Document 8168 (PANS-OPS), fundamental for the design of instrument flight procedures.
 
 ## Areas and Margins

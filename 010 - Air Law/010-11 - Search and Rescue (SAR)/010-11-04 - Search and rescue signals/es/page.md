@@ -1,3 +1,9 @@
+---
+title: "Señales de Búsqueda y Rescate: Códigos Tierra-Aire y Procedimientos de Confirmación"
+description: "Estudia los códigos visuales SAR para supervivientes y unidades de rescate, incluyendo señales de confirmación aire-tierra de día y de noche."
+---
+# Señales de Búsqueda y Rescate: Códigos Tierra-Aire y Procedimientos de Confirmación
+
 ## Señales Visuales Tierra-Aire
 Estas señales son utilizadas por supervivientes y unidades de rescate para comunicarse con las aeronaves. Deben ser grandes y con contraste.
 

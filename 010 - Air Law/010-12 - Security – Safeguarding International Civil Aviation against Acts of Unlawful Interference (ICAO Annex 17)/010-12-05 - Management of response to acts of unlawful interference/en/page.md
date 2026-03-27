@@ -1,3 +1,9 @@
+---
+title: "Response Management to Unlawful Interference: Hijacking and Commander Powers"
+description: "Review State response duties after unlawful seizure, including aircraft detention exceptions and Tokyo Convention powers of the aircraft commander."
+---
+# Response Management to Unlawful Interference: Hijacking and Commander Powers
+
 ## Response to Unlawful Seizure (Hijacking)
 When an aircraft subjected to an act of unlawful seizure lands in a Contracting State:
 

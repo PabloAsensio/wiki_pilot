@@ -1,3 +1,9 @@
+---
+title: "Annex 17 General Principles: National and Airport Security Organization"
+description: "Understand Annex 17 general principles for security governance, including national programme obligations and airport-level coordination structures."
+---
+# Annex 17 General Principles: National and Airport Security Organization
+
 ## National Organization
 Each Contracting State shall:
 1.  Have as its primary objective the safety of passengers, crew, ground personnel and the general public.

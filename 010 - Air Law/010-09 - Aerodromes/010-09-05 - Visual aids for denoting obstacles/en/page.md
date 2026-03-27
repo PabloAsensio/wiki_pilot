@@ -1,3 +1,9 @@
+---
+title: "Visual Obstacle Marking Aids: Mobile Objects, Fixed Obstacles, and Marker Balls"
+description: "Review visual aids used to mark obstacles, including color requirements for mobile and fixed objects and marker-ball standards for overhead wires."
+---
+# Visual Obstacle Marking Aids: Mobile Objects, Fixed Obstacles, and Marker Balls
+
 ## Mobile Objects
 *   **Emergency vehicles:** Preferably **Red** or **Yellowish Green**.
 *   **Service vehicles:** Preferably **Yellow**.

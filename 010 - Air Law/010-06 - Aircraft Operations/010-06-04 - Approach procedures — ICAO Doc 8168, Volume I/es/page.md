@@ -1,4 +1,10 @@
 
+---
+title: "Procedimientos de Aproximación Instrumental: Segmentos, Mínimos y Criterios de Frustrada"
+description: "Revisa la lógica de segmentos en aproximación instrumental, desde IAF hasta frustrada, incluyendo mínimos OCA/H y MDA/H."
+---
+# Procedimientos de Aproximación Instrumental: Segmentos, Mínimos y Criterios de Frustrada
+
 Los procedimientos de aproximación instrumental se dividen en segmentos con propósitos y criterios específicos de franqueamiento de obstáculos.
 
 ## Segmentos de la Aproximación

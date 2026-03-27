@@ -1,3 +1,9 @@
+---
+title: "EU Accident and Incident Framework: Regulations 376/2014 and 996/2010"
+description: "Understand how EU regulations 376/2014 and 996/2010 complement each other for occurrence reporting, investigation independence, and just culture."
+---
+# EU Accident and Incident Framework: Regulations 376/2014 and 996/2010
+
 ## Regulation (EU) No 376/2014 (Occurrence Reporting)
 This regulation complements accident investigation by improving **data collection and analysis**.
 

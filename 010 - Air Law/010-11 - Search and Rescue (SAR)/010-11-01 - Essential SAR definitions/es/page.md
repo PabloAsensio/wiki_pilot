@@ -1,3 +1,9 @@
+---
+title: "Definiciones Esenciales SAR: INCERFA, ALERFA, DETRESFA y RCC"
+description: "Aprende las definiciones SAR del Anexo 12, incluyendo criterios de fases de emergencia y el rol coordinador del RCC."
+---
+# Definiciones Esenciales SAR: INCERFA, ALERFA, DETRESFA y RCC
+
 ## Fases de Emergencia (Emergency Phases)
 El Anexo 12 define tres fases para clasificar situaciones de emergencia:
 

@@ -1,3 +1,9 @@
+---
+title: "Global Aviation Organizations: ICAO, EASA, and IATA Roles"
+description: "Understand how ICAO, EASA, and IATA differ in mission, authority, and impact on international civil aviation regulation and operations."
+---
+# Global Aviation Organizations: ICAO, EASA, and IATA Roles
+
 In international civil aviation, several organizations play key roles, representing different interests and establishing global standards.
 
 ## International Air Transport Association (IATA)

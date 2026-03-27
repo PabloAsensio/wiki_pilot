@@ -1,3 +1,18 @@
+---
+title: "ICAO Annex 11 Air Traffic Services: Objectives, Airspace Classes, and ATS Structure"
+description: "Learn ICAO Annex 11 air traffic services fundamentals, including ATS objectives, airspace classes A to G, FIR/CTA/CTR structure, and key service functions."
+keywords:
+    - "icao annex 11"
+    - "annex 11 icao"
+    - "annex 11 air traffic services"
+    - "annex 11 - air traffic services"
+    - "icao annex 11 air traffic services"
+    - "annex 11 chicago convention"
+    - "annex 11 aviation"
+    - "chicago convention annex 11"
+---
+# ICAO Annex 11 Air Traffic Services: Objectives, Airspace Classes, and ATS Structure
+
 **Annex 11** defines how airspaces and services are established and managed to ensure a safe and orderly flow.
 
 ## Objectives of Air Traffic Services (ATS)

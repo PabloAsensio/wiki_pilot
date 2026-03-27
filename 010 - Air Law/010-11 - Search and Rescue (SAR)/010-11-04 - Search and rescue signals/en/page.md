@@ -1,3 +1,9 @@
+---
+title: "Search and Rescue Signals: Ground-Air Codes and Acknowledgement Procedures"
+description: "Study SAR visual signal codes for survivors and rescue units, including day and night air-ground acknowledgement conventions."
+---
+# Search and Rescue Signals: Ground-Air Codes and Acknowledgement Procedures
+
 ## Ground-Air Visual Signals
 These signals are used by survivors and rescue units to communicate with aircraft. They must be large and have contrast.
 

@@ -1,4 +1,10 @@
 
+---
+title: "Proveedores de Servicios ATM/ANS: Requisitos Comunes de la UE y Supervisión"
+description: "Comprende los requisitos comunes de la UE para proveedores ATM/ANS: alcance, supervisión, certificación y obligaciones de seguridad y calidad."
+---
+# Proveedores de Servicios ATM/ANS: Requisitos Comunes de la UE y Supervisión
+
 Esta regulación de la Comisión Europea establece requisitos comunes para los proveedores de servicios de gestión del tránsito aéreo (ATM) y servicios de navegación aérea (ANS).
 
 ## Alcance

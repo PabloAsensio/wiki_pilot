@@ -1,3 +1,9 @@
+---
+title: "Annex 13 Essential Definitions: Accident, Incident, and Serious Incident"
+description: "Learn Annex 13 definitions that distinguish accident, incident, and serious incident, including practical examples and structural-damage exceptions."
+---
+# Annex 13 Essential Definitions: Accident, Incident, and Serious Incident
+
 ## Accident
 An occurrence associated with the operation of an aircraft (from boarding with the intention of flight until disembarking) in which:
 1.  A person suffers **fatal or serious injury**.

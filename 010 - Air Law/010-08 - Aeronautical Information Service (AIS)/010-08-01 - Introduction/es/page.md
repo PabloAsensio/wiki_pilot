@@ -1,4 +1,10 @@
 
+---
+title: "Introducción al AIS (Anexo 15): Definición, Responsabilidades del Estado y Disponibilidad"
+description: "Comprende el propósito del AIS según el Anexo 15: obligaciones del Estado para recopilar, publicar y distribuir información aeronáutica."
+---
+# Introducción al AIS (Anexo 15): Definición, Responsabilidades del Estado y Disponibilidad
+
 ## Definición y Objeto (Anexo 15)
 El **Servicio de Información Aeronáutica (AIS)** es el servicio establecido para proveer los datos e información aeronáutica necesarios para la:
 *   **Seguridad**.

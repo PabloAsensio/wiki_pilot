@@ -1,4 +1,10 @@
 
+---
+title: "Regulación Europea de Aviación: Reglamento Básico y Marco Normativo de EASA"
+description: "Aprende el marco de seguridad aérea de la UE bajo el Reglamento (UE) 2018/1139 y la diferencia entre hard law y soft law de EASA."
+---
+# Regulación Europea de Aviación: Reglamento Básico y Marco Normativo de EASA
+
 En Europa, la regulación de la seguridad aérea se estructura a través de la Unión Europea y su agencia especializada.
 
 ## Reglamento Básico (Basic Regulation)

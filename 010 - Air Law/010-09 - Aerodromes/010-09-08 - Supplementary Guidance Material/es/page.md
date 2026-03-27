@@ -1,3 +1,9 @@
+---
+title: "Guía Suplementaria de Aeródromos: Distancias Declaradas, Referencia de Luces y Colores de Señales"
+description: "Revisa la guía suplementaria del aeródromo sobre distancias declaradas, referencias de luces desde el umbral y convenciones de color en señalización."
+---
+# Guía Suplementaria de Aeródromos: Distancias Declaradas, Referencia de Luces y Colores de Señales
+
 ## Resumen de Distancias Declaradas
 
 | Distancia | Definición | Fórmula (Simplificada) |

@@ -1,4 +1,10 @@
 
+---
+title: "Certificado de Aeronavegabilidad (CofA): Emisión, Validez y Responsabilidades del Estado"
+description: "Comprende los requisitos del CofA según OACI Anexo 8: emisión, validez continua, evaluación de daños y obligaciones del Estado de Matrícula."
+---
+# Certificado de Aeronavegabilidad (CofA): Emisión, Validez y Responsabilidades del Estado
+
 El **Certificado de Aeronavegabilidad (CofA)** es un documento oficial emitido por el Estado de Matrícula que confirma que la aeronave cumple con los estándares de diseño y construcción aprobados por dicho Estado y es segura para volar de acuerdo con los requisitos de aeronavegabilidad aplicables.
 
 ## Emisión y Validez (OACI Anexo 8)

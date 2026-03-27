@@ -1,3 +1,9 @@
+---
+title: "Aerodrome Physical Characteristics: RESA, Stopway, Clearway, and Holding Positions"
+description: "Study physical aerodrome characteristics, including runway safety areas, OFZ, threshold displacement effects, and holding position criteria."
+---
+# Aerodrome Physical Characteristics: RESA, Stopway, Clearway, and Holding Positions
+
 ## Safety Areas and Defined Zones
 *   **Runway Strip:** A defined area including the runway and stopway, if provided, intended to reduce the risk of damage to aircraft running off a runway and to protect aircraft flying over it.
 *   **RESA (Runway End Safety Area):** An area symmetrical to the extended runway center line and adjacent to the end of the strip. Its purpose is to reduce the risk of damage in case of **undershoot** or **overrun**.

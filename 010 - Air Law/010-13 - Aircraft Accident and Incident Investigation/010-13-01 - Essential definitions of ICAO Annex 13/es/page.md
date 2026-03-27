@@ -1,3 +1,9 @@
+---
+title: "Definiciones Esenciales del Anexo 13: Accidente, Incidente e Incidente Grave"
+description: "Aprende las definiciones del Anexo 13 que diferencian accidente, incidente e incidente grave, con ejemplos y excepciones por tipo de daño."
+---
+# Definiciones Esenciales del Anexo 13: Accidente, Incidente e Incidente Grave
+
 ## Accidente (Accident)
 Ocurrencia asociada a la operación de una aeronave (desde el embarque con intención de vuelo hasta el desembarque) donde:
 1.  Una persona sufre **lesiones mortales o graves**.

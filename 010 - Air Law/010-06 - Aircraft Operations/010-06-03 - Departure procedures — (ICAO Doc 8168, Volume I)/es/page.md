@@ -1,4 +1,10 @@
 
+---
+title: "Procedimientos de Salida Instrumental (Doc 8168): Omnidireccional, Recta y en Viraje"
+description: "Estudia los tipos de salidas instrumentales del Doc 8168, criterios de inicio de viraje, efecto del viento y principios de abatimiento de ruido."
+---
+# Procedimientos de Salida Instrumental (Doc 8168): Omnidireccional, Recta y en Viraje
+
 Los procedimientos de salida instrumental están diseñados para garantizar la seguridad y separación con obstáculos tras el despegue.
 
 ## Tipos de Salida

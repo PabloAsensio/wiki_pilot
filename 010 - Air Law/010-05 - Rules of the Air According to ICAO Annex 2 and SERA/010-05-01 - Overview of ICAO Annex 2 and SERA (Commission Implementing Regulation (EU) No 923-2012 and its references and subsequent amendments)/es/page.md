@@ -1,4 +1,10 @@
 
+---
+title: "Panorámica de OACI Anexo 2 y SERA: Ámbito, Definiciones y Operación en Aeródromos"
+description: "Comprende la relación entre el Anexo 2 de la OACI y SERA, con su ámbito de aplicación, definiciones clave y reglas operativas en aeródromos."
+---
+# Panorámica de OACI Anexo 2 y SERA: Ámbito, Definiciones y Operación en Aeródromos
+
 El Reglamento de Ejecución (UE) Nº 923/2012 de la Comisión, conocido como **SERA (Standardised European Rules of the Air)**, establece las reglas comunes del aire y las disposiciones operativas relativas a los servicios y procedimientos de navegación aérea.
 
 ## Objetivo y Ámbito de Aplicación

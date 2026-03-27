@@ -1,3 +1,9 @@
+---
+title: "SSR Transponder Procedures: Mode C Operation, Emergency Codes, and ACAS/TCAS"
+description: "Study SSR transponder operating rules, emergency squawk codes, transponder failure handling, and the role of ACAS/TCAS advisories."
+---
+# SSR Transponder Procedures: Mode C Operation, Emergency Codes, and ACAS/TCAS
+
 The transponder (SSR) is vital for identification, altitude reporting, and anti-collision systems.
 
 ## Transponder Operation

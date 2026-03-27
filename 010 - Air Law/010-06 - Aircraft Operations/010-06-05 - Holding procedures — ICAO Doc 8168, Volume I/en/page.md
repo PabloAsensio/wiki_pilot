@@ -1,3 +1,9 @@
+---
+title: "Holding Procedures (Doc 8168): Entry Sectors, Timing, and DME Distance Rules"
+description: "Understand holding pattern entries, outbound timing criteria, and DME-based holding distance logic within protected airspace."
+---
+# Holding Procedures (Doc 8168): Entry Sectors, Timing, and DME Distance Rules
+
 Holding procedures keep the aircraft within a protected airspace while awaiting further clearance.
 
 ## Holding Entries (Sectors)

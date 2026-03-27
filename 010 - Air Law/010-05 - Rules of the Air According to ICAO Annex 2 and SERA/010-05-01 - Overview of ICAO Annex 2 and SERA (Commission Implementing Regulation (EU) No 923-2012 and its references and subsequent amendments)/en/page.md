@@ -1,3 +1,9 @@
+---
+title: "ICAO Annex 2 and SERA Overview: Scope, Definitions, and Aerodrome Operations"
+description: "Understand the relationship between ICAO Annex 2 and SERA, including applicability, core definitions, and operational rules at aerodromes."
+---
+# ICAO Annex 2 and SERA Overview: Scope, Definitions, and Aerodrome Operations
+
 Commission Implementing Regulation (EU) No 923/2012, known as **SERA (Standardised European Rules of the Air)**, establishes common rules of the air and operational provisions regarding services and procedures in air navigation.
 
 ## Objective and Scope

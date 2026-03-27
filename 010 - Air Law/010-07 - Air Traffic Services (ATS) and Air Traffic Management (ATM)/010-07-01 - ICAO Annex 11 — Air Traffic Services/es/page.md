@@ -1,4 +1,17 @@
 
+---
+title: "OACI Anexo 11 de Servicios ATS: Objetivos, Clases de Espacio Aéreo y Estructura"
+description: "Aprende el Anexo 11 OACI de servicios ATS: objetivos, clases de espacio aéreo A-G, estructura FIR/CTA/CTR y organización de servicios de tránsito aéreo."
+keywords:
+    - "anexo 11 oaci"
+    - "oaci anexo 11"
+    - "anexo 11 de la oaci"
+    - "anexo 11"
+    - "anexo 11 oaci resumen"
+    - "servicios ats oaci"
+---
+# OACI Anexo 11 de Servicios ATS: Objetivos, Clases de Espacio Aéreo y Estructura
+
 El Anexo 11 define cómo se establecen y gestionan los espacios aéreos y servicios para garantizar un flujo seguro y ordenado.
 
 ## Objetivos de los Servicios de Tránsito Aéreo (ATS)

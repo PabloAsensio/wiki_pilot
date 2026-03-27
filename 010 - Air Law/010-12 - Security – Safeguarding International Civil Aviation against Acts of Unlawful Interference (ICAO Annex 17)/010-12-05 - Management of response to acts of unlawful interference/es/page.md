@@ -1,3 +1,9 @@
+---
+title: "Gestión de Respuesta ante Interferencia Ilícita: Secuestro y Facultades del Comandante"
+description: "Revisa las obligaciones estatales de respuesta ante secuestro, excepciones de detención en tierra y facultades del comandante según el Convenio de Tokio."
+---
+# Gestión de Respuesta ante Interferencia Ilícita: Secuestro y Facultades del Comandante
+
 ## Respuesta a Secuestros (Unlawful Seizure)
 Cuando una aeronave sujeta a secuestro aterriza en un Estado Contratante:
 

@@ -1,3 +1,9 @@
+---
+title: "ICAO Annex 9 Facilitation: Entry/Departure Documentation and Inadmissible Person Procedures"
+description: "Understand Annex 9 facilitation requirements for aircraft entry and departure, including crew documentation, inadmissible persons, and mishandled baggage processing."
+---
+# ICAO Annex 9 Facilitation: Entry/Departure Documentation and Inadmissible Person Procedures
+
 ## Documentation and Procedures
 **Annex 9 (Facilitation)** establishes standards to expedite the clearance of persons and goods, avoiding unnecessary delays.
 

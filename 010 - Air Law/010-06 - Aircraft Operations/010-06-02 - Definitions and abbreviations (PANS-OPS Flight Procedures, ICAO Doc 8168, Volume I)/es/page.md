@@ -1,4 +1,10 @@
 
+---
+title: "Definiciones y Abreviaturas PANS-OPS: Áreas de Protección, Segmentos y Tolerancias"
+description: "Aprende los conceptos clave del Doc 8168 PANS-OPS: áreas primaria y secundaria, definiciones de maniobra y factores de tolerancia en el diseño."
+---
+# Definiciones y Abreviaturas PANS-OPS: Áreas de Protección, Segmentos y Tolerancias
+
 Este apartado introduce conceptos clave del Documento 8168 de la OACI (PANS-OPS), fundamental para el diseño de procedimientos de vuelo instrumental.
 
 ## Áreas y Márgenes

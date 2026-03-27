@@ -1,3 +1,9 @@
+---
+title: "Chicago Convention (ICAO Doc 7300): Sovereignty, ICAO Structure, and SARPs"
+description: "Study the Chicago Convention core principles, including State sovereignty, ICAO governance, SARPs, and rules of the air over the high seas."
+---
+# Chicago Convention (ICAO Doc 7300): Sovereignty, ICAO Structure, and SARPs
+
 The Convention on International Civil Aviation, also known as the **Chicago Convention**, establishes the foundations for global aviation regulation. Its main objective, defined in **Article 44**, is to develop the principles and techniques of international air navigation and to foster the planning and development of international air transport.
 
 ## Sovereignty and Territory

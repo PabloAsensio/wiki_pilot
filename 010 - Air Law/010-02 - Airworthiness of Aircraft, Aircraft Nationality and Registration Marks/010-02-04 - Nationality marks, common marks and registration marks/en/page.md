@@ -1,3 +1,9 @@
+---
+title: "Aircraft Identification Mark Placement: Annex 7 Wing, Fuselage, and Tail Rules"
+description: "Learn Annex 7 requirements for placing nationality and registration marks on wings, fuselage, and tail surfaces for clear aircraft identification."
+---
+# Aircraft Identification Mark Placement: Annex 7 Wing, Fuselage, and Tail Rules
+
 Annex 7 specifies where identification marks must be placed on heavier-than-air aircraft (aeroplanes, helicopters, etc.) to ensure their visibility.
 
 ## Location on Heavier-than-Air Aircraft
