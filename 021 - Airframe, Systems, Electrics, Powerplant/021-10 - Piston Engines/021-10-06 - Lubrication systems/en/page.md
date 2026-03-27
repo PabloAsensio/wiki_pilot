@@ -1,4 +1,8 @@
-# Lubrication Systems
+---
+title: "Piston Engine Lubrication Systems: Wet-Sump and Dry-Sump"
+description: "Learn piston engine lubrication system fundamentals, including wet-sump and dry-sump architecture, oil properties, and pressure regulation."
+---
+# Piston Engine Lubrication Systems: Wet-Sump and Dry-Sump
 
 The main purpose of lubrication in piston engines is to **reduce friction** between moving surfaces and **dissipate heat**. Oil also serves to clean the engine interior, accumulating deposits for removal via filters. Piston engines are highly dependent on lubrication; failure can lead to rapid overheating, damage, or fire.
 

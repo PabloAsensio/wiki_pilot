@@ -1,4 +1,9 @@
-**Introducción**
+---
+title: "Sistemas de Tren de Aterrizaje: Operación, Bloqueo y Extensión de Emergencia"
+description: "Operación hidráulica del tren, lógica de bloqueo, secuencia de extensión de emergencia y limitaciones de velocidad para operación segura de la aeronave."
+---
+
+# Sistemas de Tren de Aterrizaje: Operación, Bloqueo y Extensión de Emergencia
 
 El sistema del tren de aterrizaje soporta la aeronave durante el rodaje, despegue y aterrizaje. Es un sistema complejo que implica mecanismos de retracción, dispositivos de bloqueo y capacidades de extensión de emergencia. Comprender su funcionamiento y limitaciones es crucial para un vuelo seguro.
 

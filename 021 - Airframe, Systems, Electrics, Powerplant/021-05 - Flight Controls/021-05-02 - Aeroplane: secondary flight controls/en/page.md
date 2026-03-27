@@ -1,4 +1,10 @@
-**Introduction**
+---
+title: "Aircraft Secondary Flight Controls: Flaps, Slats, and Trim Systems"
+description: "Secondary control operation, flap load-relief and asymmetry protection logic, and trim architecture including runaway safeguards."
+---
+
+# Aircraft Secondary Flight Controls: Flaps, Slats, and Trim Systems
+
 Secondary flight controls include high-lift devices (flaps and slats) and trim systems. These devices allow the aircraft to change its aerodynamic configuration for different phases of flight, such as takeoff, landing, and efficient cruising.
 
 ## Flaps and Slats

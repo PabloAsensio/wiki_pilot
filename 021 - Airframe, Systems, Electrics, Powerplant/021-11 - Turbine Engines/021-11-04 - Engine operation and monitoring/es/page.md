@@ -1,4 +1,8 @@
-# Operación y Monitorización del Motor
+---
+title: "Operación y Monitorización del Motor de Turbina: Parámetros, Lógica de Ralentí y Anomalías de Arranque"
+description: "Estudia la operación y monitorización de motores de turbina: parámetros clave, lógica de ralentí y diagnóstico de anomalías de arranque."
+---
+# Operación y Monitorización del Motor de Turbina: Parámetros, Lógica de Ralentí y Anomalías de Arranque
 
 ## Control y Monitorización del Motor
 

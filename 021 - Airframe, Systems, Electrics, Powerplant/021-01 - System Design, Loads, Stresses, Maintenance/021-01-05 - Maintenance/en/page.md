@@ -1,4 +1,9 @@
-**Introduction**
+---
+title: "Aircraft Maintenance Philosophies: Hard-Time and On-Condition"
+description: "Maintenance trigger logic, component life limits, predictive inspections, and return-to-service criteria in aircraft maintenance programs."
+---
+
+# Aircraft Maintenance Philosophies: Hard-Time and On-Condition
 
 Aircraft maintenance is a critical process to ensure the continued airworthiness and safety of an aircraft. Maintenance programs are structured around specific philosophies that dictate when and how components should be inspected, repaired, or replaced. The two primary types of maintenance processes are **Hard-Time Maintenance** and **On-Condition Maintenance**.
 

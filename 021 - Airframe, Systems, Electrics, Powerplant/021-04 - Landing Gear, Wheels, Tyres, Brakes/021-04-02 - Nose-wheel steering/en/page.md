@@ -1,4 +1,10 @@
-**Introduction**
+---
+title: "Aircraft Nose-Wheel and Main-Wheel Steering Systems"
+description: "Ground steering principles, tiller and rudder-pedal authority, and body steering logic to reduce tyre scrubbing and landing gear loads."
+---
+
+# Aircraft Nose-Wheel and Main-Wheel Steering Systems
+
 Steering on the ground is primarily achieved through the nose wheel, but larger aircraft may also employ main-wheel steering. The system is typically hydraulically powered and controlled via a tiller or rudder pedals.
 
 ## Main-Wheel (Body) Steering

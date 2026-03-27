@@ -1,4 +1,10 @@
-**Introducción**
+---
+title: "Sistemas de Dirección de Rueda de Morro y Ruedas Principales"
+description: "Principios de dirección en tierra, autoridad del tiller y pedales, y lógica de body steering para reducir desgaste de neumáticos y cargas del tren."
+---
+
+# Sistemas de Dirección de Rueda de Morro y Ruedas Principales
+
 La dirección en tierra se logra principalmente a través de la rueda de morro, pero las aeronaves más grandes también pueden emplear la dirección de las ruedas principales. El sistema suele ser impulsado hidráulicamente y controlado a través de un "tiller" (volante de dirección) o los pedales del timón.
 
 ## Dirección de Rueda Principal (Cuerpo)

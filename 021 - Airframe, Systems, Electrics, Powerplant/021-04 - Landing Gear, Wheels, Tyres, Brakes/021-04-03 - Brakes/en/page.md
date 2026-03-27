@@ -1,4 +1,10 @@
-**Introduction**
+---
+title: "Aircraft Brake Systems: Auto-Brake, RTO, and Anti-Skid Logic"
+description: "Auto-brake landing and RTO modes, anti-skid interaction, disarm conditions, and braking performance implications on different runway states."
+---
+
+# Aircraft Brake Systems: Auto-Brake, RTO, and Anti-Skid Logic
+
 The brake system provides the means to stop the aircraft during landing and rejected take-off (RTO). Modern aircraft employ advanced systems like Anti-Skid and Auto-Brake to optimize braking performance and safety.
 
 ## Auto-Brake System Operation

@@ -1,4 +1,8 @@
-# Sistemas de Protección contra Incendios
+---
+title: "Sistemas de Protección contra Incendios en Aeronaves: Detección, Extinción y Procedimientos"
+description: "Comprende los sistemas de protección contra incendios en aeronaves: tecnologías de detección, lógica de extinción y procedimientos operacionales."
+---
+# Sistemas de Protección contra Incendios en Aeronaves: Detección, Extinción y Procedimientos
 
 ## Sistemas de Detección de Fuego
 Los compartimentos de motor y APU usan **detección térmica/calor** (no humo debido al alto flujo de aire).

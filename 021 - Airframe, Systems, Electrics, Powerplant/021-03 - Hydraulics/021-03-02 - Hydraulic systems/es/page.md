@@ -1,4 +1,9 @@
-**Introducción**
+---
+title: "Sistemas Hidráulicos en Aeronaves: Fluidos, Bombas, Válvulas y Monitorización"
+description: "Tipos de fluido hidráulico, arquitecturas de bombas, función de acumuladores y depósitos, lógica de válvulas y monitorización de presión en aeronaves modernas."
+---
+
+# Sistemas Hidráulicos en Aeronaves: Fluidos, Bombas, Válvulas y Monitorización
 
 Los sistemas hidráulicos en aeronaves modernas son redes complejas diseñadas para transmitir fuerzas altas de manera confiable. Esta sección detalla los fluidos, componentes y principios operativos que aseguran que estos sistemas funcionen correctamente bajo todas las condiciones de vuelo.
 

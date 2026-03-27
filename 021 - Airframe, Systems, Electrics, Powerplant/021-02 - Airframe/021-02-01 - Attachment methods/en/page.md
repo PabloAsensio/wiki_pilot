@@ -1,4 +1,9 @@
-**Introduction**
+---
+title: "Aircraft Structural Attachment Methods: Bonding and Riveting"
+description: "Bonding and riveting fundamentals, typical defects, and inspection cues to assess attachment integrity in aircraft structures."
+---
+
+# Aircraft Structural Attachment Methods: Bonding and Riveting
 
 Aircraft structures are assembled using various attachment methods to join components securely. The integrity of these attachments is vital for airworthiness. Two common methods discussed are bonding and riveting.
 

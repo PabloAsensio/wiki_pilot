@@ -1,4 +1,8 @@
-# Engine Operation and Monitoring
+---
+title: "Gas Turbine Engine Operation and Monitoring: Parameters, Idle Logic, and Start Anomalies"
+description: "Study gas turbine operation and monitoring, including key engine parameters, idle regime logic, and troubleshooting of start anomalies."
+---
+# Gas Turbine Engine Operation and Monitoring: Parameters, Idle Logic, and Start Anomalies
 
 ## Engine Control & Monitoring
 

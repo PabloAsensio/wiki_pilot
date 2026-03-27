@@ -1,4 +1,8 @@
-# Sistemas de Oxígeno: Cabina, Portátil y Químico
+---
+title: "Sistemas de Oxígeno en Aeronaves: Tripulación, Pasajeros y Equipos de Protección"
+description: "Aprende la arquitectura de los sistemas de oxígeno en aeronaves: sistema gaseoso de tripulación, generadores químicos de pasajeros y equipos protectores."
+---
+# Sistemas de Oxígeno en Aeronaves: Tripulación, Pasajeros y Equipos de Protección
 
 ## Arquitectura General
 Los aviones de transporte modernos típicamente emplean **dos sistemas de oxígeno independientes**:

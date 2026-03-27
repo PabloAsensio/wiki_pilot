@@ -1,4 +1,9 @@
-**Introducción**
+---
+title: "Limitaciones Estructurales en Aeronaves: MZFM, Factores de Carga y Ciclos de Fatiga"
+description: "Lógica de MZFM, protección por factor de carga límite, gestión de vida por ciclos de fatiga y penalización de rendimiento en lluvia intensa."
+---
+
+# Limitaciones Estructurales en Aeronaves: MZFM, Factores de Carga y Ciclos de Fatiga
 
 Las estructuras de las aeronaves tienen limitaciones operativas definidas para garantizar la seguridad y la longevidad. Estos límites están determinados por criterios de diseño, como pesos máximos, factores de carga y condiciones ambientales. Comprender estas limitaciones es crucial para prevenir daños y fallos estructurales.
 

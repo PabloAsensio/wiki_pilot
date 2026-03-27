@@ -1,4 +1,9 @@
-**Introducción**
+---
+title: "Fatiga y Corrosión en Aeronaves: Causas, Detección y Prevención"
+description: "Mecanismos de corrosión, factores ambientales, corrosión bajo tensión, ciclos de fatiga y acciones preventivas para mantener la aeronavegabilidad."
+---
+
+# Fatiga y Corrosión en Aeronaves: Causas, Detección y Prevención
 
 Las estructuras de las aeronaves están continuamente expuestas a factores ambientales y tensiones operativas que pueden llevar a la degradación con el tiempo. Dos formas principales de degradación son la corrosión, un deterioro químico de los materiales, y la fatiga, un debilitamiento causado por cargas repetidas. Comprender las causas, indicios y prevención de estos fenómenos es esencial para mantener la aeronavegabilidad.
 

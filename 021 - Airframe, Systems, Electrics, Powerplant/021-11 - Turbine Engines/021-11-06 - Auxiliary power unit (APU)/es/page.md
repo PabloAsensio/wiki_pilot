@@ -1,4 +1,8 @@
-# Unidad de Potencia Auxiliar (APU)
+---
+title: "Unidad de Potencia Auxiliar (APU): Funciones, Control y Protecciones"
+description: "Aprende los fundamentos del APU: salidas eléctrica y neumática, secuencia de arranque, controles en cabina y protecciones de apagado automático."
+---
+# Unidad de Potencia Auxiliar (APU): Funciones, Control y Protecciones
 
 ## Propósito y Función
 El APU es un pequeño motor de turbina de gas autónomo, típicamente ubicado en el cono de cola de la aeronave.

@@ -1,4 +1,10 @@
-**Introducción**
+---
+title: "Sistemas de Aviso de Hielo y Tecnologías de Detección"
+description: "Métodos de detección de hielo por sonda vibratoria, presión diferencial y observación visual, con lógica de sistemas consultivos y primarios."
+---
+
+# Sistemas de Aviso de Hielo y Tecnologías de Detección
+
 Los sistemas de advertencia de hielo proporcionan a las tripulaciones de vuelo alertas oportunas sobre la acumulación de hielo en la aeronave. Estos pueden variar desde simples señales visuales hasta sofisticados sistemas de detección automática.
 
 ## Tipos de Detectores

@@ -1,4 +1,8 @@
-# Ignition Circuits: Magnetos
+---
+title: "Piston Engine Ignition Circuits: Magnetos and Impulse Coupling"
+description: "Study magneto ignition circuit operation, impulse coupling during start, and grounding logic for safe piston engine handling."
+---
+# Piston Engine Ignition Circuits: Magnetos and Impulse Coupling
 
 A **magneto** is a self-contained, engine-driven electrical generator designed to supply high voltage to the spark plugs. It does not require an external battery to operate, making it a reliable, independent ignition source for aircraft engines.
 

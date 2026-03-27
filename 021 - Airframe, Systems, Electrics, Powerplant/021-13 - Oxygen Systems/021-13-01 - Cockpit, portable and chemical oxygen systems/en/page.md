@@ -1,4 +1,8 @@
-# Cockpit, Portable and Chemical Oxygen Systems
+---
+title: "Aircraft Oxygen Systems: Flight Crew, Passenger, and Protective Equipment"
+description: "Learn aircraft oxygen system architecture, including crew gaseous systems, passenger chemical generators, and protective breathing equipment."
+---
+# Aircraft Oxygen Systems: Flight Crew, Passenger, and Protective Equipment
 
 ## General Architecture
 Modern transport aircraft typically employ **two independent oxygen systems**:

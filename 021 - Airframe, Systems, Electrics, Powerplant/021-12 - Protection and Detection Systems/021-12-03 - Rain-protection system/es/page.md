@@ -1,4 +1,8 @@
-# Sistemas de Protección contra la Lluvia
+---
+title: "Sistemas de Protección contra la Lluvia en Aeronaves: Limpiaparabrisas, Repelentes y Recubrimientos"
+description: "Revisa las soluciones de protección contra la lluvia en aeronaves: limpiaparabrisas, repelentes químicos y recubrimientos hidrofóbicos para mantener visibilidad."
+---
+# Sistemas de Protección contra la Lluvia en Aeronaves: Limpiaparabrisas, Repelentes y Recubrimientos
 
 ## Resumen
 Los sistemas de protección contra la lluvia son críticos para mantener la visibilidad del piloto durante el rodaje, despegue, aproximación y aterrizaje en condiciones húmedas.

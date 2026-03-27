@@ -1,4 +1,8 @@
-# Performance Aspects
+---
+title: "Gas Turbine Performance Aspects: Flat Rating, Flex Temperature, and EPR"
+description: "Explore gas turbine performance concepts such as flat-rated thrust behavior, reduced-thrust takeoff with flex temperature, and EPR indication."
+---
+# Gas Turbine Performance Aspects: Flat Rating, Flex Temperature, and EPR
 
 ## Thrust and Pressure
 *   **Air Acceleration**: As the engine accelerates the air, **dynamic pressure increases** and static pressure decreases (Bernoulli's principle).

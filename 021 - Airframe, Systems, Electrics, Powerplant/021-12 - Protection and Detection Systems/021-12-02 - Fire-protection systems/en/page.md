@@ -1,4 +1,8 @@
-# Fire Protection Systems
+---
+title: "Aircraft Fire Protection Systems: Detection, Extinguishing, and Procedures"
+description: "Understand aircraft fire protection systems, including detection loop technologies, extinguishing logic, and standard operational procedures."
+---
+# Aircraft Fire Protection Systems: Detection, Extinguishing, and Procedures
 
 ## Fire Detection Systems
 Engine and APU compartments use **thermal/heat detection** (not smoke detection due to high airflow).

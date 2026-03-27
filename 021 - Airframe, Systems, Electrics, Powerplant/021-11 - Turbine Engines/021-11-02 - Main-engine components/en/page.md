@@ -1,4 +1,8 @@
-# Main Engine Components
+---
+title: "Gas Turbine Main Engine Components: Compressor, Combustor, Turbine, and Exhaust"
+description: "Review gas turbine main engine components, including compressor behavior, combustion chamber operation, turbine energy extraction, and exhaust flow."
+---
+# Gas Turbine Main Engine Components: Compressor, Combustor, Turbine, and Exhaust
 
 The core components of a gas turbine engine are designed to process air through the Brayton cycle: Intake, Compression, Combustion, Expansion (Turbine), and Exhaust.
 

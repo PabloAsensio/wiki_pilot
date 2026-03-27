@@ -1,4 +1,10 @@
-**Introduction**
+---
+title: "Fly-by-Wire Flight Control Laws: Normal, Alternate, and Direct Modes"
+description: "FBW control-law behavior, degradation paths after failures, envelope-protection loss, and trim/autopilot implications across operating modes."
+---
+
+# Fly-by-Wire Flight Control Laws: Normal, Alternate, and Direct Modes
+
 Fly-by-wire (FBW) systems replace conventional manual flight controls with an electronic interface. Pilot inputs are converted into electronic signals, processed by flight control computers, and then sent to actuators that move the control surfaces. These systems operate under different "laws" or "modes" depending on the system's health and available data.
 
 ## Control Laws and Degradation

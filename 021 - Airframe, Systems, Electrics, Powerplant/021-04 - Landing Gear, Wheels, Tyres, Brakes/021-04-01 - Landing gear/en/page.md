@@ -1,4 +1,9 @@
-**Introduction**
+---
+title: "Aircraft Landing Gear Systems: Operation, Locking, and Emergency Extension"
+description: "Hydraulic landing gear operation, lock logic, emergency extension sequencing, and speed limitations for safe aircraft handling."
+---
+
+# Aircraft Landing Gear Systems: Operation, Locking, and Emergency Extension
 
 The landing gear system supports the aircraft during taxi, takeoff, and landing. It is a complex system involving retraction mechanisms, locking devices, and emergency extension capabilities. Understanding its operation and limitations is crucial for safe flight.
 

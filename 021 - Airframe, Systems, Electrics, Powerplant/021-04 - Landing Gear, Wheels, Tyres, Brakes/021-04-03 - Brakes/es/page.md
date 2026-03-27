@@ -1,4 +1,10 @@
-**Introducción**
+---
+title: "Sistemas de Frenado en Aeronaves: Auto-Brake, RTO y Lógica Anti-Skid"
+description: "Modos de auto-brake en aterrizaje y RTO, interacción con anti-skid, condiciones de desarmado e impacto en rendimiento de frenado según pista."
+---
+
+# Sistemas de Frenado en Aeronaves: Auto-Brake, RTO y Lógica Anti-Skid
+
 El sistema de frenos proporciona los medios para detener la aeronave durante el aterrizaje y un despegue abortado (RTO). Las aeronaves modernas emplean sistemas avanzados como Anti-Skid y Auto-Brake para optimizar el rendimiento de frenado y la seguridad.
 
 ## Operación del Sistema Auto-Brake

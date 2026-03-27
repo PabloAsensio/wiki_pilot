@@ -1,4 +1,8 @@
-# Additional Components and Systems
+---
+title: "Gas Turbine Additional Systems: Accessory Gearbox, Ignition, Starting, and FADEC"
+description: "Understand gas turbine accessory systems, including gearbox-driven components, ignition architecture, starting methods, and FADEC redundancy."
+---
+# Gas Turbine Additional Systems: Accessory Gearbox, Ignition, Starting, and FADEC
 
 ## Accessory Gearbox
 The accessory gearbox drives essential engine and aircraft systems.

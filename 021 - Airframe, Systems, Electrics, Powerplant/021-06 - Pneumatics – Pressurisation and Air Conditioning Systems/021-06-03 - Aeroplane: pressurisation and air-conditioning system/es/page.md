@@ -1,4 +1,10 @@
-**Introducción**
+---
+title: "Fundamentos de Presurización y Aire Acondicionado en Aeronaves"
+description: "Funcionamiento de la máquina de ciclo de aire, control de presurización por válvulas de salida, lógica de alivio de seguridad e indicaciones de cabina."
+---
+
+# Fundamentos de Presurización y Aire Acondicionado en Aeronaves
+
 Los sistemas de presurización y aire acondicionado mantienen un ambiente cómodo y seguro para los pasajeros y la tripulación. Esto implica regular la presión y la temperatura de la cabina utilizando aire suministrado por los motores o la APU.
 
 ## Aire Acondicionado (Máquina de Ciclo de Aire)

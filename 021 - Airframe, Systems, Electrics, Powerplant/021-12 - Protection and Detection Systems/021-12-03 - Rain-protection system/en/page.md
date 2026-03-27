@@ -1,4 +1,8 @@
-# Rain Protection Systems
+---
+title: "Aircraft Rain Protection Systems: Wipers, Repellents, and Hydrophobic Coatings"
+description: "Review aircraft rain protection solutions, including windshield wipers, chemical repellents, and hydrophobic seal coatings for pilot visibility."
+---
+# Aircraft Rain Protection Systems: Wipers, Repellents, and Hydrophobic Coatings
 
 ## Overview
 Rain protection systems are critical for maintaining pilot visibility during taxi, takeoff, approach, and landing in wet conditions.

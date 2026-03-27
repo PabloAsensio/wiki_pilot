@@ -1,4 +1,10 @@
-**Introduction**
+---
+title: "Aircraft Pressurization and Air Conditioning System Fundamentals"
+description: "Air cycle machine operation, outflow-valve pressurization control, safety-relief logic, and cockpit indications for cabin pressure management."
+---
+
+# Aircraft Pressurization and Air Conditioning System Fundamentals
+
 The pressurization and air conditioning systems maintain a comfortable and safe environment for passengers and crew. This involves regulating cabin pressure and temperature using air supplied by the engines or APU.
 
 ## Air Conditioning (Air Cycle Machine)

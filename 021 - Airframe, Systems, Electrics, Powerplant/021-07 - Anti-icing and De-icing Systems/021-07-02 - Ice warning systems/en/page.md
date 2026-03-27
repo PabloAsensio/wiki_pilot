@@ -1,4 +1,10 @@
-**Introduction**
+---
+title: "Aircraft Ice Warning Systems and Detection Technologies"
+description: "Vibrating probe, differential-pressure, and visual ice detection methods, plus advisory versus primary warning system logic."
+---
+
+# Aircraft Ice Warning Systems and Detection Technologies
+
 Ice warning systems provide flight crews with timely alerts regarding ice accretion on the aircraft. These can range from simple visual cues to sophisticated automatic detection systems.
 
 ## Types of Detectors

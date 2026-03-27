@@ -1,4 +1,8 @@
-# Aeroplane: Propellers
+---
+title: "Aircraft Propellers: Constant Speed, Feathering, and Critical Engine"
+description: "Understand aircraft propeller systems, including constant speed control, feathering procedures, and critical engine effects in multi-engine aircraft."
+---
+# Aircraft Propellers: Constant Speed, Feathering, and Critical Engine
 
 The propeller converts engine brake horsepower into thrust.
 

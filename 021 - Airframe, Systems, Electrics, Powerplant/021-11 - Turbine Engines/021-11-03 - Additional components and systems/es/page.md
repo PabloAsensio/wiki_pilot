@@ -1,4 +1,8 @@
-# Componentes y Sistemas Adicionales
+---
+title: "Sistemas Adicionales en Turbinas de Gas: Caja de Accesorios, Encendido, Arranque y FADEC"
+description: "Comprende los sistemas adicionales de turbina de gas: caja de accesorios, arquitectura de encendido, métodos de arranque y redundancia FADEC."
+---
+# Sistemas Adicionales en Turbinas de Gas: Caja de Accesorios, Encendido, Arranque y FADEC
 
 ## Caja de Accesorios (Accessory Gearbox)
 La caja de accesorios acciona sistemas esenciales del motor y del avión.

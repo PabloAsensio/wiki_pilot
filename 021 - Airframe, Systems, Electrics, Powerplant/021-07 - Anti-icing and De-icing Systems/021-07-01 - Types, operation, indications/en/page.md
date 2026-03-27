@@ -1,4 +1,10 @@
-**Introduction**
+---
+title: "Aircraft Anti-Icing and De-Icing Systems: Types and Operation"
+description: "Thermal and pneumatic ice-protection methods, protected zones, and operational differences between anti-ice prevention and de-ice removal."
+---
+
+# Aircraft Anti-Icing and De-Icing Systems: Types and Operation
+
 Ice control systems are critical for flight safety in icing conditions. They are categorized into **anti-icing** (preventing ice formation) and **de-icing** (removing ice after accumulation).
 
 ## Thermal Systems

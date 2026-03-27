@@ -1,4 +1,10 @@
-**Introducción**
+---
+title: "Controles Secundarios de Vuelo: Flaps, Slats y Sistemas de Trim"
+description: "Operación de controles secundarios, lógica de alivio de carga y protección de asimetría en flaps, y arquitectura de trim con salvaguardas de runaway."
+---
+
+# Controles Secundarios de Vuelo: Flaps, Slats y Sistemas de Trim
+
 Los controles de vuelo secundarios incluyen dispositivos hipersustentadores (flaps y slats) y sistemas de compensación (trim). Estos dispositivos permiten a la aeronave cambiar su configuración aerodinámica para diferentes fases del vuelo, como el despegue, el aterrizaje y el crucero eficiente.
 
 ## Flaps y Slats

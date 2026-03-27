@@ -1,4 +1,10 @@
-**Introducción**
+---
+title: "Ruedas y Neumáticos de Aeronaves: Inspección, Desgaste y Protección Térmica"
+description: "Patrones de desgaste, criterios de rechazo en inspección pre-vuelo, riesgos de contaminación y protección térmica mediante tapones fusibles."
+---
+
+# Ruedas y Neumáticos de Aeronaves: Inspección, Desgaste y Protección Térmica
+
 Los neumáticos de las aeronaves son componentes críticos diseñados para soportar cargas de corta duración y alta velocidad durante el despegue y el aterrizaje. El mantenimiento adecuado y las inspecciones previas al vuelo son esenciales para evitar fallas como reventones o "blow-outs".
 
 ## Características y Desgaste de los Neumáticos

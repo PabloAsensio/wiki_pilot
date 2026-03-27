@@ -1,4 +1,9 @@
-**Introducción**
+---
+title: "Métodos de Unión Estructural en Aeronaves: Pegado y Remachado"
+description: "Fundamentos de bonding y remachado, defectos típicos e indicios de inspección para evaluar la integridad de uniones estructurales en aeronaves."
+---
+
+# Métodos de Unión Estructural en Aeronaves: Pegado y Remachado
 
 Las estructuras de las aeronaves se ensamblan utilizando varios métodos de fijación para unir componentes de forma segura. La integridad de estas fijaciones es vital para la aeronavegabilidad. Dos métodos comunes discutidos son el pegado (bonding) y el remachado.
 

@@ -1,4 +1,9 @@
-**Introduction**
+---
+title: "Aircraft Hydromechanics Fundamentals: Pressure, Force, and Actuation"
+description: "Core hydromechanics principles, hydraulic force multiplication, and key system consumers such as flight controls and landing gear actuators."
+---
+
+# Aircraft Hydromechanics Fundamentals: Pressure, Force, and Actuation
 
 Hydraulic systems are the "muscle" of modern aircraft, critical for operating heavy machinery and flight controls. By using fluid under pressure to transmit force, these systems allow pilots to move large components with precision and reliability, even under high aerodynamic loads.
 

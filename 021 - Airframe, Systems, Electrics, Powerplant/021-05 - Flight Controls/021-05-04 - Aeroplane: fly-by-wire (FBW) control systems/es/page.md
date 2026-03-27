@@ -1,4 +1,10 @@
-**Introducción**
+---
+title: "Leyes de Control Fly-by-Wire: Modo Normal, Alterno y Directo"
+description: "Comportamiento de leyes FBW, rutas de degradación ante fallos, pérdida de protecciones de envolvente e implicaciones en trim y piloto automático."
+---
+
+# Leyes de Control Fly-by-Wire: Modo Normal, Alterno y Directo
+
 Los sistemas fly-by-wire (FBW) reemplazan los controles de vuelo manuales convencionales con una interfaz electrónica. Las entradas del piloto se convierten en señales electrónicas, se procesan por computadoras de control de vuelo y luego se envían a los actuadores que mueven las superficies de control. Estos sistemas operan bajo diferentes "leyes" o "modos" dependiendo de la salud del sistema y los datos disponibles.
 
 ## Leyes de Control y Degradación

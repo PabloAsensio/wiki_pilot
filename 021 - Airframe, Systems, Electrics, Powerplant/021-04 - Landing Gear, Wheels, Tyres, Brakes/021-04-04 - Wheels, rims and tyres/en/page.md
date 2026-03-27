@@ -1,4 +1,10 @@
-**Introduction**
+---
+title: "Aircraft Wheels and Tyres: Inspection, Wear, and Thermal Protection"
+description: "Tyre wear patterns, pre-flight rejection criteria, contamination risks, and fusible-plug thermal protection in aircraft wheel assemblies."
+---
+
+# Aircraft Wheels and Tyres: Inspection, Wear, and Thermal Protection
+
 Aircraft tyres are critical components designed to withstand short-duration, high-speed loads during take-off and landing. Proper maintenance and pre-flight inspections are essential to prevent failures such as bursts or blow-outs.
 
 ## Tyre Characteristics and Wear

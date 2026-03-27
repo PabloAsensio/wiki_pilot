@@ -1,4 +1,10 @@
-**Introducción**
+---
+title: "Sistemas Antihielo y de Deshielo en Aeronaves: Tipos y Operación"
+description: "Métodos térmicos y neumáticos de protección contra hielo, zonas protegidas y diferencias operativas entre prevención antihielo y eliminación por deshielo."
+---
+
+# Sistemas Antihielo y de Deshielo en Aeronaves: Tipos y Operación
+
 Los sistemas de control de hielo son críticos para la seguridad del vuelo en condiciones de formación de hielo. Se clasifican en **antihielo** (previenen la formación de hielo) y **deshielo** (eliminan el hielo después de su acumulación).
 
 ## Sistemas Térmicos

@@ -1,4 +1,9 @@
-**Introduction**
+---
+title: "Aircraft Material Selection: Composites, Metal Alloys, and Corrosion"
+description: "Material selection criteria, composite and alloy trade-offs, and corrosion-focused maintenance actions for aircraft structures."
+---
+
+# Aircraft Material Selection: Composites, Metal Alloys, and Corrosion
 
 The selection of materials for aircraft construction is a critical decision that balances various properties such as strength, weight, cost, and resistance to environmental factors. While traditional metal alloys remain dominant, composite materials are increasingly used for their superior performance characteristics.
 

@@ -1,4 +1,8 @@
-# Sistemas de Lubricación
+---
+title: "Sistemas de Lubricación en Motores de Pistón: Cárter Húmedo y Seco"
+description: "Aprende los fundamentos de la lubricación en motores de pistón: sistemas de cárter húmedo y seco, propiedades del aceite y regulación de presión."
+---
+# Sistemas de Lubricación en Motores de Pistón: Cárter Húmedo y Seco
 
 El propósito principal de la lubricación en los motores de pistón es **reducir la fricción** entre las superficies móviles y **disipar el calor**. El aceite también sirve para limpiar el interior del motor, acumulando depósitos que son eliminados por los filtros. Los motores de pistón dependen en gran medida de la lubricación; un fallo puede provocar rápidamente sobrecalentamiento, daños o incendio.
 

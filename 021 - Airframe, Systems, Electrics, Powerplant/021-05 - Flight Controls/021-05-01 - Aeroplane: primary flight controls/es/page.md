@@ -1,4 +1,10 @@
-**Introducción**
+---
+title: "Controles Primarios de Vuelo: Sistemas Reversibles e Irreversibles"
+description: "Arquitecturas de control primario, lógica de tacto artificial, diferencias de trim, consideraciones de gust lock y principios de redundancia."
+---
+
+# Controles Primarios de Vuelo: Sistemas Reversibles e Irreversibles
+
 Los controles de vuelo primarios (elevador, alerones y timón) son responsables de controlar la rotación de la aeronave sobre sus tres ejes. Dependiendo del tamaño y velocidad de la aeronave, estos controles pueden ser operados manualmente, asistidos por potencia o completamente motorizados.
 
 ## Tipos de Sistemas de Control

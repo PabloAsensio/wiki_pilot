@@ -1,4 +1,10 @@
-**Introducción**
+---
+title: "Sistemas Neumáticos de Suministro de Aire de Purga"
+description: "Lógica de extracción de bleed air, monitorización de presión, principales consumidores neumáticos y diferencias de aplicación entre aeronaves de turbina y pistón."
+---
+
+# Sistemas Neumáticos de Suministro de Aire de Purga
+
 El sistema neumático suministra aire presurizado para varias funciones de la aeronave. En aeronaves de turbina, esto es principalmente "aire de purga" (bleed air) extraído de los motores.
 
 ## Sistema de Aire de Purga (Bleed Air)

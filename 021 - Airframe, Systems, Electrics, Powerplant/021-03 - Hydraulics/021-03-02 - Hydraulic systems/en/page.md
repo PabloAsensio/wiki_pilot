@@ -1,4 +1,9 @@
-**Introduction**
+---
+title: "Aircraft Hydraulic Systems: Fluids, Pumps, Valves, and Monitoring"
+description: "Hydraulic fluid types, pump architectures, accumulator and reservoir functions, valve logic, and pressure monitoring in modern aircraft systems."
+---
+
+# Aircraft Hydraulic Systems: Fluids, Pumps, Valves, and Monitoring
 
 Hydraulic systems in modern aircraft are complex networks designed to transmit high forces reliably. This section details the fluids, components, and operational principles that ensure these systems function correctly under all flight conditions.
 

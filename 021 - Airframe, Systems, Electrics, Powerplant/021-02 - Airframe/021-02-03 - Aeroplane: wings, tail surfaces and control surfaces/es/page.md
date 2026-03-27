@@ -1,4 +1,9 @@
-**Introducción**
+---
+title: "Diseño Estructural de Alas, Cola y Superficies de Control"
+description: "Arquitectura estructural de alas y cola, caminos de carga, estrategias de alivio de tensiones y prevención de flutter en superficies de control."
+---
+
+# Diseño Estructural de Alas, Cola y Superficies de Control
 
 El diseño estructural de las alas, superficies de cola y superficies de control de los aviones es crítico para el rendimiento, la estabilidad y la seguridad. Estos componentes deben soportar fuerzas aerodinámicas e inerciales significativas mientras minimizan el peso y previenen fenómenos peligrosos como el flameo (flutter).
 

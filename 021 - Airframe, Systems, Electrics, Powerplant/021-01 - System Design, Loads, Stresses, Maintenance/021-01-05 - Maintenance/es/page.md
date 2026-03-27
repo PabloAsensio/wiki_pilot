@@ -1,4 +1,9 @@
-**Introducción**
+---
+title: "Filosofías de Mantenimiento Aeronáutico: Hard-Time y On-Condition"
+description: "Lógica de activación de mantenimiento, límites de vida de componentes, inspección predictiva y criterios de retorno al servicio en programas de mantenimiento."
+---
+
+# Filosofías de Mantenimiento Aeronáutico: Hard-Time y On-Condition
 
 El mantenimiento de aeronaves es un proceso crítico para garantizar la aeronavegabilidad continua y la seguridad de una aeronave. Los programas de mantenimiento se estructuran en torno a filosofías específicas que dictan cuándo y cómo deben inspeccionarse, repararse o reemplazarse los componentes. Los dos tipos principales de procesos de mantenimiento son el **Mantenimiento por Tiempo Límite (Hard-Time)** y el **Mantenimiento por Estado (On-Condition)**.
 

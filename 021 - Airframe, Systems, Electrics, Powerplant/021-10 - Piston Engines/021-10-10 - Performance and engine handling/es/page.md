@@ -1,4 +1,8 @@
-# Rendimiento y Manejo del Motor
+---
+title: "Rendimiento y Manejo del Motor de Pistón: MAP, Turbocompresión y FADEC"
+description: "Aprende los factores clave de rendimiento en motores de pistón, la turbocompresión, las funciones FADEC y el manejo operativo en ascenso y crucero."
+---
+# Rendimiento y Manejo del Motor de Pistón: MAP, Turbocompresión y FADEC
 
 ## Factores de Rendimiento del Motor
 

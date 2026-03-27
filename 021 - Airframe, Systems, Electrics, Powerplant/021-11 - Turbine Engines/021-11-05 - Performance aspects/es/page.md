@@ -1,4 +1,8 @@
-# Aspectos de Rendimiento
+---
+title: "Aspectos de Rendimiento en Turbinas de Gas: Flat Rating, Temperatura Flex y EPR"
+description: "Explora conceptos de rendimiento en turbinas de gas: comportamiento flat-rated, despegue con empuje reducido por temperatura flex e indicación EPR."
+---
+# Aspectos de Rendimiento en Turbinas de Gas: Flat Rating, Temperatura Flex y EPR
 
 ## Empuje y Presión
 *   **Aceleración del Aire**: A medida que el motor acelera el aire, la **presión dinámica aumenta** y la presión estática disminuye (principio de Bernoulli).

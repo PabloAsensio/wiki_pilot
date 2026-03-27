@@ -1,4 +1,9 @@
-**Introduction**
+---
+title: "Aircraft Structural Limitations: MZFM, Load Factors, and Fatigue Cycles"
+description: "MZFM logic, limit load factor protection, fatigue-cycle life management, and heavy-rain performance penalties in aircraft operations."
+---
+
+# Aircraft Structural Limitations: MZFM, Load Factors, and Fatigue Cycles
 
 Aircraft structures have defined operational limitations to ensure safety and longevity. These limits are determined by design criteria, such as maximum weights, load factors, and environmental conditions. Understanding these limitations is crucial for preventing structural damage and failure.
 

@@ -1,4 +1,8 @@
-# Avión: Hélices (Propellers)
+---
+title: "Hélices de Aeronave: Velocidad Constante, Abanderamiento y Motor Crítico"
+description: "Comprende los sistemas de hélice en aeronaves: control de velocidad constante, procedimientos de abanderamiento y efectos del motor crítico en multimotor."
+---
+# Hélices de Aeronave: Velocidad Constante, Abanderamiento y Motor Crítico
 
 La hélice convierte la potencia al freno del motor en empuje.
 

@@ -1,4 +1,8 @@
-# Performance and Engine Handling
+---
+title: "Piston Engine Performance and Handling: MAP, Turbocharging, and FADEC"
+description: "Learn key piston engine performance factors, turbocharging principles, FADEC functions, and operational handling for climb and cruise transitions."
+---
+# Piston Engine Performance and Handling: MAP, Turbocharging, and FADEC
 
 ## Engine Performance Factors
 

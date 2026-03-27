@@ -1,4 +1,9 @@
-**Introducción**
+---
+title: "Fundamentos de Hidromecánica Aeronáutica: Presión, Fuerza y Actuación"
+description: "Principios esenciales de hidromecánica, multiplicación de fuerza hidráulica y consumidores clave del sistema como actuadores de vuelo y tren de aterrizaje."
+---
+
+# Fundamentos de Hidromecánica Aeronáutica: Presión, Fuerza y Actuación
 
 Los sistemas hidráulicos son el "músculo" de las aeronaves modernas, críticos para operar maquinaria pesada y controles de vuelo. Al usar fluido bajo presión para transmitir fuerza, estos sistemas permiten a los pilotos mover componentes grandes con precisión y fiabilidad, incluso bajo altas cargas aerodinámicas.
 

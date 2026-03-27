@@ -1,4 +1,8 @@
-# Componentes Principales del Motor
+---
+title: "Componentes Principales del Motor de Turbina de Gas: Compresor, Combustión, Turbina y Escape"
+description: "Repasa los componentes principales del motor de turbina de gas: comportamiento del compresor, combustión, extracción de energía en turbina y sección de escape."
+---
+# Componentes Principales del Motor de Turbina de Gas: Compresor, Combustión, Turbina y Escape
 
 Los componentes centrales de un motor de turbina de gas están diseñados para procesar el aire a través del ciclo Brayton: Admisión, Compresión, Combustión, Expansión (Turbina) y Escape.
 

@@ -1,4 +1,8 @@
-# Circuitos de Encendido: Magnetos
+---
+title: "Circuitos de Encendido en Motores de Pistón: Magnetos y Acoplamiento por Impulso"
+description: "Estudia el funcionamiento de los circuitos de encendido por magneto, el acoplamiento por impulso y la lógica de puesta a tierra para una operación segura."
+---
+# Circuitos de Encendido en Motores de Pistón: Magnetos y Acoplamiento por Impulso
 
 Una **magneto** es un generador eléctrico autónomo accionado por el motor, diseñado para suministrar alto voltaje a las bujías. No requiere una batería externa para funcionar, lo que la hace una fuente de ignición independiente y fiable para motores de aviación.
 

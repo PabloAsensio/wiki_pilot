@@ -1,4 +1,8 @@
-# Auxiliary Power Unit (APU)
+---
+title: "Auxiliary Power Unit (APU): Functions, Control, and Protection"
+description: "Learn APU fundamentals, including electrical and pneumatic outputs, startup sequence, cockpit controls, and automatic shutdown protections."
+---
+# Auxiliary Power Unit (APU): Functions, Control, and Protection
 
 ## Purpose and Function
 The APU is a small self-contained gas turbine engine, typically located in the tail cone of the aircraft.

@@ -1,4 +1,9 @@
-**Introducción**
+---
+title: "Fundamentos de Cargas, Tensiones e Inspección Estructural en Aeronaves"
+description: "Cargas límite y últimas, comportamiento tensión-deformación, distribución de esfuerzos por fase de vuelo y zonas críticas de inspección estructural."
+---
+
+# Fundamentos de Cargas, Tensiones e Inspección Estructural en Aeronaves
 
 Las estructuras de las aeronaves están sometidas a varios tipos de cargas y tensiones a lo largo de su vida operativa, tanto en tierra como en vuelo. Comprender estas fuerzas, cómo se definen y sus efectos en la célula es crucial para la conciencia del piloto y las inspecciones de mantenimiento.
 

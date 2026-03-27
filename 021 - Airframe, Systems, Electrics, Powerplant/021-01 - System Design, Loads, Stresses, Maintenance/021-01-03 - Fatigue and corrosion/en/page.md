@@ -1,4 +1,9 @@
-**Introduction**
+---
+title: "Aircraft Fatigue and Corrosion: Causes, Detection, and Prevention"
+description: "Corrosion mechanisms, environmental drivers, stress corrosion, fatigue cycles, and preventive maintenance actions to preserve airworthiness."
+---
+
+# Aircraft Fatigue and Corrosion: Causes, Detection, and Prevention
 
 Aircraft structures are continuously exposed to environmental factors and operational stresses that can lead to degradation over time. Two primary forms of degradation are corrosion, a chemical deterioration of materials, and fatigue, a weakening caused by repeated loading. Understanding the causes, signs, and prevention of these phenomena is essential for maintaining airworthiness.
 

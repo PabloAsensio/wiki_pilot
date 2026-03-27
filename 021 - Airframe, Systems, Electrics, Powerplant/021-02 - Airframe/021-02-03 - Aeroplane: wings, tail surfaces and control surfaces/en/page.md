@@ -1,4 +1,9 @@
-**Introduction**
+---
+title: "Aircraft Wing, Tail, and Control Surface Structural Design"
+description: "Wing and tail structural architecture, load paths, stress relief strategies, and flutter prevention in control surfaces."
+---
+
+# Aircraft Wing, Tail, and Control Surface Structural Design
 
 The structural design of aeroplane wings, tail surfaces, and control surfaces is critical for performance, stability, and safety. These components must withstand significant aerodynamic and inertial forces while minimizing weight and preventing dangerous phenomena like flutter.
 

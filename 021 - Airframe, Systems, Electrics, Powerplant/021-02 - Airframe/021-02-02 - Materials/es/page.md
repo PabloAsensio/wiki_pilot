@@ -1,4 +1,9 @@
-**Introducción**
+---
+title: "Selección de Materiales Aeronáuticos: Composites, Aleaciones y Corrosión"
+description: "Criterios de selección de materiales, compromisos entre compuestos y aleaciones, y acciones de mantenimiento orientadas a la corrosión en estructuras aeronáuticas."
+---
+
+# Selección de Materiales Aeronáuticos: Composites, Aleaciones y Corrosión
 
 La selección de materiales para la construcción de aeronaves es una decisión crítica que equilibra varias propiedades como resistencia, peso, coste y resistencia a factores ambientales. Mientras que las aleaciones metálicas tradicionales siguen siendo dominantes, los materiales compuestos se utilizan cada vez más por sus características de rendimiento superiores.
 

@@ -1,4 +1,10 @@
-**Introduction**
+---
+title: "Aircraft Primary Flight Controls: Reversible vs Irreversible Systems"
+description: "Primary control architectures, artificial feel logic, trim behavior differences, gust-lock considerations, and redundancy principles."
+---
+
+# Aircraft Primary Flight Controls: Reversible vs Irreversible Systems
+
 Primary flight controls (elevator, ailerons, and rudder) are responsible for controlling the aircraft's rotation about its three axes. Depending on the aircraft's size and speed, these controls can be manually operated, power-assisted, or fully powered.
 
 ## Control System Types
