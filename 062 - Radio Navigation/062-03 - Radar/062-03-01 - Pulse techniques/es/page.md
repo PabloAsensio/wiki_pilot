@@ -1,3 +1,14 @@
+---
+title: Radionavegacion: Tecnicas de Pulso en Radar
+description: Comprende temporizacion de radar de pulsos, calculo de distancia e interpretacion de eco.
+keywords:
+  - tecnicas de pulso
+  - radar de pulsos
+  - radar en aviacion
+---
+
+# Radionavegacion: Tecnicas de Pulso en Radar
+
 ## Principios Básicos del Radar
 
 El **RADAR** (Radio Detection and Ranging) es un sistema que utiliza ondas electromagnéticas para detectar objetos y determinar su distancia y dirección.

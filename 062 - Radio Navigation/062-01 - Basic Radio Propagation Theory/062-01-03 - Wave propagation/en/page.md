@@ -1,3 +1,14 @@
+---
+title: Radio Navigation: Wave Propagation
+description: Study radio wave propagation modes and their operational impact on navigation.
+keywords:
+  - wave propagation
+  - radio signal propagation
+  - aviation navigation
+---
+
+# Radio Navigation: Wave Propagation
+
 The way radio waves travel from the transmitter to the receiver depends on their frequency and the environment.
 
 ## Propagation Modes

@@ -1,3 +1,14 @@
+---
+title: Radio Navigation: Ground Radar
+description: Learn primary and secondary ground radar use in air traffic surveillance.
+keywords:
+  - ground radar
+  - air traffic surveillance
+  - radar navigation
+---
+
+# Radio Navigation: Ground Radar
+
 ## Primary Surveillance Radar (PSR)
 
 The **PSR (Primary Surveillance Radar)** is the most basic type of radar used on the ground for air traffic control.

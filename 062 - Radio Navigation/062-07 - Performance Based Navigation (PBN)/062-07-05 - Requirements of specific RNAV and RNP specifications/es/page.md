@@ -1,3 +1,16 @@
+---
+title: Radionavegacion: Requisitos RNAV y RNP para Aproximaciones RNP
+description: Estudia requisitos de RNAV y RNP, incluyendo RNP approach, BRNAV y parametros operativos clave.
+keywords:
+  - rnav
+  - rnp approach
+  - rnp 0.1
+  - brnav
+  - requisitos rnav y rnp
+---
+
+# Radionavegacion: Requisitos RNAV y RNP para Aproximaciones RNP
+
 La OACI identifica varias especificaciones de navegación dentro del concepto PBN, divididas en familias RNAV y RNP. La diferencia fundamental es que las especificaciones **RNP requieren monitorización y alerta** del rendimiento a bordo, mientras que las RNAV no.
 
 ## Especificaciones RNP

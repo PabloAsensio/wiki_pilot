@@ -1,3 +1,14 @@
+---
+title: Radio Navigation: Radar Pulse Techniques
+description: Understand pulse radar timing, range calculation, and signal interpretation.
+keywords:
+  - radar pulse techniques
+  - pulse radar
+  - aviation radar
+---
+
+# Radio Navigation: Radar Pulse Techniques
+
 ## Basic Radar Principles
 
 **RADAR** (Radio Detection and Ranging) is a system that uses electromagnetic waves to detect objects and determine their distance and direction.

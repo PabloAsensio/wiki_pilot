@@ -1,3 +1,14 @@
+---
+title: Radio Navigation: Airborne Weather Radar
+description: Understand airborne weather radar operation, limitations, and tactical use.
+keywords:
+  - airborne weather radar
+  - weather radar aviation
+  - convective weather avoidance
+---
+
+# Radio Navigation: Airborne Weather Radar
+
 The **Airborne Weather Radar (AWR)** is a primary radar system designed to detect precipitation and allow the crew to avoid adverse weather conditions.
 
 ## Operating Principles

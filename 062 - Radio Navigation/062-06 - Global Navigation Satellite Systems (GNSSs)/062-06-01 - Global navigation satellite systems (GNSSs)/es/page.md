@@ -1,3 +1,14 @@
+---
+title: Radionavegacion: Sistemas Globales de Navegacion por Satelite (GNSS)
+description: Aprende fundamentos GNSS, conceptos de senal y aplicaciones en navegacion aeronautica.
+keywords:
+  - gnss en aviacion
+  - navegacion por satelite
+  - sistemas globales de navegacion
+---
+
+# Radionavegacion: Sistemas Globales de Navegacion por Satelite (GNSS)
+
 El GNSS es un término general que engloba a los sistemas de navegación por satélite que proporcionan posicionamiento geoespacial autónomo con cobertura global.
 
 ## Sistemas Principales

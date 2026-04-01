@@ -1,3 +1,14 @@
+---
+title: Radionavegacion: Sistemas de Aumentacion GNSS
+description: Comprende aumentacion terrestre, satelital y embarcada para mejorar precision GNSS.
+keywords:
+  - aumentacion gnss
+  - gbas sbas abaas
+  - integridad de navegacion
+---
+
+# Radionavegacion: Sistemas de Aumentacion GNSS
+
 Los sistemas de aumentación tienen como objetivo mejorar la precisión, integridad, disponibilidad y continuidad de la señal GNSS básica para cumplir con los requisitos de la aviación civil, especialmente en fases críticas como la aproximación.
 
 ## ABAS (Aircraft-Based Augmentation System)

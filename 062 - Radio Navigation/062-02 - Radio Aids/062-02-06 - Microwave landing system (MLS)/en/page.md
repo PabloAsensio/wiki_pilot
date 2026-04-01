@@ -1,3 +1,16 @@
+---
+title: Radio Navigation: Microwave Landing System (MLS) in Aviation
+description: Study microwave landing system concepts, MLS aviation use, and key frequency band references.
+keywords:
+  - microwave landing system
+  - microwave landing system mls
+  - mls aviation
+  - mls frequency band 5 ghz
+  - mls approach
+---
+
+# Radio Navigation: Microwave Landing System (MLS) in Aviation
+
 **MLS (Microwave Landing System)** is a precision approach system designed to overcome the limitations of ILS and offer greater flexibility. Although technologically superior, its implementation has been limited due to the rise of satellite-based systems (GNSS).
 
 ## Main Characteristics

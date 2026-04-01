@@ -1,3 +1,16 @@
+---
+title: Radio Navigation: RNAV and RNP Requirements for RNP Approaches
+description: Study required navigation performance, RNP approach requirements, and key RNAV/RNP specification criteria.
+keywords:
+  - required navigation performance
+  - rnp approach requirements
+  - rnp 1 requirements
+  - rnp 10 requirements
+  - rnav requirements
+---
+
+# Radio Navigation: RNAV and RNP Requirements for RNP Approaches
+
 ICAO identifies several navigation specifications within the PBN concept, divided into RNAV and RNP families. The fundamental difference is that **RNP specifications require on-board performance monitoring and alerting**, while RNAV specifications do not.
 
 ## RNP Specifications

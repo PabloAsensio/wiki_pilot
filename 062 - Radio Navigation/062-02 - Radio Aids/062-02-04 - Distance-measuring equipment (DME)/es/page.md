@@ -1,3 +1,14 @@
+---
+title: Radionavegacion: Equipo de Medicion de Distancia (DME)
+description: Comprende principios de DME, distancia inclinada y uso operativo con VOR e ILS.
+keywords:
+  - equipo de medicion de distancia
+  - distancia inclinada dme
+  - radionavegacion
+---
+
+# Radionavegacion: Equipo de Medicion de Distancia (DME)
+
 El **DME (Distance Measuring Equipment)** es un sistema de radar secundario que proporciona la distancia entre una aeronave y una estación terrestre. Opera en la banda **UHF (962 - 1213 MHz)**.
 
 ## Principio de Funcionamiento

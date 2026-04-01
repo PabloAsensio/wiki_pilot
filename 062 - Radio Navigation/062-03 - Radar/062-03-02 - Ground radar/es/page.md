@@ -1,3 +1,14 @@
+---
+title: Radionavegacion: Radar Terrestre
+description: Aprende uso de radar terrestre primario y secundario en vigilancia ATS.
+keywords:
+  - radar terrestre
+  - vigilancia atc
+  - radionavegacion
+---
+
+# Radionavegacion: Radar Terrestre
+
 ## Radar de Vigilancia Primario (PSR)
 
 El **PSR (Primary Surveillance Radar)** es el tipo más básico de radar utilizado en tierra para el control de tráfico aéreo.

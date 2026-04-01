@@ -1,3 +1,14 @@
+---
+title: Radio Navigation: GNSS Augmentation Systems
+description: Understand ground, satellite, and aircraft based augmentation for GNSS accuracy.
+keywords:
+  - gnss augmentation
+  - gbas sbas abaas
+  - navigation integrity
+---
+
+# Radio Navigation: GNSS Augmentation Systems
+
 Augmentation systems aim to improve the accuracy, integrity, availability, and continuity of the basic GNSS signal to meet civil aviation requirements, especially in critical phases such as approach.
 
 ## ABAS (Aircraft-Based Augmentation System)

@@ -1,3 +1,14 @@
+---
+title: Radio Navigation: Navigation Specifications
+description: Understand RNAV and RNP navigation specifications and operational requirements.
+keywords:
+  - navigation specifications
+  - rnav rnp
+  - pbn
+---
+
+# Radio Navigation: Navigation Specifications
+
 Navigation specifications define the performance requirements (accuracy, integrity, etc.) that the aircraft and crew must meet to operate in a defined airspace.
 
 ## Specification Types

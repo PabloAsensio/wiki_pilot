@@ -1,3 +1,14 @@
+---
+title: Radionavegacion: Principios Basicos de Propagacion
+description: Aprende los principios basicos de ondas de radio aplicados a la radionavegacion aeronautica.
+keywords:
+  - principios de propagacion
+  - radionavegacion
+  - ondas de radio en aviacion
+---
+
+# Radionavegacion: Principios Basicos de Propagacion
+
 La radio navegación se fundamenta en la transmisión y recepción de ondas electromagnéticas. Para comprender estos sistemas, es crucial dominar conceptos como el espectro de frecuencias, las propiedades de las ondas y los métodos de modulación.
 
 ## Espectro de Frecuencias

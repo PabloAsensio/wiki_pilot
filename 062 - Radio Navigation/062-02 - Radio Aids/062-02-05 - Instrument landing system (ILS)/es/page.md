@@ -1,3 +1,14 @@
+---
+title: Radionavegacion: Sistema de Aterrizaje por Instrumentos (ILS)
+description: Aprende operacion de localizador y senda de planeo para aproximaciones de precision.
+keywords:
+  - sistema de aterrizaje por instrumentos
+  - localizador y senda de planeo
+  - aproximacion de precision
+---
+
+# Radionavegacion: Sistema de Aterrizaje por Instrumentos (ILS)
+
 El **ILS (Instrument Landing System)** es el sistema estándar de aproximación de precisión, proporcionando guía lateral y vertical para el aterrizaje.
 
 ![Diagrama del Sistema ILS](https://upload.wikimedia.org/wikipedia/commons/1/13/ILS_diagram.png)
