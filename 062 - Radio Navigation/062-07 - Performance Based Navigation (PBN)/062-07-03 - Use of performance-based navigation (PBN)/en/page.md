@@ -1,5 +1,5 @@
 ---
-title: "Use of Performance Based Navigation (PBN)"
+title: "Use of Performance-Based Navigation (PBN) in Operations"
 description: "Learn practical use cases of PBN in terminal and en-route operations."
 keywords:
     - "use of pbn"
@@ -7,7 +7,7 @@ keywords:
     - "rnav operations"
 ---
 
-# Use of Performance Based Navigation (PBN)
+# Use of Performance-Based Navigation (PBN) in Operations
 
 The use of PBN introduces specific concepts and functionalities in navigation systems to improve airspace efficiency and capacity.
 

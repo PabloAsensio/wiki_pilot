@@ -1,5 +1,5 @@
 ---
-title: "Referencias en Superficie"
+title: "Referencias en Superficie para Navegación VFR"
 description: "Identifica y usa terreno y referencias visuales para una navegacion VFR fiable."
 keywords:
     - "referencias visuales vfr"
@@ -7,7 +7,7 @@ keywords:
     - "navegacion por estimacion visual"
 ---
 
-# Referencias en Superficie
+# Referencias en Superficie para Navegación VFR
 
 La navegación VFR se basa en identificar **ground features** (referencias en tierra) y relacionarlas con la carta. Un buen piloto VFR elige sus referencias pensando en su **tamaño, contraste, singularidad, posición respecto a la ruta, altitud de vuelo, estación del año y condiciones de luz**.
 

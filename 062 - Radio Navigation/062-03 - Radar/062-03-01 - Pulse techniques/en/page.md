@@ -1,5 +1,5 @@
 ---
-title: "Radar Pulse Techniques"
+title: "Radar Pulse Techniques: Range and Timing"
 description: "Understand pulse radar timing, range calculation, and signal interpretation."
 keywords:
     - "radar pulse techniques"
@@ -7,7 +7,7 @@ keywords:
     - "aviation radar"
 ---
 
-# Radar Pulse Techniques
+# Radar Pulse Techniques: Range and Timing
 
 ## Basic Radar Principles
 

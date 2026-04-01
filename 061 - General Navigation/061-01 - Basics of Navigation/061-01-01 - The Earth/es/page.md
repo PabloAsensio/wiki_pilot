@@ -1,5 +1,5 @@
 ---
-title: "La Tierra"
+title: "Geometría de la Tierra, Estaciones y Variación Magnética"
 description: "Aprende la geometría terrestre, las estaciones y el magnetismo terrestre aplicados a la navegacion aerea."
 keywords:
     - "navegacion general"
@@ -7,7 +7,7 @@ keywords:
     - "teoría de navegacion aerea"
 ---
 
-# La Tierra
+# Geometría de la Tierra, Estaciones y Variación Magnética
 
 La Tierra es un sistema dinámico cuya relación con el Sol determina aspectos fundamentales para la aviación, como la duración del día, las estaciones y la navegación. A continuación, se detallan los conceptos clave sobre nuestro planeta, la radiación solar y el magnetismo terrestre.
 

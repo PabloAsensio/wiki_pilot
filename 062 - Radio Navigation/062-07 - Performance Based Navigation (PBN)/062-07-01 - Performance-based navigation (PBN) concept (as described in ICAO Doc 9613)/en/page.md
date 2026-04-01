@@ -1,5 +1,5 @@
 ---
-title: "PBN Concept (ICAO Doc 9613)"
+title: "PBN Concept (ICAO Doc 9613): RNAV, RNP, and Use Cases"
 description: "Study the PBN concept and core framework defined in ICAO Doc 9613."
 keywords:
     - "pbn concept"
@@ -7,7 +7,7 @@ keywords:
     - "performance based navigation"
 ---
 
-# PBN Concept (ICAO Doc 9613)
+# PBN Concept (ICAO Doc 9613): RNAV, RNP, and Use Cases
 
 The PBN (Performance-Based Navigation) concept specifies that aircraft RNAV system performance requirements be defined in terms of accuracy, integrity, availability, continuity, and functionality, needed for the proposed operations in the context of a particular airspace concept.
 

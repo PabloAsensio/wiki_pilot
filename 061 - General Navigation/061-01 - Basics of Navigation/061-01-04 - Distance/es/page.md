@@ -1,5 +1,5 @@
 ---
-title: "Distancia"
+title: "Distancia y Millas Náuticas en Navegación"
 description: "Repasa millas nauticas, escalas cartograficas y cálculos de distancia para planificación de ruta."
 keywords:
     - "cálculo de distancia"
@@ -7,7 +7,7 @@ keywords:
     - "planificación de vuelo"
 ---
 
-# Distancia
+# Distancia y Millas Náuticas en Navegación
 
 En la navegación aérea, la distancia no es solo una medida lineal; es una combinación de geometría esférica, movimiento de masas de aire y cálculos de tiempo. A continuación, desglosamos todos los conceptos esenciales para entender cómo se miden los trayectos alrededor del mundo.
 

@@ -1,5 +1,5 @@
 ---
-title: "Airborne Weather Radar"
+title: "Airborne Weather Radar: Operation and Limitations"
 description: "Understand airborne weather radar operation, limitations, and tactical use."
 keywords:
     - "airborne weather radar"
@@ -7,7 +7,7 @@ keywords:
     - "convective weather avoidance"
 ---
 
-# Airborne Weather Radar
+# Airborne Weather Radar: Operation and Limitations
 
 The **Airborne Weather Radar (AWR)** is a primary radar system designed to detect precipitation and allow the crew to avoid adverse weather conditions.
 

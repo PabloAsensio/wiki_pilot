@@ -1,5 +1,5 @@
 ---
-title: "Especificaciones de Navegación"
+title: "Especificaciones de Navegación RNAV y RNP"
 description: "Comprende especificaciones RNAV y RNP y sus requisitos operativos."
 keywords:
     - "especificaciones de navegacion"
@@ -7,7 +7,7 @@ keywords:
     - "pbn"
 ---
 
-# Especificaciones de Navegación
+# Especificaciones de Navegación RNAV y RNP
 
 Las especificaciones de navegación definen los requisitos de rendimiento (precisión, integridad, etc.) que deben cumplir la aeronave y la tripulación para operar en un espacio aéreo definido.
 

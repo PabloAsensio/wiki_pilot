@@ -1,5 +1,5 @@
 ---
-title: "Position"
+title: "Position Fixing: Latitude, Longitude, and WGS-84"
 description: "Understand latitude, longitude, and position fixing principles for practical flight navigation."
 keywords:
     - "position fixing"
@@ -7,7 +7,7 @@ keywords:
     - "general navigation"
 ---
 
-# Position
+# Position Fixing: Latitude, Longitude, and WGS-84
 
 In air navigation, **position** is defined by a coordinate system using latitude and longitude. Although we often consider the Earth a perfect sphere to simplify calculations, reality is more complex and requires accurate models like the **WGS 84 ellipsoid** to ensure safety and precision in flight.
 

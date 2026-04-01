@@ -1,5 +1,5 @@
 ---
-title: "GNSS Augmentation Systems"
+title: "GNSS Augmentation Systems: SBAS, GBAS, and ABAS"
 description: "Understand ground, satellite, and aircraft based augmentation for GNSS accuracy."
 keywords:
     - "gnss augmentation"
@@ -7,7 +7,7 @@ keywords:
     - "navigation integrity"
 ---
 
-# GNSS Augmentation Systems
+# GNSS Augmentation Systems: SBAS, GBAS, and ABAS
 
 Augmentation systems aim to improve the accuracy, integrity, availability, and continuity of the basic GNSS signal to meet civil aviation requirements, especially in critical phases such as approach.
 

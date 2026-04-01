@@ -1,5 +1,5 @@
 ---
-title: "VFR Navigation Techniques"
+title: "VFR Navigation Techniques: Pilotage, Timing, and Map Reading"
 description: "Learn practical VFR navigation techniques including pilotage, timing, and map reading."
 keywords:
     - "vfr navigation techniques"
@@ -7,7 +7,7 @@ keywords:
     - "visual flight rules"
 ---
 
-# VFR Navigation Techniques
+# VFR Navigation Techniques: Pilotage, Timing, and Map Reading
 
 Navigation under **Visual Flight Rules (VFR)** is the art of guiding an aircraft using external visual references instead of relying solely on instruments. This article summarizes essential techniques, from how to orient yourself and read maps, to how to handle emergency situations and environmental hazards.
 

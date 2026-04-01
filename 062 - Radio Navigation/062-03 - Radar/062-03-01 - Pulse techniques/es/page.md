@@ -1,5 +1,5 @@
 ---
-title: "Tecnicas de Pulso en Radar"
+title: "Técnicas de Pulso en Radar: Alcance y Temporización"
 description: "Comprende temporizacion de radar de pulsos, cálculo de distancia e interpretacion de eco."
 keywords:
     - "técnicas de pulso"
@@ -7,7 +7,7 @@ keywords:
     - "radar en aviacion"
 ---
 
-# Tecnicas de Pulso en Radar
+# Técnicas de Pulso en Radar: Alcance y Temporización
 
 ## Principios Básicos del Radar
 

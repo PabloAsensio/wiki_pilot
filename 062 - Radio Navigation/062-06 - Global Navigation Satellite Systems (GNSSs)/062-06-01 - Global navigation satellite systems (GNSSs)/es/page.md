@@ -1,5 +1,5 @@
 ---
-title: "Sistemas Globales de Navegación por Satélite (GNSS)"
+title: "Sistemas Globales de Navegación por Satélite (GNSS) en Aviación"
 description: "Aprende fundamentos GNSS, conceptos de señal y aplicaciones en navegacion aeronautica."
 keywords:
     - "gnss en aviacion"
@@ -7,7 +7,7 @@ keywords:
     - "sistemas globales de navegacion"
 ---
 
-# Sistemas Globales de Navegación por Satélite (GNSS)
+# Sistemas Globales de Navegación por Satélite (GNSS) en Aviación
 
 El GNSS es un término general que engloba a los sistemas de navegación por satélite que proporcionan posicionamiento geoespacial autónomo con cobertura global.
 

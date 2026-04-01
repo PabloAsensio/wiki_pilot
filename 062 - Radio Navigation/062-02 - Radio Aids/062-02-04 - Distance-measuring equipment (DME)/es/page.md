@@ -1,5 +1,5 @@
 ---
-title: "Equipo de Medicion de Distancia (DME)"
+title: "Equipo de Medición de Distancia (DME): Distancia Inclinada"
 description: "Comprende principios de DME, distancia inclinada y uso operativo con VOR e ILS."
 keywords:
     - "equipo de medicion de distancia"
@@ -7,7 +7,7 @@ keywords:
     - "radionavegacion"
 ---
 
-# Equipo de Medicion de Distancia (DME)
+# Equipo de Medición de Distancia (DME): Distancia Inclinada
 
 El **DME (Distance Measuring Equipment)** es un sistema de radar secundario que proporciona la distancia entre una aeronave y una estación terrestre. Opera en la banda **UHF (962 - 1213 MHz)**.
 

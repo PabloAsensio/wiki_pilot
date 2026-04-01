@@ -1,5 +1,5 @@
 ---
-title: "Dead Reckoning (DR)"
+title: "Dead Reckoning (DR): Position Estimation in Flight"
 description: "Use dead reckoning methods to estimate position from heading, time, and speed."
 keywords:
     - "dead reckoning"
@@ -7,7 +7,7 @@ keywords:
     - "pilot navigation techniques"
 ---
 
-# Dead Reckoning (DR)
+# Dead Reckoning (DR): Position Estimation in Flight
 
 **Dead Reckoning (DR)** navigation is a fundamental aviation technique that allows a pilot to calculate their **current position** based on a previously known position, called a **fix** or reference point.
 

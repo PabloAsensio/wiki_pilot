@@ -1,5 +1,5 @@
 ---
-title: "Uso Práctico de Cartas"
+title: "Uso Práctico de Cartas Aeronáuticas"
 description: "Aplica lectura de cartas y trazado de rutas a tareas prácticas de navegacion en ruta."
 keywords:
     - "uso practico de cartas"
@@ -7,7 +7,7 @@ keywords:
     - "navegacion en ruta"
 ---
 
-# Uso Práctico de Cartas
+# Uso Práctico de Cartas Aeronáuticas
 
 La navegación aérea práctica consiste en trasladar la información del mundo real a un plano bidimensional: la carta aeronáutica. Para hacerlo con éxito, es necesario dominar el uso de herramientas de medición, comprender las propiedades de la Tierra y saber interpretar la simbología del terreno y las radioayudas. A continuación, se detalla cómo aplicar estos conceptos paso a paso.
 

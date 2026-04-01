@@ -1,5 +1,5 @@
 ---
-title: "Basic Principles of Radio Propagation"
+title: "Radio Propagation Basics for Aviation Navigation"
 description: "Learn core radio wave principles used in aviation radio navigation systems."
 keywords:
     - "radio propagation basics"
@@ -7,7 +7,7 @@ keywords:
     - "radio navigation principles"
 ---
 
-# Basic Principles of Radio Propagation
+# Radio Propagation Basics for Aviation Navigation
 
 Radio navigation is based on the transmission and reception of electromagnetic waves. To understand these systems, it is crucial to master concepts such as the frequency spectrum, wave properties, and modulation methods.
 

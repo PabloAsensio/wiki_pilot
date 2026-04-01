@@ -1,5 +1,5 @@
 ---
-title: "Antenas"
+title: "Antenas en Aviación: Tipos, Patrones y Uso"
 description: "Comprende tipos de antenas, diagramas de radiación y uso en navegacion aerea."
 keywords:
     - "antenas en aviacion"
@@ -7,7 +7,7 @@ keywords:
     - "radionavegacion"
 ---
 
-# Antenas
+# Antenas en Aviación: Tipos, Patrones y Uso
 
 Las antenas son los dispositivos que permiten la transición entre una corriente eléctrica guiada y una onda electromagnética en el espacio libre.
 

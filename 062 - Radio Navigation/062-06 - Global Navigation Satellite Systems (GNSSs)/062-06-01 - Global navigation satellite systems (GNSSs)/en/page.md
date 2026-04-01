@@ -1,5 +1,5 @@
 ---
-title: "Global Navigation Satellite Systems (GNSS)"
+title: "Global Navigation Satellite Systems (GNSS) for Aviation"
 description: "Learn GNSS fundamentals, signal concepts, and aviation navigation applications."
 keywords:
     - "gnss aviation"
@@ -7,7 +7,7 @@ keywords:
     - "global navigation satellite systems"
 ---
 
-# Global Navigation Satellite Systems (GNSS)
+# Global Navigation Satellite Systems (GNSS) for Aviation
 
 GNSS is a general term encompassing satellite navigation systems that provide autonomous geospatial positioning with global coverage.
 

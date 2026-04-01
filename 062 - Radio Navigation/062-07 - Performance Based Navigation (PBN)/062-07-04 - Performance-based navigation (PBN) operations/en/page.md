@@ -1,5 +1,5 @@
 ---
-title: "Performance Based Navigation Operations"
+title: "Performance-Based Navigation (PBN) Operations"
 description: "Review PBN operational procedures, constraints, and implementation in flight ops."
 keywords:
     - "pbn operations"
@@ -7,7 +7,7 @@ keywords:
     - "navigation operations"
 ---
 
-# Performance Based Navigation Operations
+# Performance-Based Navigation (PBN) Operations
 
 PBN operations are based on the navigation system's ability to maintain a defined accuracy and, in the case of RNP, to monitor and alert on performance.
 

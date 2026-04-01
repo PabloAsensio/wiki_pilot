@@ -1,5 +1,5 @@
 ---
-title: "Triangle of Velocities (TOV)"
+title: "Triangle of Velocities (TOV): Wind Correction and Track"
 description: "Apply the triangle of velocities to solve wind correction and heading problems."
 keywords:
     - "triangle of velocities"
@@ -7,7 +7,7 @@ keywords:
     - "heading and track"
 ---
 
-# Triangle of Velocities (TOV)
+# Triangle of Velocities (TOV): Wind Correction and Track
 
 Navigating an aircraft is very different from driving a car. While a car grips the road firmly, an aircraft moves within an air mass that is itself moving over the Earth. To understand where the aircraft is actually going and at what speed, pilots use a fundamental concept called the **Triangle of Velocities**.
 

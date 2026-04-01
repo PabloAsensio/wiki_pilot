@@ -1,5 +1,5 @@
 ---
-title: "Velocidad"
+title: "Velocidad Aérea y Velocidad sobre el Suelo en Navegación"
 description: "Compara IAS, TAS y velocidad sobre el suelo y aplica estos conceptos al cálculo de navegacion."
 keywords:
     - "velocidad indicada y verdadera"
@@ -7,7 +7,7 @@ keywords:
     - "navegacion general"
 ---
 
-# Velocidad
+# Velocidad Aérea y Velocidad sobre el Suelo en Navegación
 
 En el mundo de la aviación, la "velocidad" no es un número único como en un automóvil. Para que un avión vuele de manera segura y llegue a tiempo, los pilotos deben gestionar y calcular diferentes tipos de velocidades, teniendo en cuenta factores como la altura, la temperatura y el viento. A continuación, explicamos estos conceptos fundamentales.
 

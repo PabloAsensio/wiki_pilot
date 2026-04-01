@@ -1,5 +1,5 @@
 ---
-title: "Great Circle Route and Rhumb Line Basics"
+title: "Great Circle Routes vs Rhumb Lines in Aviation"
 description: "Define great circle route concepts and compare great circle vs rhumb line tracks for flight navigation."
 keywords:
     - "define great circle route"
@@ -7,7 +7,7 @@ keywords:
     - "great circle navigation"
 ---
 
-# Great Circle Route and Rhumb Line Basics
+# Great Circle Routes vs Rhumb Lines in Aviation
 
 Air navigation is based on understanding how the spherical shape of the Earth affects direction and distance between two points. Below, we explain the fundamental concepts for understanding flight paths.
 

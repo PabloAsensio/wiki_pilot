@@ -1,5 +1,5 @@
 ---
-title: "Propagación de Ondas"
+title: "Propagación de Ondas de Radio en Aviación"
 description: "Estudia modos de propagacion de radio y su impacto operativo en navegacion."
 keywords:
     - "propagacion de ondas"
@@ -7,7 +7,7 @@ keywords:
     - "navegacion aerea"
 ---
 
-# Propagación de Ondas
+# Propagación de Ondas de Radio en Aviación
 
 La forma en que las ondas de radio viajan desde el transmisor hasta el receptor depende de su frecuencia y del entorno.
 
