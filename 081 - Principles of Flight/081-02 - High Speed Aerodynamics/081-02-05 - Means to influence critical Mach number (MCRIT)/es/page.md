@@ -4,6 +4,9 @@ description: "Características de diseño usadas para retrasar la aparición de 
 keywords: ["ala en flecha", "alas delgadas", "perfil supercrítico", "regla del área", "generador de vórtices"]
 ---
 
+# Influenciando el Mach Crítico (Aumentar M_crit)
+
+
 ## Objetivo
 Volar más rápido sin incurrir en las penalizaciones de Divergencia de Resistencia y Shock Stall. Queremos **aumentar** $M_{crit}$.
 

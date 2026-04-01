@@ -4,6 +4,9 @@ description: "Understanding Lift and Drag formulas and their coefficients."
 keywords: ["lift formula", "drag formula", "CL", "CD", "angle of attack", "stall"]
 ---
 
+# Aerodynamic Coefficients
+
+
 ## The Formulas
 $$ L = C_L \cdot \frac{1}{2} \rho V^2 \cdot S $$
 $$ D = C_D \cdot \frac{1}{2} \rho V^2 \cdot S $$

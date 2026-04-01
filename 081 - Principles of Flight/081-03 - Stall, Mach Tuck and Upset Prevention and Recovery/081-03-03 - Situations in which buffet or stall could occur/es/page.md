@@ -4,6 +4,9 @@ description: "Situaciones comunes que llevan a la pérdida o descontrol."
 keywords: ["pérdida acelerada", "hielo", "cizalladura", "pérdida profunda", "super stall"]
 ---
 
+# Escenarios de Pérdida
+
+
 ## Pérdida Acelerada (Alto G)
 Entrar en pérdida a una velocidad mayor que la normal $V_{s1g}$ debido al Factor de Carga incrementado.
 *   **Virajes**: En un viraje nivelado de 60° de alabeo, el Factor de Carga es 2.0g. La velocidad de pérdida aumenta por $\sqrt{2} = 1.41$ (41% mayor).

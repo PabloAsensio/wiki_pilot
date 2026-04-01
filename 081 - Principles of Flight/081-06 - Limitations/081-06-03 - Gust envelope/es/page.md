@@ -4,6 +4,9 @@ description: "Cómo las ráfagas verticales afectan el factor de carga y el diag
 keywords: ["factor de carga por ráfaga", "ráfaga vertical", "vb", "carga alar", "alargamiento"]
 ---
 
+# Envolvente de Ráfagas
+
+
 ## Efecto de la Ráfaga
 Una ráfaga vertical cambia el Ángulo de Ataque (AoA) efectivo del ala.
 *   **Corriente Ascendente**: Aumenta AoA -> Aumenta Sustentación -> Aumenta Factor de Carga ($n > 1$).

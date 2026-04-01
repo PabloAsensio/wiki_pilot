@@ -4,6 +4,9 @@ description: "Sistemas de control de vuelo electrónicos y protección de la env
 keywords: ["fly-by-wire", "computadora de control de vuelo", "protección", "alpha floor", "stick pusher"]
 ---
 
+# Vuelo por Cable (FBW)
+
+
 ## Concepto
 Reemplaza los enlaces mecánicos (cables/varillas) con señales eléctricas.
 *   Input del Piloto -> Computadora -> Actuador -> Superficie de Control.

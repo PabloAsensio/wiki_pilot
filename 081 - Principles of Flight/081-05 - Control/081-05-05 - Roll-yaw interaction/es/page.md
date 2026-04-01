@@ -4,6 +4,9 @@ description: "Acoplamiento entre estabilidad lateral y direccional."
 keywords: ["dutch roll", "inestabilidad espiral", "resbale", "guiñada adversa"]
 ---
 
+# Interacción Alabeo-Guiñada
+
+
 ## Movimiento Acoplado
 El Alabeo y la Guiñada raramente están aislados.
 *   **El Alabeo causa Guiñada**: Resbale hacia el ala baja -> Estabilidad de veleta guiña la nariz hacia el resbale. También guiñada adversa.

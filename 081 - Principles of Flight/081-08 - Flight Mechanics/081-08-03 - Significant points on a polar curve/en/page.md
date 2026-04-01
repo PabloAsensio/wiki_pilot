@@ -4,6 +4,9 @@ description: "Key performance speeds derived from the Drag Polar."
 keywords: ["drag polar", "vmd", "vmp", "best glide", "endurance", "range"]
 ---
 
+# Polar Curve Points
+
+
 ## Drag Polar
 A graph of Lift Coefficient ($C_L$) vs Drag Coefficient ($C_D$).
 *   **Tangent from Origin**: The point of maximum **Lift-to-Drag Ratio** ($L/D_{max}$).

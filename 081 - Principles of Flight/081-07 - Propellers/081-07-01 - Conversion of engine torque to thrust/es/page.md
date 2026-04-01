@@ -4,6 +4,9 @@ description: "Cómo una hélice convierte energía rotacional en empuje, definic
 keywords: ["teoría de elemento de pala", "paso geométrico", "paso efectivo", "resbalamiento", "eficiencia de hélice", "torsión"]
 ---
 
+# Conceptos Básicos de Hélices: Par a Empuje
+
+
 ## Conversión
 La hélice actúa como un ala rotatoria.
 *   **Fuerza Resultante**: Tiene un componente hacia adelante (**Empuje**) y un componente rotacional (**Resistencia al Par**).

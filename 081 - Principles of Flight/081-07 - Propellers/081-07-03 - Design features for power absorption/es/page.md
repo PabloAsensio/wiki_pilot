@@ -4,6 +4,9 @@ description: "Aumentar la solidez para absorber alta potencia del motor."
 keywords: ["solidez", "velocidad de punta", "número de palas", "palas scimitar", "contra-rotatoria"]
 ---
 
+# Diseño de Absorción de Potencia
+
+
 ## El Problema
 Motores potentes (turbohélices) necesitan convertir enormes caballos de fuerza en empuje sin que las puntas de la hélice se vuelvan supersónicas.
 

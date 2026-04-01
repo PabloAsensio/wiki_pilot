@@ -4,6 +4,9 @@ description: "Estabilidad alrededor del eje longitudinal (Alabeo). Efecto diedro
 keywords: ["estabilidad lateral", "diedro", "anhedro", "resbale", "flecha"]
 ---
 
+# Estabilidad Lateral
+
+
 ## Mecanismo
 Cuando una aeronave alabea, el vector de sustentación se inclina y comienza un **Resbale** hacia el ala más baja (debido a la gravedad).
 *   Una estabilidad lateral estática correcta crea un momento de alabeo que levanta el ala baja para restaurar el vuelo nivelado.

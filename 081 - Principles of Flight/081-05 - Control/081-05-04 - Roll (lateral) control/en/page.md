@@ -4,6 +4,9 @@ description: "Mechanism of roll control, adverse yaw, and differential ailerons.
 keywords: ["ailerons", "differential ailerons", "frise ailerons", "adverse yaw", "roll spoils"]
 ---
 
+# Roll Control (Ailerons)
+
+
 ## Mechanism
 Ailerons work by changing the camber of the outer wing section.
 *   **Stick Left**: Left aileron UP (decreases lift) -> Left wing drops. Right aileron DOWN (increases lift) -> Right wing rises.

@@ -4,6 +4,9 @@ description: "Métodos de balance aerodinámico para asistir al piloto."
 keywords: ["balance aerodinámico", "compensación de cuerno", "bisagra insertada", "tab de balance", "alerón frise"]
 ---
 
+# Reducción de Fuerzas de Control
+
+
 ## El Problema
 Al aumentar el tamaño y velocidad del avión, la fuerza requerida para deflectar una superficie se vuelve demasiado grande para el piloto manual.
 

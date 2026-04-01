@@ -4,6 +4,9 @@ description: "Wing tip vortices, downwash, and the creation of induced drag."
 keywords: ["induced drag", "wing tip vortices", "downwash", "aspect ratio", "winglets"]
 ---
 
+# 3D Airflow & Induced Drag
+
+
 ## Wing Tip Vortices
 On a finite wing (3D), air flows from the high-pressure area (under the wing) to the low-pressure area (over the wing) around the wing tip.
 *   This creates a rotating vortex at each wingtip.

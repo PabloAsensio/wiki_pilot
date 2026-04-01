@@ -4,6 +4,9 @@ description: "Entendiendo las fórmulas de Sustentación y Resistencia y sus coe
 keywords: ["fórmula de sustentación", "fórmula de resistencia", "CL", "CD", "ángulo de ataque", "pérdida"]
 ---
 
+# Coeficientes Aerodinámicos
+
+
 ## Las Fórmulas
 $$ L = C_L \cdot \frac{1}{2} \rho V^2 \cdot S $$
 $$ D = C_D \cdot \frac{1}{2} \rho V^2 \cdot S $$

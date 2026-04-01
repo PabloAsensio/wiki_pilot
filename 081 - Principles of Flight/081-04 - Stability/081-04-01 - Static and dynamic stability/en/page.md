@@ -4,6 +4,9 @@ description: "Definitions of static and dynamic stability, including positive, n
 keywords: ["static stability", "dynamic stability", "restoring moment", "oscillation", "neutral stability"]
 ---
 
+# Static & Dynamic Stability
+
+
 ## Static Stability
 The **initial** tendency of an aircraft to return to its original equilibrium position after being disturbed.
 *   **Positive**: Initial tendency to return to the original position.

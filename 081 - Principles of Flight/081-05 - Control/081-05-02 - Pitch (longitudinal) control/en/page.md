@@ -4,6 +4,9 @@ description: "Longitudinal control, stick forces, and variable incidence stabili
 keywords: ["elevator", "stabilator", "all-moving tail", "stick force", "pitch"]
 ---
 
+# Pitch Control (Elevator)
+
+
 ## Elevator
 The primary control surface for pitch (rotation around lateral axis).
 *   **Location**: Hinged to the trailing edge of the horizontal stabilizer.

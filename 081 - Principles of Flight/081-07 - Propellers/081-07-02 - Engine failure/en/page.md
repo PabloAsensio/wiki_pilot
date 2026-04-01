@@ -4,6 +4,9 @@ description: "Windmilling drag, feathering, and asymmetric thrust."
 keywords: ["windmilling", "feathering", "critical engine", "asymmetric thrust", "vmca"]
 ---
 
+# Propeller Engine Failure
+
+
 ## Windmilling
 When an engine fails, the airflow drives the propeller (it acts like a turbine).
 *   **Drag**: Creates massive drag because the propeller is taking energy from the airflow to spin the dead engine.

@@ -4,6 +4,9 @@ description: "Undesired aerodynamic and gyroscopic effects of rotating propeller
 keywords: ["torque reaction", "gyroscopic precession", "slipstream", "p-factor", "asymmetric blade effect"]
 ---
 
+# Secondary Propeller Effects
+
+
 ## 1. Torque Reaction
 Based on Newton's 3rd Law.
 *   **Effect**: The engine turns the prop Right -> The aircraft tends to Roll Left (in the air) or Yaw Left (on the ground due to tire friction difference).

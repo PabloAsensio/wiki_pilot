@@ -4,6 +4,9 @@ description: "La envolvente de vuelo definida por límites de velocidad y factor
 keywords: ["diagrama v-n", "envolvente de vuelo", "velocidad de maniobra", "límite estructural", "límite de pérdida"]
 ---
 
+# Envolvente de Maniobra (Diagrama V-n)
+
+
 ## El Diagrama V-n
 Un gráfico que plotea **Factor de Carga (n)** en el eje Y vs **Velocidad (V)** en el eje X.
 

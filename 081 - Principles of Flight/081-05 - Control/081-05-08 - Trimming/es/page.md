@@ -4,6 +4,9 @@ description: "Propósito del trimado y métodos para reducir la carga de trabajo
 keywords: ["tab de trim", "tab de balance", "tab anti-balance", "servo tab", "balance de masa"]
 ---
 
+# Compensación y Fuerzas de Control
+
+
 ## Trim Tab (Aleta Compensadora)
 Una pequeña superficie en el borde de salida de un control primario.
 *   **Operación**: Se deflecta en dirección **opuesta** a la superficie de control.

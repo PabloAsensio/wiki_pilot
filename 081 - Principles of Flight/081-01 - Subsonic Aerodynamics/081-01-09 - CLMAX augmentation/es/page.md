@@ -4,6 +4,9 @@ description: "Uso de flaps y slats para aumentar el coeficiente de sustentación
 keywords: ["flaps", "slats", "slots", "borde de salida", "borde de ataque", "aumento de sustentación"]
 ---
 
+# Aumento de CLMAX (Dispositivos Hiper-sustentadores)
+
+
 ## Propósito
 Aumentar el $C_{L_{max}}$ permite a la aeronave volar a velocidades más bajas (la velocidad de pérdida se reduce) de forma segura para Despegue y Aterrizaje.
 $$ V_{stall} = \sqrt{\frac{2W}{\rho S C_{L_{max}}}} $$

@@ -4,6 +4,9 @@ description: "Resistencia Parásita, Resistencia Inducida y la Curva de Resisten
 keywords: ["resistencia parásita", "resistencia de forma", "fricción superficial", "resistencia de interferencia", "Vmd"]
 ---
 
+# Resistencia Total
+
+
 ## Resistencia Parásita ($D_p$)
 Resistencia no asociada con la producción de sustentación. Aumenta con el cuadrado de la velocidad ($V^2$).
 1.  **Resistencia de Fricción Superficial**: Debida a la viscosidad del aire moviéndose sobre la superficie.

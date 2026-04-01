@@ -4,6 +4,9 @@ description: "Control longitudinal, fuerzas de palanca y estabilizadores de inci
 keywords: ["elevador", "estabilador", "cola totalmente móvil", "fuerza de palanca", "cabeceo"]
 ---
 
+# Control de Cabeceo (Elevador)
+
+
 ## Elevador (Timón de Profundidad)
 La superficie de control primaria para el cabeceo (rotación alrededor del eje lateral).
 *   **Ubicación**: Articulado al borde de salida del estabilizador horizontal.

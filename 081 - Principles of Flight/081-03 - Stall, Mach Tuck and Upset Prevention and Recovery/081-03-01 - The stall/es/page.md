@@ -4,6 +4,9 @@ description: "Entendiendo la pérdida aerodinámica, síntomas y recuperación."
 keywords: ["pérdida", "ángulo de ataque crítico", "separación de flujo", "stick shaker", "recuperación"]
 ---
 
+# La Pérdida (Stall)
+
+
 ## Definición
 Una pérdida es una reducción de la sustentación causada por la **separación del flujo de aire** de la superficie superior del ala cuando se excede el **Ángulo de Ataque Crítico** ($C_{L_{max}}$).
 *   **Regla Fundamental**: Un ala puede entrar en pérdida a **cualquier velocidad**, en **cualquier actitud**, y con **cualquier potencia**. Es puramente una función del Ángulo de Ataque.

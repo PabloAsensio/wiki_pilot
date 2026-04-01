@@ -4,6 +4,9 @@ description: "Efectos del hielo, escarcha y contaminación en el rendimiento aer
 keywords: ["hielo", "escarcha", "contaminación", "coeficiente de sustentación", "velocidad de pérdida", "resistencia"]
 ---
 
+# Degradación Aerodinámica
+
+
 ## Hielo y Escarcha
 La acumulación de hielo altera la forma y rugosidad del perfil.
 *   **Hielo en Borde de Ataque**: Más crítico. Cambia la forma efectiva de la curvatura.

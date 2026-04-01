@@ -4,6 +4,9 @@ description: "Formation and characteristics of Normal and Oblique shock waves."
 keywords: ["shock wave", "normal shock", "oblique shock", "expansion wave", "wave drag"]
 ---
 
+# Shock Waves
+
+
 ## Formation
 When airflow accelerates to supersonic speeds and then decelerates back to subsonic speeds, the pressure change is not gradual but instantaneous. This thin boundary is a **Shock Wave**.
 

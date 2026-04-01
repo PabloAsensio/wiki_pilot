@@ -4,6 +4,9 @@ description: "Understanding the aerodynamic stall, symptoms, and recovery."
 keywords: ["stall", "critical angle of attack", "airflow separation", "stick shaker", "recovery"]
 ---
 
+# The Stall
+
+
 ## Definition
 A stall is a loss of lift caused by the **separation of airflow** from the upper surface of the wing when the **Critical Angle of Attack** ($C_{L_{max}}$ angle) is exceeded.
 *   **Fundamental Rule**: A wing can stall at **any airspeed**, at **any attitude**, and at **any power setting**. It is purely a function of Angle of Attack.

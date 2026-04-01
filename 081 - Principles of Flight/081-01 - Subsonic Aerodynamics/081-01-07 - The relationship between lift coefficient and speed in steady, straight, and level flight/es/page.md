@@ -4,6 +4,9 @@ description: "Balanceando sustentación y peso en vuelo nivelado y estable."
 keywords: ["ecuación de sustentación", "vuelo nivelado", "ángulo de ataque", "relación de velocidad"]
 ---
 
+# Relación entre CL y Velocidad
+
+
 ## El Balance
 En vuelo recto y nivelado constante:
 $$ Sustentación = Peso $$

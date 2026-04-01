@@ -4,6 +4,9 @@ description: "Estabilidad alrededor del eje vertical (Guiñada). Efecto veleta."
 keywords: ["estabilidad direccional", "deriva", "timón de dirección", "área de quilla", "flecha"]
 ---
 
+# Estabilidad Direccional
+
+
 ## Mecanismo
 La estabilidad direccional es proporcionada principalmente por la **Deriva (Estabilizador Vertical)**.
 *   Si la aeronave guiña (resbala), la deriva encuentra el flujo de aire con un ángulo de ataque.

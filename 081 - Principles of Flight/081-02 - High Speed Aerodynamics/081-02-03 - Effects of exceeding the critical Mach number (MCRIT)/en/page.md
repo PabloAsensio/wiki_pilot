@@ -4,6 +4,9 @@ description: "Effects of shock waves on lift, drag, and stability."
 keywords: ["shock stall", "buffet", "mach tuck", "drag divergence", "control effectiveness"]
 ---
 
+# Exceeding Critical Mach (M_crit)
+
+
 ## Flow Separation
 Behind a strong normal shock wave, the boundary layer may separate due to the adverse pressure gradient (sudden rise in pressure).
 *   This is called **Shock Induced Separation** or **Shock Stall**.

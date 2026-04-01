@@ -4,6 +4,9 @@ description: "Stability around the lateral axis (Pitch). The role of the Center 
 keywords: ["longitudinal stability", "center of gravity", "neutral point", "static margin", "tailplane"]
 ---
 
+# Longitudinal Stability
+
+
 ## Key Forces
 *   **Lift ($L$)**: Acts through the Aerodynamic Center (AC). Normally behind the CG.
 *   **Weight ($W$)**: Acts through the Center of Gravity (CG).

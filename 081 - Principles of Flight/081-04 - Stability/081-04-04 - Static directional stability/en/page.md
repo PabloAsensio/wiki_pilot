@@ -4,6 +4,9 @@ description: "Stability around the vertical axis (Yaw). Weathercock effect."
 keywords: ["directional stability", "fin", "rudder", "keel area", "sweepback"]
 ---
 
+# Directional Stability
+
+
 ## Mechanism
 Directional stability is provided primarily by the **Vertical Fin (Vertical Stabilizer)**.
 *   If the aircraft yaws (sideslips), the fin meets the airflow at an angle of attack.

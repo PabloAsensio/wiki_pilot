@@ -4,6 +4,9 @@ description: "Efectos de las ondas de choque en sustentación, resistencia y est
 keywords: ["entrada en pérdida por choque", "bufeteo", "mach tuck", "divergencia de resistencia", "efectividad de control"]
 ---
 
+# Excediendo el Mach Crítico (M_crit)
+
+
 ## Separación de Flujo
 Detrás de una onda de choque normal fuerte, la capa límite puede separarse debido al gradiente de presión adverso (aumento repentino de presión).
 *   Esto se llama **Separación Inducida por Choque** o **Entrada en Pérdida por Choque (Shock Stall)**.

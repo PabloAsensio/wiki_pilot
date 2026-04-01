@@ -4,6 +4,9 @@ description: "Número de Mach, velocidad del sonido y regímenes de vuelo."
 keywords: ["Número de Mach", "LSS", "subsónico", "transónico", "supersónico"]
 ---
 
+# Vuelo de Alta Velocidad: Definiciones
+
+
 ## Velocidad del Sonido ($a$)
 La velocidad a la que viajan las pequeñas perturbaciones de presión a través de un medio.
 *   Depende ÚNICAMENTE de la **Temperatura** (en el aire).

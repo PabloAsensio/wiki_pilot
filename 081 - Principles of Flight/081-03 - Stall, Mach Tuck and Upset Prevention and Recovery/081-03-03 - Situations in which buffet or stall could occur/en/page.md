@@ -4,6 +4,9 @@ description: "Common situations leading to stall or upset."
 keywords: ["accelerated stall", "icing", "windshear", "deep stall", "super stall"]
 ---
 
+# Stall Scenarios
+
+
 ## Accelerated Stall (High G)
 Stalling at a speed higher than normal $V_{s1g}$ due to increased Load Factor.
 *   **Turns**: In a 60° bank level turn, Load Factor is 2.0g. Stall speed increases by $\sqrt{2} = 1.41$ (41% higher).

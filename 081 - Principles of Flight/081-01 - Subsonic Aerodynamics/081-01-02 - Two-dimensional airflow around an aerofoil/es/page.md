@@ -4,6 +4,9 @@ description: "Definiciones de geometría del perfil y fuerzas aerodinámicas en 
 keywords: ["cuerda", "curvatura", "ángulo de ataque", "centro de presión", "centro aerodinámico"]
 ---
 
+# Flujo de Aire alrededor de un Perfil (2D)
+
+
 ## Geometría
 *   **Línea de Cuerda (Chord Line)**: Una línea recta que conecta el borde de ataque y el borde de salida.
 *   **Línea de Curvatura Media (Mean Camber Line)**: Una línea equidistante de las superficies superior e inferior.

@@ -4,6 +4,9 @@ description: "Ecuaciones de equilibrio para vuelo nivelado, ascensos, descensos 
 keywords: ["vuelo recto y nivelado", "fuerzas de ascenso", "fuerzas de descenso", "fuerzas de viraje", "factor de carga"]
 ---
 
+# Fuerzas en Vuelo
+
+
 ## Recto y Nivelado
 *   **Sustentación = Peso** ($L = W$)
 *   **Empuje = Resistencia** ($T = D$)

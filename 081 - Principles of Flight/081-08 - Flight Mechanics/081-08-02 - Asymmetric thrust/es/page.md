@@ -4,6 +4,9 @@ description: "Fuerzas y momentos durante falla de motor y consideraciones de Vmc
 keywords: ["empuje asimétrico", "motor crítico", "vmca", "ángulo de banqueo", "deriva"]
 ---
 
+# Mecánica de Empuje Asimétrico
+
+
 ## Los Momentos
 Cuando falla un motor, se pierde Empuje en un lado.
 1.  **Momento de Guiñada**: Hacia el motor muerto.

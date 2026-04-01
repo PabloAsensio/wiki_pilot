@@ -4,6 +4,9 @@ description: "Definiciones de estabilidad estática y dinámica, incluyendo esta
 keywords: ["estabilidad estática", "estabilidad dinámica", "momento restaurador", "oscilación", "estabilidad neutra"]
 ---
 
+# Estabilidad Estática y Dinámica
+
+
 ## Estabilidad Estática
 La tendencia **inicial** de una aeronave a retornar a su posición de equilibrio original después de ser perturbada.
 *   **Positiva**: Tendencia inicial a volver a la posición original.

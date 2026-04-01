@@ -4,6 +4,9 @@ description: "Mecanismo de control de alabeo, guiñada adversa y alerones difere
 keywords: ["alerones", "alerones diferenciales", "alerones frise", "guiñada adversa", "spoilers de alabeo"]
 ---
 
+# Control de Alabeo (Alerones)
+
+
 ## Mecanismo
 Los alerones funcionan cambiando la curvatura de la sección externa del ala.
 *   **Bastón Izquierda**: Alerón izquierdo ARRIBA (baja sustentación) -> Ala izq baja. Alerón derecho ABAJO (sube sustentación) -> Ala der sube.

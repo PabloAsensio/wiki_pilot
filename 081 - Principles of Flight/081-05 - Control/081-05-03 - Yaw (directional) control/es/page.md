@@ -4,6 +4,9 @@ description: "Control direccional, limitadores de timón y Vmcg."
 keywords: ["timón", "guiñada", "limitador de timón", "vmcg", "resbale"]
 ---
 
+# Control de Guiñada (Timón)
+
+
 ## Timón de Dirección
 La superficie de control primaria para la guiñada (rotación alrededor del eje vertical/normal).
 *   **Acción**: Timón Izquierda -> Cola mueve Derecha -> Nariz Guiña Izquierda.

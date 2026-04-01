@@ -4,6 +4,9 @@ description: "Límites de velocidad clave, factores de carga y efectos aeroelás
 keywords: ["vne", "vno", "va", "flutter", "factor de carga", "límites g"]
 ---
 
+# Limitaciones Operativas
+
+
 ## Velocidades Clave
 *   **Vne (Velocidad de Nunca Exceder)**: La línea roja. Operar por encima arriesga falla estructural por flutter o cargas excesivas.
 *   **Vno (Velocidad de Crucero Estructural Máxima)**: El arco amarillo. No exceder en aire turbulento.

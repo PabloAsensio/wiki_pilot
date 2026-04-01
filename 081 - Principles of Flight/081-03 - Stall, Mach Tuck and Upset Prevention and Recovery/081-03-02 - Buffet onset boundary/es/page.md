@@ -4,6 +4,9 @@ description: "Diagramas V-n y el techo aerodinámico."
 keywords: ["inicio de bufeteo", "rincón del ataúd", "techo aerodinámico", "factor de carga", "fuerza g"]
 ---
 
+# Límite de Inicio de Bufeteo y Envolvente de Vuelo
+
+
 ## Límite de Inicio de Bufeteo
 El límite en la envolvente de vuelo donde ocurre el bufeteo.
 *   **Bufeteo de Baja Velocidad**: Causado por la separación del flujo de aire en altos ángulos de ataque (acercándose a la pérdida).

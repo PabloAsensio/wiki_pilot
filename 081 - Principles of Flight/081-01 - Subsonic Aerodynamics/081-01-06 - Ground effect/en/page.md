@@ -4,6 +4,9 @@ description: "Changes in aerodynamic characteristics when flying close to the gr
 keywords: ["ground effect", "induced drag", "floating", "downwash"]
 ---
 
+# Ground Effect
+
+
 ## Mechanism
 When within approximately **one wingspan** height of the surface:
 *   The ground interferes with the formation of wing tip vortices.

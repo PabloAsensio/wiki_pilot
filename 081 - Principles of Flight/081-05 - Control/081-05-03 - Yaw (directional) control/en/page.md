@@ -4,6 +4,9 @@ description: "Directional control, rudder limiters, and Vmcg."
 keywords: ["rudder", "yaw", "rudder limiter", "vmcg", "slideslip"]
 ---
 
+# Yaw Control (Rudder)
+
+
 ## Rudder
 The primary control surface for yaw (rotation around the vertical/normal axis).
 *   **Action**: Rudder Left -> Tail moves Right -> Nose Yaws Left.

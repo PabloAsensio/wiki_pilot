@@ -4,6 +4,9 @@ description: "Means to reduce lift-to-drag ratio (Spoilers and Airbrakes)."
 keywords: ["spoilers", "airbrakes", "lift dump", "drag increase"]
 ---
 
+# Reducing CL-CD Ratio
+
+
 ## Purpose
 Sometimes pilots need to increase Drag (to descend stepeer or slow down) or destroy Lift (to ensure weight is on wheels during landing).
 

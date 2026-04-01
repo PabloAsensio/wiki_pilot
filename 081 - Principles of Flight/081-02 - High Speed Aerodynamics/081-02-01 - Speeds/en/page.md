@@ -4,6 +4,9 @@ description: "Mach number, speed of sound, and flight regimes."
 keywords: ["Mach number", "LSS", "subsonic", "transonic", "supersonic"]
 ---
 
+# High Speed Flight: Definitions
+
+
 ## Speed of Sound ($a$)
 The speed at which small pressure disturbances travel through a medium.
 *   Depends ONLY on **Temperature** (in air).

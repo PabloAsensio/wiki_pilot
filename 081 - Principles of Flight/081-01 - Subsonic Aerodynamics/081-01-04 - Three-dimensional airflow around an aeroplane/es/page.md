@@ -4,6 +4,9 @@ description: "Vórtices de punta de ala, deflexión hacia abajo (downwash) y la 
 keywords: ["resistencia inducida", "vórtices de punta de ala", "downwash", "alargamiento", "winglets"]
 ---
 
+# Flujo 3D y Resistencia Inducida
+
+
 ## Vórtices de Punta de Ala
 En un ala finita (3D), el aire fluye desde el área de alta presión (debajo del ala) hacia el área de baja presión (sobre el ala) alrededor de la punta.
 *   Esto crea un vórtice rotatorio en cada punta de ala.

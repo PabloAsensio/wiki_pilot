@@ -4,6 +4,9 @@ description: "How a propeller converts rotational energy into thrust, pitch defi
 keywords: ["blade element theory", "geometric pitch", "effective pitch", "slip", "propeller efficiency", "washout"]
 ---
 
+# Propeller Basics: Torque to Thrust
+
+
 ## Conversion
 The propeller acts as a rotating wing.
 *   **Resultant Force**: Has a forward component (**Thrust**) and a rotational component (**Torque Drag**).

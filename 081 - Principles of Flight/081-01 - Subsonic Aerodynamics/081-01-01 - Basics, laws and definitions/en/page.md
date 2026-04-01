@@ -4,6 +4,9 @@ description: "Fundamental laws of aerodynamics including Bernoulli's Principle a
 keywords: ["Bernoulli", "continuity equation", "static pressure", "dynamic pressure", "IAS", "TAS", "CAS"]
 ---
 
+# Aerodynamics: Basics & Definitions
+
+
 ## The Atmosphere
 *   **Composition**: 78% Nitrogen, 21% Oxygen, 1% Other (Argon, CO2).
 *   **ISA (International Standard Atmosphere)**: Used for calibration and comparison.

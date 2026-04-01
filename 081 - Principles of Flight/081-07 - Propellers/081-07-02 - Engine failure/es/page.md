@@ -4,6 +4,9 @@ description: "Resistencia por windmilling, embanderamiento y empuje asimétrico.
 keywords: ["windmilling", "embanderamiento", "motor crítico", "empuje asimétrico", "vmca"]
 ---
 
+# Falla de Motor en Hélice
+
+
 ## Windmilling (Molineteo)
 Cuando un motor falla, el flujo de aire mueve la hélice (actúa como turbina).
 *   **Resistencia**: Crea una resistencia masiva porque la hélice toma energía del aire para girar el motor muerto.

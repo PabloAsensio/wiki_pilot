@@ -4,6 +4,9 @@ description: "Velocidades de rendimiento clave derivadas de la Polar de Resisten
 keywords: ["polar de resistencia", "vmd", "vmp", "mejor planeo", "autonomía", "alcance"]
 ---
 
+# Puntos de la Curva Polar
+
+
 ## Polar de Resistencia
 Un gráfico de Coeficiente de Sustentación ($C_L$) vs Coeficiente de Resistencia ($C_D$).
 *   **Tangente desde el Origen**: El punto de máxima **Relación L/D**.

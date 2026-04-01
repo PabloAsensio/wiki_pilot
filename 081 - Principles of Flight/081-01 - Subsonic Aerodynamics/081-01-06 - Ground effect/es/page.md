@@ -4,6 +4,9 @@ description: "Cambios en las características aerodinámicas al volar cerca del 
 keywords: ["efecto suelo", "resistencia inducida", "flotación", "downwash"]
 ---
 
+# Efecto Suelo
+
+
 ## Mecanismo
 Cuando se está dentro de aproximadamente **una envergadura** de altura de la superficie:
 *   El suelo interfiere con la formación de los vórtices de punta de ala.

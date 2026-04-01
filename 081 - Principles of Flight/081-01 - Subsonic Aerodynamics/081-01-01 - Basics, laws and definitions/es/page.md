@@ -4,6 +4,9 @@ description: "Leyes fundamentales de la aerodinámica incluyendo el Principio de
 keywords: ["Bernoulli", "ecuación de continuidad", "presión estática", "presión dinámica", "IAS", "TAS", "CAS"]
 ---
 
+# Aerodinámica: Conceptos Básicos y Definiciones
+
+
 ## La Atmósfera
 *   **Composición**: 78% Nitrógeno, 21% Oxígeno, 1% Otros (Argón, CO2).
 *   **ISA (Atmósfera Estándar Internacional)**: Usada para calibración y comparación.

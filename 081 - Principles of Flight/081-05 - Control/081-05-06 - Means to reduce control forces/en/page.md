@@ -4,6 +4,9 @@ description: "Aerodynamic balancing methods to assist the pilot."
 keywords: ["aerodynamic balance", "horn balance", "inset hinge", "balance tab", "frise aileron"]
 ---
 
+# Reducing Control Forces
+
+
 ## The Problem
 As aircraft size and speed increase, the force required to deflect a control surface becomes too great for a pilot to handle manually.
 

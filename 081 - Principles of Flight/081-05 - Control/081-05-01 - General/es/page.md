@@ -4,6 +4,9 @@ description: "Controles de vuelo primarios y secundarios y su interacción con l
 keywords: ["controles primarios", "controles secundarios", "sistema de control de vuelo", "ejes"]
 ---
 
+# Controles de Vuelo: Visión General
+
+
 ## Superficies de Control Primarias
 Controles que rotan la aeronave alrededor de sus tres ejes:
 1.  **Elevador (Timón de Profundidad)** (Cabeceo / Eje Lateral).

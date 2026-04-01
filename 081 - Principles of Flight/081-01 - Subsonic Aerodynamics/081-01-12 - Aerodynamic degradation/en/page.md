@@ -4,6 +4,9 @@ description: "Effects of ice, frost, and contamination on aerodynamic performanc
 keywords: ["ice", "frost", "contamination", "lift coefficient", "stall speed", "drag"]
 ---
 
+# Aerodynamic Degradation
+
+
 ## Ice and Frost
 Accretion of ice alters the shape and roughness of the aerofoil.
 *   **Leading Edge Ice**: Most critical. Changes the effective camber shape.

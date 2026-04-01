@@ -4,6 +4,9 @@ description: "Balancing lift and weight in steady level flight."
 keywords: ["lift equation", "level flight", "angle of attack", "speed relationship"]
 ---
 
+# Relationship between CL and Speed
+
+
 ## The Balance
 In steady, straight, and level flight:
 $$ Lift = Weight $$

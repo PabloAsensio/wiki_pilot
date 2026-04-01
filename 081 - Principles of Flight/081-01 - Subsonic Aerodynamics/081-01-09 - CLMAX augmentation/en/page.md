@@ -4,6 +4,9 @@ description: "Using flaps and slats to increase maximum lift coefficient for lan
 keywords: ["flaps", "slats", "slots", "trailing edge", "leading edge", "lift augmentation"]
 ---
 
+# CLMAX Augmentation (High Lift Devices)
+
+
 ## Purpose
 To increase $C_{L_{max}}$ allows the aircraft to fly at lower speeds (Stall speed is reduced) safely for Take-off and Landing.
 $$ V_{stall} = \sqrt{\frac{2W}{\rho S C_{L_{max}}}} $$

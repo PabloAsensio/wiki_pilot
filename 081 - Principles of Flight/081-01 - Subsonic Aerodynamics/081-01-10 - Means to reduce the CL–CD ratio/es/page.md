@@ -4,6 +4,9 @@ description: "Medios para reducir la relación sustentación-resistencia (Spoile
 keywords: ["spoilers", "aerofrenos", "lift dump", "aumento de resistencia"]
 ---
 
+# Reducción de la Relación CL-CD
+
+
 ## Propósito
 A veces los pilotos necesitan aumentar la Resistencia (para descender más pronunciado o frenar) o destruir la Sustentación (para asegurar peso en las ruedas durante el aterrizaje).
 

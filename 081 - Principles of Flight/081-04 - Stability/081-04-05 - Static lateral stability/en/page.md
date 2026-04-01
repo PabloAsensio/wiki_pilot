@@ -4,6 +4,9 @@ description: "Stability around the longitudinal axis (Roll). Dihedral effect."
 keywords: ["lateral stability", "dihedral", "anhedral", "sideslip", "sweepback"]
 ---
 
+# Lateral Stability
+
+
 ## Mechanism
 When an aircraft rolls, the lift vector tilts and a **Sideslip** begins towards the lower wing (due to gravity).
 *   Correct static lateral stability creates a rolling moment that raises the lower wing to restore level flight.

@@ -4,6 +4,9 @@ description: "Parasite Drag, Induced Drag, and the Total Drag Curve."
 keywords: ["parasite drag", "form drag", "skin friction", "interference drag", "Vmd"]
 ---
 
+# Total Drag
+
+
 ## Parasite Drag ($D_p$)
 Drag not associated with the production of lift. Increases with speed squared ($V^2$).
 1.  **Skin Friction Drag**: Due to viscosity of air moving over the surface.

@@ -4,6 +4,9 @@ description: "How vertical gusts affect load factor and the gust envelope diagra
 keywords: ["gust load factor", "vertical gust", "vb", "wing loading", "aspect ratio"]
 ---
 
+# Gust Envelope
+
+
 ## Gust Effect
 A vertical gust changes the effective Angle of Attack (AoA) of the wing.
 *   **Updraft**: Increases AoA -> Increases Lift -> Increases Load Factor ($n > 1$).

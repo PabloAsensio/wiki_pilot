@@ -4,6 +4,9 @@ description: "V-n diagrams and the aerodynamic ceiling."
 keywords: ["buffet onset", "coffin corner", "aerodynamic ceiling", "load factor", "g-force"]
 ---
 
+# Buffet Onset & Flight Envelope
+
+
 ## Buffet Onset Boundary
 The boundary in the flight envelope where buffet occurs.
 *   **Low Speed Buffet**: Caused by airflow separation at high angles of attack (approaching stall).

@@ -4,6 +4,9 @@ description: "Purpose of trimming and methods to reduce pilot workload."
 keywords: ["trim tab", "balance tab", "anti-balance tab", "servo tab", "mass balance"]
 ---
 
+# Trimming and Control Forces
+
+
 ## Trim Tab
 A small surface on the trailing edge of a primary control.
 *   **Operation**: Deflects in the **opposite** direction to the control surface.

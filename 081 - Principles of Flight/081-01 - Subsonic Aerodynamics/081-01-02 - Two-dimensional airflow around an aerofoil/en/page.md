@@ -4,6 +4,9 @@ description: "Definitions of aerofoil geometry and aerodynamic forces in two dim
 keywords: ["chord line", "camber", "angle of attack", "center of pressure", "aerodynamic center"]
 ---
 
+# Airflow around an Aerofoil (2D)
+
+
 ## Geometry
 *   **Chord Line**: A straight line connecting the leading edge and the trailing edge.
 *   **Mean Camber Line**: A line equidistant from the upper and lower surfaces.

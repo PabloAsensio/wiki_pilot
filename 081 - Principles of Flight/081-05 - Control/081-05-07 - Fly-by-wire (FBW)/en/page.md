@@ -4,6 +4,9 @@ description: "Electronic flight control systems and flight envelope protection."
 keywords: ["fly-by-wire", "flight control computer", "protection", "alpha floor", "stick pusher"]
 ---
 
+# Fly-By-Wire (FBW)
+
+
 ## Concept
 Replaces mechanical linkages (cables/rods) with electrical signals.
 *   Pilot input -> Computer -> Actuator -> Control Surface.

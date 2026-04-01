@@ -4,6 +4,9 @@ description: "Efectos aerodinámicos y giroscópicos indeseados de las hélices.
 keywords: ["reacción de torque", "precesión giroscópica", "estela de hélice", "factor p", "efecto de pala asimétrica"]
 ---
 
+# Efectos Secundarios de la Hélice
+
+
 ## 1. Reacción de Torque (Par)
 Basado en la 3ra Ley de Newton.
 *   **Efecto**: El motor gira la hélice a la Derecha -> El avión tiende a Alabear a la Izquierda.

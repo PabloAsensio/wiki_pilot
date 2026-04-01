@@ -4,6 +4,9 @@ description: "Estabilidad alrededor del eje lateral (Cabeceo). El rol del Centro
 keywords: ["estabilidad longitudinal", "centro de gravedad", "punto neutro", "margen estático", "estabilizador horizontal"]
 ---
 
+# Estabilidad Longitudinal
+
+
 ## Fuerzas Clave
 *   **Sustentación ($L$)**: Actúa a través del Centro Aerodinámico (AC). Normalmente detrás del CG.
 *   **Peso ($W$)**: Actúa a través del Centro de Gravedad (CG).

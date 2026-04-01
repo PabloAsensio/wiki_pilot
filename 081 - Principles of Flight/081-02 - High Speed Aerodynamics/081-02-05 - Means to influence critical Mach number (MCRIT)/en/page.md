@@ -4,6 +4,9 @@ description: "Design features used to delay the onset of shock waves and increas
 keywords: ["sweepback", "thin wings", "supercritical aerofoil", "area rule", "vortex generator"]
 ---
 
+# Influencing Critical Mach (Increase M_crit)
+
+
 ## Goal
 To fly faster without incurring the penalties of Drag Divergence and Shock Stall. We want to **increase** $M_{crit}$.
 

@@ -4,6 +4,9 @@ description: "Increasing solidity to absorb high engine power."
 keywords: ["solidity", "tip speed", "number of blades", "scimitar blades", "contra-rotating"]
 ---
 
+# Power Absorption Design
+
+
 ## The Problem
 Powerful engines (turboprops) need to convert huge horsepower into thrust without the propeller tips going supersonic (which kills efficiency and creates noise).
 

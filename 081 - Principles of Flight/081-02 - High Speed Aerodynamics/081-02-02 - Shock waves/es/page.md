@@ -4,6 +4,9 @@ description: "Formación y características de ondas de choque Normales y Oblicu
 keywords: ["onda de choque", "choque normal", "choque oblicuo", "onda de expansión", "resistencia de onda"]
 ---
 
+# Ondas de Choque
+
+
 ## Formación
 Cuando el flujo de aire acelera a velocidades supersónicas y luego desacelera de vuelta a velocidades subsónicas, el cambio de presión no es gradual sino instantáneo. Esta delgada frontera es una **Onda de Choque**.
 
