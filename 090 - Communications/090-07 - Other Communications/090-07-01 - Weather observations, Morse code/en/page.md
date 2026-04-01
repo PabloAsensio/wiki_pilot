@@ -1,3 +1,11 @@
+---
+title: "Weather Observations and Morse Code in Aviation"
+description: "Use of Morse code and weather-related communication elements for navigation aid identification and operations."
+keywords: ["morse code", "navaid identification", "weather observations", "vor ident", "ndb ident", "aviation communications"]
+---
+
+# Weather Observations and Morse Code in Aviation
+
 ## Morse Code in Aviation
 Morse code is used in aviation primarily to identify radio navigation aids (Navaids).
 

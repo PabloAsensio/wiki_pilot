@@ -1,3 +1,11 @@
+---
+title: "Radiotelephony Transmission Standards"
+description: "Standard ICAO radiotelephony phraseology and transmission conventions for clear ATC communication."
+keywords: ["radiotelephony", "icao phraseology", "transmission standards", "acknowledge", "affirm", "monitor", "aviation communication"]
+---
+
+# Radiotelephony Transmission Standards
+
 ## Standard Phraseology
 Standard phraseology is essential to ensure clear and unambiguous communication. The following table lists common phrases and their meanings according to **ICAO Annex 10, Volume II** and **Doc 9432**.
 

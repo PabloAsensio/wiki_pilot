@@ -1,3 +1,11 @@
+---
+title: "Información Meteorológica de Aeródromo y ATIS"
+description: "Reglas de reporte de viento, estructura ATIS e información meteorológica relevante para la operación."
+keywords: ["meteorología de aeródromo", "atis", "volmet", "metar", "taf", "norte verdadero", "norte magnético"]
+---
+
+# Información Meteorológica de Aeródromo y ATIS
+
 ## Reglas de Notificación del Viento
 Existe una distinción crucial en cómo se notifica la dirección del viento en aviación:
 

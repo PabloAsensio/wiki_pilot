@@ -1,3 +1,11 @@
+---
+title: "Propagación VHF y Asignación de Frecuencias: Principios Generales"
+description: "Fundamentos del espectro radioeléctrico, banda aérea VHF y asignación de frecuencias de navegación/comunicación."
+keywords: ["propagación vhf", "asignación de frecuencias", "banda aérea", "frecuencias nav", "frecuencias com", "comunicaciones oaci"]
+---
+
+# Propagación VHF y Asignación de Frecuencias: Principios Generales
+
 ## Bandas de Frecuencia
 El espectro radioeléctrico se divide en bandas específicas según la frecuencia. La aviación utiliza varias de ellas:
 

@@ -1,3 +1,11 @@
+---
+title: "Distress and Urgency Signals and Procedures"
+description: "MAYDAY and PAN PAN definitions, message priority, and practical distress/urgency radiotelephony procedures."
+keywords: ["mayday", "pan pan", "distress", "urgency", "message priorities", "icao annex 10", "emergency communication"]
+---
+
+# Distress and Urgency Signals and Procedures
+
 ## Definitions
 *   **DISTRESS (Socorro)**: A condition of being threatened by **grave and imminent danger** and of requiring **immediate assistance**.
     *   Signal: **MAYDAY** (Spoken three times).

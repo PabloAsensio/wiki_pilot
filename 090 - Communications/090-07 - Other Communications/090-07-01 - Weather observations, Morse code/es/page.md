@@ -1,3 +1,11 @@
+---
+title: "Observaciones Meteorológicas y Código Morse en Aviación"
+description: "Uso del código Morse y elementos de comunicación meteorológica para identificación de radioayudas y operación segura."
+keywords: ["código morse", "identificación de radioayudas", "observaciones meteorológicas", "ident vor", "ident ndb", "comunicaciones aeronáuticas"]
+---
+
+# Observaciones Meteorológicas y Código Morse en Aviación
+
 ## Código Morse en Aviación
 El código Morse se utiliza en aviación principalmente para identificar ayudas a la navegación (Navaids).
 

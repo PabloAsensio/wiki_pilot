@@ -1,3 +1,11 @@
+---
+title: "Aeronautical Communication: Associated Terms"
+description: "Core communication terms, priorities, and channel concepts used in aeronautical operations."
+keywords: ["aeronautical communication", "message priority", "mayday", "pan pan", "simplex", "duplex", "air-ground communication"]
+---
+
+# Aeronautical Communication: Associated Terms
+
 ## Categories of Messages
 According to **ICAO Annex 10, Volume II**, the messages handled by the aeronautical mobile service are classified by priority. The order of priority for establishing communications and transmitting messages is as follows:
 

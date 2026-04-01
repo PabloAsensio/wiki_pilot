@@ -1,3 +1,11 @@
+---
+title: "Aerodrome Weather Information and ATIS"
+description: "Wind reporting conventions, ATIS structure, and aerodrome weather information for operational communication."
+keywords: ["aerodrome weather", "atis", "volmet", "metar", "taf", "true north", "magnetic north"]
+---
+
+# Aerodrome Weather Information and ATIS
+
 ## Wind Reporting Rules
 A crucial distinction exists in how wind direction is reported in aviation:
 

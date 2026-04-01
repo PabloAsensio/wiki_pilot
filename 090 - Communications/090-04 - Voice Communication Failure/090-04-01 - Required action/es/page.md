@@ -1,3 +1,11 @@
+---
+title: "Fallo de Comunicaciones por Voz: Acciones Requeridas"
+description: "Acciones del piloto, códigos SSR y procedimientos de transmisión a ciegas ante fallo de comunicaciones."
+keywords: ["fallo de comunicaciones", "fallo de radio", "ssr 7600", "transmitiendo a ciegas", "guardia 121.5", "ifr sin comunicaciones"]
+---
+
+# Fallo de Comunicaciones por Voz: Acciones Requeridas
+
 ## Acciones Generales
 En caso de fallo de comunicaciones por radio, el piloto debe intentar primero restablecer la comunicación:
 1.  Comprobando los auriculares y las conexiones de audio.

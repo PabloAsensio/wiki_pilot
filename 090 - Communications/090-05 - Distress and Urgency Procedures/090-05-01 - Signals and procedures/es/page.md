@@ -1,3 +1,11 @@
+---
+title: "Señales y Procedimientos de Socorro y Urgencia"
+description: "Definiciones MAYDAY/PAN PAN, prioridad de mensajes y procedimientos prácticos de radiotelefonía de emergencia."
+keywords: ["mayday", "pan pan", "socorro", "urgencia", "prioridad de mensajes", "anexo 10 oaci", "comunicaciones de emergencia"]
+---
+
+# Señales y Procedimientos de Socorro y Urgencia
+
 ## Definiciones
 *   **SOCORRO (Distress)**: Condición de estar amenazado por un **peligro grave e inminente** y de requerir **ayuda inmediata**.
     *   Señal: **MAYDAY** (Pronunciado tres veces).

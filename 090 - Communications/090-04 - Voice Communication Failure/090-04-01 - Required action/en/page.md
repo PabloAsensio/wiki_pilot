@@ -1,3 +1,11 @@
+---
+title: "Voice Communication Failure: Required Actions"
+description: "Required pilot actions, SSR codes, and blind transmission procedures during radio communication failure."
+keywords: ["communication failure", "radio failure", "ssr 7600", "transmitting blind", "guard 121.5", "ifr lost comm"]
+---
+
+# Voice Communication Failure: Required Actions
+
 ## General Actions
 In the event of a radio communication failure, the pilot should first attempt to re-establish communication by:
 1.  Checking headsets and audio connections.
