@@ -1,10 +1,10 @@
 ---
-title: "Wind shear"
-description: "Understand wind shear, microbursts, low-level wind shear alerts (LLWAS), and their danger to aircraft."
-keywords: ["wind shear aviation hazards", "microburst danger flying", "LLWAS ATPL meteorology", "low level wind shear warning"]
+title: "Wind Shear in Aviation: Definition, Causes and Hazards"
+description: "ATPL-focused explanation of wind shear in aviation, including definition, causes, microbursts, and low-level wind shear hazards."
+keywords: ["wind shear", "what is wind shear", "wind shear definition", "wind shear in aviation", "definition of wind shear", "microburst danger flying", "low level wind shear warning"]
 ---
 
-# Wind shear
+# Wind Shear in Aviation: Definition, Causes and Hazards
 
 
 Wind shear is defined as a sudden change in wind speed and/or direction over a short distance. It can occur in both the horizontal and vertical planes.

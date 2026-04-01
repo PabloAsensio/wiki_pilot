@@ -1,10 +1,10 @@
 ---
-title: "Visibility-reducing phenomena"
-description: "Learn about dust, sand, smoke, volcanic ash, and their profound impact on aviation visibility and engines."
-keywords: ["visibility reducing phenomena aviation", "volcanic ash flying hazards", "dust sand smoke meteorology ATPL", "IFR visibility requirements"]
+title: "Visibility-Reducing Phenomena in Aviation"
+description: "Operational overview of visibility-reducing phenomena in aviation, including fog, haze, volcanic ash, dust, smoke, and precipitation effects."
+keywords: ["visibility reducing phenomena", "visibility reduction", "fog mist haze aviation", "volcanic ash flying hazards", "dust sand smoke meteorology", "IFR visibility requirements"]
 ---
 
-# Visibility-reducing phenomena
+# Visibility-Reducing Phenomena in Aviation
 
 
 Aeronautical visibility can be reduced by various meteorological phenomena, which are classified into hydrometeors (water) and lithometeors (solid particles).

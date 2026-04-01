@@ -1,10 +1,10 @@
 ---
-title: "Fenómenos que reducen la visibilidad"
-description: "Aprende sobre polvo, arena, humo, ceniza volcánica y su profundo impacto en la visibilidad y motores de aviación."
-keywords: ["fenómenos reducción visibilidad aviación", "ceniza volcánica peligros de vuelo", "polvo arena humo meteorología ATPL", "requisitos visibilidad IFR"]
+title: "Fenómenos que Reducen la Visibilidad en Aviación"
+description: "Resumen operacional de los fenómenos que reducen la visibilidad en aviación: niebla, bruma, ceniza volcánica, polvo, humo y precipitación."
+keywords: ["fenómenos que reducen la visibilidad", "reduccion de visibilidad", "niebla bruma calina aviación", "ceniza volcánica peligros de vuelo", "polvo arena humo meteorología", "requisitos visibilidad IFR"]
 ---
 
-# Fenómenos que reducen la visibilidad
+# Fenómenos que Reducen la Visibilidad en Aviación
 
 
 La visibilidad aeronáutica puede verse reducida por diversos fenómenos meteorológicos, que se clasifican en hidrometeoros (agua) y litometeoros (partículas sólidas).

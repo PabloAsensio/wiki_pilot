@@ -1,10 +1,10 @@
 ---
-title: "Air density"
-description: "How air density affects aircraft performance. Learn about the relationship with temperature, pressure, humidity, and Density Altitude for ATPL meteorology."
-keywords: ["air density aviation meteorology", "density altitude ATPL", "effect of pressure temperature on air density", "aircraft performance density", "humidity effect on density altitude"]
+title: "Air Density in Aviation: Definition, Values and Performance Effects"
+description: "Aviation guide to air density, atmospheric density, and density effects on performance, including pressure, temperature, and humidity relationships."
+keywords: ["air density", "density of air", "atmospheric density", "what is the air density", "low air density", "air density aviation meteorology", "density altitude ATPL"]
 ---
 
-# Air density
+# Air Density in Aviation: Definition, Values and Performance Effects
 
 
 ## Relationship with Pressure and Temperature

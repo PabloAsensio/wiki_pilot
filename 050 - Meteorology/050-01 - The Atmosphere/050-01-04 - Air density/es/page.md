@@ -1,10 +1,10 @@
 ---
-title: "Densidad del aire"
-description: "Descubre cómo factores como presión, temperatura y humedad afectan la densidad del aire y por consiguiente el rendimiento de las aeronaves."
-keywords: ["densidad del aire aviación", "altitud de densidad meteorología ATPL", "efecto de presión temperatura en densidad aire", "rendimiento de la aeronave densidad", "humedad densidad altitud vuelo"]
+title: "Densidad del Aire en Aviación: Definición, Valores y Efectos en Performance"
+description: "Guía de aviación sobre densidad del aire, densidad atmosférica y su impacto en performance, con relación a presión, temperatura y humedad."
+keywords: ["densidad del aire", "densidad atmosferica", "cual es la densidad del aire", "densidad del aire kg/m3", "densidad aire temperatura", "densidad del aire aviación", "altitud de densidad meteorología ATPL"]
 ---
 
-# Densidad del aire
+# Densidad del Aire en Aviación: Definición, Valores y Efectos en Performance
 
 
 ## Relación con Presión y Temperatura
