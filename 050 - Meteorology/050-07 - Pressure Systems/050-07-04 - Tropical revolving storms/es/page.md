@@ -1,10 +1,10 @@
 ---
-title: "Tormentas tropicales giratorias"
-description: "Guía de aviación sobre tormentas tropicales: huracanes, tifones, ciclones, su formación y peligros."
-keywords: ["tormentas tropicales giratorias aviación", "huracanes tifones ciclones vuelo", "TRS meteorología ATPL", "formación huracanes peligros piloto"]
+title: "Tormentas Tropicales Giratorias: Formación, Estructura y Peligros en Aviación"
+description: "Guía de aviación sobre la formación de tormentas tropicales giratorias, su estructura y riesgos operacionales en vuelo."
+keywords: ["tormentas tropicales giratorias", "formacion de tormentas tropicales", "que es una tormenta tropical giratoria", "huracanes tifones ciclones vuelo", "TRS meteorología ATPL", "peligros en aviación"]
 ---
 
-# Tormentas tropicales giratorias
+# Tormentas Tropicales Giratorias: Formación, Estructura y Peligros en Aviación
 
 
 Las **Tormentas Tropicales Giratorias** (Tropical Revolving Storms - TRS) son depresiones térmicas de gran escala que se desarrollan sobre océanos tropicales cálidos. Son los sistemas meteorológicos más destructivos de la tierra, obteniendo su energía de la liberación de **calor latente** de condensación.

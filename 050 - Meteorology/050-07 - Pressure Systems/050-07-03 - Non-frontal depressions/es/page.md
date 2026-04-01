@@ -1,10 +1,10 @@
 ---
-title: "Depresiones no frontales"
-description: "Estudia las depresiones no frontales, bajas térmicas y bajas orográficas para meteorología ATPL de la EASA."
-keywords: ["depresiones no frontales aviación", "bajas térmicas meteorología ATPL", "depresión orográfica vuelo", "sistemas de baja presión piloto"]
+title: "Depresiones no Frontales: Depresión Secundaria y Sistemas de Baja Presión"
+description: "Lección de meteorología ATPL sobre depresiones no frontales, incluida la depresión secundaria, bajas térmicas y bajas orográficas."
+keywords: ["depresiones no frontales", "depresion secundaria meteorologia", "anticiclones y depresiones", "bajas térmicas meteorología ATPL", "depresión orográfica vuelo", "sistemas de baja presión piloto"]
 ---
 
-# Depresiones no frontales
+# Depresiones no Frontales: Depresión Secundaria y Sistemas de Baja Presión
 
 
 Una **depresión** (o sistema de baja presión) es una región donde la presión atmosférica es más baja que en sus alrededores. Se caracteriza por isobaras cerradas, donde el valor de la presión disminuye hacia el centro.

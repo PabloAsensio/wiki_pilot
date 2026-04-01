@@ -1,10 +1,10 @@
 ---
-title: "Non-frontal depressions"
-description: "Study non-frontal depressions, thermal lows, and orographic lows for EASA ATPL aviation meteorology."
-keywords: ["secondary depression meteorology", "non-frontal depressions aviation", "thermal lows ATPL meteorology", "orographic depression flying", "low pressure systems aviation"]
+title: "Non-frontal Depressions: Secondary Depression and Low-Pressure Systems"
+description: "ATPL meteorology guide to non-frontal depressions, including secondary depression development, thermal lows, and orographic lows."
+keywords: ["non frontal depression", "secondary depression meteorology", "non-frontal depressions aviation", "thermal lows ATPL meteorology", "orographic depression flying", "low pressure systems aviation"]
 ---
 
-# Non-frontal depressions
+# Non-frontal Depressions: Secondary Depression and Low-Pressure Systems
 
 
 A **depression** (or low-pressure system) is a region where the atmospheric pressure is lower than in its surroundings. It is characterized by closed isobars, where the pressure value decreases towards the center.

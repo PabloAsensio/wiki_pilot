@@ -1,10 +1,10 @@
 ---
-title: "Atmósfera Estándar Internacional (ISA)"
-description: "Guía de estudio sobre la Atmósfera Estándar Internacional (ISA): temperatura, presión, y gradiente térmico para pilotos ATPL y PPL."
-keywords: ["atmósfera estándar internacional ISA aviación", "valores ISA meteorología ATPL", "temperatura y presión estándar vuelo", "gradiente térmico ISA troposfera", "OACI atmósfera estándar"]
+title: "Atmósfera Estándar Internacional (ISA): Gradiente Térmico, Temperatura y Presión"
+description: "Guía ATPL sobre la atmósfera estándar internacional (ISA), con valores a nivel del mar, gradiente térmico y presión estándar en aviación."
+keywords: ["atmosfera estandar", "atmosfera isa", "atmósfera estándar internacional", "isa aeronautica", "valores ISA meteorología ATPL", "temperatura y presión estándar vuelo", "OACI atmósfera estándar"]
 ---
 
-# Atmósfera Estándar Internacional (ISA)
+# Atmósfera Estándar Internacional (ISA): Gradiente Térmico, Temperatura y Presión
 
 
 La Atmósfera Estándar Internacional (ISA) es un modelo atmosférico hipotético utilizado como referencia para la navegación aérea y el diseño de aeronaves.

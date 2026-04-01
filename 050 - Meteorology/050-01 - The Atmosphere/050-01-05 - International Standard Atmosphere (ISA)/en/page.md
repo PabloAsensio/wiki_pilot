@@ -1,10 +1,10 @@
 ---
-title: "International Standard Atmosphere (ISA)"
-description: "Reference guide on the International Standard Atmosphere (ISA), including standard temperature, pressure, and lapse rate for aviation studies."
-keywords: ["isa meteorology", "international standard atmosphere ISA aviation", "ISA values ATPL meteorology", "standard temperature and pressure flying"]
+title: "International Standard Atmosphere (ISA): Lapse Rate, Temperature and Pressure"
+description: "Aviation reference on the International Standard Atmosphere (ISA), including sea-level values, temperature lapse rate, and standard pressure for ATPL study."
+keywords: ["international standard atmosphere", "icao standard atmosphere", "international standard atmosphere lapse rate", "icao standard atmosphere temperature lapse rate", "air density 1.225 kg/m3 standard atmosphere", "isa meteorology", "standard temperature and pressure flying"]
 ---
 
-# International Standard Atmosphere (ISA)
+# International Standard Atmosphere (ISA): Lapse Rate, Temperature and Pressure
 
 
 The International Standard Atmosphere (ISA) is a hypothetical atmospheric model used as a reference for air navigation and aircraft design.
