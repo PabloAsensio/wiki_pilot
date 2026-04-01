@@ -1,10 +1,10 @@
 ---
-title: Navegación General: Triángulo de Velocidades (TOV)
-description: Aplica el triangulo de velocidades para resolver correcciones de viento y problemas de rumbo.
+title: "Navegación General: Triángulo de Velocidades (TOV)"
+description: "Aplica el triangulo de velocidades para resolver correcciones de viento y problemas de rumbo."
 keywords:
-  - triangulo de velocidades
-  - angulo de correccion por viento
-  - rumbo y derrota
+    - "triangulo de velocidades"
+    - "angulo de correccion por viento"
+    - "rumbo y derrota"
 ---
 
 # Navegación General: Triángulo de Velocidades (TOV)

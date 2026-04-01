@@ -1,10 +1,10 @@
 ---
-title: Radionavegación: Concepto PBN (ICAO Doc 9613)
-description: Estudia el concepto PBN y su marco principal segun ICAO Doc 9613.
+title: "Radionavegación: Concepto PBN (ICAO Doc 9613)"
+description: "Estudia el concepto PBN y su marco principal segun ICAO Doc 9613."
 keywords:
-  - concepto pbn
-  - icao doc 9613
-  - navegacion basada en prestaciones
+    - "concepto pbn"
+    - "icao doc 9613"
+    - "navegacion basada en prestaciones"
 ---
 
 # Radionavegación: Concepto PBN (ICAO Doc 9613)

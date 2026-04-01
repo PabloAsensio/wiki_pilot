@@ -1,10 +1,10 @@
 ---
-title: General Navigation: Position
-description: Understand latitude, longitude, and position fixing principles for practical flight navigation.
+title: "General Navigation: Position"
+description: "Understand latitude, longitude, and position fixing principles for practical flight navigation."
 keywords:
-  - position fixing
-  - latitude and longitude
-  - general navigation
+    - "position fixing"
+    - "latitude and longitude"
+    - "general navigation"
 ---
 
 # General Navigation: Position

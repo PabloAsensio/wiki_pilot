@@ -1,12 +1,12 @@
 ---
-title: Radio Navigation: NDB and ADF in Aviation
-description: Learn how non directional beacon systems and ADF work in aviation navigation and their practical limitations.
+title: "Radio Navigation: NDB and ADF in Aviation"
+description: "Learn how non directional beacon systems and ADF work in aviation navigation and their practical limitations."
 keywords:
-    - adf ndb
-    - ndb in aviation
-    - non directional beacon
-    - automatic direction finding
-    - radio navigation
+    - "adf ndb"
+    - "ndb in aviation"
+    - "non directional beacon"
+    - "automatic direction finding"
+    - "radio navigation"
 ---
 
 # Radio Navigation: NDB and ADF in Aviation

@@ -1,10 +1,10 @@
 ---
-title: Navegación General: Navegación en Ascenso y Descenso
-description: Comprende correcciones de navegacion y consideraciones de tiempo durante ascenso y descenso.
+title: "Navegación General: Navegación en Ascenso y Descenso"
+description: "Comprende correcciones de navegacion y consideraciones de tiempo durante ascenso y descenso."
 keywords:
-  - navegacion en ascenso y descenso
-  - perfil vertical
-  - cálculo de progreso de vuelo
+    - "navegacion en ascenso y descenso"
+    - "perfil vertical"
+    - "cálculo de progreso de vuelo"
 ---
 
 # Navegación General: Navegación en Ascenso y Descenso

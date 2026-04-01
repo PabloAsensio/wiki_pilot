@@ -1,10 +1,10 @@
 ---
-title: General Navigation: Standard Time
-description: Study standard time systems, UTC, and timezone use in operational flight planning.
+title: "General Navigation: Standard Time"
+description: "Study standard time systems, UTC, and timezone use in operational flight planning."
 keywords:
-  - standard time aviation
-  - utc and time zones
-  - flight planning time
+    - "standard time aviation"
+    - "utc and time zones"
+    - "flight planning time"
 ---
 
 # General Navigation: Standard Time

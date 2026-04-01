@@ -1,10 +1,10 @@
 ---
-title: Radio Navigation: Radar Pulse Techniques
-description: Understand pulse radar timing, range calculation, and signal interpretation.
+title: "Radio Navigation: Radar Pulse Techniques"
+description: "Understand pulse radar timing, range calculation, and signal interpretation."
 keywords:
-  - radar pulse techniques
-  - pulse radar
-  - aviation radar
+    - "radar pulse techniques"
+    - "pulse radar"
+    - "aviation radar"
 ---
 
 # Radio Navigation: Radar Pulse Techniques

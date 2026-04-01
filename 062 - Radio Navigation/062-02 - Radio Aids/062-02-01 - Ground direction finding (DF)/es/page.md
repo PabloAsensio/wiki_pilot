@@ -1,10 +1,10 @@
 ---
-title: Radionavegación: Radiogoniometria Terrestre (DF)
-description: Comprende la radiogoniometria terrestre y sus aplicaciónes en navegacion aerea.
+title: "Radionavegación: Radiogoniometria Terrestre (DF)"
+description: "Comprende la radiogoniometria terrestre y sus aplicaciónes en navegacion aerea."
 keywords:
-  - radiogoniometria terrestre
-  - df navegacion
-  - radioayudas
+    - "radiogoniometria terrestre"
+    - "df navegacion"
+    - "radioayudas"
 ---
 
 # Radionavegación: Radiogoniometria Terrestre (DF)

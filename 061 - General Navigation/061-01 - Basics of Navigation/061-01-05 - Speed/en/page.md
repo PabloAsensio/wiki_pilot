@@ -1,10 +1,10 @@
 ---
-title: General Navigation: Speed
-description: Compare IAS, TAS, and groundspeed, and apply speed concepts to navigation computations.
+title: "General Navigation: Speed"
+description: "Compare IAS, TAS, and groundspeed, and apply speed concepts to navigation computations."
 keywords:
-  - airspeed and groundspeed
-  - tas and ias
-  - general navigation
+    - "airspeed and groundspeed"
+    - "tas and ias"
+    - "general navigation"
 ---
 
 # General Navigation: Speed

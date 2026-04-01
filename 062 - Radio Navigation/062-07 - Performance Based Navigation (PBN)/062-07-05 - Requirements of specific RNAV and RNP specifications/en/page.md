@@ -1,12 +1,12 @@
 ---
-title: Radio Navigation: RNAV and RNP Requirements for RNP Approaches
-description: Study required navigation performance, RNP approach requirements, and key RNAV/RNP specification criteria.
+title: "Radio Navigation: RNAV and RNP Requirements for RNP Approaches"
+description: "Study required navigation performance, RNP approach requirements, and key RNAV/RNP specification criteria."
 keywords:
-  - required navigation performance
-  - rnp approach requirements
-  - rnp 1 requirements
-  - rnp 10 requirements
-  - rnav requirements
+    - "required navigation performance"
+    - "rnp approach requirements"
+    - "rnp 1 requirements"
+    - "rnp 10 requirements"
+    - "rnav requirements"
 ---
 
 # Radio Navigation: RNAV and RNP Requirements for RNP Approaches

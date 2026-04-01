@@ -1,12 +1,12 @@
 ---
-title: Radionavegación: NDB y ADF en Aviación
-description: Aprende que es NDB en aviacion y como funciona ADF para orientación y navegacion radioeléctrica.
+title: "Radionavegación: NDB y ADF en Aviación"
+description: "Aprende que es NDB en aviacion y como funciona ADF para orientación y navegacion radioeléctrica."
 keywords:
-    - que es ndb en aviacion
-    - adf en aviacion
-    - adf ndb
-    - radiobaliza no direccional
-    - radiogoniometria automatica
+    - "que es ndb en aviacion"
+    - "adf en aviacion"
+    - "adf ndb"
+    - "radiobaliza no direccional"
+    - "radiogoniometria automatica"
 ---
 
 # Radionavegación: NDB y ADF en Aviación

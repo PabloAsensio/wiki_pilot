@@ -1,10 +1,10 @@
 ---
-title: Radionavegación: Propagación de Ondas
-description: Estudia modos de propagacion de radio y su impacto operativo en navegacion.
+title: "Radionavegación: Propagación de Ondas"
+description: "Estudia modos de propagacion de radio y su impacto operativo en navegacion."
 keywords:
-  - propagacion de ondas
-  - propagacion de señales
-  - navegacion aerea
+    - "propagacion de ondas"
+    - "propagacion de señales"
+    - "navegacion aerea"
 ---
 
 # Radionavegación: Propagación de Ondas

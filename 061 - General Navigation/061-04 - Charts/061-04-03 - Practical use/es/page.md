@@ -1,10 +1,10 @@
 ---
-title: Navegación General: Uso Práctico de Cartas
-description: Aplica lectura de cartas y trazado de rutas a tareas prácticas de navegacion en ruta.
+title: "Navegación General: Uso Práctico de Cartas"
+description: "Aplica lectura de cartas y trazado de rutas a tareas prácticas de navegacion en ruta."
 keywords:
-  - uso practico de cartas
-  - trazado de ruta
-  - navegacion en ruta
+    - "uso practico de cartas"
+    - "trazado de ruta"
+    - "navegacion en ruta"
 ---
 
 # Navegación General: Uso Práctico de Cartas

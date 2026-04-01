@@ -1,10 +1,10 @@
 ---
-title: Navegación General: Líneas Loxodrómicas
-description: Estudia las lineas loxodromicas y su uso en navegacion con rumbo constante.
+title: "Navegación General: Líneas Loxodrómicas"
+description: "Estudia las lineas loxodromicas y su uso en navegacion con rumbo constante."
 keywords:
-  - linea loxodromica
-  - rumbo constante
-  - navegacion general
+    - "linea loxodromica"
+    - "rumbo constante"
+    - "navegacion general"
 ---
 
 # Navegación General: Líneas Loxodrómicas

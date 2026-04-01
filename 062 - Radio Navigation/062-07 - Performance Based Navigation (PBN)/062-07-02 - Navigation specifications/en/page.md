@@ -1,10 +1,10 @@
 ---
-title: Radio Navigation: Navigation Specifications
-description: Understand RNAV and RNP navigation specifications and operational requirements.
+title: "Radio Navigation: Navigation Specifications"
+description: "Understand RNAV and RNP navigation specifications and operational requirements."
 keywords:
-  - navigation specifications
-  - rnav rnp
-  - pbn
+    - "navigation specifications"
+    - "rnav rnp"
+    - "pbn"
 ---
 
 # Radio Navigation: Navigation Specifications

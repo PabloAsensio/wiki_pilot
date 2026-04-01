@@ -1,10 +1,10 @@
 ---
-title: General Navigation: Navigation in Climb and Descent
-description: Understand navigation corrections and timing considerations during climb and descent phases.
+title: "General Navigation: Navigation in Climb and Descent"
+description: "Understand navigation corrections and timing considerations during climb and descent phases."
 keywords:
-  - climb and descent navigation
-  - vertical profile navigation
-  - flight progress calculations
+    - "climb and descent navigation"
+    - "vertical profile navigation"
+    - "flight progress calculations"
 ---
 
 # General Navigation: Navigation in Climb and Descent

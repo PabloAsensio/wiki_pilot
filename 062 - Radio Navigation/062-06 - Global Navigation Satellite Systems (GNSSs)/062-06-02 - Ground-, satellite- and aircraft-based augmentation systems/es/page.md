@@ -1,10 +1,10 @@
 ---
-title: Radionavegación: Sistemas de Aumentación GNSS
-description: Comprende aumentacion terrestre, satelital y embarcada para mejorar precisión GNSS.
+title: "Radionavegación: Sistemas de Aumentación GNSS"
+description: "Comprende aumentacion terrestre, satelital y embarcada para mejorar precisión GNSS."
 keywords:
-  - aumentacion gnss
-  - gbas sbas abaas
-  - integridad de navegacion
+    - "aumentacion gnss"
+    - "gbas sbas abaas"
+    - "integridad de navegacion"
 ---
 
 # Radionavegación: Sistemas de Aumentación GNSS

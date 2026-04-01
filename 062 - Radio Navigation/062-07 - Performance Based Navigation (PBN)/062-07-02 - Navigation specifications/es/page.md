@@ -1,10 +1,10 @@
 ---
-title: Radionavegación: Especificaciones de Navegación
-description: Comprende especificaciones RNAV y RNP y sus requisitos operativos.
+title: "Radionavegación: Especificaciones de Navegación"
+description: "Comprende especificaciones RNAV y RNP y sus requisitos operativos."
 keywords:
-  - especificaciones de navegacion
-  - rnav y rnp
-  - pbn
+    - "especificaciones de navegacion"
+    - "rnav y rnp"
+    - "pbn"
 ---
 
 # Radionavegación: Especificaciones de Navegación

@@ -1,10 +1,10 @@
 ---
-title: Radionavegación: Antenas
-description: Comprende tipos de antenas, diagramas de radiación y uso en navegacion aerea.
+title: "Radionavegación: Antenas"
+description: "Comprende tipos de antenas, diagramas de radiación y uso en navegacion aerea."
 keywords:
-  - antenas en aviacion
-  - diagramas de radiación
-  - radionavegacion
+    - "antenas en aviacion"
+    - "diagramas de radiación"
+    - "radionavegacion"
 ---
 
 # Radionavegación: Antenas

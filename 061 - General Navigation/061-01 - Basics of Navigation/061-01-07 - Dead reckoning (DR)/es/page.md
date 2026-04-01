@@ -1,10 +1,10 @@
 ---
-title: Navegación General: Navegación Estimada (DR)
-description: Usa metodos de navegacion estimada para calcular posicion con rumbo, tiempo y velocidad.
+title: "Navegación General: Navegación Estimada (DR)"
+description: "Usa metodos de navegacion estimada para calcular posicion con rumbo, tiempo y velocidad."
 keywords:
-  - navegacion estimada
-  - posicion estimada
-  - técnicas de navegacion
+    - "navegacion estimada"
+    - "posicion estimada"
+    - "técnicas de navegacion"
 ---
 
 # Navegación General: Navegación Estimada (DR)

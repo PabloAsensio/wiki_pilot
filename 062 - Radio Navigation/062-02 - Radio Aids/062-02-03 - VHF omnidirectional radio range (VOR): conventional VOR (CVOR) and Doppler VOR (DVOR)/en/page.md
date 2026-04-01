@@ -1,12 +1,12 @@
 ---
-title: Radio Navigation: VOR, CVOR, DVOR, and VOR Frequency Range
-description: Understand VOR reference and variable signals, VOR frequency range, and differences between CVOR and DVOR.
+title: "Radio Navigation: VOR, CVOR, DVOR, and VOR Frequency Range"
+description: "Understand VOR reference and variable signals, VOR frequency range, and differences between CVOR and DVOR."
 keywords:
-    - difference between vor and dvor
-    - conventional vor reference and variable signals
-    - vor frequency range
-    - vhf omnidirectional range
-    - vor navigation
+    - "difference between vor and dvor"
+    - "conventional vor reference and variable signals"
+    - "vor frequency range"
+    - "vhf omnidirectional range"
+    - "vor navigation"
 ---
 
 # Radio Navigation: VOR, CVOR, DVOR, and VOR Frequency Range

@@ -1,10 +1,10 @@
 ---
-title: General Navigation: VFR Navigation Techniques
-description: Learn practical VFR navigation techniques including pilotage, timing, and map reading.
+title: "General Navigation: VFR Navigation Techniques"
+description: "Learn practical VFR navigation techniques including pilotage, timing, and map reading."
 keywords:
-  - vfr navigation techniques
-  - pilotage and dead reckoning
-  - visual flight rules
+    - "vfr navigation techniques"
+    - "pilotage and dead reckoning"
+    - "visual flight rules"
 ---
 
 # General Navigation: VFR Navigation Techniques

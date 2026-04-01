@@ -1,10 +1,10 @@
 ---
-title: General Navigation: Triangle of Velocities (TOV)
-description: Apply the triangle of velocities to solve wind correction and heading problems.
+title: "General Navigation: Triangle of Velocities (TOV)"
+description: "Apply the triangle of velocities to solve wind correction and heading problems."
 keywords:
-  - triangle of velocities
-  - wind correction angle
-  - heading and track
+    - "triangle of velocities"
+    - "wind correction angle"
+    - "heading and track"
 ---
 
 # General Navigation: Triangle of Velocities (TOV)

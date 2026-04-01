@@ -1,12 +1,12 @@
 ---
-title: General Navigation: Direction, Magnetic Course, and Compass Points
-description: Study true, magnetic, and compass direction, including magnetic course and compass points used in air navigation.
+title: "General Navigation: Direction, Magnetic Course, and Compass Points"
+description: "Study true, magnetic, and compass direction, including magnetic course and compass points used in air navigation."
 keywords:
-  - points on the compass
-  - magnetic course
-  - aviation directions
-  - aircraft magnetism
-  - isogonic lines aviation
+    - "points on the compass"
+    - "magnetic course"
+    - "aviation directions"
+    - "aircraft magnetism"
+    - "isogonic lines aviation"
 ---
 
 # General Navigation: Direction, Magnetic Course, and Compass Points

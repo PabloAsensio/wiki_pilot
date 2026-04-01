@@ -1,10 +1,10 @@
 ---
-title: Navegación General: Relación entre Circulo Máximo y Loxodrómica
-description: Compara trayectorias de circulo maximo y loxodromica para seleccionar rutas eficientes.
+title: "Navegación General: Relación entre Circulo Máximo y Loxodrómica"
+description: "Compara trayectorias de circulo maximo y loxodromica para seleccionar rutas eficientes."
 keywords:
-  - circulo maximo vs loxodromica
-  - seleccion de ruta
-  - eficiencia de navegacion
+    - "circulo maximo vs loxodromica"
+    - "seleccion de ruta"
+    - "eficiencia de navegacion"
 ---
 
 # Navegación General: Relación entre Circulo Máximo y Loxodrómica

@@ -1,10 +1,10 @@
 ---
-title: Radio Navigation: Basic Principles of Radio Propagation
-description: Learn core radio wave principles used in aviation radio navigation systems.
+title: "Radio Navigation: Basic Principles of Radio Propagation"
+description: "Learn core radio wave principles used in aviation radio navigation systems."
 keywords:
-  - radio propagation basics
-  - aviation radio navigation
-  - radio navigation principles
+    - "radio propagation basics"
+    - "aviation radio navigation"
+    - "radio navigation principles"
 ---
 
 # Radio Navigation: Basic Principles of Radio Propagation

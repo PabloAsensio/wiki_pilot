@@ -1,10 +1,10 @@
 ---
-title: Navegación General: Distancia
-description: Repasa millas nauticas, escalas cartograficas y cálculos de distancia para planificación de ruta.
+title: "Navegación General: Distancia"
+description: "Repasa millas nauticas, escalas cartograficas y cálculos de distancia para planificación de ruta."
 keywords:
-  - cálculo de distancia
-  - millas nauticas
-  - planificación de vuelo
+    - "cálculo de distancia"
+    - "millas nauticas"
+    - "planificación de vuelo"
 ---
 
 # Navegación General: Distancia

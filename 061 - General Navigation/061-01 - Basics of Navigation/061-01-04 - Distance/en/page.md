@@ -1,10 +1,10 @@
 ---
-title: General Navigation: Nautical Miles and Distance Calculation
-description: Learn aviation nautical miles, along-track distance, and practical distance calculation methods for navigation.
+title: "General Navigation: Nautical Miles and Distance Calculation"
+description: "Learn aviation nautical miles, along-track distance, and practical distance calculation methods for navigation."
 keywords:
-  - nautical miles in aviation
-  - along track distance
-  - distance calculation navigation
+    - "nautical miles in aviation"
+    - "along track distance"
+    - "distance calculation navigation"
 ---
 
 # General Navigation: Nautical Miles and Distance Calculation

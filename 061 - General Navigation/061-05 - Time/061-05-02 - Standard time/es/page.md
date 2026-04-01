@@ -1,10 +1,10 @@
 ---
-title: Navegación General: Hora Estándar
-description: Estudia la hora estandar, UTC y el uso de husos horarios en la planificación operaciónal.
+title: "Navegación General: Hora Estándar"
+description: "Estudia la hora estandar, UTC y el uso de husos horarios en la planificación operaciónal."
 keywords:
-  - hora estandar en aviacion
-  - utc y husos horarios
-  - planificación temporal de vuelo
+    - "hora estandar en aviacion"
+    - "utc y husos horarios"
+    - "planificación temporal de vuelo"
 ---
 
 # Navegación General: Hora Estándar

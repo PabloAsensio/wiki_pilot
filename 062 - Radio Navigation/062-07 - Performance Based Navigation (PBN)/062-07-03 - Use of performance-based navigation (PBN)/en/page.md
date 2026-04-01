@@ -1,10 +1,10 @@
 ---
-title: Radio Navigation: Use of Performance Based Navigation (PBN)
-description: Learn practical use cases of PBN in terminal and en-route operations.
+title: "Radio Navigation: Use of Performance Based Navigation (PBN)"
+description: "Learn practical use cases of PBN in terminal and en-route operations."
 keywords:
-  - use of pbn
-  - performance based navigation
-  - rnav operations
+    - "use of pbn"
+    - "performance based navigation"
+    - "rnav operations"
 ---
 
 # Radio Navigation: Use of Performance Based Navigation (PBN)

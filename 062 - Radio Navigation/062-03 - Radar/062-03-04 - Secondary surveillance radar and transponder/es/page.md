@@ -1,10 +1,10 @@
 ---
-title: Radionavegación: Radar Secundario y Transpondedor
-description: Estudia operación de SSR y transpondedor, modos y uso en vigilancia ATC.
+title: "Radionavegación: Radar Secundario y Transpondedor"
+description: "Estudia operación de SSR y transpondedor, modos y uso en vigilancia ATC."
 keywords:
-  - radar secundario de vigilancia
-  - modos de transpondedor
-  - vigilancia atc
+    - "radar secundario de vigilancia"
+    - "modos de transpondedor"
+    - "vigilancia atc"
 ---
 
 # Radionavegación: Radar Secundario y Transpondedor

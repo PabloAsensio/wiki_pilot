@@ -1,12 +1,12 @@
 ---
-title: Radionavegación: VOR, CVOR, DVOR y Radiofaro Omnidireccional VHF
-description: Comprende diferencias entre VOR y DVOR, incluyendo señales, CVOR y funcionamiento del radiofaro omnidireccional VHF.
+title: "Radionavegación: VOR, CVOR, DVOR y Radiofaro Omnidireccional VHF"
+description: "Comprende diferencias entre VOR y DVOR, incluyendo señales, CVOR y funcionamiento del radiofaro omnidireccional VHF."
 keywords:
-    - cvor
-    - c vor
-    - vor doppler
-    - radiofaro omnidireccional vhf
-    - navegacion vor
+    - "cvor"
+    - "c vor"
+    - "vor doppler"
+    - "radiofaro omnidireccional vhf"
+    - "navegacion vor"
 ---
 
 # Radionavegación: VOR, CVOR, DVOR y Radiofaro Omnidireccional VHF

@@ -1,10 +1,10 @@
 ---
-title: Radio Navigation: Distance Measuring Equipment (DME)
-description: Understand DME principles, slant range, and operational use with VOR and ILS.
+title: "Radio Navigation: Distance Measuring Equipment (DME)"
+description: "Understand DME principles, slant range, and operational use with VOR and ILS."
 keywords:
-  - distance measuring equipment
-  - dme slant range
-  - radio navigation
+    - "distance measuring equipment"
+    - "dme slant range"
+    - "radio navigation"
 ---
 
 # Radio Navigation: Distance Measuring Equipment (DME)

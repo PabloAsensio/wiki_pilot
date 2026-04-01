@@ -1,10 +1,10 @@
 ---
-title: General Navigation: Dead Reckoning (DR)
-description: Use dead reckoning methods to estimate position from heading, time, and speed.
+title: "General Navigation: Dead Reckoning (DR)"
+description: "Use dead reckoning methods to estimate position from heading, time, and speed."
 keywords:
-  - dead reckoning
-  - estimated position
-  - pilot navigation techniques
+    - "dead reckoning"
+    - "estimated position"
+    - "pilot navigation techniques"
 ---
 
 # General Navigation: Dead Reckoning (DR)

@@ -1,10 +1,10 @@
 ---
-title: General Navigation: Chart Requirements
-description: Review operational and regulatory chart requirements for safe flight navigation.
+title: "General Navigation: Chart Requirements"
+description: "Review operational and regulatory chart requirements for safe flight navigation."
 keywords:
-  - aeronautical chart requirements
-  - navigation chart standards
-  - flight chart use
+    - "aeronautical chart requirements"
+    - "navigation chart standards"
+    - "flight chart use"
 ---
 
 # General Navigation: Chart Requirements

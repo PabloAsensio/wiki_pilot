@@ -1,10 +1,10 @@
 ---
-title: Radio Navigation: Global Navigation Satellite Systems (GNSS)
-description: Learn GNSS fundamentals, signal concepts, and aviation navigation applications.
+title: "Radio Navigation: Global Navigation Satellite Systems (GNSS)"
+description: "Learn GNSS fundamentals, signal concepts, and aviation navigation applications."
 keywords:
-  - gnss aviation
-  - satellite navigation
-  - global navigation satellite systems
+    - "gnss aviation"
+    - "satellite navigation"
+    - "global navigation satellite systems"
 ---
 
 # Radio Navigation: Global Navigation Satellite Systems (GNSS)

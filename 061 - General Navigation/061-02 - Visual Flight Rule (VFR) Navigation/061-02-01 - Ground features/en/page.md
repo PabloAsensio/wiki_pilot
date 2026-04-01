@@ -1,10 +1,10 @@
 ---
-title: General Navigation: Ground Features
-description: Identify and use terrain and landmarks for reliable VFR visual navigation.
+title: "General Navigation: Ground Features"
+description: "Identify and use terrain and landmarks for reliable VFR visual navigation."
 keywords:
-  - vfr ground features
-  - visual landmarks
-  - pilotage navigation
+    - "vfr ground features"
+    - "visual landmarks"
+    - "pilotage navigation"
 ---
 
 # General Navigation: Ground Features

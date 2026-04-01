@@ -1,10 +1,10 @@
 ---
-title: Navegación General: Hora Media Local (LMT) y su Significado
-description: Entiende que significa LMT, como calcular la hora media local y como usarla en navegacion aerea.
+title: "Navegación General: Hora Media Local (LMT) y su Significado"
+description: "Entiende que significa LMT, como calcular la hora media local y como usarla en navegacion aerea."
 keywords:
-  - hora lmt
-  - que significa lmt
-  - lmt hora
+    - "hora lmt"
+    - "que significa lmt"
+    - "lmt hora"
 ---
 
 # Navegación General: Hora Media Local (LMT) y su Significado

@@ -1,10 +1,10 @@
 ---
-title: General Navigation: The Earth
-description: Learn Earth geometry, seasons, and terrestrial magnetism fundamentals used in aviation navigation.
+title: "General Navigation: The Earth"
+description: "Learn Earth geometry, seasons, and terrestrial magnetism fundamentals used in aviation navigation."
 keywords:
-  - general navigation
-  - earth and navigation
-  - aviation navigation theory
+    - "general navigation"
+    - "earth and navigation"
+    - "aviation navigation theory"
 ---
 
 # General Navigation: The Earth

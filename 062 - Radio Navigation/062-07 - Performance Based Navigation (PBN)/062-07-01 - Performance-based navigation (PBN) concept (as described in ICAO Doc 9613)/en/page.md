@@ -1,10 +1,10 @@
 ---
-title: Radio Navigation: PBN Concept (ICAO Doc 9613)
-description: Study the PBN concept and core framework defined in ICAO Doc 9613.
+title: "Radio Navigation: PBN Concept (ICAO Doc 9613)"
+description: "Study the PBN concept and core framework defined in ICAO Doc 9613."
 keywords:
-  - pbn concept
-  - icao doc 9613
-  - performance based navigation
+    - "pbn concept"
+    - "icao doc 9613"
+    - "performance based navigation"
 ---
 
 # Radio Navigation: PBN Concept (ICAO Doc 9613)

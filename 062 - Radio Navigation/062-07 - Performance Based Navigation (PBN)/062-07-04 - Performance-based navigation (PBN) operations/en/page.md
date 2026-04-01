@@ -1,10 +1,10 @@
 ---
-title: Radio Navigation: Performance Based Navigation Operations
-description: Review PBN operational procedures, constraints, and implementation in flight ops.
+title: "Radio Navigation: Performance Based Navigation Operations"
+description: "Review PBN operational procedures, constraints, and implementation in flight ops."
 keywords:
-  - pbn operations
-  - rnp operations
-  - navigation operations
+    - "pbn operations"
+    - "rnp operations"
+    - "navigation operations"
 ---
 
 # Radio Navigation: Performance Based Navigation Operations

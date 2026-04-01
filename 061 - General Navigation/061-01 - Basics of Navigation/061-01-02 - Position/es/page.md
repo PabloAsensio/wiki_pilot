@@ -1,10 +1,10 @@
 ---
-title: Navegación General: Posición
-description: Comprende latitud, longitud y principios de determinación de posicion para la navegacion en vuelo.
+title: "Navegación General: Posición"
+description: "Comprende latitud, longitud y principios de determinación de posicion para la navegacion en vuelo."
 keywords:
-  - determinación de posicion
-  - latitud y longitud
-  - navegacion general
+    - "determinación de posicion"
+    - "latitud y longitud"
+    - "navegacion general"
 ---
 
 # Navegación General: Posición

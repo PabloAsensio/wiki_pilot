@@ -1,10 +1,10 @@
 ---
-title: Navegación General: Tecnicas de Navegación VFR
-description: Aprende técnicas prácticas VFR, incluyendo pilotaje, cronometría y lectura de carta.
+title: "Navegación General: Tecnicas de Navegación VFR"
+description: "Aprende técnicas prácticas VFR, incluyendo pilotaje, cronometría y lectura de carta."
 keywords:
-  - técnicas de navegacion vfr
-  - pilotaje y navegacion estimada
-  - reglas de vuelo visual
+    - "técnicas de navegacion vfr"
+    - "pilotaje y navegacion estimada"
+    - "reglas de vuelo visual"
 ---
 
 # Navegación General: Tecnicas de Navegación VFR

@@ -1,10 +1,10 @@
 ---
-title: General Navigation: Practical Chart Use
-description: Apply chart reading and plotting methods to practical en-route navigation tasks.
+title: "General Navigation: Practical Chart Use"
+description: "Apply chart reading and plotting methods to practical en-route navigation tasks."
 keywords:
-  - chart practical use
-  - route plotting
-  - enroute navigation
+    - "chart practical use"
+    - "route plotting"
+    - "enroute navigation"
 ---
 
 # General Navigation: Practical Chart Use

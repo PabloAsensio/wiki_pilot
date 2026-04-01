@@ -1,10 +1,10 @@
 ---
-title: Radio Navigation: Secondary Surveillance Radar and Transponder
-description: Study SSR and transponder operation, modes, and ATC surveillance integration.
+title: "Radio Navigation: Secondary Surveillance Radar and Transponder"
+description: "Study SSR and transponder operation, modes, and ATC surveillance integration."
 keywords:
-  - secondary surveillance radar
-  - transponder modes
-  - atc surveillance
+    - "secondary surveillance radar"
+    - "transponder modes"
+    - "atc surveillance"
 ---
 
 # Radio Navigation: Secondary Surveillance Radar and Transponder

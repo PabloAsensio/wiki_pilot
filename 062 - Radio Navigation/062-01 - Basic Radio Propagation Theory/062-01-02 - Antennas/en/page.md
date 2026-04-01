@@ -1,10 +1,10 @@
 ---
-title: Radio Navigation: Antennas
-description: Understand antenna types, patterns, and practical use in aircraft radio navigation.
+title: "Radio Navigation: Antennas"
+description: "Understand antenna types, patterns, and practical use in aircraft radio navigation."
 keywords:
-  - aviation antennas
-  - antenna radiation patterns
-  - radio navigation
+    - "aviation antennas"
+    - "antenna radiation patterns"
+    - "radio navigation"
 ---
 
 # Radio Navigation: Antennas

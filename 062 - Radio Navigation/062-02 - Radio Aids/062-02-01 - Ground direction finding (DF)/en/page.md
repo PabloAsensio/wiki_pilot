@@ -1,10 +1,10 @@
 ---
-title: Radio Navigation: Ground Direction Finding (DF)
-description: Understand ground direction finding principles and applications in air navigation.
+title: "Radio Navigation: Ground Direction Finding (DF)"
+description: "Understand ground direction finding principles and applications in air navigation."
 keywords:
-  - ground direction finding
-  - df navigation
-  - radio aids
+    - "ground direction finding"
+    - "df navigation"
+    - "radio aids"
 ---
 
 # Radio Navigation: Ground Direction Finding (DF)

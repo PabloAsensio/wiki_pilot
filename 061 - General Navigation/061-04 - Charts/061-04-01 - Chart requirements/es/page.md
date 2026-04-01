@@ -1,10 +1,10 @@
 ---
-title: Navegación General: Requisitos de Cartas
-description: Revisa requisitos operativos y normativos de cartas para una navegacion segura.
+title: "Navegación General: Requisitos de Cartas"
+description: "Revisa requisitos operativos y normativos de cartas para una navegacion segura."
 keywords:
-  - requisitos de cartas aeronauticas
-  - estandares cartograficos
-  - uso de cartas de vuelo
+    - "requisitos de cartas aeronauticas"
+    - "estandares cartograficos"
+    - "uso de cartas de vuelo"
 ---
 
 # Navegación General: Requisitos de Cartas

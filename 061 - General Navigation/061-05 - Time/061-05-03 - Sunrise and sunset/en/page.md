@@ -1,12 +1,12 @@
 ---
-title: General Navigation: Sunrise, Sunset, and Solar Time
-description: Learn what sunset means, how sunrise is defined, and how to calculate daylight for navigation.
+title: "General Navigation: Sunrise, Sunset, and Solar Time"
+description: "Learn what sunset means, how sunrise is defined, and how to calculate daylight for navigation."
 keywords:
-  - what is sunset
-  - sunrise definition
-  - sunrise and sunset aviation
-  - daylight calculations
-  - solar time navigation
+    - "what is sunset"
+    - "sunrise definition"
+    - "sunrise and sunset aviation"
+    - "daylight calculations"
+    - "solar time navigation"
 ---
 
 # General Navigation: Sunrise, Sunset, and Solar Time

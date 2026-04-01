@@ -1,10 +1,10 @@
 ---
-title: Navegación General: Proyecciones Cartográficas
-description: Aprende principios de proyeccion y su impacto en rumbos, distancias y trazado de rutas.
+title: "Navegación General: Proyecciones Cartográficas"
+description: "Aprende principios de proyeccion y su impacto en rumbos, distancias y trazado de rutas."
 keywords:
-  - proyecciones cartograficas
-  - proyeccion mercator
-  - navegacion con cartas aeronauticas
+    - "proyecciones cartograficas"
+    - "proyeccion mercator"
+    - "navegacion con cartas aeronauticas"
 ---
 
 # Navegación General: Proyecciones Cartográficas

@@ -1,10 +1,10 @@
 ---
-title: General Navigation: Map Projections
-description: Learn map projection principles and their impact on bearings, distance, and route plotting.
+title: "General Navigation: Map Projections"
+description: "Learn map projection principles and their impact on bearings, distance, and route plotting."
 keywords:
-  - map projections
-  - mercator projection
-  - aeronautical chart navigation
+    - "map projections"
+    - "mercator projection"
+    - "aeronautical chart navigation"
 ---
 
 # General Navigation: Map Projections

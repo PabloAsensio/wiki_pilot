@@ -1,12 +1,12 @@
 ---
-title: Navegación General: Dirección, Rumbo Magnetico y Puntos Cardinales
-description: Estudia direccion verdadera, magnética y de compás, incluyendo rumbo magnetico y puntos cardinales en navegacion aerea.
+title: "Navegación General: Dirección, Rumbo Magnetico y Puntos Cardinales"
+description: "Estudia direccion verdadera, magnética y de compás, incluyendo rumbo magnetico y puntos cardinales en navegacion aerea."
 keywords:
-  - direccion en aviacion
-  - rumbo magnetico
-  - puntos cardinales
-  - magnetismo aeronautico
-  - lineas isogonas
+    - "direccion en aviacion"
+    - "rumbo magnetico"
+    - "puntos cardinales"
+    - "magnetismo aeronautico"
+    - "lineas isogonas"
 ---
 
 # Navegación General: Dirección, Rumbo Magnetico y Puntos Cardinales

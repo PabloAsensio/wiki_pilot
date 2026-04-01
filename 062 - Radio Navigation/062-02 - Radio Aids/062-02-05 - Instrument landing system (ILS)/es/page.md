@@ -1,10 +1,10 @@
 ---
-title: Radionavegación: Sistema de Aterrizaje por Instrumentos (ILS)
-description: Aprende operación de localizador y senda de planeo para aproximaciónes de precisión.
+title: "Radionavegación: Sistema de Aterrizaje por Instrumentos (ILS)"
+description: "Aprende operación de localizador y senda de planeo para aproximaciónes de precisión."
 keywords:
-  - sistema de aterrizaje por instrumentos
-  - localizador y senda de planeo
-  - aproximación de precisión
+    - "sistema de aterrizaje por instrumentos"
+    - "localizador y senda de planeo"
+    - "aproximación de precisión"
 ---
 
 # Radionavegación: Sistema de Aterrizaje por Instrumentos (ILS)

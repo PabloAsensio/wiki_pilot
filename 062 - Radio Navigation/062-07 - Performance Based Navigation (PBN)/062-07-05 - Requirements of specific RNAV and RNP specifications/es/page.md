@@ -2,11 +2,11 @@
 title: "Radionavegación: Requisitos RNAV y RNP para Aproximaciones RNP"
 description: "Estudia requisitos de RNAV y RNP, incluyendo RNP approach, BRNAV y parámetros operativos clave."
 keywords:
-  - rnav
-  - rnp approach
-  - rnp 0.1
-  - brnav
-  - requisitos rnav y rnp
+    - "rnav"
+    - "rnp approach"
+    - "rnp 0.1"
+    - "brnav"
+    - "requisitos rnav y rnp"
 ---
 
 # Radionavegación: Requisitos RNAV y RNP para Aproximaciones RNP

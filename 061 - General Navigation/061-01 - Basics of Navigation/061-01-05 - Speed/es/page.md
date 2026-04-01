@@ -1,10 +1,10 @@
 ---
-title: Navegación General: Velocidad
-description: Compara IAS, TAS y velocidad sobre el suelo y aplica estos conceptos al cálculo de navegacion.
+title: "Navegación General: Velocidad"
+description: "Compara IAS, TAS y velocidad sobre el suelo y aplica estos conceptos al cálculo de navegacion."
 keywords:
-  - velocidad indicada y verdadera
-  - tas e ias
-  - navegacion general
+    - "velocidad indicada y verdadera"
+    - "tas e ias"
+    - "navegacion general"
 ---
 
 # Navegación General: Velocidad

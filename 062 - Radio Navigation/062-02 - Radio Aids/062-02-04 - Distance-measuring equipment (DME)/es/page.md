@@ -1,10 +1,10 @@
 ---
-title: Radionavegación: Equipo de Medicion de Distancia (DME)
-description: Comprende principios de DME, distancia inclinada y uso operativo con VOR e ILS.
+title: "Radionavegación: Equipo de Medicion de Distancia (DME)"
+description: "Comprende principios de DME, distancia inclinada y uso operativo con VOR e ILS."
 keywords:
-  - equipo de medicion de distancia
-  - distancia inclinada dme
-  - radionavegacion
+    - "equipo de medicion de distancia"
+    - "distancia inclinada dme"
+    - "radionavegacion"
 ---
 
 # Radionavegación: Equipo de Medicion de Distancia (DME)

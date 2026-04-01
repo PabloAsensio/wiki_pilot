@@ -1,10 +1,10 @@
 ---
-title: Navegación General: Círculos Máximos
-description: Comprende las rutas de circulo maximo y por que son el camino mas corto sobre la Tierra.
+title: "Navegación General: Círculos Máximos"
+description: "Comprende las rutas de circulo maximo y por que son el camino mas corto sobre la Tierra."
 keywords:
-  - circulo maximo
-  - distancia mas corta
-  - planificación de largo alcance
+    - "circulo maximo"
+    - "distancia mas corta"
+    - "planificación de largo alcance"
 ---
 
 # Navegación General: Círculos Máximos

@@ -1,10 +1,10 @@
 ---
-title: General Navigation: Rhumb Lines
-description: Study rhumb line characteristics and their use in constant heading navigation.
+title: "General Navigation: Rhumb Lines"
+description: "Study rhumb line characteristics and their use in constant heading navigation."
 keywords:
-  - rhumb line
-  - loxodrome
-  - constant heading navigation
+    - "rhumb line"
+    - "loxodrome"
+    - "constant heading navigation"
 ---
 
 # General Navigation: Rhumb Lines

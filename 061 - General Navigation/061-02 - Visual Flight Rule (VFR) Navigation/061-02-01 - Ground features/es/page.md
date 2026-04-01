@@ -1,10 +1,10 @@
 ---
-title: Navegación General: Referencias en Superficie
-description: Identifica y usa terreno y referencias visuales para una navegacion VFR fiable.
+title: "Navegación General: Referencias en Superficie"
+description: "Identifica y usa terreno y referencias visuales para una navegacion VFR fiable."
 keywords:
-  - referencias visuales vfr
-  - puntos de referencia
-  - navegacion por estimacion visual
+    - "referencias visuales vfr"
+    - "puntos de referencia"
+    - "navegacion por estimacion visual"
 ---
 
 # Navegación General: Referencias en Superficie

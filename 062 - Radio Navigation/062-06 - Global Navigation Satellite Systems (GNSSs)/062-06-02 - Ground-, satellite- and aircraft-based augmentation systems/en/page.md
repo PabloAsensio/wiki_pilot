@@ -1,10 +1,10 @@
 ---
-title: Radio Navigation: GNSS Augmentation Systems
-description: Understand ground, satellite, and aircraft based augmentation for GNSS accuracy.
+title: "Radio Navigation: GNSS Augmentation Systems"
+description: "Understand ground, satellite, and aircraft based augmentation for GNSS accuracy."
 keywords:
-  - gnss augmentation
-  - gbas sbas abaas
-  - navigation integrity
+    - "gnss augmentation"
+    - "gbas sbas abaas"
+    - "navigation integrity"
 ---
 
 # Radio Navigation: GNSS Augmentation Systems

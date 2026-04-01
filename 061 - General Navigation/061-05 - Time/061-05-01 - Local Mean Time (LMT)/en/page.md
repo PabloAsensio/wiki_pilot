@@ -1,10 +1,10 @@
 ---
-title: General Navigation: Local Mean Time (LMT)
-description: Understand Local Mean Time and convert time references used in aviation navigation.
+title: "General Navigation: Local Mean Time (LMT)"
+description: "Understand Local Mean Time and convert time references used in aviation navigation."
 keywords:
-  - local mean time
-  - time conversion navigation
-  - aviation time systems
+    - "local mean time"
+    - "time conversion navigation"
+    - "aviation time systems"
 ---
 
 # General Navigation: Local Mean Time (LMT)

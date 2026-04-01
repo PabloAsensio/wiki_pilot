@@ -1,10 +1,10 @@
 ---
-title: Radio Navigation: Airborne Weather Radar
-description: Understand airborne weather radar operation, limitations, and tactical use.
+title: "Radio Navigation: Airborne Weather Radar"
+description: "Understand airborne weather radar operation, limitations, and tactical use."
 keywords:
-  - airborne weather radar
-  - weather radar aviation
-  - convective weather avoidance
+    - "airborne weather radar"
+    - "weather radar aviation"
+    - "convective weather avoidance"
 ---
 
 # Radio Navigation: Airborne Weather Radar

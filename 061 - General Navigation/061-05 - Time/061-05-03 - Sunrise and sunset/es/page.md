@@ -1,12 +1,12 @@
 ---
-title: Navegación General: Amanecer, Atardecer y Puesta de Sol
-description: Comprende que es la puesta de sol, como se llama la salida del sol y como calcular amanecer y atardecer en navegacion.
+title: "Navegación General: Amanecer, Atardecer y Puesta de Sol"
+description: "Comprende que es la puesta de sol, como se llama la salida del sol y como calcular amanecer y atardecer en navegacion."
 keywords:
-  - que es la puesta de sol
-  - como se llama la salida del sol
-  - amanecer y atardecer
-  - cálculo de luz diurna
-  - navegacion y tiempo solar
+    - "que es la puesta de sol"
+    - "como se llama la salida del sol"
+    - "amanecer y atardecer"
+    - "cálculo de luz diurna"
+    - "navegacion y tiempo solar"
 ---
 
 # Navegación General: Amanecer, Atardecer y Puesta de Sol

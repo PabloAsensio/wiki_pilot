@@ -1,10 +1,10 @@
 ---
-title: Navegación General: La Tierra
-description: Aprende la geometría terrestre, las estaciones y el magnetismo terrestre aplicados a la navegacion aerea.
+title: "Navegación General: La Tierra"
+description: "Aprende la geometría terrestre, las estaciones y el magnetismo terrestre aplicados a la navegacion aerea."
 keywords:
-  - navegacion general
-  - tierra y navegacion
-  - teoría de navegacion aerea
+    - "navegacion general"
+    - "tierra y navegacion"
+    - "teoría de navegacion aerea"
 ---
 
 # Navegación General: La Tierra
