@@ -4,6 +4,9 @@ description: "Risks associated with bird strikes and mitigation strategies."
 keywords: ["bird strike", "wildlife hazard", "kinetic energy", "bird ingestion"]
 ---
 
+# Bird Strike Risk
+
+
 ## Risk Factors
 *   **Altitude**: 90% of bird strikes occur below 3,000 ft AGL. Greatest risk during Take-off and Landing.
 *   **Season**: Higher risk during migration periods (Spring/Autumn).

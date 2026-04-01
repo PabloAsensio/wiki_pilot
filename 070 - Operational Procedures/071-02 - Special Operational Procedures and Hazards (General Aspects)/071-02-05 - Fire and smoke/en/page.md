@@ -4,6 +4,9 @@ description: "Handling fire, smoke, and fumes in the aircraft."
 keywords: ["fire", "smoke", "fumes", "hidden fire", "toilet fire"]
 ---
 
+# Fire and Smoke Procedures
+
+
 ## Types of Fire
 
 ![Airplane fire training](https://upload.wikimedia.org/wikipedia/commons/7/76/The_24th_Fire_Cadet_of_the_Republic_of_Korea_Gangwon_Fire_Service_Academy_airplane_fire_training_14.jpg)

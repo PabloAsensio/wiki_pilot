@@ -4,6 +4,9 @@ description: "Hazards of ice accretion and procedures for de-icing and anti-icin
 keywords: ["icing", "rime ice", "clear ice", "holdover time", "HOT", "Type I fluid", "Type IV fluid"]
 ---
 
+# Icing Conditions & De-icing
+
+
 ## Hazards of Icing
 *   **Aerodynamics**: Increases drag (up to 40%), decreases lift (up to 30%), increases stall speed, changes pitching moment.
 *   **Weight**: Adds weight to the aircraft.

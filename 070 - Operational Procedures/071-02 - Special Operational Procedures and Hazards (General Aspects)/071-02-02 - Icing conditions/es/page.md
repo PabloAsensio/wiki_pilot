@@ -4,6 +4,9 @@ description: "Peligros de la acumulación de hielo y procedimientos de deshielo 
 keywords: ["engelamiento", "hielo opaco", "hielo claro", "tiempo de protección", "HOT", "fluido Tipo I", "fluido Tipo IV"]
 ---
 
+# Condiciones de Engelamiento y Deshielo
+
+
 ## Peligros del Hielo
 *   **Aerodinámica**: Aumenta la resistencia (hasta 40%), disminuye la sustentación (hasta 30%), aumenta la velocidad de pérdida, cambia el momento de cabeceo.
 *   **Peso**: Añade peso a la aeronave.

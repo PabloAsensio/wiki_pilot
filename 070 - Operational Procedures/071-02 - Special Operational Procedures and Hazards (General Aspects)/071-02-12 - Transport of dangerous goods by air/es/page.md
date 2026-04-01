@@ -4,6 +4,9 @@ description: "Transporte de mercancías peligrosas por aire, IATA DGR y NOTOC."
 keywords: ["mercancías peligrosas", "DGR", "hazmat", "NOTOC", "etiquetas"]
 ---
 
+# Mercancías Peligrosas (DG)
+
+
 ## Regulaciones
 *   **Anexo 18 OACI**: Transporte Seguro de Mercancías Peligrosas por Aire.
 *   **IATA DGR**: Regulaciones de Mercancías Peligrosas.

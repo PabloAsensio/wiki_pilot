@@ -4,6 +4,9 @@ description: "Procedimientos operacionales y regulaciones comunes."
 keywords: ["cabina estéril", "abatimiento de ruido", "lista de equipo mínimo", "MEL", "CDL"]
 ---
 
+# Requisitos Operacionales Generales
+
+
 ## Regla de Cabina Estéril
 Las regulaciones mandan que durante las fases críticas de vuelo (Rodaje, Despegue, Aterrizaje y todas las operaciones por debajo de 10.000 pies excepto crucero), la tripulación debe abstenerse de tareas no esenciales o conversaciones. El enfoque debe estar únicamente en la operación de la aeronave.
 

@@ -4,6 +4,9 @@ description: "Generación de vórtices de estela, categorías y mínimas de sepa
 keywords: ["estela turbulenta", "vórtices", "mínimas de separación", "pesada", "super"]
 ---
 
+# Estela Turbulenta
+
+
 ## Generación
 
 ![Wake turbulence vortices](https://upload.wikimedia.org/wikipedia/commons/f/fe/Airplane_vortex_edit.jpg)

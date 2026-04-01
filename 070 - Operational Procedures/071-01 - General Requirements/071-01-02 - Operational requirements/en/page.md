@@ -4,6 +4,9 @@ description: "Common operational procedures and regulations."
 keywords: ["sterile cockpit", "noise abatement", "minimum equipment list", "MEL", "CDL"]
 ---
 
+# General Operational Requirements
+
+
 ## Sterile Cockpit Rule
 Regulations mandate that during critical phases of flight (Taxi, Take-off, Landing, and all operations below 10,000 ft except cruise), the crew must refrain from non-essential duties or conversation. Focus must be solely on the operation of the aircraft.
 

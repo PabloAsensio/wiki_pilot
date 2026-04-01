@@ -4,6 +4,9 @@ description: "Hazards of wind shear and microbursts, recognition and recovery."
 keywords: ["wind shear", "microburst", "downdraft", "recovery", "windshear alert"]
 ---
 
+# Wind Shear & Microburst
+
+
 ## Wind Shear
 A sudden change in wind speed and/or direction over a short distance. Can be vertical or horizontal.
 *   **Effect**: Sudden gain or loss of airspeed and lift.

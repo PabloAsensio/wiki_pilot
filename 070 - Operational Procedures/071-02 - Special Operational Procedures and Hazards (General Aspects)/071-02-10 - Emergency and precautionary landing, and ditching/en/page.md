@@ -4,6 +4,9 @@ description: "Procedures for forced landings on land and water."
 keywords: ["emergency landing", "ditching", "forced landing", "brace position", "evacuation"]
 ---
 
+# Emergency Landing & Ditching
+
+
 ## Types
 *   **Forced Landing**: Immediate landing due to inability to continue flight (e.g., dual engine failure, fire).
 *   **Precautionary Landing**: Planned landing due to abnormal situation (e.g., fuel shortage, sick passenger, minor mechanical issue) where continuation is inadvisable but not impossible.

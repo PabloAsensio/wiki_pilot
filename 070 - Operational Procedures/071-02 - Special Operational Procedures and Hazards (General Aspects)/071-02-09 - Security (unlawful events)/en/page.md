@@ -4,6 +4,9 @@ description: "Procedures for hijackings, bomb threats, and unruly passengers."
 keywords: ["hijacking", "bomb threat", "squawk 7500", "least risk bomb location", "unruly passenger"]
 ---
 
+# Security & Unlawful Interference
+
+
 ## Transponder Codes
 *   **7500**: Unlawful Interference (Hijack).
 *   **7600**: Radio Failure.

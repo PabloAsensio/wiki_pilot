@@ -4,6 +4,9 @@ description: "Procedimientos especiales para ETOPS (EDTO) y vuelos sobre regione
 keywords: ["ETOPS", "EDTO", "operaciones polares", "variación magnética", "congelamiento de combustible"]
 ---
 
+# Operaciones de Largo Alcance y Polares
+
+
 ## ETOPS / EDTO
 
 ![ETOPS rating flight path](https://upload.wikimedia.org/wikipedia/commons/1/17/ETOPS_rating_flight_path.svg)

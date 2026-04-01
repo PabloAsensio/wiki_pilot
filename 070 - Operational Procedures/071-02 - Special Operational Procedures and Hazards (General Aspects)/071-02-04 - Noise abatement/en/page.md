@@ -4,6 +4,9 @@ description: "Procedures to minimize noise impact."
 keywords: ["NADP 1", "NADP 2", "noise abatement", "departure procedures"]
 ---
 
+# Noise Abatement Procedures
+
+
 ## Operational Procedures for Noise Abatement
 
 ![Qantas b747 over houses](https://upload.wikimedia.org/wikipedia/commons/3/3c/Qantas_b747_over_houses_arp.jpg)

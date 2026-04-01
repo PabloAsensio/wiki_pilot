@@ -4,6 +4,9 @@ description: "Procedimientos para aterrizajes forzosos en tierra y agua."
 keywords: ["aterrizaje de emergencia", "amaraje", "aterrizaje forzoso", "posición de impacto", "evacuación"]
 ---
 
+# Aterrizaje de Emergencia y Amaraje
+
+
 ## Tipos
 *   **Aterrizaje Forzoso**: Aterrizaje inmediato debido a la incapacidad de continuar el vuelo (ej. fallo doble de motor, fuego).
 *   **Aterrizaje por Precaución**: Aterrizaje planeado debido a situación anormal (ej. escasez de combustible, pasajero enfermo) donde continuar no es aconsejable.

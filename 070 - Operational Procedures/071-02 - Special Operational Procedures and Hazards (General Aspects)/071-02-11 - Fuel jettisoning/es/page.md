@@ -4,6 +4,9 @@ description: "Procedimientos para arrojar combustible y alcanzar el Peso Máximo
 keywords: ["vaciado de combustible", "jettison", "MLW", "contaminación"]
 ---
 
+# Lanzamiento de Combustible
+
+
 ## Propósito
 
 ![Fuel dump A340](https://upload.wikimedia.org/wikipedia/commons/c/cf/FuelDumpA340-600.JPG)

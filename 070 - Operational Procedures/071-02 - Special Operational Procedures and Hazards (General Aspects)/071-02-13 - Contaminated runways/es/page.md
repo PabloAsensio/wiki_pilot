@@ -4,6 +4,9 @@ description: "Operaciones en pistas contaminadas por agua, aguanieve, nieve o hi
 keywords: ["pista contaminada", "aquaplaning", "eficacia de frenado", "coeficiente por fricción", "SNOWTAM"]
 ---
 
+# Pistas Contaminadas
+
+
 ## Definición
 
 ![Snow covered runway](https://upload.wikimedia.org/wikipedia/commons/6/64/Snow_covered_Schipol_airport_runway_1.JPG)

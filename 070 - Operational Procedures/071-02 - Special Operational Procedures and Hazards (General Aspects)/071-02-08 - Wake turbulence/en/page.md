@@ -4,6 +4,9 @@ description: "Wake vortex generation, categories, and separation minima."
 keywords: ["wake turbulence", "vortices", "separation minima", "heavy", "super"]
 ---
 
+# Wake Turbulence
+
+
 ## Generation
 
 ![Wake turbulence vortices](https://upload.wikimedia.org/wikipedia/commons/f/fe/Airplane_vortex_edit.jpg)

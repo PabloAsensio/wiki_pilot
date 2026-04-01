@@ -4,6 +4,9 @@ description: "Procedures for dumping fuel to reach Maximum Landing Weight."
 keywords: ["fuel dumping", "jettison", "MLW", "pollution", "minima"]
 ---
 
+# Fuel Jettisoning
+
+
 ## Purpose
 
 ![Fuel dump A340](https://upload.wikimedia.org/wikipedia/commons/c/cf/FuelDumpA340-600.JPG)

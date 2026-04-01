@@ -4,6 +4,9 @@ description: "Peligros de la cizalladura del viento y microbursts, reconocimient
 keywords: ["cizalladura", "microburst", "corriente descendente", "recuperación", "alerta de cizalladura"]
 ---
 
+# Cizalladura y Microburst
+
+
 ## Cizalladura (Wind Shear)
 Un cambio repentino en la velocidad y/o dirección del viento en una distancia corta. Puede ser vertical u horizontal.
 *   **Efecto**: Ganancia o pérdida repentina de velocidad indicada y sustentación.

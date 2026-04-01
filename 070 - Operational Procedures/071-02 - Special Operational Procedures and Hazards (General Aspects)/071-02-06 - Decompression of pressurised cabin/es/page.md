@@ -4,6 +4,9 @@ description: "Manejo de despresurización de cabina y descenso de emergencia."
 keywords: ["despresurización", "despresurización explosiva", "descenso de emergencia", "hipoxia"]
 ---
 
+# Procedimientos de Despresurización
+
+
 ## Tipos de Despresurización
 *   **Explosiva**: Muy rápida (< 1 seg). Los pulmones pueden dañarse por la expansión del aire. Niebla en cabina (enfriamiento adiabático).
 *   **Rápida**: Rápida pero los pulmones pueden ventilar.

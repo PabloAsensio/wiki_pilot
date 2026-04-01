@@ -4,6 +4,9 @@ description: "Riesgos asociados con impactos de aves y estrategias de mitigació
 keywords: ["impacto de aves", "peligro de fauna", "energía cinética", "ingestión de aves"]
 ---
 
+# Riesgo de Impacto de Aves
+
+
 ## Factores de Riesgo
 *   **Altitud**: El 90% de los impactos de aves ocurren por debajo de 3.000 pies AGL. Mayor riesgo durante el Despegue y Aterrizaje.
 *   **Estación**: Mayor riesgo durante periodos de migración (Primavera/Otoño).

@@ -4,6 +4,9 @@ description: "Handling cabin decompression and emergency descent."
 keywords: ["decompression", "explosive decompression", "rapid decompression", "emergency descent", "hypoxia"]
 ---
 
+# Decompression Procedures
+
+
 ## Types of Decompression
 *   **Explosive**: Very fast (< 1 sec). Lungs can be damaged due to expanding air. Fog in cabin (adiabatic cooling).
 *   **Rapid**: Fast but lungs can vent.

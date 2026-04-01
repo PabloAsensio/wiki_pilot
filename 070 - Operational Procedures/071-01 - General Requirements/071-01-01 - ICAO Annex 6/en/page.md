@@ -4,6 +4,9 @@ description: "Overview of ICAO Standards and Recommended Practices for aircraft 
 keywords: ["ICAO Annex 6", "Standard", "Recommended Practice", "AOC", "operations manual"]
 ---
 
+# ICAO Annex 6 - Operation of Aircraft
+
+
 ## Structure of Annex 6
 
 ![Aerial photograph of airliners in flight](https://upload.wikimedia.org/wikipedia/commons/e/e1/Aerial_photograph_of_airliners_in_flight.jpg)

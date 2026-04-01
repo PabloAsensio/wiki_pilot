@@ -4,6 +4,9 @@ description: "Visión general de las Normas y Métodos Recomendados de la OACI p
 keywords: ["Anexo 6 OACI", "Norma", "Método Recomendado", "AOC", "manual de operaciones"]
 ---
 
+# Anexo 6 de la OACI - Operación de Aeronaves
+
+
 ## Estructura del Anexo 6
 
 ![Aerial photograph of airliners in flight](https://upload.wikimedia.org/wikipedia/commons/e/e1/Aerial_photograph_of_airliners_in_flight.jpg)

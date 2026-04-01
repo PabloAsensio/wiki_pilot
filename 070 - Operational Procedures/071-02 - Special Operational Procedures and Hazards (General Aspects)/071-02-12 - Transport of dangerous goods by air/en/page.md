@@ -4,6 +4,9 @@ description: "Transport of dangerous goods by air, IATA DGR, and NOTOC."
 keywords: ["dangerous goods", "DGR", "hazmat", "NOTOC", "labels"]
 ---
 
+# Dangerous Goods (DG)
+
+
 ## Regulations
 *   **ICAO Annex 18**: The Safe Transport of Dangerous Goods by Air.
 *   **IATA DGR**: Dangerous Goods Regulations (Operational manual used by airlines).

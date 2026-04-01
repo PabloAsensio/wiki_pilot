@@ -4,6 +4,9 @@ description: "Estructura detallada y contenido del Manual de Operaciones del Ope
 keywords: ["Manual de Operaciones", "Parte A", "Parte B", "Parte C", "Parte D", "MEL", "CDL"]
 ---
 
+# Manual de Operaciones (OM)
+
+
 ## Estructura del Manual de Operaciones
 
 ![T-43A Flight Manual Title Page](https://upload.wikimedia.org/wikipedia/commons/4/44/T-43AFlightManualTitlePage.jpg)

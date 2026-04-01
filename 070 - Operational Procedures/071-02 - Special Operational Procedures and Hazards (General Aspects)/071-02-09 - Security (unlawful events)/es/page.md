@@ -4,6 +4,9 @@ description: "Procedimientos para secuestros, amenazas de bomba y pasajeros disr
 keywords: ["secuestro", "amenaza de bomba", "código 7500", "lugar de menor riesgo", "pasajero disruptivo"]
 ---
 
+# Seguridad e Interferencia Ilícita
+
+
 ## Códigos Transpondedor
 *   **7500**: Interferencia Ilícita (Secuestro).
 *   **7600**: Fallo de Radio.

@@ -4,6 +4,9 @@ description: "RVSM, PBN, MNPS/HLA y Operaciones de Baja Visibilidad."
 keywords: ["RVSM", "PBN", "LVO", "MNPS", "HLA", "CAT II", "CAT III"]
 ---
 
+# Operaciones Especializadas (SPO)
+
+
 ## RVSM (Mínimas de Separación Vertical Reducida)
 Reduce la separación vertical de 2.000 pies a **1.000 pies** entre **FL290 y FL410** (inclusive).
 *   **Objetivo**: Aumenta la capacidad del espacio aéreo.
