@@ -1,4 +1,3 @@
-
 ---
 title: "Convenio de Chicago (OACI Doc 7300): Soberanía, Estructura OACI y SARPs"
 description: "Estudia los principios clave del Convenio de Chicago: soberanía estatal, estructura de la OACI, SARPs y reglas del aire sobre alta mar."
