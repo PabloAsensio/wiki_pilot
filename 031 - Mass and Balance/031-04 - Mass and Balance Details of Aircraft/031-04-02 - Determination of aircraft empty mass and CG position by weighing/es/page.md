@@ -1,8 +1,14 @@
 ---
-title: "Procedimiento de Pesaje"
-description: "Procedimientos para determinar la masa de la aeronave y la posición del CG mediante pesaje."
-keywords: ["procedimiento de pesaje", "básculas", "puntos de pesaje", "nivelación", "datum"]
+title: "Procedimiento de Pesaje de Aeronave: Determinación de Masa Vacía y CG"
+description: "Estudia el método de pesaje para establecer masa básica en vacío y posición del CG, incluyendo preparación, nivelación, reacciones y cálculo de momentos."
+keywords:
+    - "procedimiento de pesaje"
+    - "masa básica en vacío"
+    - "determinación cg"
+    - "cálculo de momentos"
 ---
+
+# Procedimiento de Pesaje de Aeronave: Determinación de Masa Vacía y CG
 
 ## Requisitos de Pesaje
 

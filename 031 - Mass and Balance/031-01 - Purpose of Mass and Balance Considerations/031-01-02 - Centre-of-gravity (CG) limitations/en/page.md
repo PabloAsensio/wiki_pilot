@@ -1,8 +1,14 @@
 ---
-title: "Centre of Gravity (CG) Limitations"
-description: "Effects of CG position on stability, control, and performance."
-keywords: ["CG limitations", "centre of gravity", "stability", "controllability", "forward CG", "aft CG"]
+title: "Centre of Gravity (CG) Limitations: Stability, Control, and Recovery Margins"
+description: "Study forward/aft CG effects on stability, controllability, stall behavior, fuel efficiency, and recovery margins across all phases of flight."
+keywords:
+	- "centre of gravity"
+	- "cg limits"
+	- "forward cg"
+	- "aft cg"
 ---
+
+# Centre of Gravity (CG) Limitations: Stability, Control, and Recovery Margins
 
 ## Centre of Gravity (CG) Concept
 

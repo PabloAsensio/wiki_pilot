@@ -1,8 +1,14 @@
 ---
-title: "Terminología de Carga"
-description: "Definiciones y términos clave utilizados en los cálculos de masa y centrado de aeronaves."
-keywords: ["terminología de carga", "DOM", "BEM", "carga útil", "carga de tráfico", "combustible en bloque"]
+title: "Terminología de Masa y Centrado: BEM, DOM, ZFM, TOM y Combustible"
+description: "Domina la terminología esencial de masa y centrado en operaciones de carga: relaciones BEM/DOM/ZFM/TOM y definiciones operativas de combustible."
+keywords:
+    - "masa y centrado"
+    - "bem dom zfm"
+    - "carga de tráfico"
+    - "combustible en bloque"
 ---
+
+# Terminología de Masa y Centrado: BEM, DOM, ZFM, TOM y Combustible
 
 ## Definiciones Estándar de Masa
 

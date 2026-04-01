@@ -1,8 +1,14 @@
 ---
-title: "Reposicionamiento del CG"
-description: "Cálculo del efecto del movimiento de masa sobre el Centro de Gravedad."
-keywords: ["desplazamiento CG", "movimiento de masa", "ajuste de balance", "fórmula"]
+title: "Reposicionamiento del CG: Fórmula de Desplazamiento y Corrección Práctica"
+description: "Aprende a corregir un CG fuera de límites moviendo carga con la fórmula de desplazamiento de masa, lógica de dirección y ejemplos operativos."
+keywords:
+	- "desplazamiento cg"
+	- "movimiento de masa"
+	- "ajuste de balance"
+	- "reposicionamiento de carga"
 ---
+
+# Reposicionamiento del CG: Fórmula de Desplazamiento y Corrección Práctica
 
 ## Desplazamiento de Masa
 

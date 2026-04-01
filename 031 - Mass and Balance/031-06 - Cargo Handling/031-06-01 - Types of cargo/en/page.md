@@ -1,8 +1,14 @@
 ---
-title: "Types of Cargo"
-description: "Classification of air cargo including general, special, and dangerous goods."
-keywords: ["cargo types", "special cargo", "dangerous goods", "ULD", "live animals"]
+title: "Air Cargo Types: General, Special, Dangerous Goods, and ULD Use"
+description: "Study air-cargo classification, special-handling categories, dangerous-goods classes, and ULD applications for efficient and compliant loading."
+keywords:
+    - "types of cargo"
+    - "dangerous goods"
+    - "uld"
+    - "special cargo"
 ---
+
+# Air Cargo Types: General, Special, Dangerous Goods, and ULD Use
 
 ## General Cargo
 Standard freight that does not require special handling or precautions (e.g., clothes, machinery parts).

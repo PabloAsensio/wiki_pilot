@@ -1,8 +1,14 @@
 ---
-title: "Floor Load Limitations"
-description: "Calculating maximum permissible loads to prevent structural damage to the cargo floor."
-keywords: ["floor load", "running load", "sharing", "load intensity"]
+title: "Cargo Floor and Running Load Limits: Structural Protection Calculations"
+description: "Learn how to calculate floor-load intensity and running-load limits, and apply shoring techniques to prevent cargo-hold structural damage."
+keywords:
+	- "floor load limitations"
+	- "running load"
+	- "load intensity"
+	- "shoring"
 ---
+
+# Cargo Floor and Running Load Limits: Structural Protection Calculations
 
 ## Structural Limits
 The cargo hold floor is designed to withstand a specific maximum load per unit area. Exceeding this can damage the floor panels or the structure beneath.

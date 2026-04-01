@@ -1,8 +1,14 @@
 ---
-title: "Mass Limitations"
-description: "Importance of mass limitations for structural integrity and aircraft performance."
-keywords: ["mass limitations", "MTOM", "MLM", "MZFM", "structural limit", "performance limit"]
+title: "Aircraft Mass Limitations: Structural, Performance, and Operational Effects"
+description: "Understand aircraft mass limitations (MTOM, MSLM, MZFM, MTM), structural versus performance constraints, and the safety/performance impact of overload conditions."
+keywords:
+	- "mass limitations"
+	- "mtom"
+	- "mzfm"
+	- "landing mass"
 ---
+
+# Aircraft Mass Limitations: Structural, Performance, and Operational Effects
 
 ## Importance of Mass Limitations
 

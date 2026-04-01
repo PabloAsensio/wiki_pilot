@@ -1,8 +1,14 @@
 ---
-title: "Load and Trim Sheet"
-description: "The document detailing aircraft loading, mass distribution, and stabilizer trim setting."
-keywords: ["load sheet", "trim sheet", "THS", "stabilizer trim", "mass distribution"]
+title: "Load and Trim Sheet: Legal Mass-Balance Record and Take-off Trim"
+description: "Understand the load and trim sheet structure, legal responsibilities, mass build-up checks, CG determination, and resulting take-off stabilizer trim setting."
+keywords:
+	- "load and trim sheet"
+	- "ths trim"
+	- "mass distribution"
+	- "zero fuel mass"
 ---
+
+# Load and Trim Sheet: Legal Mass-Balance Record and Take-off Trim
 
 ## Purpose
 

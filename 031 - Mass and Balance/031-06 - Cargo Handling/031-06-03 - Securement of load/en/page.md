@@ -1,8 +1,14 @@
 ---
-title: "Securement of Load"
-description: "Methods and requirements for restraining cargo to prevent movement during flight."
-keywords: ["securement", "restraint", "tie-down", "load factors"]
+title: "Load Securement: Restraint Methods, Locks, and Required Load Factors"
+description: "Understand cargo securement principles, tie-down and ULD-lock methods, and required directional load factors to prevent in-flight load shift."
+keywords:
+	- "load securement"
+	- "tie-down"
+	- "uld locks"
+	- "load factors"
 ---
+
+# Load Securement: Restraint Methods, Locks, and Required Load Factors
 
 ## Importance of Securement
 Cargo must be securely restrained so it does not move during:

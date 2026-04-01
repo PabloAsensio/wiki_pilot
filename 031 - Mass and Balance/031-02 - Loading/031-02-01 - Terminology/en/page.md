@@ -1,8 +1,14 @@
 ---
-title: "Loading Terminology"
-description: "Key definitions and terms used in aircraft mass and balance calculations."
-keywords: ["loading terminology", "DOM", "BEM", "useful load", "traffic load", "block fuel"]
+title: "Mass and Balance Terminology: BEM, DOM, ZFM, TOM, and Fuel Definitions"
+description: "Master core mass-and-balance terminology used in loading operations, including BEM/DOM/ZFM/TOM relationships and operational fuel definitions."
+keywords:
+    - "mass and balance terminology"
+    - "bem dom zfm"
+    - "traffic load"
+    - "block fuel"
 ---
+
+# Mass and Balance Terminology: BEM, DOM, ZFM, TOM, and Fuel Definitions
 
 ## Standard Mass Definitions
 

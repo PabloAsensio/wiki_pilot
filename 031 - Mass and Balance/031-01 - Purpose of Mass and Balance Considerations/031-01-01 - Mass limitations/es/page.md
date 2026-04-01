@@ -1,8 +1,14 @@
 ---
-title: "Limitaciones de Masa"
-description: "Importancia de las limitaciones de masa para la integridad estructural y el rendimiento de la aeronave."
-keywords: ["limitaciones de masa", "MTOM", "MLM", "MZFM", "límite estructural", "límite de rendimiento"]
+title: "Limitaciones de Masa en Aeronaves: Estructura, Performance y Seguridad"
+description: "Comprende las limitaciones de masa (MTOM, MSLM, MZFM, MTM), la diferencia entre límites estructurales y de performance, y el impacto operativo de la sobrecarga."
+keywords:
+	- "limitaciones de masa"
+	- "mtom"
+	- "mzfm"
+	- "masa de aterrizaje"
 ---
+
+# Limitaciones de Masa en Aeronaves: Estructura, Performance y Seguridad
 
 ## Importancia de las Limitaciones de Masa
 

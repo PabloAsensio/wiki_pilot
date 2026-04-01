@@ -1,8 +1,14 @@
 ---
-title: "Repositioning of CG"
-description: "Calculating the effect of moving mass on the Centre of Gravity."
-keywords: ["CG shift", "mass movement", "balance adjustment", "formula"]
+title: "Repositioning the CG: Mass-Shift Formula and Practical Corrections"
+description: "Learn to correct out-of-limit CG conditions by moving load using the mass-shift formula, with direction logic and practical cargo-repositioning examples."
+keywords:
+	- "cg shift"
+	- "mass movement"
+	- "balance adjustment"
+	- "load repositioning"
 ---
+
+# Repositioning the CG: Mass-Shift Formula and Practical Corrections
 
 ## Shifting Mass
 

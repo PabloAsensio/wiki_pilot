@@ -1,8 +1,14 @@
 ---
-title: "Limitaciones de Carga del Piso"
-description: "Cálculo de cargas máximas permitidas para prevenir daños estructurales al piso de la bodega."
-keywords: ["carga de piso", "carga lineal", "distribución de carga", "intensidad de carga"]
+title: "Límites de Carga de Piso y Carga Lineal: Cálculo y Protección Estructural"
+description: "Aprende a calcular intensidad de carga de piso y carga lineal, aplicando técnicas de shoring para evitar daños estructurales en la bodega."
+keywords:
+	- "carga de piso"
+	- "carga lineal"
+	- "intensidad de carga"
+	- "shoring"
 ---
+
+# Límites de Carga de Piso y Carga Lineal: Cálculo y Protección Estructural
 
 ## Límites Estructurales
 El piso de la bodega de carga está diseñado para soportar una carga máxima específica por unidad de área. Exceder esto puede dañar los paneles del piso o la estructura inferior.

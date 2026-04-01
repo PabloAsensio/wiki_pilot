@@ -1,8 +1,14 @@
 ---
-title: "Cálculos Generales de Masa"
-description: "Procedimientos para calcular la masa total y conversión de unidades."
-keywords: ["cálculos de masa", "densidad de combustible", "conversión de unidades", "masa de pasajeros"]
+title: "Cálculos Generales de Masa: Densidad de Combustible, Masas Estándar y LMC"
+description: "Comprende los cálculos de masa en despacho: conversión volumen-masa de combustible, uso de masas estándar de pasajeros y gestión de cambios de última hora."
+keywords:
+    - "cálculos de masa"
+    - "densidad combustible"
+    - "masa estándar pasajeros"
+    - "lmc"
 ---
+
+# Cálculos Generales de Masa: Densidad de Combustible, Masas Estándar y LMC
 
 ## Cálculo de la Masa Total
 

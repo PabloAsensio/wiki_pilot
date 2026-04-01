@@ -1,8 +1,14 @@
 ---
-title: "Empty Mass and CG Data"
-description: "Extracting reference BEM and CG data from documentation for everyday calculations."
-keywords: ["BEM extraction", "CG reference", "index", "load sheet"]
+title: "BEM and CG Data Extraction: Using Aircraft Documentation Correctly"
+description: "Learn how to extract and apply BEM/CG reference data, index-unit systems, and baseline values from approved aircraft mass-and-balance documentation."
+keywords:
+    - "bem extraction"
+    - "cg reference"
+    - "index units"
+    - "load sheet"
 ---
+
+# BEM and CG Data Extraction: Using Aircraft Documentation Correctly
 
 ## Starting Point for Calculations
 

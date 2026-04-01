@@ -1,8 +1,14 @@
 ---
-title: "Mass Limits Calculations"
-description: "Determining the maximum permissible traffic load based on mass limits."
-keywords: ["mass limits", "traffic load calculation", "MTOM", "MLM", "MZFM", "regulated take-off mass"]
+title: "Mass Limit Calculations: MTOM, MLM, MZFM, and Regulated Traffic Load"
+description: "Learn step-by-step traffic-load limitation calculations using MTOM, MLM, and MZFM constraints to determine the governing payload for dispatch."
+keywords:
+    - "mass limit calculations"
+    - "regulated traffic load"
+    - "mtom mlm mzfm"
+    - "payload limit"
 ---
+
+# Mass Limit Calculations: MTOM, MLM, MZFM, and Regulated Traffic Load
 
 ## Determining Maximum Traffic Load
 

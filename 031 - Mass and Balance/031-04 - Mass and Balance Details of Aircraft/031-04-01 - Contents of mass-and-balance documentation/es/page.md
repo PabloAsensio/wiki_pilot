@@ -1,8 +1,14 @@
 ---
-title: "Documentación de Masa y Centrado"
-description: "Descripción de la documentación de masa y centrado requerida y su contenido."
-keywords: ["documentación masa y centrado", "manual", "envolvente CG", "programa de pesaje"]
+title: "Documentación de Masa y Centrado: Contenido Requerido y Uso Operativo"
+description: "Aprende la documentación obligatoria de masa y centrado: definición de datum, interpretación de envolvente CG, informe de pesaje y control de equipos."
+keywords:
+	- "documentación masa y centrado"
+	- "envolvente cg"
+	- "programa de pesaje"
+	- "datum"
 ---
+
+# Documentación de Masa y Centrado: Contenido Requerido y Uso Operativo
 
 ## Documentación Requerida
 

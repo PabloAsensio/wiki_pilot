@@ -1,8 +1,14 @@
 ---
-title: "Límites de Masa y Cálculos"
-description: "Determinación de la carga de tráfico máxima permitida basada en los límites de masa."
-keywords: ["límites de masa", "cálculo de carga de tráfico", "MTOM", "MLM", "MZFM", "masa regulada de despegue"]
+title: "Cálculo de Límites de Masa: MTOM, MLM, MZFM y Carga Regulada"
+description: "Aprende a calcular la carga de tráfico máxima con restricciones MTOM, MLM y MZFM para identificar la limitación gobernante en despacho."
+keywords:
+    - "cálculo límites de masa"
+    - "carga de tráfico regulada"
+    - "mtom mlm mzfm"
+    - "límite de carga"
 ---
+
+# Cálculo de Límites de Masa: MTOM, MLM, MZFM y Carga Regulada
 
 ## Determinación de la Carga de Tráfico Máxima
 

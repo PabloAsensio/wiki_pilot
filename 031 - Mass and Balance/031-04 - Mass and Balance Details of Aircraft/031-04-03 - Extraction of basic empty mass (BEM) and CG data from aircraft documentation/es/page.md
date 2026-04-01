@@ -1,8 +1,14 @@
 ---
-title: "Datos de Masa en Vacío y CG"
-description: "Extracción de datos de referencia BEM y CG de la documentación para cálculos diarios."
-keywords: ["extracción BEM", "referencia CG", "índice", "hoja de carga"]
+title: "Extracción de Datos BEM y CG: Uso Correcto de Documentación de Aeronave"
+description: "Aprende a extraer y aplicar datos base BEM/CG, sistemas por unidades de índice y valores de referencia desde documentación aprobada de masa y centrado."
+keywords:
+    - "extracción bem"
+    - "referencia cg"
+    - "unidades de índice"
+    - "hoja de carga"
 ---
+
+# Extracción de Datos BEM y CG: Uso Correcto de Documentación de Aeronave
 
 ## Punto de Partida para Cálculos
 

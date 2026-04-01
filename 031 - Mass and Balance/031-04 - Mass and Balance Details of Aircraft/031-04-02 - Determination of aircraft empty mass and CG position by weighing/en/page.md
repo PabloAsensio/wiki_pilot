@@ -1,8 +1,14 @@
 ---
-title: "Weighing Procedure"
-description: "Procedures for determining aircraft mass and CG position by weighing."
-keywords: ["weighing procedure", "scales", "weighing points", "leveling", "datum"]
+title: "Aircraft Weighing Procedure: Empty Mass and CG Determination"
+description: "Study aircraft weighing methodology to establish basic empty mass and CG position, including preparation, leveling, reaction measurements, and moment calculations."
+keywords:
+    - "weighing procedure"
+    - "basic empty mass"
+    - "cg determination"
+    - "moment calculation"
 ---
+
+# Aircraft Weighing Procedure: Empty Mass and CG Determination
 
 ## Weighing Requirements
 

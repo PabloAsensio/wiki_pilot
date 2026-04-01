@@ -1,8 +1,14 @@
 ---
-title: "Tipos de Carga"
-description: "Clasificación de la carga aérea incluyendo carga general, especial y mercancías peligrosas."
-keywords: ["tipos de carga", "carga especial", "mercancías peligrosas", "ULD", "animales vivos"]
+title: "Tipos de Carga Aérea: General, Especial, DG y Uso de ULD"
+description: "Estudia la clasificación de carga aérea, categorías de manipulación especial, clases de mercancías peligrosas y uso de ULD para carga eficiente y conforme."
+keywords:
+    - "tipos de carga"
+    - "mercancías peligrosas"
+    - "uld"
+    - "carga especial"
 ---
+
+# Tipos de Carga Aérea: General, Especial, DG y Uso de ULD
 
 ## Carga General
 Mercancía estándar que no requiere manipulación o precauciones especiales (ej. ropa, piezas de maquinaria).

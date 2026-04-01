@@ -1,8 +1,14 @@
 ---
-title: "Hoja de Carga y Centrado (Load & Trim Sheet)"
-description: "El documento que detalla la carga de la aeronave, la distribución de la masa y el ajuste del trim del estabilizador."
-keywords: ["hoja de carga", "hoja de trim", "THS", "trim del estabilizador", "distribución de masa"]
+title: "Hoja de Carga y Centrado: Registro Legal y Trim de Despegue"
+description: "Comprende la estructura de la hoja de carga y centrado, responsabilidades legales, chequeos de acumulación de masa, cálculo de CG y ajuste de trim de despegue."
+keywords:
+	- "hoja de carga y centrado"
+	- "trim ths"
+	- "distribución de masa"
+	- "masa sin combustible"
 ---
+
+# Hoja de Carga y Centrado: Registro Legal y Trim de Despegue
 
 ## Propósito
 

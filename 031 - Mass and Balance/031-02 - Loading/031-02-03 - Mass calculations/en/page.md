@@ -1,8 +1,14 @@
 ---
-title: "General Mass Calculations"
-description: "Procedures for calculating total mass and converting units."
-keywords: ["mass calculations", "fuel density", "unit conversion", "passengers mass"]
+title: "General Mass Calculations: Fuel Density, Standard Masses, and LMC"
+description: "Understand practical mass calculations for dispatch, including fuel volume-to-mass conversion, passenger standard masses, and last-minute change handling."
+keywords:
+    - "mass calculations"
+    - "fuel density"
+    - "standard passenger mass"
+    - "lmc"
 ---
+
+# General Mass Calculations: Fuel Density, Standard Masses, and LMC
 
 ## Calculating Total Mass
 
