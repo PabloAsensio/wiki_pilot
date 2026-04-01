@@ -1,5 +1,5 @@
 ---
-title: "Radionavegación: Radar Secundario y Transpondedor"
+title: "Radar Secundario y Transpondedor"
 description: "Estudia operación de SSR y transpondedor, modos y uso en vigilancia ATC."
 keywords:
     - "radar secundario de vigilancia"
@@ -7,7 +7,7 @@ keywords:
     - "vigilancia atc"
 ---
 
-# Radionavegación: Radar Secundario y Transpondedor
+# Radar Secundario y Transpondedor
 
 El **SSR (Secondary Surveillance Radar)** es un sistema de radar que depende de la cooperación de un equipo a bordo de la aeronave llamado **transpondedor**. A diferencia del radar primario, que funciona por reflexión pasiva, el SSR utiliza un sistema de interrogación y respuesta activa.
 

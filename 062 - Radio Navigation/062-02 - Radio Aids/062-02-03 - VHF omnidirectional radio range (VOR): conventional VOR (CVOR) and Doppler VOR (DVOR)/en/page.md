@@ -1,5 +1,5 @@
 ---
-title: "Radio Navigation: VOR, CVOR, DVOR, and VOR Frequency Range"
+title: "VOR, CVOR, DVOR, and VOR Frequency Range"
 description: "Understand VOR reference and variable signals, VOR frequency range, and differences between CVOR and DVOR."
 keywords:
     - "difference between vor and dvor"
@@ -9,7 +9,7 @@ keywords:
     - "vor navigation"
 ---
 
-# Radio Navigation: VOR, CVOR, DVOR, and VOR Frequency Range
+# VOR, CVOR, DVOR, and VOR Frequency Range
 
 The **VOR** is a radio navigation aid that operates in the VHF band and provides the pilot with the magnetic direction to or from the ground station.
 

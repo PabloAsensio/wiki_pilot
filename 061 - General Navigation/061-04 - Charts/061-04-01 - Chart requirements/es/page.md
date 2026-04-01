@@ -1,5 +1,5 @@
 ---
-title: "Navegación General: Requisitos de Cartas"
+title: "Requisitos de Cartas"
 description: "Revisa requisitos operativos y normativos de cartas para una navegacion segura."
 keywords:
     - "requisitos de cartas aeronauticas"
@@ -7,7 +7,7 @@ keywords:
     - "uso de cartas de vuelo"
 ---
 
-# Navegación General: Requisitos de Cartas
+# Requisitos de Cartas
 
 Las cartas aeronáuticas son representaciones fundamentales para la navegación aérea, actuando como una "Tierra reducida" en un plano. Su función principal es mostrar la relación entre las distancias en el mapa y las distancias reales en el planeta, permitiendo a los pilotos planificar y ejecutar vuelos con precisión. A continuación, se detallan los conceptos clave para entender su funcionamiento.
 

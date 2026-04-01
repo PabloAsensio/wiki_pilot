@@ -1,5 +1,5 @@
 ---
-title: "Navegación General: Navegación en Ascenso y Descenso"
+title: "Navegación en Ascenso y Descenso"
 description: "Comprende correcciones de navegacion y consideraciones de tiempo durante ascenso y descenso."
 keywords:
     - "navegacion en ascenso y descenso"
@@ -7,7 +7,7 @@ keywords:
     - "cálculo de progreso de vuelo"
 ---
 
-# Navegación General: Navegación en Ascenso y Descenso
+# Navegación en Ascenso y Descenso
 
 La navegación durante las fases de ascenso y descenso requiere cálculos específicos para determinar la velocidad, el tiempo y la distancia con precisión. A diferencia del vuelo de crucero nivelado, donde las condiciones son relativamente constantes, el ascenso y el descenso implican cambios continuos en la altitud, lo que afecta a la **Velocidad Verdadera (TAS)** y al efecto del viento. A continuación, se explican los conceptos y reglas clave para dominar estos cálculos.
 

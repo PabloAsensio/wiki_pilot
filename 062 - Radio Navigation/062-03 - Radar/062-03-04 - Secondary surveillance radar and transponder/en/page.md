@@ -1,5 +1,5 @@
 ---
-title: "Radio Navigation: Secondary Surveillance Radar and Transponder"
+title: "Secondary Surveillance Radar and Transponder"
 description: "Study SSR and transponder operation, modes, and ATC surveillance integration."
 keywords:
     - "secondary surveillance radar"
@@ -7,7 +7,7 @@ keywords:
     - "atc surveillance"
 ---
 
-# Radio Navigation: Secondary Surveillance Radar and Transponder
+# Secondary Surveillance Radar and Transponder
 
 **SSR (Secondary Surveillance Radar)** is a radar system that relies on the cooperation of airborne equipment called a **transponder**. Unlike primary radar, which works by passive reflection, SSR uses an active interrogation and reply system.
 

@@ -1,5 +1,5 @@
 ---
-title: "Radio Navigation: Instrument Landing System (ILS)"
+title: "Instrument Landing System (ILS)"
 description: "Learn ILS localizer and glide slope operation for precision approach guidance."
 keywords:
     - "instrument landing system"
@@ -7,7 +7,7 @@ keywords:
     - "precision approach"
 ---
 
-# Radio Navigation: Instrument Landing System (ILS)
+# Instrument Landing System (ILS)
 
 The **ILS (Instrument Landing System)** is the standard precision approach system, providing lateral and vertical guidance for landing.
 

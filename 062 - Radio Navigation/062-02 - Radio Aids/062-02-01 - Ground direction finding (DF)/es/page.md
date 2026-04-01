@@ -1,5 +1,5 @@
 ---
-title: "Radionavegación: Radiogoniometria Terrestre (DF)"
+title: "Radiogoniometria Terrestre (DF)"
 description: "Comprende la radiogoniometria terrestre y sus aplicaciónes en navegacion aerea."
 keywords:
     - "radiogoniometria terrestre"
@@ -7,7 +7,7 @@ keywords:
     - "radioayudas"
 ---
 
-# Radionavegación: Radiogoniometria Terrestre (DF)
+# Radiogoniometria Terrestre (DF)
 
 El **VDF** (VHF Direction Finding) es un sistema que permite a una estación terrestre determinar la dirección desde la cual proviene una señal de radio VHF transmitida por una aeronave.
 

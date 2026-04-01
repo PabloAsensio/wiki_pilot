@@ -1,5 +1,5 @@
 ---
-title: "Navegación General: Hora Estándar"
+title: "Hora Estándar"
 description: "Estudia la hora estandar, UTC y el uso de husos horarios en la planificación operaciónal."
 keywords:
     - "hora estandar en aviacion"
@@ -7,7 +7,7 @@ keywords:
     - "planificación temporal de vuelo"
 ---
 
-# Navegación General: Hora Estándar
+# Hora Estándar
 
 La gestión del tiempo es fundamental en la aviación para garantizar la seguridad y la coordinación global. A continuación, explicamos los conceptos clave para entender cómo funciona la hora en diferentes regiones y cómo afecta a la navegación aérea.
 

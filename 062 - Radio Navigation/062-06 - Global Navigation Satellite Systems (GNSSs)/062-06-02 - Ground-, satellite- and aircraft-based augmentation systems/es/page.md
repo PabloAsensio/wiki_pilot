@@ -1,5 +1,5 @@
 ---
-title: "Radionavegación: Sistemas de Aumentación GNSS"
+title: "Sistemas de Aumentación GNSS"
 description: "Comprende aumentacion terrestre, satelital y embarcada para mejorar precisión GNSS."
 keywords:
     - "aumentacion gnss"
@@ -7,7 +7,7 @@ keywords:
     - "integridad de navegacion"
 ---
 
-# Radionavegación: Sistemas de Aumentación GNSS
+# Sistemas de Aumentación GNSS
 
 Los sistemas de aumentación tienen como objetivo mejorar la precisión, integridad, disponibilidad y continuidad de la señal GNSS básica para cumplir con los requisitos de la aviación civil, especialmente en fases críticas como la aproximación.
 

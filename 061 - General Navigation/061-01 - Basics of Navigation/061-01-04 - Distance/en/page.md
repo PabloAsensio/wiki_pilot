@@ -1,5 +1,5 @@
 ---
-title: "General Navigation: Nautical Miles and Distance Calculation"
+title: "Nautical Miles and Distance Calculation"
 description: "Learn aviation nautical miles, along-track distance, and practical distance calculation methods for navigation."
 keywords:
     - "nautical miles in aviation"
@@ -7,7 +7,7 @@ keywords:
     - "distance calculation navigation"
 ---
 
-# General Navigation: Nautical Miles and Distance Calculation
+# Nautical Miles and Distance Calculation
 
 In air navigation, distance is not just a linear measurement; it is a combination of spherical geometry, the movement of air masses, and time calculations. Below, we break down all the essential concepts needed to understand how distances are measured around the world.
 

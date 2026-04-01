@@ -1,5 +1,5 @@
 ---
-title: "Radio Navigation: Ground Direction Finding (DF)"
+title: "Ground Direction Finding (DF)"
 description: "Understand ground direction finding principles and applications in air navigation."
 keywords:
     - "ground direction finding"
@@ -7,7 +7,7 @@ keywords:
     - "radio aids"
 ---
 
-# Radio Navigation: Ground Direction Finding (DF)
+# Ground Direction Finding (DF)
 
 **VDF** (VHF Direction Finding) is a system that allows a ground station to determine the direction from which a VHF radio signal transmitted by an aircraft is coming.
 

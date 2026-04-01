@@ -1,5 +1,5 @@
 ---
-title: "Navegación General: La Tierra"
+title: "La Tierra"
 description: "Aprende la geometría terrestre, las estaciones y el magnetismo terrestre aplicados a la navegacion aerea."
 keywords:
     - "navegacion general"
@@ -7,7 +7,7 @@ keywords:
     - "teoría de navegacion aerea"
 ---
 
-# Navegación General: La Tierra
+# La Tierra
 
 La Tierra es un sistema dinámico cuya relación con el Sol determina aspectos fundamentales para la aviación, como la duración del día, las estaciones y la navegación. A continuación, se detallan los conceptos clave sobre nuestro planeta, la radiación solar y el magnetismo terrestre.
 

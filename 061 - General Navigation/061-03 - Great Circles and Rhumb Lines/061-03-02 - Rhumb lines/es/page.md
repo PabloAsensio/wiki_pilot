@@ -1,5 +1,5 @@
 ---
-title: "Navegación General: Líneas Loxodrómicas"
+title: "Líneas Loxodrómicas"
 description: "Estudia las lineas loxodromicas y su uso en navegacion con rumbo constante."
 keywords:
     - "linea loxodromica"
@@ -7,7 +7,7 @@ keywords:
     - "navegacion general"
 ---
 
-# Navegación General: Líneas Loxodrómicas
+# Líneas Loxodrómicas
 
 En la navegación global, es crucial comprender cómo se trazan las líneas sobre la superficie curva de la Tierra. Los dos conceptos más importantes que definen estas trayectorias son la **Loxodromia** (Rhumb Line) y la **Ortodromia** (Great Circle).
 

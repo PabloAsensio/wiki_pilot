@@ -1,5 +1,5 @@
 ---
-title: "Radio Navigation: Distance Measuring Equipment (DME)"
+title: "Distance Measuring Equipment (DME)"
 description: "Understand DME principles, slant range, and operational use with VOR and ILS."
 keywords:
     - "distance measuring equipment"
@@ -7,7 +7,7 @@ keywords:
     - "radio navigation"
 ---
 
-# Radio Navigation: Distance Measuring Equipment (DME)
+# Distance Measuring Equipment (DME)
 
 **DME (Distance Measuring Equipment)** is a secondary radar system that provides the distance between an aircraft and a ground station. It operates in the **UHF band (962 - 1213 MHz)**.
 

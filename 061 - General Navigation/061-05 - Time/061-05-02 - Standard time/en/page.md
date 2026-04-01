@@ -1,5 +1,5 @@
 ---
-title: "General Navigation: Standard Time"
+title: "Standard Time"
 description: "Study standard time systems, UTC, and timezone use in operational flight planning."
 keywords:
     - "standard time aviation"
@@ -7,7 +7,7 @@ keywords:
     - "flight planning time"
 ---
 
-# General Navigation: Standard Time
+# Standard Time
 
 Time management is fundamental in aviation to ensure safety and global coordination. Below, we explain the key concepts for understanding how time works in different regions and how it affects air navigation.
 

@@ -1,5 +1,5 @@
 ---
-title: "Radionavegación: Concepto PBN (ICAO Doc 9613)"
+title: "Concepto PBN (ICAO Doc 9613)"
 description: "Estudia el concepto PBN y su marco principal segun ICAO Doc 9613."
 keywords:
     - "concepto pbn"
@@ -7,7 +7,7 @@ keywords:
     - "navegacion basada en prestaciones"
 ---
 
-# Radionavegación: Concepto PBN (ICAO Doc 9613)
+# Concepto PBN (ICAO Doc 9613)
 
 El concepto PBN (Navegación Basada en la Performance) especifica que los requisitos de rendimiento del sistema RNAV de la aeronave se definan en términos de precisión, integridad, disponibilidad, continuidad y funcionalidad, necesarios para las operaciones propuestas en el contexto de un concepto de espacio aéreo particular.
 

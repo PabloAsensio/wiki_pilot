@@ -1,5 +1,5 @@
 ---
-title: "General Navigation: Rhumb Lines"
+title: "Rhumb Lines"
 description: "Study rhumb line characteristics and their use in constant heading navigation."
 keywords:
     - "rhumb line"
@@ -7,7 +7,7 @@ keywords:
     - "constant heading navigation"
 ---
 
-# General Navigation: Rhumb Lines
+# Rhumb Lines
 
 In global navigation, it is crucial to understand how lines are drawn on the curved surface of the Earth. The two most important concepts that define these trajectories are the **Rhumb Line** and the **Great Circle** (Orthodrome).
 

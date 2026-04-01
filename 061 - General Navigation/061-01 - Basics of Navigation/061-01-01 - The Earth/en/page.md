@@ -1,5 +1,5 @@
 ---
-title: "General Navigation: The Earth"
+title: "The Earth"
 description: "Learn Earth geometry, seasons, and terrestrial magnetism fundamentals used in aviation navigation."
 keywords:
     - "general navigation"
@@ -7,7 +7,7 @@ keywords:
     - "aviation navigation theory"
 ---
 
-# General Navigation: The Earth
+# The Earth
 
 The Earth is a dynamic system whose relationship with the Sun determines fundamental aspects for aviation, such as day length, seasons, and navigation. Below are the key concepts about our planet, solar radiation, and terrestrial magnetism.
 

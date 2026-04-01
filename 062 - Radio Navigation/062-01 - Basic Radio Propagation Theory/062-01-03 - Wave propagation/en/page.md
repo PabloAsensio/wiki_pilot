@@ -1,5 +1,5 @@
 ---
-title: "Radio Navigation: Wave Propagation"
+title: "Wave Propagation"
 description: "Study radio wave propagation modes and their operational impact on navigation."
 keywords:
     - "wave propagation"
@@ -7,7 +7,7 @@ keywords:
     - "aviation navigation"
 ---
 
-# Radio Navigation: Wave Propagation
+# Wave Propagation
 
 The way radio waves travel from the transmitter to the receiver depends on their frequency and the environment.
 

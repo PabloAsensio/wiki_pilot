@@ -1,5 +1,5 @@
 ---
-title: "Radio Navigation: Antennas"
+title: "Antennas"
 description: "Understand antenna types, patterns, and practical use in aircraft radio navigation."
 keywords:
     - "aviation antennas"
@@ -7,7 +7,7 @@ keywords:
     - "radio navigation"
 ---
 
-# Radio Navigation: Antennas
+# Antennas
 
 Antennas are devices that allow the transition between a guided electric current and an electromagnetic wave in free space.
 

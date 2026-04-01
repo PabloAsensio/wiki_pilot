@@ -1,5 +1,5 @@
 ---
-title: "Radio Navigation: Ground Radar"
+title: "Ground Radar"
 description: "Learn primary and secondary ground radar use in air traffic surveillance."
 keywords:
     - "ground radar"
@@ -7,7 +7,7 @@ keywords:
     - "radar navigation"
 ---
 
-# Radio Navigation: Ground Radar
+# Ground Radar
 
 ## Primary Surveillance Radar (PSR)
 

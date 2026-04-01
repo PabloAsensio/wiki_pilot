@@ -1,5 +1,5 @@
 ---
-title: "Radionavegación: VOR, CVOR, DVOR y Radiofaro Omnidireccional VHF"
+title: "VOR, CVOR, DVOR y Radiofaro Omnidireccional VHF"
 description: "Comprende diferencias entre VOR y DVOR, incluyendo señales, CVOR y funcionamiento del radiofaro omnidireccional VHF."
 keywords:
     - "cvor"
@@ -9,7 +9,7 @@ keywords:
     - "navegacion vor"
 ---
 
-# Radionavegación: VOR, CVOR, DVOR y Radiofaro Omnidireccional VHF
+# VOR, CVOR, DVOR y Radiofaro Omnidireccional VHF
 
 El **VOR** es una radioayuda de navegación que opera en la banda VHF y proporciona al piloto la dirección magnética hacia o desde la estación terrestre.
 

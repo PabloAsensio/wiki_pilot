@@ -1,5 +1,5 @@
 ---
-title: "General Navigation: Practical Chart Use"
+title: "Practical Chart Use"
 description: "Apply chart reading and plotting methods to practical en-route navigation tasks."
 keywords:
     - "chart practical use"
@@ -7,7 +7,7 @@ keywords:
     - "enroute navigation"
 ---
 
-# General Navigation: Practical Chart Use
+# Practical Chart Use
 
 Practical air navigation consists of transferring real-world information to a two-dimensional plane: the aeronautical chart. To do this successfully, it is necessary to master the use of measurement tools, understand the properties of the Earth, and know how to interpret terrain symbols and radio aids. Below is a detailed step-by-step explanation of how to apply these concepts.
 

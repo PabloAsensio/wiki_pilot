@@ -1,5 +1,5 @@
 ---
-title: "Navegación General: Proyecciones Cartográficas"
+title: "Proyecciones Cartográficas"
 description: "Aprende principios de proyeccion y su impacto en rumbos, distancias y trazado de rutas."
 keywords:
     - "proyecciones cartograficas"
@@ -7,7 +7,7 @@ keywords:
     - "navegacion con cartas aeronauticas"
 ---
 
-# Navegación General: Proyecciones Cartográficas
+# Proyecciones Cartográficas
 
 Navegar por el mundo requiere traducir una esfera tridimensional (la Tierra) a un mapa plano bidimensional. Este proceso se realiza mediante **proyecciones**, y cada una tiene sus propias reglas y distorsiones. A continuación, explicamos de forma sencilla cómo funcionan las principales proyecciones utilizadas en aviación, integrando todos los conceptos teóricos y matemáticos esenciales.
 

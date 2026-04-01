@@ -1,5 +1,5 @@
 ---
-title: "General Navigation: Map Projections"
+title: "Map Projections"
 description: "Learn map projection principles and their impact on bearings, distance, and route plotting."
 keywords:
     - "map projections"
@@ -7,7 +7,7 @@ keywords:
     - "aeronautical chart navigation"
 ---
 
-# General Navigation: Map Projections
+# Map Projections
 
 Navigating the world requires translating a three-dimensional sphere (the Earth) to a two-dimensional flat map. This process is carried out through **projections**, and each one has its own rules and distortions. Below, we explain in a simple way how the main projections used in aviation work, integrating all the essential theoretical and mathematical concepts.
 

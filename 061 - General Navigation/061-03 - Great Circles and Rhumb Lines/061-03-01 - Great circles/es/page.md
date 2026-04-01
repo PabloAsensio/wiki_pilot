@@ -1,5 +1,5 @@
 ---
-title: "Navegación General: Círculos Máximos"
+title: "Círculos Máximos"
 description: "Comprende las rutas de circulo maximo y por que son el camino mas corto sobre la Tierra."
 keywords:
     - "circulo maximo"
@@ -7,7 +7,7 @@ keywords:
     - "planificación de largo alcance"
 ---
 
-# Navegación General: Círculos Máximos
+# Círculos Máximos
 
 La navegación aérea se basa en comprender cómo la forma esférica de la Tierra afecta la dirección y la distancia entre dos puntos. A continuación, explicamos los conceptos fundamentales para entender las trayectorias de vuelo.
 

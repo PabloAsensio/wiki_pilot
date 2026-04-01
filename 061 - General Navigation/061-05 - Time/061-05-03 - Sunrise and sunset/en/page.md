@@ -1,5 +1,5 @@
 ---
-title: "General Navigation: Sunrise, Sunset, and Solar Time"
+title: "Sunrise, Sunset, and Solar Time"
 description: "Learn what sunset means, how sunrise is defined, and how to calculate daylight for navigation."
 keywords:
     - "what is sunset"
@@ -9,7 +9,7 @@ keywords:
     - "solar time navigation"
 ---
 
-# General Navigation: Sunrise, Sunset, and Solar Time
+# Sunrise, Sunset, and Solar Time
 
 The alternation between day and night and the variation in daylight hours are fundamental phenomena in navigation and daily life. These events are not random, but depend on the geometry of the Earth and its movement around the Sun. Below, we explore the key concepts for understanding how they work.
 

@@ -1,5 +1,5 @@
 ---
-title: "General Navigation: Navigation in Climb and Descent"
+title: "Navigation in Climb and Descent"
 description: "Understand navigation corrections and timing considerations during climb and descent phases."
 keywords:
     - "climb and descent navigation"
@@ -7,7 +7,7 @@ keywords:
     - "flight progress calculations"
 ---
 
-# General Navigation: Navigation in Climb and Descent
+# Navigation in Climb and Descent
 
 Navigation during climb and descent phases requires specific calculations to determine speed, time, and distance accurately. Unlike level cruise flight, where conditions are relatively constant, climbs and descents involve continuous changes in altitude, which affect **True Airspeed (TAS)** and the effect of wind. Below are the key concepts and rules needed to master these calculations.
 

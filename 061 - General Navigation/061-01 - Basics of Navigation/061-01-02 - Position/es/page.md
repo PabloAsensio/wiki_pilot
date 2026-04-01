@@ -1,5 +1,5 @@
 ---
-title: "Navegación General: Posición"
+title: "Posición"
 description: "Comprende latitud, longitud y principios de determinación de posicion para la navegacion en vuelo."
 keywords:
     - "determinación de posicion"
@@ -7,7 +7,7 @@ keywords:
     - "navegacion general"
 ---
 
-# Navegación General: Posición
+# Posición
 
 En la navegación aérea, la **posición** se define mediante un sistema de coordenadas que utiliza la latitud y la longitud. Aunque para simplificar los cálculos a menudo consideramos la Tierra como una esfera perfecta, la realidad es más compleja y requiere modelos precisos como el **elipsoide WGS 84** para garantizar la seguridad y exactitud en el vuelo.
 

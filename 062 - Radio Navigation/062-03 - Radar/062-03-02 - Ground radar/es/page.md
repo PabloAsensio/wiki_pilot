@@ -1,5 +1,5 @@
 ---
-title: "Radionavegación: Radar Terrestre"
+title: "Radar Terrestre"
 description: "Aprende uso de radar terrestre primario y secundario en vigilancia ATS."
 keywords:
     - "radar terrestre"
@@ -7,7 +7,7 @@ keywords:
     - "radionavegacion"
 ---
 
-# Radionavegación: Radar Terrestre
+# Radar Terrestre
 
 ## Radar de Vigilancia Primario (PSR)
 

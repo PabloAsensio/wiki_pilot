@@ -1,5 +1,5 @@
 ---
-title: "Radionavegación: Uso de la Navegación Basada en Prestaciones (PBN)"
+title: "Uso de la Navegación Basada en Prestaciones (PBN)"
 description: "Aprende casos practicos de uso de PBN en operaciónes terminales y en ruta."
 keywords:
     - "uso de pbn"
@@ -7,7 +7,7 @@ keywords:
     - "operaciónes rnav"
 ---
 
-# Radionavegación: Uso de la Navegación Basada en Prestaciones (PBN)
+# Uso de la Navegación Basada en Prestaciones (PBN)
 
 El uso de PBN introduce conceptos y funcionalidades específicas en los sistemas de navegación para mejorar la eficiencia y capacidad del espacio aéreo.
 
