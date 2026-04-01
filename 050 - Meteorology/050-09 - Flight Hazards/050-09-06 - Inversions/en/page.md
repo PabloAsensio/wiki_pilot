@@ -4,6 +4,9 @@ description: "Temperature inversions in aviation: wind shear potential, visibili
 keywords: ["temperature inversions aviation", "inversions wind shear ATPL", "visibility reduction meteorology", "trapped pollutants flights"]
 ---
 
+# Inversions
+
+
 A temperature inversion is a layer in the atmosphere where the temperature **increases with altitude**, instead of decreasing as is usual in the troposphere. This means there is a layer of warmer air situated above a layer of colder air.
 
 ![Temperature Inversion Example](https://upload.wikimedia.org/wikipedia/commons/e/ea/Temperature_inversion_in_the_Lake_District.jpg)

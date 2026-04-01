@@ -4,6 +4,9 @@ description: "Understand the different types of turbulence in aviation: convecti
 keywords: ["types of turbulence aviation", "convective turbulence ATPL meteorology", "mechanical turbulence flying", "wind shear effects aircraft", "clear air turbulence CAT", "EASA meteorology exams"]
 ---
 
+# Turbulence
+
+
 Turbulence is the irregular and violent movement of air that causes the aircraft to shake.
 
 ## Types of Turbulence

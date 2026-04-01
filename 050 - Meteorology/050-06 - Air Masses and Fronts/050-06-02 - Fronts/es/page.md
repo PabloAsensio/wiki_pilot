@@ -4,6 +4,9 @@ description: "Guía sobre frentes meteorológicos: fríos, cálidos, ocluidos y 
 keywords: ["frentes meteorológicos aviación", "frente frío frente cálido vuelo", "frente ocluido estacionario ATPL", "meteorología frontal piloto"]
 ---
 
+# Frentes
+
+
 Un frente es el límite o zona de transición entre dos masas de aire con diferentes características (principalmente temperatura y densidad).
 
 ![Sección transversal cálido y frío](https://upload.wikimedia.org/wikipedia/commons/b/bc/Cross_section_through_a_cold_front_and_warm_front.jpg)

@@ -4,6 +4,9 @@ description: "Comprehensive guide on aircraft icing: clear ice, rime ice, mixed 
 keywords: ["aircraft icing ATPL", "clear ice rime ice flying", "icing hazards aviation meteorology", "anti-icing de-icing systems"]
 ---
 
+# Icing
+
+
 Icing is one of the most significant hazards to aviation. It occurs when ice forms on the aircraft structure, altering its aerodynamic characteristics and potentially affecting the operation of engines and instruments.
 
 ![Types of Icing](https://upload.wikimedia.org/wikipedia/commons/5/5e/Ice_on_an_aircraft_wing.jpg)

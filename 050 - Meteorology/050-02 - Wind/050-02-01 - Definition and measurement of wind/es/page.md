@@ -4,6 +4,9 @@ description: "Descubre cómo se define y mide el viento en la aviación: rosa de
 keywords: ["medicion del viento", "viento como se mide", "medición viento en aviación", "viento METAR verdadero o magnético"]
 ---
 
+# Definición y medición del viento
+
+
 ## Definición
 El viento se define siempre por la dirección **de donde viene** (origen).
 

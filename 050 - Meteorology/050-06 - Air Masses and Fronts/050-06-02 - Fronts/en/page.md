@@ -4,6 +4,9 @@ description: "Detailed guide on weather fronts: cold, warm, occluded, and statio
 keywords: ["weather fronts aviation", "cold front warm front flying", "occluded stationary fronts ATPL", "frontal weather flights"]
 ---
 
+# Fronts
+
+
 A front is the boundary or transition zone between two air masses with different characteristics (mainly temperature and density).
 
 ![Cross section warm and cold](https://upload.wikimedia.org/wikipedia/commons/b/bc/Cross_section_through_a_cold_front_and_warm_front.jpg)

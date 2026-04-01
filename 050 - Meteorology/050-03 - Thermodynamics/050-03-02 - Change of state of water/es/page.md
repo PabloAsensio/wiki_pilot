@@ -4,6 +4,9 @@ description: "Aprende sobre los cambios de estado del agua en la atmósfera: eva
 keywords: ["meteorología aviación calor latente", "cambios de estado del agua atmósfera", "sublimación y deposición nubes", "evaporación condensación meteorología ATPL", "hielo líquido vapor aviación", "absorción calor latente atmósfera"]
 ---
 
+# Cambios de estado del agua
+
+
 El agua existe en la atmósfera en tres estados: sólido (hielo), líquido (agua) y gas (vapor de agua). Los cambios entre estos estados implican la absorción o liberación de energía en forma de **Calor Latente**.
 
 ![Cambios de Estado del Agua](https://upload.wikimedia.org/wikipedia/commons/e/e5/Water_Phase_Change_Diagram.png)

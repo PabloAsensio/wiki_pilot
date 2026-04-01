@@ -4,6 +4,9 @@ description: "Aprende sobre los tipos de turbulencia en aviación, como la conve
 keywords: ["tipos de turbulencia aviación", "turbulencia convectiva meteorología ATPL", "cizalladura del viento aviación wind shear", "turbulencia en aire claro CAT", "estudio meteorología pilotos EASA"]
 ---
 
+# Turbulencia
+
+
 La turbulencia es el movimiento irregular y violento del aire que provoca sacudidas en la aeronave.
 
 ## Tipos de Turbulencia

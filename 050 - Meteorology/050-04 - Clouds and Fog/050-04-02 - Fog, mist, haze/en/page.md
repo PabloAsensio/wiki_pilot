@@ -4,6 +4,9 @@ description: "Understand the differences between fog, mist, and haze. Formation 
 keywords: ["fog mist haze aviation", "radiation fog advection fog flying", "visibility fog types ATPL", "meteorology fog formation"]
 ---
 
+# Fog, mist, haze
+
+
 The formation of fog, mist, or clouds occurs when invisible water vapor condenses into visible liquid water. This happens when the air becomes saturated (Relative Humidity = 100%), either by cooling to the dew point or by the addition of moisture.
 
 ![Fog Types](https://upload.wikimedia.org/wikipedia/commons/4/46/Vallee-brouillard.jpg)

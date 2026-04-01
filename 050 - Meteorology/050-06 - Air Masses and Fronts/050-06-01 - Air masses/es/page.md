@@ -4,6 +4,9 @@ description: "Clasificación y propiedades de las masas de aire (polar, tropical
 keywords: ["masas de aire aviación meteorología", "aire polar tropical marítimo", "modificación masas aire vuelo", "ATPL meteorología masas de aire"]
 ---
 
+# Masas de aire
+
+
 Una masa de aire es un gran volumen de aire cuyas propiedades físicas (temperatura y humedad) son uniformes en el plano horizontal.
 
 ![Masas de Aire](https://upload.wikimedia.org/wikipedia/commons/2/2f/Air_masses.svg)

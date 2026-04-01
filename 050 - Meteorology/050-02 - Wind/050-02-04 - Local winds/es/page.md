@@ -4,6 +4,9 @@ description: "Guía de estudios meteorológicos ATPL sobre vientos locales: bris
 keywords: ["que son los vientos locales", "viento locales", "vientos locales meteorología aeronáutica", "efecto foehn piloto ATPL", "brisas de mar y tierra circulación"]
 ---
 
+# Vientos locales
+
+
 Los vientos locales son circulaciones de aire a pequeña escala causadas por la topografía o diferencias térmicas locales.
 
 ## Brisas de Mar y Tierra (Sea and Land Breezes)

@@ -4,6 +4,9 @@ description: "How meteorological observations (METAR, SPECI, automated stations)
 keywords: ["meteorological observation aviation", "METAR SPECI flying", "automated weather stations ATPL", "weather observation networks"]
 ---
 
+# Meteorological Observation
+
+
 ## Visibility
 
 ![Automated Airport Weather Station](https://upload.wikimedia.org/wikipedia/commons/2/28/Sydney_Airport_BOM_weather_station.jpg)

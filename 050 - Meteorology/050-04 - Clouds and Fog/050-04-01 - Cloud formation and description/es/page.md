@@ -4,6 +4,9 @@ description: "Aprende cómo se forman las nubes, sus tipos y clasificación para
 keywords: ["formaciones de nubes", "formación de nubes meteorología aviación", "tipos de nubes piloto ATPL", "clasificación nubes vuelo", "meteorología aeronáutica EASA"]
 ---
 
+# Formación y descripción de nubes
+
+
 Las nubes se forman cuando el aire se eleva y se enfría adiabáticamente hasta alcanzar su punto de rocío (nivel de condensación), momento en el cual el vapor de agua se condensa en gotitas de agua o cristales de hielo visibles.
 
 ## Clasificación de las Nubes (WMO)

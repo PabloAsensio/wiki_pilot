@@ -4,6 +4,9 @@ description: "Aviation guide to tropical revolving storms: hurricanes, typhoons,
 keywords: ["tropical revolving storms aviation", "hurricanes typhoons cyclones flying", "TRS ATPL meteorology", "hurricane formation aviation hazards"]
 ---
 
+# Tropical revolving storms
+
+
 **Tropical Revolving Storms** (TRS) are large-scale thermal depressions that develop over warm tropical oceans. They are the most destructive weather systems on earth, deriving their energy from the release of **latent heat** of condensation.
 
 ![Hurricane Structure](https://upload.wikimedia.org/wikipedia/commons/4/4f/Hurricane-en.svg)

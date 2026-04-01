@@ -4,6 +4,9 @@ description: "Descubre cómo se forman las ondas de montaña, ondas estacionaria
 keywords: ["ondas de montaña aviación", "ondas estacionarias de sotavento", "nubes lenticulares rotores peligro", "barlovento vs sotavento vuelo montaña", "turbulencia montaña meteorología ATPL"]
 ---
 
+# Ondas de montaña
+
+
 Las ondas de montaña (también llamadas ondas estacionarias u ondas de sotavento) son oscilaciones del flujo de aire que se forman en el lado de **sotavento (leeward)** de una cadena montañosa.
 
 > 💡 **Nota: Barlovento vs. Sotavento**

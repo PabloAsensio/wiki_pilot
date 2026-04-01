@@ -4,6 +4,9 @@ description: "Cómo se recopilan las observaciones (METAR, SPECI, estaciones aut
 keywords: ["observación meteorológica aviación", "METAR SPECI vuelo", "estaciones meteorológicas automáticas ATPL", "redes de observación vuelo"]
 ---
 
+# Observación Meteorológica
+
+
 ## Visibilidad
 
 ![Estación Meteorológica Automática de Aeropuerto](https://upload.wikimedia.org/wikipedia/commons/2/28/Sydney_Airport_BOM_weather_station.jpg)

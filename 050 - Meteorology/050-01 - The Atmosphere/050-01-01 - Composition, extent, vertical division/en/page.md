@@ -4,6 +4,9 @@ description: "Explore the Earth's atmosphere components: Nitrogen and Oxygen. Le
 keywords: ["layers of the atmosphere aviation", "air composition ATPL meteorology", "troposphere stratosphere tropopause flying", "vertical division of the atmosphere", "nitrogen oxygen argon atmosphere"]
 ---
 
+# Composition, extent, vertical division
+
+
 ## Layers of the Atmosphere
 
 ![Atmosphere Layers](https://upload.wikimedia.org/wikipedia/commons/0/02/Atmosphere_layers-es.svg)

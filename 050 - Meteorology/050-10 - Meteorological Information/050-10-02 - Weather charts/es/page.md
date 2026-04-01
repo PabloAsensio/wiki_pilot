@@ -4,6 +4,9 @@ description: "Cómo leer mapas meteorológicos: análisis de superficie, tiempo 
 keywords: ["mapas meteorológicos aviación", "mapas SIGWX vuelo", "análisis de superficie ATPL", "leer mapas viento gran altitud"]
 ---
 
+# Mapas meteorológicos
+
+
 ## Cartas de Tiempo Significativo (SIGWX)
 
 Las cartas de tiempo significativo (SIGWX) proporcionan un pronóstico de los fenómenos meteorológicos importantes para la aviación.

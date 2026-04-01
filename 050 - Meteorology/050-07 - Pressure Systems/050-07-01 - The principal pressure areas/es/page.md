@@ -4,6 +4,9 @@ description: "Conoce las principales áreas de presión de la Tierra y su efecto
 keywords: ["áreas de presión aviación meteorología", "sistemas globales presión vuelo ATPL", "vaguada ecuatorial piloto", "altas presiones subtropicales examen ATPL"]
 ---
 
+# Principales áreas de presión
+
+
 ![Circulación Atmosférica y Áreas de Presión](https://upload.wikimedia.org/wikipedia/commons/7/79/Atmospheric_circulation.svg)
 *Circulación atmosférica global mostrando los principales cinturones de alta y baja presión.*
 

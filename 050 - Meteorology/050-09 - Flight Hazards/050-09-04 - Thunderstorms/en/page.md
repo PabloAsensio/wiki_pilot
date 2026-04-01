@@ -4,6 +4,9 @@ description: "Life cycle of a thunderstorm (cumulonimbus), associated flight haz
 keywords: ["thunderstorms aviation meteorology", "cumulonimbus clouds flying", "thunderstorm life cycle ATPL", "CB cloud hazards avoidance"]
 ---
 
+# Thunderstorms
+
+
 Thunderstorms are violent meteorological phenomena always associated with **Cumulonimbus (Cb)** clouds. For a thunderstorm to form, three basic ingredients are required:
 1.  **Sufficient Moisture**: To form and maintain the cloud.
 2.  **Instability**: Unstable air (ELR > SALR) that allows for deep vertical ascent.

@@ -4,6 +4,9 @@ description: "How precipitation develops in atmosphere. Ice crystal process and 
 keywords: ["development of precipitation aviation", "ice crystal process meteorology", "collision coalescence ATPL", "precipitation formation flying"]
 ---
 
+# Development of precipitation
+
+
 ![Diagram of the Water Cycle](https://upload.wikimedia.org/wikipedia/commons/b/b1/Diagram_of_the_Water_Cycle.jpg)
 *Schematic diagram of the water cycle and precipitation types.*
 

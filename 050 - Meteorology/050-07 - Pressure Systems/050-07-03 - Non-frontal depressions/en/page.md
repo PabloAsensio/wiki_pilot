@@ -4,6 +4,9 @@ description: "Study non-frontal depressions, thermal lows, and orographic lows f
 keywords: ["secondary depression meteorology", "non-frontal depressions aviation", "thermal lows ATPL meteorology", "orographic depression flying", "low pressure systems aviation"]
 ---
 
+# Non-frontal depressions
+
+
 A **depression** (or low-pressure system) is a region where the atmospheric pressure is lower than in its surroundings. It is characterized by closed isobars, where the pressure value decreases towards the center.
 
 ![3D Structure of an Extratropical Cyclone](https://upload.wikimedia.org/wikipedia/commons/2/2b/Extratropical_cyclone_airstreams_3D_structure.jpg)

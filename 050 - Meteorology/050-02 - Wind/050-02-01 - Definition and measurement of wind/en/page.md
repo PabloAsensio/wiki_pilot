@@ -4,6 +4,9 @@ description: "How wind is defined, measured, and reported in aviation. Learn abo
 keywords: ["definition for wind speed", "define wind direction", "aviation wind measurement meteorology", "METAR wind true vs magnetic", "anemometer wind speed flying"]
 ---
 
+# Definition and measurement of wind
+
+
 ## Definition
 Wind is always defined by the direction **from which it comes** (origin).
 

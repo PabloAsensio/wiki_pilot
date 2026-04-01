@@ -4,6 +4,9 @@ description: "Análisis detallado de vientos locales como Foehn, Mistral, Bora y
 keywords: ["vientos locales aviación", "viento foehn mistral bora", "siroco vuelo ATPL", "clima vientos locales meteorología"]
 ---
 
+# Vientos locales y clima asociado
+
+
 Existen vientos específicos en diversas regiones del mundo que tienen características y efectos significativos en la aviación.
 
 ## Harmattan

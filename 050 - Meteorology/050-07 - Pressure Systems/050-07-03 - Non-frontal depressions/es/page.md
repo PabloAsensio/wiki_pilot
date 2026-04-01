@@ -4,6 +4,9 @@ description: "Estudia las depresiones no frontales, bajas térmicas y bajas orog
 keywords: ["depresiones no frontales aviación", "bajas térmicas meteorología ATPL", "depresión orográfica vuelo", "sistemas de baja presión piloto"]
 ---
 
+# Depresiones no frontales
+
+
 Una **depresión** (o sistema de baja presión) es una región donde la presión atmosférica es más baja que en sus alrededores. Se caracteriza por isobaras cerradas, donde el valor de la presión disminuye hacia el centro.
 
 ![Estructura tridimensional de una depresión extratropical](https://upload.wikimedia.org/wikipedia/commons/2/2b/Extratropical_cyclone_airstreams_3D_structure.jpg)

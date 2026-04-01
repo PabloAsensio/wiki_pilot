@@ -4,6 +4,9 @@ description: "Clear Air Turbulence (CAT), wake turbulence, and forecasting turbu
 keywords: ["clear air turbulence aviation", "wake turbulence flying", "CAT forecasting ATPL", "flight hazards turbulence meteorology"]
 ---
 
+# Turbulence
+
+
 Turbulence is defined as the irregular movement of air resulting from eddies and vertical currents. It can be caused by various factors, such as surface heating, friction with the terrain, the passage of other aircraft, or sudden changes in wind speed and direction.
 
 ![Mountain Waves and Rotors](https://upload.wikimedia.org/wikipedia/commons/f/fa/Wave_clouds_on_the_lee_of_the_Rocky_Mountains_%28CIRA_2019-11-19%29.gif)

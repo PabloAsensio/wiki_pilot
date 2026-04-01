@@ -4,6 +4,9 @@ description: "Mountain flying hazards: rotors, downdrafts, density altitude effe
 keywords: ["mountain flying hazards", "rotors downdrafts aviation", "density altitude mountains ATPL", "mountain wave turbulence meteorology"]
 ---
 
+# Hazards in mountainous areas
+
+
 Mountainous areas present unique challenges and significant hazards to aviation due to the interaction of terrain with the atmosphere.
 
 ![Lenticular Cloud indicating Mountain Waves](https://upload.wikimedia.org/wikipedia/commons/8/8f/Lenticular_cloud_over_Mount_Hood.jpg)

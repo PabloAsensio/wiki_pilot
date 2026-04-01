@@ -4,6 +4,9 @@ description: "Learn about the Earth's principal pressure areas and their role in
 keywords: ["principal pressure areas aviation", "global pressure systems flying ATPL", "equatorial trough meteorology", "subtropical highs meteorology exams"]
 ---
 
+# The principal pressure areas
+
+
 ![Atmospheric Circulation and Pressure Areas](https://upload.wikimedia.org/wikipedia/commons/7/79/Atmospheric_circulation.svg)
 *Global atmospheric circulation showing the principal high and low-pressure belts.*
 

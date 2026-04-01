@@ -4,6 +4,9 @@ description: "Aprende sobre cizalladura (wind shear), microrráfagas (microburst
 keywords: ["cizalladura del viento", "cizalladura de viento", "microrráfagas peligros vuelo", "LLWAS meteorología ATPL", "wind shear alerta bajo nivel"]
 ---
 
+# Cizalladura del viento
+
+
 La cizalladura del viento (*wind shear*) se define como un cambio brusco en la velocidad y/o dirección del viento en una distancia corta. Puede ocurrir tanto en el plano horizontal como en el vertical.
 
 ![Efecto de la Cizalladura en Aeronaves](https://upload.wikimedia.org/wikipedia/commons/b/b9/Downdraft_Wind_shear.jpg)

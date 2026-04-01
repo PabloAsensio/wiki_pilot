@@ -4,6 +4,9 @@ description: "Clear explanation of adiabatic processes, lapse rates (DALR and SA
 keywords: ["ATPL meteorology adiabatic processes", "DALR vs SALR difference", "aviation environmental lapse rate", "atmospheric stability for pilots", "EASA meteorology exams", "aviation thermodynamic diagrams", "adiabatic expansion cooling"]
 ---
 
+# Adiabatic processes
+
+
 An adiabatic process is one in which **there is no heat transfer** to or from the system. The temperature change is due solely to the expansion or compression of the gas.
 
 ## Physical Mechanism

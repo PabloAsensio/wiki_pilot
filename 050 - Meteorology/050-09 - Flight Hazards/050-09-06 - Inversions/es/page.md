@@ -4,6 +4,9 @@ description: "Inversiones térmicas en la aviación: potencial de cizalladura, r
 keywords: ["inversiones térmicas aviación", "inversión cizalladura ATPL", "reducción visibilidad meteorología", "contaminantes vuelos"]
 ---
 
+# Inversiones
+
+
 Una inversión de temperatura es una capa en la atmósfera donde la temperatura **aumenta con la altitud**, en lugar de disminuir como es habitual en la troposfera. Esto significa que hay una capa de aire más cálido situada sobre una capa de aire más frío.
 
 ![Ejemplo de Inversión Térmica](https://upload.wikimedia.org/wikipedia/commons/e/ea/Temperature_inversion_in_the_Lake_District.jpg)

@@ -4,6 +4,9 @@ description: "Información meteorológica para la planificación: TAF, AIRMET, S
 keywords: ["planificación de vuelo meteorología", "TAF AIRMET SIGMET aviación", "briefing meteorológico ATPL", "piloto planificación tiempo"]
 ---
 
+# Información para la planificación de vuelo
+
+
 ## Reportes Meteorológicos de Aeródromo (METAR y SPECI)
 
 ![Equipamiento de Procesamiento de METAR y TAF](https://upload.wikimedia.org/wikipedia/commons/9/91/Metar_2010.jpg)

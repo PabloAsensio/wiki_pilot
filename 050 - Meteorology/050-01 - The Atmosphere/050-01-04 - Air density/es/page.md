@@ -4,6 +4,9 @@ description: "Descubre cómo factores como presión, temperatura y humedad afect
 keywords: ["densidad del aire aviación", "altitud de densidad meteorología ATPL", "efecto de presión temperatura en densidad aire", "rendimiento de la aeronave densidad", "humedad densidad altitud vuelo"]
 ---
 
+# Densidad del aire
+
+
 ## Relación con Presión y Temperatura
 
 La densidad del aire ($\rho$) está relacionada con la presión ($P$) y la temperatura ($T$) por la ley de los gases ideales:

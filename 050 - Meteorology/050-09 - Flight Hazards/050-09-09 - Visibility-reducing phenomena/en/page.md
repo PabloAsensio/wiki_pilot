@@ -4,6 +4,9 @@ description: "Learn about dust, sand, smoke, volcanic ash, and their profound im
 keywords: ["visibility reducing phenomena aviation", "volcanic ash flying hazards", "dust sand smoke meteorology ATPL", "IFR visibility requirements"]
 ---
 
+# Visibility-reducing phenomena
+
+
 Aeronautical visibility can be reduced by various meteorological phenomena, which are classified into hydrometeors (water) and lithometeors (solid particles).
 
 ![Volcanic Ash Cloud](https://upload.wikimedia.org/wikipedia/commons/0/09/Eyjafjallaj%C3%B6kull_volcanic_ash_15_April_2010.png)

@@ -4,6 +4,9 @@ description: "Detailed analysis of local winds like Foehn, Mistral, Bora, and Si
 keywords: ["local winds aviation", "foehn wind mistral bora", "sirocco flying ATPL", "local weather winds meteorology"]
 ---
 
+# Local winds and associated weather
+
+
 There are specific winds in various regions of the world that have significant characteristics and effects on aviation.
 
 ## Harmattan

@@ -4,6 +4,9 @@ description: "Aviation perspective on tornadoes, waterspouts, and severe convect
 keywords: ["tornadoes aviation hazards", "waterspouts flying meteorology", "severe convective weather ATPL", "tornado avoidance flights"]
 ---
 
+# Tornadoes
+
+
 A tornado is a violently rotating column of air extending from the base of a thunderstorm (usually a Cumulonimbus or large Cumulus) to the ground.
 
 ![Severe F5 Tornado](https://upload.wikimedia.org/wikipedia/commons/9/98/F5_tornado_Elie_Manitoba_2007.jpg)

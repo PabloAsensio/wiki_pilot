@@ -4,6 +4,9 @@ description: "Learn how atmospheric pressure works in meteorology, including iso
 keywords: ["atmospheric pressure aviation", "isobars meteorology QFF", "high and low pressure systems flying", "ridges troughs cols ATPL meteorology", "pressure variation atmosphere"]
 ---
 
+# Atmospheric pressure
+
+
 ## Pressure Systems
 
 ![Pressure Systems: High, Low, Ridge, Trough and Col](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgN01y8GWuufT3CbkNR4sU0QryUvNqe1Ao1Q&s)

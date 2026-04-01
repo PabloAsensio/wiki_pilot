@@ -4,6 +4,9 @@ description: "Cómo se desarrolla la precipitación en la atmósfera: proceso de
 keywords: ["desarrollo precipitación aviación", "proceso cristales de hielo meteorología", "coalescencia lluvia ATPL", "formación precipitación piloto"]
 ---
 
+# Desarrollo de la precipitación
+
+
 ![Diagram of the Water Cycle](https://upload.wikimedia.org/wikipedia/commons/b/b1/Diagram_of_the_Water_Cycle.jpg)
 *Diagrama esquemático del ciclo del agua y tipos de precipitación.*
 

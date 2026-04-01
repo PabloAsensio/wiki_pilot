@@ -4,6 +4,9 @@ description: "Aprende sobre polvo, arena, humo, ceniza volcánica y su profundo 
 keywords: ["fenómenos reducción visibilidad aviación", "ceniza volcánica peligros de vuelo", "polvo arena humo meteorología ATPL", "requisitos visibilidad IFR"]
 ---
 
+# Fenómenos que reducen la visibilidad
+
+
 La visibilidad aeronáutica puede verse reducida por diversos fenómenos meteorológicos, que se clasifican en hidrometeoros (agua) y litometeoros (partículas sólidas).
 
 ![Nube de Ceniza Volcánica](https://upload.wikimedia.org/wikipedia/commons/0/09/Eyjafjallaj%C3%B6kull_volcanic_ash_15_April_2010.png)

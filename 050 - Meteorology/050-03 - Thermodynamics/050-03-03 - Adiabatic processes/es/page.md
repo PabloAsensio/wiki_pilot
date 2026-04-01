@@ -4,6 +4,9 @@ description: "Explicación clara de los procesos adiabáticos, el gradiente tér
 keywords: ["meteorología ATPL procesos adiabáticos", "diferencia DALR y SALR", "gradiente térmico ambiental aviación", "estabilidad atmosférica para pilotos", "exámenes EASA meteorología", "expansión adiabática aviación", "diagrama termodinámico aviación"]
 ---
 
+# Procesos adiabáticos
+
+
 Un proceso adiabático es aquel en el que **no hay transferencia de calor** hacia o desde el sistema. El cambio de temperatura se debe únicamente a la expansión o compresión del gas.
 
 ## Mecanismo Físico

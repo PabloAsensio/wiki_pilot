@@ -4,6 +4,9 @@ description: "Aprenda todo sobre altimetría en aviación: presiones QNH, QFE, Q
 keywords: ["altimetría aviación QNH QFE QNE", "altitud verdadera vs altitud de presión", "ajuste de altímetro vuelo", "meteorología ATPL altimetría", "niveles de vuelo altímetro"]
 ---
 
+# Altimetría
+
+
 ## Definiciones Clave
 
 ![Ajustes de Altímetro (QNH, QFE, QNE)](https://upload.wikimedia.org/wikipedia/commons/b/bb/FL_QNE_QNH_QFE.png)
