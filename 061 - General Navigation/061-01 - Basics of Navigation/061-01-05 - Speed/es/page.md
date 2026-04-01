@@ -1,13 +1,13 @@
 ---
-title: Navegacion General: Velocidad
-description: Compara IAS, TAS y velocidad sobre el suelo y aplica estos conceptos al calculo de navegacion.
+title: Navegación General: Velocidad
+description: Compara IAS, TAS y velocidad sobre el suelo y aplica estos conceptos al cálculo de navegacion.
 keywords:
   - velocidad indicada y verdadera
   - tas e ias
   - navegacion general
 ---
 
-# Navegacion General: Velocidad
+# Navegación General: Velocidad
 
 En el mundo de la aviación, la "velocidad" no es un número único como en un automóvil. Para que un avión vuele de manera segura y llegue a tiempo, los pilotos deben gestionar y calcular diferentes tipos de velocidades, teniendo en cuenta factores como la altura, la temperatura y el viento. A continuación, explicamos estos conceptos fundamentales.
 

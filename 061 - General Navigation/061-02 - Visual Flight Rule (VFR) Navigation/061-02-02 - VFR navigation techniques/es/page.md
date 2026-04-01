@@ -1,13 +1,13 @@
 ---
-title: Navegacion General: Tecnicas de Navegacion VFR
-description: Aprende tecnicas practicas VFR, incluyendo pilotaje, cronometria y lectura de carta.
+title: Navegación General: Tecnicas de Navegación VFR
+description: Aprende técnicas prácticas VFR, incluyendo pilotaje, cronometría y lectura de carta.
 keywords:
-  - tecnicas de navegacion vfr
+  - técnicas de navegacion vfr
   - pilotaje y navegacion estimada
   - reglas de vuelo visual
 ---
 
-# Navegacion General: Tecnicas de Navegacion VFR
+# Navegación General: Tecnicas de Navegación VFR
 
 La navegación bajo **Reglas de Vuelo Visual (VFR)** es el arte de guiar una aeronave utilizando referencias visuales externas en lugar de depender únicamente de los instrumentos. Este artículo resume las técnicas esenciales, desde cómo orientarse y leer mapas, hasta cómo manejar situaciones de emergencia y peligros ambientales.
 

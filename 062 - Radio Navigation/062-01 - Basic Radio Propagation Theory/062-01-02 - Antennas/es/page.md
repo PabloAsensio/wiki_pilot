@@ -1,13 +1,13 @@
 ---
-title: Radionavegacion: Antenas
-description: Comprende tipos de antenas, diagramas de radiacion y uso en navegacion aerea.
+title: Radionavegación: Antenas
+description: Comprende tipos de antenas, diagramas de radiación y uso en navegacion aerea.
 keywords:
   - antenas en aviacion
-  - diagramas de radiacion
+  - diagramas de radiación
   - radionavegacion
 ---
 
-# Radionavegacion: Antenas
+# Radionavegación: Antenas
 
 Las antenas son los dispositivos que permiten la transición entre una corriente eléctrica guiada y una onda electromagnética en el espacio libre.
 

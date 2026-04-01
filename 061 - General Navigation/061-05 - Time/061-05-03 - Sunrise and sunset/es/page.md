@@ -1,15 +1,15 @@
 ---
-title: Navegacion General: Amanecer, Atardecer y Puesta de Sol
+title: Navegación General: Amanecer, Atardecer y Puesta de Sol
 description: Comprende que es la puesta de sol, como se llama la salida del sol y como calcular amanecer y atardecer en navegacion.
 keywords:
   - que es la puesta de sol
   - como se llama la salida del sol
   - amanecer y atardecer
-  - calculo de luz diurna
+  - cálculo de luz diurna
   - navegacion y tiempo solar
 ---
 
-# Navegacion General: Amanecer, Atardecer y Puesta de Sol
+# Navegación General: Amanecer, Atardecer y Puesta de Sol
 
 La alternancia entre el día y la noche y la variación en las horas de luz son fenómenos fundamentales en la navegación y la vida diaria. Estos eventos no son aleatorios, sino que dependen de la geometría de la Tierra y su movimiento alrededor del Sol. A continuación, exploraremos los conceptos clave para entender cómo funcionan.
 

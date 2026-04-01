@@ -1,13 +1,13 @@
 ---
-title: Radionavegacion: Operaciones de Navegacion Basada en Prestaciones
-description: Revisa procedimientos operacionales PBN, limitaciones y aplicacion en vuelo.
+title: Radionavegación: Operaciones de Navegación Basada en Prestaciones
+description: Revisa procedimientos operacionales PBN, limitaciones y aplicación en vuelo.
 keywords:
   - operaciones pbn
   - operaciones rnp
   - operaciones de navegacion
 ---
 
-# Radionavegacion: Operaciones de Navegacion Basada en Prestaciones
+# Radionavegación: Operaciones de Navegación Basada en Prestaciones
 
 Las operaciones PBN se basan en la capacidad del sistema de navegación para mantener una precisión definida y, en el caso de RNP, monitorear y alertar sobre el rendimiento.
 

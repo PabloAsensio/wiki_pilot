@@ -1,13 +1,13 @@
 ---
-title: Radionavegacion: Sistemas de Aumentacion GNSS
-description: Comprende aumentacion terrestre, satelital y embarcada para mejorar precision GNSS.
+title: Radionavegación: Sistemas de Aumentación GNSS
+description: Comprende aumentacion terrestre, satelital y embarcada para mejorar precisión GNSS.
 keywords:
   - aumentacion gnss
   - gbas sbas abaas
   - integridad de navegacion
 ---
 
-# Radionavegacion: Sistemas de Aumentacion GNSS
+# Radionavegación: Sistemas de Aumentación GNSS
 
 Los sistemas de aumentación tienen como objetivo mejorar la precisión, integridad, disponibilidad y continuidad de la señal GNSS básica para cumplir con los requisitos de la aviación civil, especialmente en fases críticas como la aproximación.
 
@@ -39,7 +39,7 @@ Sistemas de cobertura amplia (continental) que utilizan satélites geoestacionar
 *   **Integridad**: Alerta de fallos en **6 segundos** (frente a horas en GPS estándar).
 *   **Precisión**: Mejora la precisión horizontal y vertical.
 *   **Disponibilidad**: Los satélites SBAS actúan como satélites GNSS adicionales (ranging source).
-*   **Operaciones**: Permite aproximaciones **LPV** (Localiser Performance with Vertical Guidance) con mínimos de hasta 200 ft (equivalente a CAT I).
+*   **Operaciones**: Permite aproximaciónes **LPV** (Localiser Performance with Vertical Guidance) con mínimos de hasta 200 ft (equivalente a CAT I).
 
 ## GBAS (Ground-Based Augmentation System)
 Sistemas de cobertura local (aeropuerto) que utilizan una estación terrestre. También conocido como **LAAS** (Local Area Augmentation System).
@@ -53,10 +53,10 @@ Sistemas de cobertura local (aeropuerto) que utilizan una estación terrestre. T
 *   **Cobertura**: Aproximadamente **20-30 km** (o 20 NM) desde la estación.
     *   +/- 35° hasta 15 NM.
     *   +/- 10° entre 15 y 20 NM.
-*   **GLS (GBAS Landing System)**: Permite aproximaciones de precisión (CAT I, II, III) utilizando GNSS.
+*   **GLS (GBAS Landing System)**: Permite aproximaciónes de precisión (CAT I, II, III) utilizando GNSS.
 *   **FAS Data Block**: Bloque de datos del Segmento de Aproximación Final que define la trayectoria geométrica de la aproximación (similar al ILS pero virtual).
 *   **Canal**: Se selecciona mediante un código de canal de 5 dígitos.
 
 ### Diferencias Clave
-*   **SBAS**: Cobertura amplia (continental), correcciones vía satélite, aproximaciones LPV (APV).
-*   **GBAS**: Cobertura local (aeropuerto), correcciones vía VHF, aproximaciones GLS (Precisión).
+*   **SBAS**: Cobertura amplia (continental), correcciones vía satélite, aproximaciónes LPV (APV).
+*   **GBAS**: Cobertura local (aeropuerto), correcciones vía VHF, aproximaciónes GLS (Precisión).

@@ -1,15 +1,15 @@
 ---
-title: Radionavegacion: Sistema de Aterrizaje por Microondas (MLS) en Aviacion
-description: Estudia el sistema MLS en aviacion, su guiado de aproximacion y referencias de frecuencia.
+title: Radionavegación: Sistema de Aterrizaje por Microondas (MLS) en Aviación
+description: Estudia el sistema MLS en aviacion, su guiado de aproximación y referencias de frecuencia.
 keywords:
   - mls aviacion
   - microwave landing system
   - sistema de aterrizaje por microondas
-  - aproximacion mls
-  - radioayudas de aproximacion
+  - aproximación mls
+  - radioayudas de aproximación
 ---
 
-# Radionavegacion: Sistema de Aterrizaje por Microondas (MLS) en Aviacion
+# Radionavegación: Sistema de Aterrizaje por Microondas (MLS) en Aviación
 
 El **MLS (Microwave Landing System)** es un sistema de aproximación de precisión diseñado para superar las limitaciones del ILS y ofrecer mayor flexibilidad. Aunque tecnológicamente superior, su implementación ha sido limitada debido al auge de los sistemas basados en satélites (GNSS).
 
@@ -37,4 +37,4 @@ El **MLS (Microwave Landing System)** es un sistema de aproximación de precisi�
 
 - **MMR (Multi-Mode Receiver):** Las aeronaves modernas utilizan un receptor único capaz de procesar señales de ILS, MLS y GPS, simplificando la interfaz para el piloto.
 - **Presentación:** La información se presenta de forma similar al ILS (barras de desviación), pero calculada por ordenador para seguir el segmento programado.
-- **DME/P:** Sin un DME/P operativo, el MLS solo puede proporcionar aproximaciones directas (tipo ILS), perdiendo la capacidad de realizar aproximaciones curvas o segmentadas.
+- **DME/P:** Sin un DME/P operativo, el MLS solo puede proporcionar aproximaciónes directas (tipo ILS), perdiendo la capacidad de realizar aproximaciónes curvas o segmentadas.

@@ -1,13 +1,13 @@
 ---
-title: Radionavegacion: Tecnicas de Pulso en Radar
-description: Comprende temporizacion de radar de pulsos, calculo de distancia e interpretacion de eco.
+title: Radionavegación: Tecnicas de Pulso en Radar
+description: Comprende temporizacion de radar de pulsos, cálculo de distancia e interpretacion de eco.
 keywords:
-  - tecnicas de pulso
+  - técnicas de pulso
   - radar de pulsos
   - radar en aviacion
 ---
 
-# Radionavegacion: Tecnicas de Pulso en Radar
+# Radionavegación: Tecnicas de Pulso en Radar
 
 ## Principios Básicos del Radar
 

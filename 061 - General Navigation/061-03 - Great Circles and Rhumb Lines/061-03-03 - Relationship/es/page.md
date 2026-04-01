@@ -1,5 +1,5 @@
 ---
-title: Navegacion General: Relacion entre Circulo Maximo y Loxodromica
+title: Navegación General: Relación entre Circulo Máximo y Loxodrómica
 description: Compara trayectorias de circulo maximo y loxodromica para seleccionar rutas eficientes.
 keywords:
   - circulo maximo vs loxodromica
@@ -7,7 +7,7 @@ keywords:
   - eficiencia de navegacion
 ---
 
-# Navegacion General: Relacion entre Circulo Maximo y Loxodromica
+# Navegación General: Relación entre Circulo Máximo y Loxodrómica
 
 Para entender la navegación, primero debemos definir las dos trayectorias principales que sigue una aeronave:
 

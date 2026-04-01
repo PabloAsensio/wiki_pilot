@@ -1,5 +1,5 @@
 ---
-title: Radionavegacion: Radar Meteorologico de a Bordo
+title: Radionavegación: Radar Meteorologico de a Bordo
 description: Comprende funcionamiento, limitaciones y uso tactico del radar meteorologico de a bordo.
 keywords:
   - radar meteorologico de a bordo
@@ -7,7 +7,7 @@ keywords:
   - evitacion convectiva
 ---
 
-# Radionavegacion: Radar Meteorologico de a Bordo
+# Radionavegación: Radar Meteorologico de a Bordo
 
 El **Radar Meteorológico de A bordo (AWR)** es un sistema de radar primario diseñado para detectar precipitaciones y permitir a la tripulación evitar condiciones meteorológicas adversas.
 

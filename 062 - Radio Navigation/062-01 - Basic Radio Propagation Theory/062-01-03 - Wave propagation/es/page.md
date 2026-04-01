@@ -1,13 +1,13 @@
 ---
-title: Radionavegacion: Propagacion de Ondas
+title: Radionavegación: Propagación de Ondas
 description: Estudia modos de propagacion de radio y su impacto operativo en navegacion.
 keywords:
   - propagacion de ondas
-  - propagacion de senales
+  - propagacion de señales
   - navegacion aerea
 ---
 
-# Radionavegacion: Propagacion de Ondas
+# Radionavegación: Propagación de Ondas
 
 La forma en que las ondas de radio viajan desde el transmisor hasta el receptor depende de su frecuencia y del entorno.
 

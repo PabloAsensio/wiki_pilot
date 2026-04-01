@@ -1,13 +1,13 @@
 ---
-title: Navegacion General: Navegacion Estimada (DR)
+title: Navegación General: Navegación Estimada (DR)
 description: Usa metodos de navegacion estimada para calcular posicion con rumbo, tiempo y velocidad.
 keywords:
   - navegacion estimada
   - posicion estimada
-  - tecnicas de navegacion
+  - técnicas de navegacion
 ---
 
-# Navegacion General: Navegacion Estimada (DR)
+# Navegación General: Navegación Estimada (DR)
 
 La **Navegación a Estima** (conocida en inglés como **Dead Reckoning** o DR) es una técnica fundamental en la aviación que permite a un piloto calcular su **posición actual** basándose en una posición conocida anteriormente, llamada **Fix** o punto de referencia.
 

@@ -1,6 +1,6 @@
 ---
-title: Radionavegacion: NDB y ADF en Aviacion
-description: Aprende que es NDB en aviacion y como funciona ADF para orientacion y navegacion radioelectrica.
+title: Radionavegación: NDB y ADF en Aviación
+description: Aprende que es NDB en aviacion y como funciona ADF para orientación y navegacion radioeléctrica.
 keywords:
     - que es ndb en aviacion
     - adf en aviacion
@@ -9,7 +9,7 @@ keywords:
     - radiogoniometria automatica
 ---
 
-# Radionavegacion: NDB y ADF en Aviacion
+# Radionavegación: NDB y ADF en Aviación
 
 El **NDB** es una radioayuda terrestre que transmite una señal omnidireccional. El **ADF** es el instrumento a bordo que recibe esta señal y determina la dirección hacia la estación.
 
