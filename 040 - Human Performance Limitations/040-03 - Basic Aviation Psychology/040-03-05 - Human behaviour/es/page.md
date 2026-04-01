@@ -4,6 +4,9 @@ description: "Personalidad, estilos de liderazgo y dinámicas de grupo."
 keywords: ["liderazgo", "autocrático", "democrático", "laissez-faire", "desplazamiento al riesgo", "sinergia"]
 ---
 
+# Comportamiento Humano y Liderazgo
+
+
 ## Estilos de Liderazgo
 
 ![Leadership Styles Lewin](https://upload.wikimedia.org/wikipedia/commons/a/a1/Leadership_Styles_Lewin.png)

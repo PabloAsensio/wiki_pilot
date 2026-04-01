@@ -4,6 +4,9 @@ description: "Clasificación de errores y violaciones en la aviación."
 keywords: ["error humano", "deslices", "lapsus", "equivocaciones", "violaciones", "Habilidad-Regla-Conocimiento"]
 ---
 
+# Tipos de Error Humano
+
+
 ## Modelo SRK de Rasmussen
 Los niveles de rendimiento determinan el tipo de error:
 1.  **Basado en Habilidades (Skill)**: Tareas rutinarias hechas sin pensar (ej. controlar el cabeceo).

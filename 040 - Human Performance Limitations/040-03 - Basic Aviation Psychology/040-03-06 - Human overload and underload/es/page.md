@@ -4,6 +4,9 @@ description: "Gestión del estrés, la excitación (arousal) y la carga de traba
 keywords: ["Ley de Yerkes-Dodson", "arousal", "estrés", "estrés agudo", "estrés crónico", "gestión de carga de trabajo"]
 ---
 
+# Estrés y Carga de Trabajo
+
+
 ## Estrés
 La respuesta inespecífica del cuerpo a cualquier demanda.
 *   **Estresor**: El factor externo (Ruido, Vibración, Divorcio, Exámenes).

@@ -4,6 +4,9 @@ description: "Challenges of modern glass cockpits: complacency and mode confusio
 keywords: ["automation", "complacency", "mode confusion", "situational awareness", "monitoring"]
 ---
 
+# Automation and Human Performance
+
+
 ## Benefits vs. Costs
 
 ![Airbus A380 cockpit](https://upload.wikimedia.org/wikipedia/commons/a/a4/Airbus_A380_cockpit.jpg)

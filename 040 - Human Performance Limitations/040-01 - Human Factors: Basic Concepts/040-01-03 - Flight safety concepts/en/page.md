@@ -4,6 +4,9 @@ description: "Models of accident causation and the chain of errors."
 keywords: ["Swiss Cheese Model", "Reason Model", "latent failure", "active failure", "error chain"]
 ---
 
+# Flight Safety Concepts
+
+
 ## The Reason Model (Swiss Cheese)
 
 ![Swiss cheese model](https://upload.wikimedia.org/wikipedia/commons/0/07/Swiss_cheese_model.svg)

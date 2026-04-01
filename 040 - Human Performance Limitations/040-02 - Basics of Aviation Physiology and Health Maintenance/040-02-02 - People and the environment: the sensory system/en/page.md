@@ -4,6 +4,9 @@ description: "Vision, hearing, and the vestibular system in aviation."
 keywords: ["vision", "vestibular system", "somatogyral illusions", "somatogravic illusions", "empty field myopia", "spatial disorientation"]
 ---
 
+# Sensory Systems and Illusions
+
+
 ## Vision
 The primary source of information for pilots ("See and Avoid").
 *   **Retina**: Contains Photoreceptors.

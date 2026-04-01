@@ -4,6 +4,9 @@ description: "La atmósfera, respiración y leyes de los gases relevantes para l
 keywords: ["hipoxia", "hiperventilación", "leyes de los gases", "Ley de Boyle", "Ley de Dalton", "Ley de Henry"]
 ---
 
+# Fisiología de Vuelo Básica
+
+
 ## La Atmósfera
 La Atmósfera Estándar (ISA) asume:
 *   **Presión**: 1013.25 hPa al MSL, disminuyendo con la altitud.

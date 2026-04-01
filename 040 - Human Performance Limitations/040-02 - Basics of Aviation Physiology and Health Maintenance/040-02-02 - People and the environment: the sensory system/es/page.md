@@ -4,6 +4,9 @@ description: "Visión, audición y el sistema vestibular en la aviación."
 keywords: ["visión", "sistema vestibular", "ilusiones somatogirales", "ilusiones somatográvidas", "miopía de campo vacío", "desorientación espacial"]
 ---
 
+# Sistemas Sensoriales e Ilusiones
+
+
 ## Visión
 La fuente primaria de información para los pilotos ("Ver y Evitar").
 *   **Retina**: Contiene Fotorreceptores.

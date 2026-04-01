@@ -4,6 +4,9 @@ description: "Factores que afectan la salud y el rendimiento del piloto."
 keywords: ["alcohol", "medicación", "sueño", "ritmo circadiano", "enfermedad por descompresión", "buceo"]
 ---
 
+# Salud e Higiene
+
+
 ## Intoxicación
 *   **Alcohol**: Un depresor del sistema nervioso central. Afecta el juicio, la visión y el equilibrio.
     *   **Regla**: 8 horas "de la Botella a la Palanca" (a menudo se recomiendan 12-24h). Límite típicamente 0.02% BAC.

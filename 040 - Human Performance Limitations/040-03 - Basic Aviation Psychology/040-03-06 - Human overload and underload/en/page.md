@@ -4,6 +4,9 @@ description: "Managing stress, arousal, and workload in flight."
 keywords: ["Yerkes-Dodson Law", "arousal", "stress", "acute stress", "chronic stress", "workload management"]
 ---
 
+# Stress and Workload
+
+
 ## Stress
 The body's non-specific response to any demand.
 *   **Stressor**: The external factor (Noise, Vibration, Divorce, Exams).

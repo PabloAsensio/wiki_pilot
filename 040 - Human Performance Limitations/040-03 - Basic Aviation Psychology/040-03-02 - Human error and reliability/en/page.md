@@ -4,6 +4,9 @@ description: "Classification of errors and violations in aviation."
 keywords: ["human error", "slips", "lapses", "mistakes", "violations", "Skill-Rule-Knowledge"]
 ---
 
+# Human Error Types
+
+
 ## Rasmussen's SRK Model
 Performance levels determine the type of error:
 1.  **Skill-Based (Automated)**: Routine tasks done without thinking (e.g., controlling pitch).

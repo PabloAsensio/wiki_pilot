@@ -4,6 +4,9 @@ description: "Modelos de causalidad de accidentes y la cadena de errores."
 keywords: ["Modelo del Queso Suizo", "Modelo de Reason", "fallo latente", "fallo activo", "cadena de errores"]
 ---
 
+# Conceptos de Seguridad de Vuelo
+
+
 ## El Modelo de Reason (Queso Suizo)
 
 ![Swiss cheese model](https://upload.wikimedia.org/wikipedia/commons/0/07/Swiss_cheese_model.svg)

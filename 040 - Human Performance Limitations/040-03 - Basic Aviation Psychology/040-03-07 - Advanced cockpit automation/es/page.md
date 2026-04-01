@@ -4,6 +4,9 @@ description: "Desafíos de las cabinas de cristal modernas: complacencia y confu
 keywords: ["automatización", "complacencia", "confusión de modo", "conciencia situacional", "monitoreo"]
 ---
 
+# Automatización y Rendimiento Humano
+
+
 ## Beneficios vs. Costos
 
 ![Airbus A380 cockpit](https://upload.wikimedia.org/wikipedia/commons/a/a4/Airbus_A380_cockpit.jpg)

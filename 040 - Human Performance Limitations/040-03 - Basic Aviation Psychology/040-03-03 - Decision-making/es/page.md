@@ -4,6 +4,9 @@ description: "Modelos y sesgos que afectan las decisiones del piloto."
 keywords: ["modelo DECIDE", "FOR-DEC", "sesgo de confirmación", "falacia de costo hundido", "evaluación de riesgos"]
 ---
 
+# Toma de Decisiones en Aviación
+
+
 ## Modelos de Toma de Decisiones
 Métodos estructurados para resolver problemas bajo presión.
 

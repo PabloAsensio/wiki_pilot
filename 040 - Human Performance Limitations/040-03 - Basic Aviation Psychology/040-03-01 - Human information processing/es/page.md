@@ -4,6 +4,9 @@ description: "Cómo perciben, procesan y actúan los pilotos sobre la informaci�
 keywords: ["procesamiento de información", "percepción", "memoria", "atención", "memoria sensorial"]
 ---
 
+# Procesamiento de Información Humana
+
+
 ## El Modelo de Procesamiento
 
 ![Information Processing Model - Atkinson & Shiffrin](https://upload.wikimedia.org/wikipedia/commons/9/94/Information_Processing_Model_-_Atkinson_%26_Shiffrin.jpg)

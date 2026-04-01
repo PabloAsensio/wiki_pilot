@@ -4,6 +4,9 @@ description: "Personality, leadership styles, and group dynamics."
 keywords: ["leadership", "autocratic", "democratic", "laissez-faire", "risky shift", "synergy"]
 ---
 
+# Human Behaviour and Leadership
+
+
 ## Leadership Styles
 
 ![Leadership Styles Lewin](https://upload.wikimedia.org/wikipedia/commons/a/a1/Leadership_Styles_Lewin.png)

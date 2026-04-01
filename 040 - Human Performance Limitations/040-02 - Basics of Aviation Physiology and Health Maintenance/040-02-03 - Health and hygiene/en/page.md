@@ -4,6 +4,9 @@ description: "Factors affecting pilot health and performance."
 keywords: ["alcohol", "medication", "sleep", "circadian rhythm", "decompression sickness", "scuba diving"]
 ---
 
+# Health and Hygiene
+
+
 ## Intoxication
 *   **Alcohol**: A central nervous system depressant. Affects judgment, vision, and balance.
     *   **Rule**: 8 hours "Bottle to Throttle" (often 12-24h recommended). Limit typically 0.02% BAC.

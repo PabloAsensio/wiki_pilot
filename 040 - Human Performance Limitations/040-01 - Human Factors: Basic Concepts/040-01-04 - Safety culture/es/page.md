@@ -4,6 +4,9 @@ description: "La actitud organizacional hacia la seguridad y el reporte."
 keywords: ["cultura de seguridad", "cultura justa", "cultura de reporte", "no punitivo", "cultura informada"]
 ---
 
+# Cultura de Seguridad
+
+
 ## Componentes de la Cultura de Seguridad
 
 ![Safety Culture- Enhancing Transportation Safety](https://upload.wikimedia.org/wikipedia/commons/8/8e/Safety_Culture-_Enhancing_Transportation_Safety_forum_%289727160340%29.jpg)

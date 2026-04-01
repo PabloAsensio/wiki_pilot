@@ -4,6 +4,9 @@ description: "How pilots perceive, process, and act on information."
 keywords: ["information processing", "perception", "memory", "attention", "sensory memory"]
 ---
 
+# Human Information Processing
+
+
 ## The Processing Model
 
 ![Information Processing Model - Atkinson & Shiffrin](https://upload.wikimedia.org/wikipedia/commons/9/94/Information_Processing_Model_-_Atkinson_%26_Shiffrin.jpg)

@@ -4,6 +4,9 @@ description: "Models and biases affecting pilot decisions."
 keywords: ["DECIDE model", "FOR-DEC", "confirmation bias", "sunk cost fallacy", "risk assessment"]
 ---
 
+# Aviation Decision Making
+
+
 ## Decision Making Models
 Structured methods to solve problems under pressure.
 

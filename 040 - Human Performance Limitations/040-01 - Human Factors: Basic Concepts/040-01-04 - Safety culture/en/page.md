@@ -4,6 +4,9 @@ description: "The organizational attitude towards safety and reporting."
 keywords: ["safety culture", "just culture", "reporting culture", "non-punitive", "informed culture"]
 ---
 
+# Safety Culture
+
+
 ## Components of Safety Culture
 
 ![Safety Culture- Enhancing Transportation Safety](https://upload.wikimedia.org/wikipedia/commons/8/8e/Safety_Culture-_Enhancing_Transportation_Safety_forum_%289727160340%29.jpg)
