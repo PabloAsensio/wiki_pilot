@@ -1,10 +1,10 @@
 ---
-title: "Comunicación Aeronáutica: Términos Asociados"
-description: "Términos clave, prioridades de mensajes y conceptos de canal en comunicaciones aeronáuticas."
-keywords: ["comunicación aeronáutica", "prioridad de mensajes", "mayday", "pan pan", "simplex", "duplex", "comunicación aire-tierra"]
+title: "Términos Asociados y Prioridad de Mensajes en Comunicación Aeronáutica"
+description: "Términos OACI de comunicación, orden de prioridad de mensajes y definiciones de socorro, urgencia y regularidad de vuelo."
+keywords: ["terminos comunicacion aeronautica", "prioridad de mensajes", "mensajes de regularidad de vuelo", "mayday", "pan pan", "simplex", "duplex", "comunicación aire-tierra"]
 ---
 
-# Comunicación Aeronáutica: Términos Asociados
+# Términos Asociados y Prioridad de Mensajes en Comunicación Aeronáutica
 
 ## Categorías de Mensajes
 Según el **Anexo 10 de la OACI, Volumen II**, los mensajes gestionados por el servicio móvil aeronáutico se clasifican por orden de prioridad. El orden para establecer comunicaciones y transmitir mensajes es el siguiente:

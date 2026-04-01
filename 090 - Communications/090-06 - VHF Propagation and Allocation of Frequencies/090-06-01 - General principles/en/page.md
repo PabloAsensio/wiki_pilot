@@ -1,10 +1,10 @@
 ---
-title: "VHF Propagation and Frequency Allocation: General Principles"
-description: "Radio spectrum basics, VHF airband allocation, and operational communication/navigation frequency use."
-keywords: ["vhf propagation", "frequency allocation", "airband", "nav frequencies", "com frequencies", "icao communications"]
+title: "VHF Airband Propagation and Frequency Allocation: General Principles"
+description: "Airband frequency allocation, VHF propagation basics, and practical navigation/communication frequency use in aviation."
+keywords: ["vhf airband frequencies", "vhf propagation", "frequency allocation", "airband", "nav frequencies", "com frequencies", "icao communications"]
 ---
 
-# VHF Propagation and Frequency Allocation: General Principles
+# VHF Airband Propagation and Frequency Allocation: General Principles
 
 ## Frequency Bands
 The radio spectrum is divided into specific bands based on frequency. Aviation uses several of these:

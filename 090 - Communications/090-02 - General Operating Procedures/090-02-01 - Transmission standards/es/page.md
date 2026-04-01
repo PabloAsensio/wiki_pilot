@@ -1,10 +1,10 @@
 ---
-title: "Estándares de Transmisión Radiotelefónica"
-description: "Fraseología OACI y convenciones de transmisión para una comunicación clara y sin ambigüedades."
-keywords: ["radiotelefonía", "fraseología oaci", "estándares de transmisión", "acknowledge", "affirm", "monitor", "comunicación aeronáutica"]
+title: "Estándares y Fraseología OACI de Transmisión Radiotelefónica"
+description: "Fraseología estándar OACI, convenciones de transmisión y términos clave RT para una comunicación ATC clara y sin ambigüedades."
+keywords: ["fraseologia oaci radiotelefonia", "estándares de transmisión", "fraseologia rt aviacion", "acknowledge", "affirm", "monitor", "comunicación atc"]
 ---
 
-# Estándares de Transmisión Radiotelefónica
+# Estándares y Fraseología OACI de Transmisión Radiotelefónica
 
 ## Fraseología Estándar
 La fraseología estándar es esencial para garantizar una comunicación clara e inequívoca. La siguiente tabla enumera frases comunes y su significado según el **Anexo 10 de la OACI, Volumen II** y el **Doc 9432**.
