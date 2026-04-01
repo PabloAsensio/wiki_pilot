@@ -2,10 +2,10 @@
 title: "Métodos de Cálculo del CG: Enfoques Matemático, Gráfico y Electrónico"
 description: "Compara métodos para determinar el centro de gravedad: cálculo por momentos, herramientas gráficas/índice y procesamiento electrónico en FMC/EFB."
 keywords:
-	- "cálculo cg"
-	- "método de momentos"
-	- "método de índice"
-	- "masa y centrado electrónico"
+  - "cálculo cg"
+  - "método de momentos"
+  - "método de índice"
+  - "masa y centrado electrónico"
 ---
 
 # Métodos de Cálculo del CG: Enfoques Matemático, Gráfico y Electrónico

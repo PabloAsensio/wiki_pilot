@@ -2,10 +2,10 @@
 title: "Directional Gyro (DG): Heading Stability, Drift, and Re-Synchronization"
 description: "Learn DG operation for stable heading reference, including real/apparent drift, transport wander, and periodic synchronization with magnetic compass."
 keywords:
-	- "magnetic headings"
-	- "magnetic course"
-	- "compass turns"
-	- "points on the compass"
+  - "magnetic headings"
+  - "magnetic course"
+  - "compass turns"
+  - "points on the compass"
 ---
 # Directional Gyro (DG): Heading Stability, Drift, and Re-Synchronization
 

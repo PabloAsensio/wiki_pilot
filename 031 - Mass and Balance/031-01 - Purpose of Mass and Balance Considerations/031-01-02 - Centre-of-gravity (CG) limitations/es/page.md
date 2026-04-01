@@ -2,10 +2,10 @@
 title: "Límites de Centro de Gravedad (CG): Estabilidad, Control y Márgenes"
 description: "Estudia cómo un CG adelantado o retrasado afecta estabilidad longitudinal, control, consumo, pérdida y capacidad de recuperación en vuelo."
 keywords:
-	- "centro de gravedad"
-	- "límites cg"
-	- "cg adelantado"
-	- "cg retrasado"
+  - "centro de gravedad"
+  - "límites cg"
+  - "cg adelantado"
+  - "cg retrasado"
 ---
 
 # Límites de Centro de Gravedad (CG): Estabilidad, Control y Márgenes

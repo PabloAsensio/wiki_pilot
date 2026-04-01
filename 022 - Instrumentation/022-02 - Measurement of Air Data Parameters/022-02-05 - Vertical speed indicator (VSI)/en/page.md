@@ -2,10 +2,10 @@
 title: "Vertical Speed Indicator (VSI/IVSI): Principle, Lag, and Turning Error"
 description: "Learn how VSI and IVSI measure vertical speed from static-pressure changes, including lag reduction, blockage behavior, and acceleration-induced errors."
 keywords:
-	- "altimeter readings"
-	- "altimeter altitude"
-	- "calibrated altitude"
-	- "air density"
+  - "altimeter readings"
+  - "altimeter altitude"
+  - "calibrated altitude"
+  - "air density"
 ---
 # Vertical Speed Indicator (VSI/IVSI): Principle, Lag, and Turning Error
 

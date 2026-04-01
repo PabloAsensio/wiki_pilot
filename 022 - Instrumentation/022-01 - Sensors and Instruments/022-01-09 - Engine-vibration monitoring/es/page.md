@@ -2,10 +2,10 @@
 title: "Monitorización de Vibración de Motor (EVM): Acelerómetros, Filtros y Alertas"
 description: "Comprende la monitorización de vibraciones en turbinas de gas mediante acelerómetros, filtrado de señal e indicación en cabina para detectar fallos tempranos."
 keywords:
-	- "vibración motor"
-	- "minimum speed"
-	- "flight level"
-	- "rumbos magnéticos"
+  - "vibración motor"
+  - "minimum speed"
+  - "flight level"
+  - "rumbos magnéticos"
 ---
 # Monitorización de Vibración de Motor (EVM): Acelerómetros, Filtros y Alertas
 

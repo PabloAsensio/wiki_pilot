@@ -2,10 +2,10 @@
 title: "Flux Valve and Gyro-Magnetic Compass: Slaved and Free Modes"
 description: "Learn flux-valve sensing principles and gyro-magnetic compass operation, including slaved correction loops, free mode use, and installation constraints."
 keywords:
-	- "magnetic headings"
-	- "magnetic course"
-	- "points on the compass"
-	- "compass turns"
+  - "magnetic headings"
+  - "magnetic course"
+  - "points on the compass"
+  - "compass turns"
 ---
 # Flux Valve and Gyro-Magnetic Compass: Slaved and Free Modes
 

@@ -2,10 +2,10 @@
 title: "Cargo Floor and Running Load Limits: Structural Protection Calculations"
 description: "Learn how to calculate floor-load intensity and running-load limits, and apply shoring techniques to prevent cargo-hold structural damage."
 keywords:
-	- "floor load limitations"
-	- "running load"
-	- "load intensity"
-	- "shoring"
+  - "floor load limitations"
+  - "running load"
+  - "load intensity"
+  - "shoring"
 ---
 
 # Cargo Floor and Running Load Limits: Structural Protection Calculations

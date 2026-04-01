@@ -2,10 +2,10 @@
 title: "AFCS General Principles: Autopilot Loops, Modes, and Crew Monitoring"
 description: "Overview of automatic flight-control architecture, inner and outer control loops, mode logic, and PF/PM monitoring responsibilities."
 keywords:
-	- "flight level"
-	- "minimum speed"
-	- "magnetic headings"
-	- "compass turns"
+  - "flight level"
+  - "minimum speed"
+  - "magnetic headings"
+  - "compass turns"
 ---
 
 # AFCS General Principles: Autopilot Loops, Modes, and Crew Monitoring

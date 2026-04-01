@@ -2,10 +2,10 @@
 title: "Repositioning the CG: Mass-Shift Formula and Practical Corrections"
 description: "Learn to correct out-of-limit CG conditions by moving load using the mass-shift formula, with direction logic and practical cargo-repositioning examples."
 keywords:
-	- "cg shift"
-	- "mass movement"
-	- "balance adjustment"
-	- "load repositioning"
+  - "cg shift"
+  - "mass movement"
+  - "balance adjustment"
+  - "load repositioning"
 ---
 
 # Repositioning the CG: Mass-Shift Formula and Practical Corrections

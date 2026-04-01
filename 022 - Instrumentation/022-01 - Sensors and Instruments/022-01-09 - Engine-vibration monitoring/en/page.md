@@ -2,10 +2,10 @@
 title: "Engine Vibration Monitoring (EVM): Accelerometers, Filtering, and Alerts"
 description: "Understand gas-turbine vibration monitoring using accelerometers, signal filtering, and cockpit indication to detect imbalance and bearing-related faults early."
 keywords:
-	- "engine vibration"
-	- "minimum speed"
-	- "flight level"
-	- "magnetic headings"
+  - "engine vibration"
+  - "minimum speed"
+  - "flight level"
+  - "magnetic headings"
 ---
 # Engine Vibration Monitoring (EVM): Accelerometers, Filtering, and Alerts
 

@@ -2,10 +2,10 @@
 title: "Fuel Quantity Indication: Float and Capacitance Gauging Systems"
 description: "Understand fuel-quantity indication in aircraft, from float systems to capacitance probes and densitometry for accurate mass-based fuel management."
 keywords:
-	- "fuel on board"
-	- "air density"
-	- "calibrated altitude"
-	- "altimeter readings"
+  - "fuel on board"
+  - "air density"
+  - "calibrated altitude"
+  - "altimeter readings"
 ---
 # Fuel Quantity Indication: Float and Capacitance Gauging Systems
 

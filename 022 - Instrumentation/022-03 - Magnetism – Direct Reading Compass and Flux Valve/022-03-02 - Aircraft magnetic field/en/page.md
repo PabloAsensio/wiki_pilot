@@ -2,10 +2,10 @@
 title: "Aircraft Magnetic Field Effects: Deviation, Compensation, and Compass Swing"
 description: "Learn how aircraft-induced magnetism creates compass deviation, and how swing, compensation, and deviation cards are used to maintain heading accuracy."
 keywords:
-	- "magnetic headings"
-	- "magnetic course"
-	- "compass turns"
-	- "points on the compass"
+  - "magnetic headings"
+  - "magnetic course"
+  - "compass turns"
+  - "points on the compass"
 ---
 # Aircraft Magnetic Field Effects: Deviation, Compensation, and Compass Swing
 

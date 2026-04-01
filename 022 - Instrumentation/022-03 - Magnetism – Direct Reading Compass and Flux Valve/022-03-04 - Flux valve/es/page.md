@@ -2,10 +2,10 @@
 title: "Válvula de Flujo y Brújula Giro-Magnética: Modo Esclavo y Modo Libre"
 description: "Aprende el principio de detección de la válvula de flujo y la operación de la brújula giro-magnética, incluyendo corrección en modo esclavo y uso en modo libre."
 keywords:
-	- "rumbos magnéticos"
-	- "brújula giro magnética"
-	- "magnetic headings"
-	- "points on the compass"
+  - "rumbos magnéticos"
+  - "brújula giro magnética"
+  - "magnetic headings"
+  - "points on the compass"
 ---
 # Válvula de Flujo y Brújula Giro-Magnética: Modo Esclavo y Modo Libre
 

@@ -2,10 +2,10 @@
 title: "Indicación de Cantidad de Combustible: Sistemas de Flotador y Capacitivos"
 description: "Comprende la indicación de combustible en aeronaves, desde sistemas de flotador hasta sondas capacitivas y compensación de densidad para lectura por masa."
 keywords:
-	- "combustible a bordo"
-	- "densidad del aire"
-	- "altitud de densidad"
-	- "altímetro"
+  - "combustible a bordo"
+  - "densidad del aire"
+  - "altitud de densidad"
+  - "altímetro"
 ---
 # Indicación de Cantidad de Combustible: Sistemas de Flotador y Capacitivos
 

@@ -2,10 +2,10 @@
 title: "Stall Protection Systems (SPS): Stick Pusher and Active Prevention"
 description: "Understand active stall-protection strategies including stick pusher logic, activation sequence after warning, and diagnostic distinction between warning and protection."
 keywords:
-	- "stick pusher"
-	- "stall protection"
-	- "minimum speed"
-	- "flight level"
+  - "stick pusher"
+  - "stall protection"
+  - "minimum speed"
+  - "flight level"
 ---
 
 # Stall Protection Systems (SPS): Stick Pusher and Active Prevention

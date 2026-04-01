@@ -2,10 +2,10 @@
 title: "Aircraft Pressure Gauges: Aneroid, Bellows, and Bourdon Applications"
 description: "Study aircraft pressure-gauge technologies across low, medium, and high pressure ranges, including aneroid capsules, bellows, bourdon tubes, and remote transducers."
 keywords:
-	- "altimeter readings"
-	- "altimeter pressure"
-	- "calibrated altitude"
-	- "air density"
+  - "altimeter readings"
+  - "altimeter pressure"
+  - "calibrated altitude"
+  - "air density"
 ---
 # Aircraft Pressure Gauges: Aneroid, Bellows, and Bourdon Applications
 

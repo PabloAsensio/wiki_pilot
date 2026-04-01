@@ -2,10 +2,10 @@
 title: "Reposicionamiento del CG: Fórmula de Desplazamiento y Corrección Práctica"
 description: "Aprende a corregir un CG fuera de límites moviendo carga con la fórmula de desplazamiento de masa, lógica de dirección y ejemplos operativos."
 keywords:
-	- "desplazamiento cg"
-	- "movimiento de masa"
-	- "ajuste de balance"
-	- "reposicionamiento de carga"
+  - "desplazamiento cg"
+  - "movimiento de masa"
+  - "ajuste de balance"
+  - "reposicionamiento de carga"
 ---
 
 # Reposicionamiento del CG: Fórmula de Desplazamiento y Corrección Práctica

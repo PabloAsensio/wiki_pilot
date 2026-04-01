@@ -2,10 +2,10 @@
 title: "Manómetros Aeronáuticos: Aplicaciones Aneroide, Fuelle y Bourdon"
 description: "Estudia las tecnologías de manómetros en aeronaves para rangos de baja, media y alta presión, incluyendo cápsulas aneroides, fuelles, tubos Bourdon y transductores remotos."
 keywords:
-	- "altímetro"
-	- "presión estática"
-	- "altitud de densidad"
-	- "calibrated altitude"
+  - "altímetro"
+  - "presión estática"
+  - "altitud de densidad"
+  - "calibrated altitude"
 ---
 # Manómetros Aeronáuticos: Aplicaciones Aneroide, Fuelle y Bourdon
 

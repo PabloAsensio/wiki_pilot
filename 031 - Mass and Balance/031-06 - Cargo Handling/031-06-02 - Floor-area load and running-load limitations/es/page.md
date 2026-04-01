@@ -2,10 +2,10 @@
 title: "Límites de Carga de Piso y Carga Lineal: Cálculo y Protección Estructural"
 description: "Aprende a calcular intensidad de carga de piso y carga lineal, aplicando técnicas de shoring para evitar daños estructurales en la bodega."
 keywords:
-	- "carga de piso"
-	- "carga lineal"
-	- "intensidad de carga"
-	- "shoring"
+  - "carga de piso"
+  - "carga lineal"
+  - "intensidad de carga"
+  - "shoring"
 ---
 
 # Límites de Carga de Piso y Carga Lineal: Cálculo y Protección Estructural

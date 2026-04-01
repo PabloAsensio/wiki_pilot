@@ -2,10 +2,10 @@
 title: "Angle-of-Attack (AoA) Measurement: Sensors, Heating, and Failure Modes"
 description: "Understand AoA measurement methods, anti-icing, output paths to ADC and stall-warning systems, and operational implications of sensor failures."
 keywords:
-	- "air density"
-	- "altimeter altitude"
-	- "calibrated altitude"
-	- "what is the air density"
+  - "air density"
+  - "altimeter altitude"
+  - "calibrated altitude"
+  - "what is the air density"
 ---
 # Angle-of-Attack (AoA) Measurement: Sensors, Heating, and Failure Modes
 

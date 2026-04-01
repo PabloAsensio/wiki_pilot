@@ -2,10 +2,10 @@
 title: "Medición de Empuje en Reactores: Indicaciones N1 y EPR con Verificación"
 description: "Comprende los parámetros de ajuste de empuje N1 y EPR, la lógica de relación de presiones, riesgos de bloqueo en sensores y verificación cruzada operativa."
 keywords:
-	- "minimum speed"
-	- "flight level"
-	- "rumbos magnéticos"
-	- "compass turns"
+  - "minimum speed"
+  - "flight level"
+  - "rumbos magnéticos"
+  - "compass turns"
 ---
 # Medición de Empuje en Reactores: Indicaciones N1 y EPR con Verificación
 

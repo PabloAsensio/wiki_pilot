@@ -2,10 +2,10 @@
 title: "Funcionamiento del Machímetro: Número Mach, Relación de Presiones y Márgenes"
 description: "Estudia el principio del machímetro, la relación TAS-velocidad local del sonido y cómo el vuelo a Mach constante afecta CAS, TAS y margen de pérdida."
 keywords:
-	- "altitud de densidad"
-	- "densidad del aire"
-	- "mach"
-	- "calibrated altitude"
+  - "altitud de densidad"
+  - "densidad del aire"
+  - "mach"
+  - "calibrated altitude"
 ---
 # Funcionamiento del Machímetro: Número Mach, Relación de Presiones y Márgenes
 

@@ -2,10 +2,10 @@
 title: "Sensado de Temperatura en Aeronaves: Conversión de Escalas y Monitoreo CSD"
 description: "Aprende los fundamentos del sensado de temperatura en aviación: conversión Celsius/Fahrenheit/Kelvin y control operativo de la temperatura de aceite en CSD."
 keywords:
-	- "densidad del aire"
-	- "altitud de densidad"
-	- "temperatura"
-	- "calibrated altitude"
+  - "densidad del aire"
+  - "altitud de densidad"
+  - "temperatura"
+  - "calibrated altitude"
 ---
 # Sensado de Temperatura en Aeronaves: Conversión de Escalas y Monitoreo CSD
 

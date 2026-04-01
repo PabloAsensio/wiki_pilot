@@ -2,12 +2,12 @@
 title: "OACI Anexo 7: Marcas de Nacionalidad y Matrícula de Aeronaves"
 description: "Estudia el Anexo 7 OACI sobre marcas de nacionalidad y matrícula de aeronaves: definiciones, formato de caracteres y requisitos del Estado de matrícula."
 keywords:
-	- "anexo 7 oaci"
-	- "anexo 7 de la oaci"
-	- "marcas de nacionalidad y matrícula"
-	- "estado de matrícula"
-	- "matrícula de aeronaves"
-	- "convenio de chicago anexo 7"
+  - "anexo 7 oaci"
+  - "anexo 7 de la oaci"
+  - "marcas de nacionalidad y matrícula"
+  - "estado de matrícula"
+  - "matrícula de aeronaves"
+  - "convenio de chicago anexo 7"
 ---
 # OACI Anexo 7: Marcas de Nacionalidad y Matrícula de Aeronaves
 

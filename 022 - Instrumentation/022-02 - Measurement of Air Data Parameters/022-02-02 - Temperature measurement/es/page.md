@@ -2,10 +2,10 @@
 title: "Medición de Temperatura del Aire: SAT, TAT y Ram Rise"
 description: "Aprende los principios de SAT, TAT y ram rise en instrumentación aérea para calcular TAS y correcciones térmicas en vuelo."
 keywords:
-	- "altitud de densidad"
-	- "densidad del aire"
-	- "temperatura total del aire"
-	- "temperatura estática del aire"
+  - "altitud de densidad"
+  - "densidad del aire"
+  - "temperatura total del aire"
+  - "temperatura estática del aire"
 ---
 # Medición de Temperatura del Aire: SAT, TAT y Ram Rise
 

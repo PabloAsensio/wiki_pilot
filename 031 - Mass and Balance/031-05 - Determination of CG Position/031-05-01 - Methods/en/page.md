@@ -2,10 +2,10 @@
 title: "CG Calculation Methods: Mathematical, Graphical, and Electronic Approaches"
 description: "Compare center-of-gravity determination methods, from moment-arm mathematics to index/graph tools and FMC/EFB electronic computation workflows."
 keywords:
-	- "cg calculation"
-	- "moment method"
-	- "index method"
-	- "electronic weight and balance"
+  - "cg calculation"
+  - "moment method"
+  - "index method"
+  - "electronic weight and balance"
 ---
 
 # CG Calculation Methods: Mathematical, Graphical, and Electronic Approaches

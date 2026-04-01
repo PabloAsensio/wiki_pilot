@@ -2,10 +2,10 @@
 title: "Aseguramiento de Carga: Métodos de Restricción, Locks y Factores de Carga"
 description: "Comprende el aseguramiento de carga, uso de amarres y locks de ULD, y factores de carga direccionales requeridos para prevenir desplazamientos en vuelo."
 keywords:
-	- "aseguramiento de carga"
-	- "amarre"
-	- "locks uld"
-	- "factores de carga"
+  - "aseguramiento de carga"
+  - "amarre"
+  - "locks uld"
+  - "factores de carga"
 ---
 
 # Aseguramiento de Carga: Métodos de Restricción, Locks y Factores de Carga

@@ -2,10 +2,10 @@
 title: "Mass and Balance Documentation: Required Content and Compliance Use"
 description: "Learn required aircraft mass-and-balance documentation, including datum definition, CG envelope interpretation, weighing reports, and equipment-list control."
 keywords:
-	- "mass and balance documentation"
-	- "cg envelope"
-	- "weighing schedule"
-	- "datum definition"
+  - "mass and balance documentation"
+  - "cg envelope"
+  - "weighing schedule"
+  - "datum definition"
 ---
 
 # Mass and Balance Documentation: Required Content and Compliance Use

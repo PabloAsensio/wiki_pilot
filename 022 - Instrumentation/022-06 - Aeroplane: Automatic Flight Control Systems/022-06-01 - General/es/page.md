@@ -2,10 +2,10 @@
 title: "Principios Generales AFCS: Lazos de Control, Modos y Supervisión de Tripulación"
 description: "Visión general del control automático de vuelo: lazos interno/externo, lógica de modos y responsabilidades PF/PM en monitorización."
 keywords:
-	- "flight level"
-	- "minimum speed"
-	- "rumbos magnéticos"
-	- "compass turns"
+  - "flight level"
+  - "minimum speed"
+  - "rumbos magnéticos"
+  - "compass turns"
 ---
 
 # Principios Generales AFCS: Lazos de Control, Modos y Supervisión de Tripulación

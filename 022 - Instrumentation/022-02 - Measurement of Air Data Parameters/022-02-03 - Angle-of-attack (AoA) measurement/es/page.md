@@ -2,10 +2,10 @@
 title: "Medición del Ángulo de Ataque (AoA): Sensores, Calefacción y Modos de Fallo"
 description: "Comprende cómo se mide el AoA, su calefacción antihielo, su integración con ADC y avisos de pérdida, y las consecuencias de sensores congelados."
 keywords:
-	- "altitud de densidad"
-	- "ángulo de ataque"
-	- "sistema aviso de pérdida"
-	- "densidad del aire"
+  - "altitud de densidad"
+  - "ángulo de ataque"
+  - "sistema aviso de pérdida"
+  - "densidad del aire"
 ---
 # Medición del Ángulo de Ataque (AoA): Sensores, Calefacción y Modos de Fallo
 

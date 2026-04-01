@@ -2,10 +2,10 @@
 title: "Load Securement: Restraint Methods, Locks, and Required Load Factors"
 description: "Understand cargo securement principles, tie-down and ULD-lock methods, and required directional load factors to prevent in-flight load shift."
 keywords:
-	- "load securement"
-	- "tie-down"
-	- "uld locks"
-	- "load factors"
+  - "load securement"
+  - "tie-down"
+  - "uld locks"
+  - "load factors"
 ---
 
 # Load Securement: Restraint Methods, Locks, and Required Load Factors

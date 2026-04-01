@@ -2,10 +2,10 @@
 title: "Air Temperature Measurement: SAT, TAT, and Ram Rise"
 description: "Learn SAT, TAT, and ram-rise measurement principles used by air data systems to calculate TAS and temperature corrections in flight."
 keywords:
-	- "air density"
-	- "low air density"
-	- "what is the air density"
-	- "calibrated altitude"
+  - "air density"
+  - "low air density"
+  - "what is the air density"
+  - "calibrated altitude"
 ---
 # Air Temperature Measurement: SAT, TAT, and Ram Rise
 

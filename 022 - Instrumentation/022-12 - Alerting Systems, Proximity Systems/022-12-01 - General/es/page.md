@@ -2,10 +2,10 @@
 title: "Principios Generales de Sistemas de Alerta: Warning, Caution y Advisory"
 description: "Estudia los fundamentos de alertas bajo CS-25: jerarquía warning/caution/advisory, codificación por color y diseño de master warning/master caution."
 keywords:
-	- "minimum speed"
-	- "flight level"
-	- "sistemas de alerta"
-	- "avisos cabina"
+  - "minimum speed"
+  - "flight level"
+  - "sistemas de alerta"
+  - "avisos cabina"
 ---
 
 # Principios Generales de Sistemas de Alerta: Warning, Caution y Advisory

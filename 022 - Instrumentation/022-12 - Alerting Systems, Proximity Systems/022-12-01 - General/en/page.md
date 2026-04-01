@@ -2,10 +2,10 @@
 title: "Alerting Systems General Principles: Warning, Caution, and Advisory Logic"
 description: "Study alerting-system fundamentals under CS-25, including warning hierarchy, color coding, and cockpit master-warning/master-caution design principles."
 keywords:
-	- "minimum speed"
-	- "flight level"
-	- "warning systems"
-	- "cockpit alerts"
+  - "minimum speed"
+  - "flight level"
+  - "warning systems"
+  - "cockpit alerts"
 ---
 
 # Alerting Systems General Principles: Warning, Caution, and Advisory Logic
