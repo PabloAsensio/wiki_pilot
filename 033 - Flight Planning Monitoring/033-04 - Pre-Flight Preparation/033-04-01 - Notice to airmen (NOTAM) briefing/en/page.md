@@ -4,6 +4,9 @@ description: "Understanding Notice to Airmen (NOTAM) for flight safety."
 keywords: ["NOTAM", "briefing", "AIP", "SNOWTAM", "ASHTAM", "PIB"]
 ---
 
+# NOTAM Briefing
+
+
 ## What is a NOTAM?
 
 A **Notice to Airmen (NOTAM)** is a notice containing information concerning the establishment, condition, or change in any aeronautical facility, service, procedure, or hazard, the timely knowledge of which is essential to personnel concerned with flight operations.

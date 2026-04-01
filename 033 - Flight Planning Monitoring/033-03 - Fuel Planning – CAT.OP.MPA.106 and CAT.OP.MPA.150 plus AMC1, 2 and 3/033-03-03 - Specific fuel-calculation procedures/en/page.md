@@ -4,6 +4,9 @@ description: "How to calculate specific fuel segments using performance tables."
 keywords: ["fuel flow", "integrated range", "nam", "ngm", "specific gravity"]
 ---
 
+# Fuel Calculation Procedures
+
+
 ## Specific Gravity (SG) / Density
 
 Fuel is sold by volume (liters/gallons) but calculated by mass (kg/lbs) for performance.

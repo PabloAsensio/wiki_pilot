@@ -4,6 +4,9 @@ description: "Routine checks and monitoring procedures during flight."
 keywords: ["flight log", "fuel checks", "navigation monitoring", "top of climb"]
 ---
 
+# Flight Monitoring
+
+
 ## Navigation Monitoring
 *   **Track Check**: Confirming aircraft position relative to planned track every 15-30 mins.
 *   **ETA Updates**: Revising Estimated Time of Arrival at next waypoints based on actual Ground Speed.

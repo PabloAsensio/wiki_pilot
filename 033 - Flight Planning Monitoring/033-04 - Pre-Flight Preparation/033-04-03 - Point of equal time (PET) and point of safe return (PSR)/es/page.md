@@ -4,6 +4,9 @@ description: "Cálculos del punto crítico y punto de no retorno para la planifi
 keywords: ["PET", "PSR", "Punto de Tiempo Igual", "Punto de Retorno Seguro", "Punto Crítico", "ETP"]
 ---
 
+# Cálculos de PET y PSR
+
+
 ## Punto de Tiempo Igual (PET) / Punto Crítico (CP)
 El punto a lo largo de la ruta donde toma el **mismo tiempo** continuar al destino que retornar a la salida (o proceder a un alternativo).
 *   Importante para escenarios de Fallo de Motor o Despresurización.

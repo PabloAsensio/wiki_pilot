@@ -4,6 +4,9 @@ description: "How to complete the ICAO Flight Plan form."
 keywords: ["ICAO Flight Plan", "FPL", "Item 10", "Item 18", "wake turbulence", "equipment codes"]
 ---
 
+# Individual Flight Plan (FPL)
+
+
 ## Purpose
 The FPL provides ATS with information regarding the intended flight for safety (SAR) and traffic management. It must be submitted at least **60 mins** before departure (or 3 hours for flow control areas).
 

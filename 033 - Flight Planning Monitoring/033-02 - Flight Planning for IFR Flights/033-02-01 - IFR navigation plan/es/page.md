@@ -4,6 +4,9 @@ description: "Planificación de rutas, selección de altitud y uso de cartas par
 keywords: ["IFR", "aerovías", "MEA", "MOCA", "niveles de crucero", "RVSM"]
 ---
 
+# Planificación de Vuelo IFR
+
+
 ## Selección de Ruta (Aerovías)
 
 Los vuelos IFR típicamente siguen una red de rutas ATS (Aerovías):

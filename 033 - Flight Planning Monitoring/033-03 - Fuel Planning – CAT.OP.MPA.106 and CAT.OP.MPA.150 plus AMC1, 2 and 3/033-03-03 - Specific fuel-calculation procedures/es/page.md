@@ -4,6 +4,9 @@ description: "Cómo calcular segmentos específicos de combustible usando tablas
 keywords: ["flujo de combustible", "alcance integrado", "nam", "ngm", "gravedad específica"]
 ---
 
+# Procedimientos de Cálculo de Combustible
+
+
 ## Gravedad Específica (SG) / Densidad
 
 El combustible se vende por volumen (litros/galones) pero se calcula por masa (kg/lbs) para la performance.

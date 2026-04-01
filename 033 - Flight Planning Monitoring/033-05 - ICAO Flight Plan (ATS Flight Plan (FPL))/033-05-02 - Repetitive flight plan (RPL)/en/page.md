@@ -4,6 +4,9 @@ description: "Managing recurring flights with consolidated flight plans."
 keywords: ["RPL", "Repetitive Flight Plan", "scheduled flights", "IFPS"]
 ---
 
+# Repetitive Flight Plan (RPL)
+
+
 ## Definition
 An RPL is a flight plan related to a series of frequently recurring, regularly operated individual flights with identical basic features, submitted by an operator for retention and repetitive use by ATS.
 

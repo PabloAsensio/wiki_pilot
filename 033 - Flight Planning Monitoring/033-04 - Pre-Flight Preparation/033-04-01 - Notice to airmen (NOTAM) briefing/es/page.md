@@ -4,6 +4,9 @@ description: "Entendiendo los Avisos a los Aviadores (NOTAM) para la seguridad d
 keywords: ["NOTAM", "briefing", "AIP", "SNOWTAM", "ASHTAM", "PIB"]
 ---
 
+# Briefing NOTAM
+
+
 ## ¿Qué es un NOTAM?
 
 Un **Aviso a los Aviadores (NOTAM)** es un aviso que contiene información relativa al establecimiento, condición o modificación de cualquier instalación aeronáutica, servicio, procedimiento o peligro, cuyo conocimiento oportuno es esencial para el personal encargado de las operaciones de vuelo.

@@ -4,6 +4,9 @@ description: "Conceptos esenciales para planificar un vuelo bajo Reglas de Vuelo
 keywords: ["VFR", "plan de vuelo", "selección de ruta", "selección de altitud", "planificación de combustible", "mínimos VFR"]
 ---
 
+# Planificación de Vuelo VFR
+
+
 ## Selección de Ruta
 
 ![Carta Seccional VFR](https://upload.wikimedia.org/wikipedia/commons/c/c1/Chicago_VFR_Sectional_Chart_%28Dubuque_Area%29.png)

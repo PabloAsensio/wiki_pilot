@@ -4,6 +4,9 @@ description: "Route planning, altitude selection, and chart usage for Instrument
 keywords: ["IFR", "airways", "MEA", "MOCA", "cruising levels", "RVSM"]
 ---
 
+# IFR Flight Planning
+
+
 ## Route Selection (Airways)
 
 IFR flights typically follow a network of ATS routes (Airways):

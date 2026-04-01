@@ -4,6 +4,9 @@ description: "Types of weather charts and reports used in pre-flight planning."
 keywords: ["METAR", "TAF", "SIGMET", "Significant Weather Chart", "Upper Wind and Temperature"]
 ---
 
+# Meteorological Briefing
+
+
 ## Meteorological Reports (Actual Weather)
 
 *   **METAR**: Meteorological Terminal Air Report. Routine observation (usually every 30 or 60 mins).

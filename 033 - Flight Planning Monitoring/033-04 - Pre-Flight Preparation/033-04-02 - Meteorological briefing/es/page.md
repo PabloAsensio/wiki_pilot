@@ -4,6 +4,9 @@ description: "Tipos de cartas y reportes meteorológicos usados en la planificac
 keywords: ["METAR", "TAF", "SIGMET", "Carta de Tiempo Significativo", "Viento y Temperatura en Altura"]
 ---
 
+# Briefing Meteorológico
+
+
 ## Reportes Meteorológicos (Tiempo Actual)
 
 *   **METAR**: Reporte Meteorológico de Aeródromo. Observación de rutina (usualmente cada 30 o 60 min).

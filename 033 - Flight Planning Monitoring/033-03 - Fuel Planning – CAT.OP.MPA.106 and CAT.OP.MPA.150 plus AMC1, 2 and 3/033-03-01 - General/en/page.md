@@ -4,6 +4,9 @@ description: "Overview of fuel policy requirements and definitions."
 keywords: ["fuel policy", "taxi fuel", "trip fuel", "contingency fuel", "final reserve fuel", "alternate fuel"]
 ---
 
+# Fuel Planning General Principles
+
+
 ## Basic Fuel Policy (CAT.OP.MPA.150)
 
 The operator must establish a fuel policy for the purpose of flight planning and in-flight replanning to ensure that every flight carries sufficient fuel for the planned operation and reserves to cover deviations from the planned operation.

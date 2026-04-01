@@ -4,6 +4,9 @@ description: "Essentials of planning a Visual Flight Rules (VFR) flight."
 keywords: ["VFR", "flight plan", "route selection", "altitude selection", "fuel planning", "VFR minima"]
 ---
 
+# VFR Flight Planning
+
+
 ## Route Selection
 
 ![VFR Sectional Chart](https://upload.wikimedia.org/wikipedia/commons/c/c1/Chicago_VFR_Sectional_Chart_%28Dubuque_Area%29.png)

@@ -4,6 +4,9 @@ description: "Cómo completar el formulario de Plan de Vuelo OACI."
 keywords: ["Plan de Vuelo OACI", "FPL", "Item 10", "Item 18", "estela turbulenta", "códigos de equipo"]
 ---
 
+# Plan de Vuelo Individual (FPL)
+
+
 ## Propósito
 El FPL proporciona a ATS información sobre el vuelo pretendido para seguridad (SAR) y gestión de tráfico. Debe presentarse al menos **60 min** antes de la salida (o 3 horas para áreas de control de flujo).
 

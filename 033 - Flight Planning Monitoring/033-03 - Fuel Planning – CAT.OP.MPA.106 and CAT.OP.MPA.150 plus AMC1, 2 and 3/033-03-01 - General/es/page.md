@@ -4,6 +4,9 @@ description: "Visión general de los requisitos y definiciones de la política d
 keywords: ["política de combustible", "combustible de rodaje", "combustible de viaje", "combustible de contingencia", "combustible de reserva final", "combustible al alternativo"]
 ---
 
+# Principios Generales de Planificación de Combustible
+
+
 ## Política Básica de Combustible (CAT.OP.MPA.150)
 
 El operador debe establecer una política de combustible con el propósito de la planificación del vuelo y la replanificación en vuelo para asegurar que cada vuelo lleve suficiente combustible para la operación planeada y reservas para cubrir desviaciones de la operación planeada.

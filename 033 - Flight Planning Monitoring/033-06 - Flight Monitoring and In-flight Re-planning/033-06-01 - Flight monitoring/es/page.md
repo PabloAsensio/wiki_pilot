@@ -4,6 +4,9 @@ description: "Chequeos de rutina y procedimientos de monitoreo durante el vuelo.
 keywords: ["bitácora de vuelo", "chequeos de combustible", "monitoreo de navegación", "top of climb"]
 ---
 
+# Monitoreo de Vuelo
+
+
 ## Monitoreo de Navegación
 *   **Chequeo de Derrota**: Confirmar la posición de la aeronave relativa a la derrota planeada cada 15-30 min.
 *   **Actualizaciones de ETA**: Revisar la Hora Estimada de Llegada a los siguientes waypoints basándose en la Velocidad Terrestre real.

@@ -4,6 +4,9 @@ description: "Detailed breakdown of fuel planning requirements for commercial ai
 keywords: ["RCC", "decision point", "isolated aerodrome", "predetermined point", "PDP"]
 ---
 
+# Commercial Pre-Flight Fuel Planning
+
+
 ## Alternate Selection Requirements
 
 *   **Standard**: At least **one** destination alternate must be selected.

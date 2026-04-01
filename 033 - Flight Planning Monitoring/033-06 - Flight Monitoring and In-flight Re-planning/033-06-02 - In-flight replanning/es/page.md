@@ -4,6 +4,9 @@ description: "Procedimientos para cambiar el plan de vuelo mientras se está en 
 keywords: ["re-planificación", "desvío", "contingencia en vuelo", "punto de decisión"]
 ---
 
+# Re-Planificación en Vuelo
+
+
 ## Razones para la Re-Planificación
 *   **Clima**: Deterioro en destino o alternativo.
 *   **Escasez de Combustible**: Uso de combustible de contingencia excediendo límites o vientos de cara no pronosticados.

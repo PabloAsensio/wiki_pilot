@@ -4,6 +4,9 @@ description: "Desglose detallado de los requisitos de planificación de combusti
 keywords: ["RCC", "punto de decisión", "aeródromo aislado", "punto predeterminado", "PDP"]
 ---
 
+# Planificación de Combustible Comercial Pre-Vuelo
+
+
 ## Requisitos de Selección de Alternativo
 
 *   **Estándar**: Debe seleccionarse al menos **un** alternativo de destino.

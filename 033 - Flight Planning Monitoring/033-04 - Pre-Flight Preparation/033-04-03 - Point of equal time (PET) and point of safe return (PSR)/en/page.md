@@ -4,6 +4,9 @@ description: "Critical point and point of no return calculations for flight plan
 keywords: ["PET", "PSR", "Point of Equal Time", "Point of Safe Return", "Critical Point", "ETP"]
 ---
 
+# PET and PSR Calculations
+
+
 ## Point of Equal Time (PET) / Critical Point (CP)
 The point along the track where it takes the **same time** to continue to destination as to return to departure (or proceed to an alternate).
 *   Important for Engine Failure or Depressurization scenarios.
