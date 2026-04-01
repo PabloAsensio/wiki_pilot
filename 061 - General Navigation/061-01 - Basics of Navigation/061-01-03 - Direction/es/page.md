@@ -1,3 +1,16 @@
+---
+title: Navegacion General: Direccion, Rumbo Magnetico y Puntos Cardinales
+description: Estudia direccion verdadera, magnetica y de compas, incluyendo rumbo magnetico y puntos cardinales en navegacion aerea.
+keywords:
+  - direccion en aviacion
+  - rumbo magnetico
+  - puntos cardinales
+  - magnetismo aeronautico
+  - lineas isogonas
+---
+
+# Navegacion General: Direccion, Rumbo Magnetico y Puntos Cardinales
+
 Navegar un avión no es tan sencillo como apuntar el morro hacia el destino y acelerar. En el aire, existen fuerzas invisibles y referencias cambiantes que obligan al piloto a calcular constantemente su trayectoria. Para entender cómo se guía una aeronave, debemos dominar tres conceptos fundamentales: las referencias del norte, el efecto del viento y las correcciones en vuelo.
 
 ## 1. Los Tres Nortes: Referencias de Dirección

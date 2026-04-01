@@ -1,3 +1,14 @@
+---
+title: General Navigation: Speed
+description: Compare IAS, TAS, and groundspeed, and apply speed concepts to navigation computations.
+keywords:
+  - airspeed and groundspeed
+  - tas and ias
+  - general navigation
+---
+
+# General Navigation: Speed
+
 In the world of aviation, “speed” is not a single number as it is in a car. For an aircraft to fly safely and arrive on time, pilots must manage and calculate different types of speeds, taking into account factors such as altitude, temperature, and wind. Below, we explain these fundamental concepts.
 
 ## Types of Speed

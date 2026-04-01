@@ -1,3 +1,14 @@
+---
+title: General Navigation: Position
+description: Understand latitude, longitude, and position fixing principles for practical flight navigation.
+keywords:
+  - position fixing
+  - latitude and longitude
+  - general navigation
+---
+
+# General Navigation: Position
+
 In air navigation, **position** is defined by a coordinate system using latitude and longitude. Although we often consider the Earth a perfect sphere to simplify calculations, reality is more complex and requires accurate models like the **WGS 84 ellipsoid** to ensure safety and precision in flight.
 
 ## Earth Shape and References

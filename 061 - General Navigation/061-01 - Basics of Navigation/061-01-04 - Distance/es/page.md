@@ -1,3 +1,14 @@
+---
+title: Navegacion General: Distancia
+description: Repasa millas nauticas, escalas cartograficas y calculos de distancia para planificacion de ruta.
+keywords:
+  - calculo de distancia
+  - millas nauticas
+  - planificacion de vuelo
+---
+
+# Navegacion General: Distancia
+
 En la navegación aérea, la distancia no es solo una medida lineal; es una combinación de geometría esférica, movimiento de masas de aire y cálculos de tiempo. A continuación, desglosamos todos los conceptos esenciales para entender cómo se miden los trayectos alrededor del mundo.
 
 ## 1. La Forma de la Tierra y la Unidad Básica

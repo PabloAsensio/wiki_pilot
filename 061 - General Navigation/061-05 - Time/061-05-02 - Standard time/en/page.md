@@ -1,3 +1,14 @@
+---
+title: General Navigation: Standard Time
+description: Study standard time systems, UTC, and timezone use in operational flight planning.
+keywords:
+  - standard time aviation
+  - utc and time zones
+  - flight planning time
+---
+
+# General Navigation: Standard Time
+
 Time management is fundamental in aviation to ensure safety and global coordination. Below, we explain the key concepts for understanding how time works in different regions and how it affects air navigation.
 
 ## Difference between Standard Time and UTC

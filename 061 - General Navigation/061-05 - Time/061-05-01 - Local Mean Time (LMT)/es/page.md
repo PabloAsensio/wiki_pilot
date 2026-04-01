@@ -1,3 +1,14 @@
+---
+title: Navegacion General: Hora Media Local (LMT) y su Significado
+description: Entiende que significa LMT, como calcular la hora media local y como usarla en navegacion aerea.
+keywords:
+  - hora lmt
+  - que significa lmt
+  - lmt hora
+---
+
+# Navegacion General: Hora Media Local (LMT) y su Significado
+
 El **Tiempo Medio Local (LMT)** y el **Tiempo Universal Coordinado (UTC)** son conceptos fundamentales para la navegación aérea. Comprender cómo la rotación de la Tierra afecta la hora en diferentes puntos del globo es esencial para cualquier piloto. Este artículo explica estos conceptos de manera sencilla, basándose en la teoría de piloto.
 
 ## ¿Qué es el Tiempo Universal y el Tiempo Medio Local?

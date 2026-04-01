@@ -1,3 +1,14 @@
+---
+title: General Navigation: Chart Requirements
+description: Review operational and regulatory chart requirements for safe flight navigation.
+keywords:
+  - aeronautical chart requirements
+  - navigation chart standards
+  - flight chart use
+---
+
+# General Navigation: Chart Requirements
+
 Aeronautical charts are fundamental representations for air navigation, acting as a "reduced Earth" on a plane. Their main function is to show the relationship between distances on the map and actual distances on the planet, allowing pilots to plan and execute flights with precision. Below are the key concepts for understanding their operation.
 
 ## Chart Scale

@@ -1,3 +1,14 @@
+---
+title: General Navigation: Ground Features
+description: Identify and use terrain and landmarks for reliable VFR visual navigation.
+keywords:
+  - vfr ground features
+  - visual landmarks
+  - pilotage navigation
+---
+
+# General Navigation: Ground Features
+
 VFR navigation is based on identifying **ground features** (ground references) and relating them to the chart. A good VFR pilot chooses references considering their **size, contrast, uniqueness, position relative to the route, flight altitude, season of the year, and lighting conditions**.
 
 ---

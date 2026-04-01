@@ -1,3 +1,14 @@
+---
+title: General Navigation: Great Circle and Rhumb Line Conversion Angle
+description: Compare great circle and rhumb line tracks, including conversion angle use for practical route planning.
+keywords:
+  - conversion angle great circle rhumb line
+  - great circle vs rhumb line
+  - route selection
+---
+
+# General Navigation: Great Circle and Rhumb Line Conversion Angle
+
 To understand navigation, we must first define the two main trajectories that an aircraft follows:
 
 *   **Great Circle:** Represents the **shortest distance** between two points on the Earth's surface. However, due to meridian convergence, a great circle route constantly changes direction (true heading) as it progresses, except at the Equator or when flying directly north-south along a meridian.

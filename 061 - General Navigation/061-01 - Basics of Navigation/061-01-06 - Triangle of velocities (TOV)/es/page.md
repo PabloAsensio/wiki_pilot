@@ -1,3 +1,14 @@
+---
+title: Navegacion General: Triangulo de Velocidades (TOV)
+description: Aplica el triangulo de velocidades para resolver correcciones de viento y problemas de rumbo.
+keywords:
+  - triangulo de velocidades
+  - angulo de correccion por viento
+  - rumbo y derrota
+---
+
+# Navegacion General: Triangulo de Velocidades (TOV)
+
 Navegar un avión es muy diferente a conducir un coche. Mientras que un coche se agarra firmemente a la carretera, un avión se mueve dentro de una masa de aire que, a su vez, se está moviendo sobre la tierra. Para entender hacia dónde va realmente el avión y a qué velocidad, los pilotos utilizan un concepto fundamental llamado **Triángulo de Velocidades**.
 
 A continuación, explicamos de forma sencilla cómo funcionan estas fuerzas y cómo los pilotos las calculan para llegar a su destino con precisión.

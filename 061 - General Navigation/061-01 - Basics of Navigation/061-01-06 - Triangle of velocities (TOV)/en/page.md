@@ -1,3 +1,14 @@
+---
+title: General Navigation: Triangle of Velocities (TOV)
+description: Apply the triangle of velocities to solve wind correction and heading problems.
+keywords:
+  - triangle of velocities
+  - wind correction angle
+  - heading and track
+---
+
+# General Navigation: Triangle of Velocities (TOV)
+
 Navigating an aircraft is very different from driving a car. While a car grips the road firmly, an aircraft moves within an air mass that is itself moving over the Earth. To understand where the aircraft is actually going and at what speed, pilots use a fundamental concept called the **Triangle of Velocities**.
 
 Below, we explain in a simple way how these forces work and how pilots calculate them to reach their destination accurately.

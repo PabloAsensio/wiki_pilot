@@ -1,3 +1,16 @@
+---
+title: General Navigation: Direction, Magnetic Course, and Compass Points
+description: Study true, magnetic, and compass direction, including magnetic course and compass points used in air navigation.
+keywords:
+  - points on the compass
+  - magnetic course
+  - aviation directions
+  - aircraft magnetism
+  - isogonic lines aviation
+---
+
+# General Navigation: Direction, Magnetic Course, and Compass Points
+
 Navigating an aircraft is not as simple as pointing the nose toward the destination and accelerating. In the air, there are invisible forces and changing references that force the pilot to constantly calculate the trajectory. To understand how an aircraft is guided, we must master three fundamental concepts: north references, the effect of wind, and in-flight corrections.
 
 ## 1. The Three Norths: Direction References

@@ -1,3 +1,14 @@
+---
+title: Navegacion General: Relacion entre Circulo Maximo y Loxodromica
+description: Compara trayectorias de circulo maximo y loxodromica para seleccionar rutas eficientes.
+keywords:
+  - circulo maximo vs loxodromica
+  - seleccion de ruta
+  - eficiencia de navegacion
+---
+
+# Navegacion General: Relacion entre Circulo Maximo y Loxodromica
+
 Para entender la navegación, primero debemos definir las dos trayectorias principales que sigue una aeronave:
 
 *   **Círculo Máximo (Great Circle):** Representa la **distancia más corta** entre dos puntos en la superficie de la Tierra. Sin embargo, debido a la convergencia de los meridianos, una ruta de círculo máximo cambia constantemente de dirección (rumbo verdadero) a medida que avanza, excepto en el Ecuador o cuando se vuela directamente norte-sur a lo largo de un meridiano.

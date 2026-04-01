@@ -1,3 +1,14 @@
+---
+title: General Navigation: Local Mean Time (LMT)
+description: Understand Local Mean Time and convert time references used in aviation navigation.
+keywords:
+  - local mean time
+  - time conversion navigation
+  - aviation time systems
+---
+
+# General Navigation: Local Mean Time (LMT)
+
 **Local Mean Time (LMT)** and **Coordinated Universal Time (UTC)** are fundamental concepts for air navigation. Understanding how the Earth's rotation affects time at different points on the globe is essential for any pilot. This article explains these concepts in a simple way, based on pilot theory.
 
 ## What is Universal Time and Local Mean Time?
