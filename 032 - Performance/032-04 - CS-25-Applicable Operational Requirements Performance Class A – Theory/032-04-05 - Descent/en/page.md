@@ -1,8 +1,11 @@
 ---
-title: "Class A Descent Performance"
+title: "Performance Class A (CS-25): Descent Theory"
 description: "Emergency descent and cabin depressurization scenarios."
 keywords: ["descent", "emergency descent", "depressurization", "oxygen supply"]
 ---
+
+# Performance Class A (CS-25): Descent Theory
+
 
 ## Emergency Descent
 

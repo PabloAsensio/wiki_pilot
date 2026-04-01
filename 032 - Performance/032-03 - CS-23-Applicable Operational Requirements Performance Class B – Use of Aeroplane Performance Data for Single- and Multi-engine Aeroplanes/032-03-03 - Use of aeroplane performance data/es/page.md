@@ -1,8 +1,11 @@
 ---
-title: "Uso de Datos de Performance"
+title: "Performance Clase B (CS-23): Uso de datos de performance de la aeronave"
 description: "Cómo interpretar y usar gráficos y tablas de performance para la planificación de vuelos."
 keywords: ["datos performance", "gráficos", "tablas", "altitud de densidad", "desviación ISA"]
 ---
+
+# Performance Clase B (CS-23): Uso de datos de performance de la aeronave
+
 
 ## Interpretación de Gráficos de Performance
 

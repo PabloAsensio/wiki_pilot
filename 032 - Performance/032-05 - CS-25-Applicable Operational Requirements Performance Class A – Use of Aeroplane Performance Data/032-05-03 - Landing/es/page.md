@@ -1,8 +1,11 @@
 ---
-title: "Datos de Aterrizaje Clase A"
+title: "Performance Clase A (CS-25): Aplicación de datos de aterrizaje"
 description: "Uso de datos de performance para determinar la masa máxima de aterrizaje y las distancias requeridas."
 keywords: ["datos de aterrizaje", "límite de campo", "límite de ascenso", "ascenso de aproximación", "ascenso de aterrizaje", "quick turn around"]
 ---
+
+# Performance Clase A (CS-25): Aplicación de datos de aterrizaje
+
 
 ## Límites de Performance
 

@@ -1,8 +1,11 @@
 ---
-title: "Ascenso, Crucero y Descenso Clase B"
+title: "Performance Clase B (CS-23): Teoría de ascenso, crucero y descenso"
 description: "Requisitos de performance en ruta para aviones Clase B, incluyendo techos con un motor inoperativo."
 keywords: ["Clase B", "ascenso en ruta", "techo monomotor", "drift down", "oxígeno"]
 ---
+
+# Performance Clase B (CS-23): Teoría de ascenso, crucero y descenso
+
 
 ## Ascenso En Ruta (AEO)
 

@@ -1,8 +1,11 @@
 ---
-title: "Performance de Descenso Clase A"
+title: "Performance Clase A (CS-25): Teoría de descenso"
 description: "Descenso de emergencia y escenarios de despresurización de cabina."
 keywords: ["descenso", "descenso de emergencia", "despresurización", "suministro de oxígeno"]
 ---
+
+# Performance Clase A (CS-25): Teoría de descenso
+
 
 ## Descenso de Emergencia
 

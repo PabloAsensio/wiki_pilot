@@ -1,8 +1,11 @@
 ---
-title: "Class A Cruise Performance"
+title: "Performance Class A (CS-25): Cruise Theory"
 description: "Optimization of cruise flight: speed strategies and fuel planning."
 keywords: ["Class A", "cruise", "LRC", "MRC", "cost index", "buffet margin"]
 ---
+
+# Performance Class A (CS-25): Cruise Theory
+
 
 ## Cruise Strategies
 

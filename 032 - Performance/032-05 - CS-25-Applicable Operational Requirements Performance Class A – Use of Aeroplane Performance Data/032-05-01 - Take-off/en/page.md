@@ -1,8 +1,11 @@
 ---
-title: "Class A Take-Off Data"
+title: "Performance Class A (CS-25): Take-off Data Application"
 description: "Using performance charts and tables for Class A take-off calculations."
 keywords: ["Class A", "take-off charts", "RTOW", "Regulated Take-Off Weight", "V-speeds", "line-up allowance"]
 ---
+
+# Performance Class A (CS-25): Take-off Data Application
+
 
 ## Regulated Take-Off Weight (RTOW)
 

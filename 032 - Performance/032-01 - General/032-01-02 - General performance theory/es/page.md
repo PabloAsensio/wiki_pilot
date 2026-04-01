@@ -1,8 +1,11 @@
 ---
-title: "Teoría General de Performance"
+title: "Performance ATPL: Teoría general y fuerzas en vuelo"
 description: "Conceptos fundamentales de las fuerzas aerodinámicas en vuelo: Empuje, Resistencia, Sustentación y Peso."
 keywords: ["teoría performance", "fuerzas de vuelo", "empuje", "resistencia", "potencia", "equilibrio"]
 ---
+
+# Performance ATPL: Teoría general y fuerzas en vuelo
+
 
 ## Las Cuatro Fuerzas
 

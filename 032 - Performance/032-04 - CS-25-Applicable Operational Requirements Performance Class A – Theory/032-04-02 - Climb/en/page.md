@@ -1,8 +1,11 @@
 ---
-title: "Class A Climb Segments"
+title: "Performance Class A (CS-25): Climb Theory"
 description: "The four segments of the take-off flight path with one engine inoperative."
 keywords: ["Class A", "climb segments", "first segment", "second segment", "third segment", "fourth segment", "net flight path"]
 ---
+
+# Performance Class A (CS-25): Climb Theory
+
 
 ## Take-Off Flight Path
 

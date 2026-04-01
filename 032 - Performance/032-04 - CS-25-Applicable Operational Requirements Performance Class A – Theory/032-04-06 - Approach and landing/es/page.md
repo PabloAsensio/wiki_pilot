@@ -1,8 +1,11 @@
 ---
-title: "Aproximación y Aterrizaje Clase A"
+title: "Performance Clase A (CS-25): Teoría de aproximación y aterrizaje"
 description: "Cálculos de performance de aterrizaje, requisitos de despacho y factores."
 keywords: ["Clase A", "distancia de aterrizaje", "LDR", "motor y al aire", "aterrizaje frustrado", "gradiente de ascenso"]
 ---
+
+# Performance Clase A (CS-25): Teoría de aproximación y aterrizaje
+
 
 ## Requisitos de Ascenso
 

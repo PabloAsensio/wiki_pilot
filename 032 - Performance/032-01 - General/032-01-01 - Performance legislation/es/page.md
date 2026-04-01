@@ -1,8 +1,11 @@
 ---
-title: "Legislación sobre Performance"
+title: "Performance ATPL: Legislación y marco regulatorio"
 description: "Visión general de las normativas de aviación que rigen la clasificación del rendimiento de las aeronaves y los estándares de seguridad."
 keywords: ["legislación performance", "CS-23", "CS-25", "Clase A", "Clase B", "Anexo 6 OACI", "aeronavegabilidad"]
 ---
+
+# Performance ATPL: Legislación y marco regulatorio
+
 
 ## Marco Regulatorio
 

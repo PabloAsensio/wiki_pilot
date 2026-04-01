@@ -1,8 +1,11 @@
 ---
-title: "Segmentos de Ascenso Clase A"
+title: "Performance Clase A (CS-25): Teoría de ascenso"
 description: "Los cuatro segmentos de la trayectoria de vuelo de despegue con un motor inoperativo."
 keywords: ["Clase A", "segmentos de ascenso", "primer segmento", "segundo segmento", "tercer segmento", "cuarto segmento", "trayectoria neta"]
 ---
+
+# Performance Clase A (CS-25): Teoría de ascenso
+
 
 ## Trayectoria de Vuelo de Despegue
 

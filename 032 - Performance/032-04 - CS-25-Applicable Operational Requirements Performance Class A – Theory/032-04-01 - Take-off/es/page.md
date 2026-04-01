@@ -1,8 +1,11 @@
 ---
-title: "Performance de Despegue Clase A"
+title: "Performance Clase A (CS-25): Teoría de despegue"
 description: "Análisis detallado de velocidades de despegue, distancias y escenarios de fallo de motor para aviones Clase A."
 keywords: ["Clase A", "despegue", "V1", "VR", "V2", "ASDR", "TODR", "TORR", "campo equilibrado"]
 ---
+
+# Performance Clase A (CS-25): Teoría de despegue
+
 
 ## Velocidades Clave
 

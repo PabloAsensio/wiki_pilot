@@ -1,8 +1,11 @@
 ---
-title: "Requisitos de Aeronavegabilidad Clase B"
+title: "Performance Clase B (CS-23): Requisitos de aeronavegabilidad"
 description: "Especificaciones de certificación para aviones de Performance Clase B (CS-23)."
 keywords: ["Clase B", "aeronavegabilidad", "CS-23", "monomotor", "velocidad de pérdida"]
 ---
+
+# Performance Clase B (CS-23): Requisitos de aeronavegabilidad
+
 
 ## Base de Certificación (CS-23)
 

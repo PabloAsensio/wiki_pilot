@@ -1,8 +1,11 @@
 ---
-title: "Performance de Crucero Clase A"
+title: "Performance Clase A (CS-25): Teoría de crucero"
 description: "Optimización del vuelo de crucero: estrategias de velocidad y planificación de combustible."
 keywords: ["Clase A", "crucero", "LRC", "MRC", "cost index", "margen de buffet"]
 ---
+
+# Performance Clase A (CS-25): Teoría de crucero
+
 
 ## Estrategias de Crucero
 

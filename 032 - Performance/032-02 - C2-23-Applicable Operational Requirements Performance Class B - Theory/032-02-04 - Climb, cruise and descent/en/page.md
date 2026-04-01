@@ -1,8 +1,11 @@
 ---
-title: "Class B Climb, Cruise and Descent"
+title: "Performance Class B (CS-23): Climb, Cruise, and Descent Theory"
 description: "En-route performance requirements for Class B aircraft, including single-engine ceilings."
 keywords: ["Class B", "en-route climb", "single engine ceiling", "drift down", "oxygen"]
 ---
+
+# Performance Class B (CS-23): Climb, Cruise, and Descent Theory
+
 
 ## En-Route Climb (AEO)
 

@@ -1,8 +1,11 @@
 ---
-title: "Despegue y Aterrizaje Clase B"
+title: "Performance Clase B (CS-23): Teoría de despegue y aterrizaje"
 description: "Cálculos de performance de despegue y aterrizaje y factores de seguridad para aviones Clase B."
 keywords: ["Clase B", "distancia de despegue", "distancia de aterrizaje", "TODR", "LDR", "factores de seguridad", "TODA"]
 ---
+
+# Performance Clase B (CS-23): Teoría de despegue y aterrizaje
+
 
 ## Performance de Despegue
 

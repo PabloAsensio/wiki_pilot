@@ -1,8 +1,11 @@
 ---
-title: "En Ruta con Un Motor Inoperativo (OEI)"
+title: "Performance Clase A (CS-25): Teoría en ruta con un motor inoperativo (OEI)"
 description: "Regulaciones para manejar el fallo de motor durante la fase de crucero."
 keywords: ["OEI", "drift down", "techo neto", "franqueamiento de obstáculos", "ETOPS"]
 ---
+
+# Performance Clase A (CS-25): Teoría en ruta con un motor inoperativo (OEI)
+
 
 ## Estrategia de Fallo de Motor
 

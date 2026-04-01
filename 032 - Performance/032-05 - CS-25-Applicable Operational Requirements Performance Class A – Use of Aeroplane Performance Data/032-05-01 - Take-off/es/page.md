@@ -1,8 +1,11 @@
 ---
-title: "Datos de Despegue Clase A"
+title: "Performance Clase A (CS-25): Aplicación de datos de despegue"
 description: "Uso de cartas y tablas de performance para cálculos de despegue Clase A."
 keywords: ["Clase A", "cartas de despegue", "RTOW", "Peso de Despegue Regulado", "velocidades V", "alineación"]
 ---
+
+# Performance Clase A (CS-25): Aplicación de datos de despegue
+
 
 ## Peso de Despegue Regulado (RTOW)
 

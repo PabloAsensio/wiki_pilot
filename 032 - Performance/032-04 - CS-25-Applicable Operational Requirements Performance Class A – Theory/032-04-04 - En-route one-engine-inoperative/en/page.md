@@ -1,8 +1,11 @@
 ---
-title: "En-Route One Engine Inoperative (OEI)"
+title: "Performance Class A (CS-25): En-route One-Engine-Inoperative (OEI) Theory"
 description: "Regulations for handling engine failure during the cruise phase."
 keywords: ["OEI", "drift down", "net ceiling", "obstacle clearance", "ETOPS"]
 ---
+
+# Performance Class A (CS-25): En-route One-Engine-Inoperative (OEI) Theory
+
 
 ## Engine Failure Strategy
 

@@ -1,8 +1,11 @@
 ---
-title: "Class A Take-Off Performance"
+title: "Performance Class A (CS-25): Take-off Theory"
 description: "Detailed analysis of take-off speeds, distances, and engine failure scenarios for Class A aircraft."
 keywords: ["Class A", "take-off", "V1", "VR", "V2", "ASDR", "TODR", "TORR", "balanced field"]
 ---
+
+# Performance Class A (CS-25): Take-off Theory
+
 
 ## Key Speeds
 

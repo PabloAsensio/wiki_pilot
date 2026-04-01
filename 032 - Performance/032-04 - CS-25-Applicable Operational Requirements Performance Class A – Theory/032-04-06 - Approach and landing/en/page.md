@@ -1,8 +1,11 @@
 ---
-title: "Class A Approach and Landing"
+title: "Performance Class A (CS-25): Approach and Landing Theory"
 description: "Landing performance calculations, dispatch requirements, and factors."
 keywords: ["Class A", "landing distance", "LDR", "go-around", "balked landing", "climb gradient"]
 ---
+
+# Performance Class A (CS-25): Approach and Landing Theory
+
 
 ## Climb Requirements
 

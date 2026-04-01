@@ -1,8 +1,11 @@
 ---
-title: "Using Performance Data"
+title: "Performance Class B (CS-23): Use of Aeroplane Performance Data"
 description: "How to interpret and use performance graphs and tables for flight planning."
 keywords: ["performance data", "graphs", "tables", "density altitude", "ISA deviation"]
 ---
+
+# Performance Class B (CS-23): Use of Aeroplane Performance Data
+
 
 ## Interpreting Performance Graphs
 

@@ -1,8 +1,11 @@
 ---
-title: "Class B Airworthiness Requirements"
+title: "Performance Class B (CS-23): Airworthiness Requirements"
 description: "Certification specifications for Performance Class B aeroplanes (CS-23)."
 keywords: ["Class B", "airworthiness", "CS-23", "single engine", "stall speed"]
 ---
+
+# Performance Class B (CS-23): Airworthiness Requirements
+
 
 ## Certification Basis (CS-23)
 

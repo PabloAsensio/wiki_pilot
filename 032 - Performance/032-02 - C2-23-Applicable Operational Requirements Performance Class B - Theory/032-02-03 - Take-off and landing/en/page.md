@@ -1,8 +1,11 @@
 ---
-title: "Class B Take-off and Landing"
+title: "Performance Class B (CS-23): Take-off and Landing Theory"
 description: "Take-off and landing performance calculations and safety factors for Class B aircraft."
 keywords: ["Class B", "take-off distance", "landing distance", "TODR", "LDR", "safety factors", "TODA"]
 ---
+
+# Performance Class B (CS-23): Take-off and Landing Theory
+
 
 ## Take-Off Performance
 
