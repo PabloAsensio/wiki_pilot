@@ -1,4 +1,3 @@
-
 ---
 title: "Procedimientos de Seguridad en Otros Documentos OACI y UE: Anexos 2, 6, 14 y Doc 4444"
 description: "Explora cómo se distribuyen los procedimientos de seguridad aeronáutica en anexos OACI y normativa UE: secuestro, interceptación, cabina reforzada y respuesta ATC."
