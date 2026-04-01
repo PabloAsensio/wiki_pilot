@@ -1,4 +1,3 @@
-
 ---
 title: "Disposiciones Generales AIS: Paquete Integrado e Información del Área de Movimiento"
 description: "Aprende las disposiciones generales del AIS: componentes del paquete integrado, información post-vuelo y reporte de condiciones del área de movimiento."

@@ -1,4 +1,3 @@
-
 ---
 title: "Certificado de Aeronavegabilidad (CofA): Emisión, Validez y Responsabilidades del Estado"
 description: "Comprende los requisitos del CofA según OACI Anexo 8: emisión, validez continua, evaluación de daños y obligaciones del Estado de Matrícula."

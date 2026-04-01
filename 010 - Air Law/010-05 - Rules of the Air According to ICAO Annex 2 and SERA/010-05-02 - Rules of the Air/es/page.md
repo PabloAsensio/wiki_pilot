@@ -1,4 +1,3 @@
-
 ---
 title: "Reglas del Aire: Responsabilidad del PIC, Preparación Prevuelo y Prevención de Colisiones"
 description: "Estudia las reglas fundamentales del aire: autoridad del PIC, preparación previa al vuelo, aplicación territorial y deber de evitar colisiones."

@@ -1,4 +1,3 @@
-
 ---
 title: "Procedimientos de Salida Instrumental (Doc 8168): Omnidireccional, Recta y en Viraje"
 description: "Estudia los tipos de salidas instrumentales del Doc 8168, criterios de inicio de viraje, efecto del viento y principios de abatimiento de ruido."

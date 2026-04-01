@@ -1,4 +1,3 @@
-
 ---
 title: "Organizaciones Globales de Aviación: Funciones de OACI, EASA e IATA"
 description: "Comprende las diferencias de misión, autoridad e impacto regulatorio entre OACI, EASA e IATA en la aviación civil internacional."

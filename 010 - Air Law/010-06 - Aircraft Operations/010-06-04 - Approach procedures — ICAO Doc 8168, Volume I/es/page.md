@@ -1,4 +1,3 @@
-
 ---
 title: "Procedimientos de Aproximación Instrumental: Segmentos, Mínimos y Criterios de Frustrada"
 description: "Revisa la lógica de segmentos en aproximación instrumental, desde IAF hasta frustrada, incluyendo mínimos OCA/H y MDA/H."

@@ -1,4 +1,3 @@
-
 ---
 title: "Definiciones del Anexo 15: Área de Movimiento, SNOWTAM y ASHTAM"
 description: "Revisa las definiciones del Anexo 15 para área de movimiento y avisos especiales, incluyendo SNOWTAM y ASHTAM por actividad volcánica."

@@ -1,4 +1,3 @@
-
 ---
 title: "Reglas de Vuelo por Instrumentos (IFR): Niveles Mínimos, Equipamiento y Separación Vertical"
 description: "Estudia los requisitos IFR de altitudes mínimas, equipamiento de ruta, separación RVSM y cierre del plan de vuelo tras la llegada."

@@ -1,4 +1,3 @@
-
 ---
 title: "Procedimientos de Espera (Doc 8168): Sectores de Entrada, Tiempos y Distancias DME"
 description: "Comprende las entradas al patrón de espera, los criterios de temporización en outbound y las reglas de distancia DME en espacio protegido."

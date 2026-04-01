@@ -1,4 +1,3 @@
-
 ---
 title: "Reglas Generales del Aire: Plan de Vuelo, Luces, Códigos SSR y Fallo de Comunicaciones"
 description: "Revisa las reglas generales de operación aérea: adherencia al plan de vuelo, luces de navegación, códigos de emergencia SSR y procedimientos por fallo de radio."

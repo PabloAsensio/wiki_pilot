@@ -1,4 +1,3 @@
-
 ---
 title: "OACI Doc 4444 de Gestión ATM: Separación, Autorizaciones y Procedimientos de Contingencia"
 description: "Estudia el Documento OACI Doc 4444 para gestión ATM: separación, autorizaciones de pista, estela turbulenta y procedimientos ante emergencias y contingencias."

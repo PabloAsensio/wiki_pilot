@@ -1,4 +1,3 @@
-
 ---
 title: "Part-MED y Certificación Médica: Clases, Vigencia y Aptitud para Volar"
 description: "Revisa las clases de certificados médicos del Part-MED, su vigencia, reglas de emisión y renovación, y límites por disminución de aptitud médica."

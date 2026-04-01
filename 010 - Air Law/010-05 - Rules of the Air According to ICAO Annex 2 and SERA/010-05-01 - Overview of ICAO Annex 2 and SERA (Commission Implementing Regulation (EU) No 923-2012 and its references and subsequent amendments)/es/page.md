@@ -1,4 +1,3 @@
-
 ---
 title: "Panorámica de OACI Anexo 2 y SERA: Ámbito, Definiciones y Operación en Aeródromos"
 description: "Comprende la relación entre el Anexo 2 de la OACI y SERA, con su ámbito de aplicación, definiciones clave y reglas operativas en aeródromos."

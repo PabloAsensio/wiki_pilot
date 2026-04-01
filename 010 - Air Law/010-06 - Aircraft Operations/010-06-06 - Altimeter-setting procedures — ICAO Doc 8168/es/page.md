@@ -1,4 +1,3 @@
-
 ---
 title: "Procedimientos de Reglaje Altimétrico: Altitud de Transición, Nivel de Transición y Referencias QNH/FL"
 description: "Aprende el reglaje altimétrico para separación vertical segura: altitud de transición, nivel de transición, capa de transición y uso de presión estándar."

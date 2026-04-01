@@ -1,4 +1,3 @@
-
 ---
 title: "Procedimientos de Transpondedor SSR: Operación Modo C, Códigos de Emergencia y ACAS/TCAS"
 description: "Estudia las reglas de operación del transpondedor SSR, códigos de emergencia, gestión de fallos y función de los avisos ACAS/TCAS."

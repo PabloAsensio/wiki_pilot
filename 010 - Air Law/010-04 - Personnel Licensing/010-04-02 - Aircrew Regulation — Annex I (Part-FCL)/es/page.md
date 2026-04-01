@@ -1,4 +1,3 @@
-
 ---
 title: "Part-FCL de Licencias de Vuelo: Atribuciones, Habilitaciones y Documentación"
 description: "Aprende los requisitos del Part-FCL para licencias de pilotos, atribuciones, estructura de habilitaciones y documentación obligatoria en vuelo."

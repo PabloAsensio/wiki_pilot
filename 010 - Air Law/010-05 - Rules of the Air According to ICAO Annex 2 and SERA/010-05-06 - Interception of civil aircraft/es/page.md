@@ -1,4 +1,3 @@
-
 ---
 title: "Intercepción de Aeronaves Civiles: Procedimientos, Señales y Comunicaciones de Emergencia"
 description: "Comprende los procedimientos de intercepción civil, acciones inmediatas de la tripulación, señales visuales del Anexo 2 y uso de frecuencias de emergencia."
