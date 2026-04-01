@@ -1,10 +1,10 @@
 ---
-title: "Fallo de Comunicaciones por Voz: Acciones Requeridas"
-description: "Acciones del piloto, códigos SSR y procedimientos de transmisión a ciegas ante fallo de comunicaciones."
-keywords: ["fallo de comunicaciones", "fallo de radio", "ssr 7600", "transmitiendo a ciegas", "guardia 121.5", "ifr sin comunicaciones"]
+title: "Fallo de Comunicaciones por Voz (SERA.14083): Acciones Requeridas, 7601 y Regla de 20 Minutos"
+description: "Acciones del piloto ante fallo de radio según SERA.14083: códigos SSR 7600/7601, transmisión a ciegas y procedimiento IMC actualizado a 20 minutos."
+keywords: ["sera.14083 fallo de comunicaciones", "fallo de radio regla 20 minutos", "regla antigua 7 minutos sera", "nuevo código 7601", "ssr 7600", "transmitiendo a ciegas", "ifr sin comunicaciones"]
 ---
 
-# Fallo de Comunicaciones por Voz: Acciones Requeridas
+# Fallo de Comunicaciones por Voz (SERA.14083): Acciones Requeridas, 7601 y Regla de 20 Minutos
 
 ## Acciones Generales
 En caso de fallo de comunicaciones por radio, el piloto debe intentar primero restablecer la comunicación:

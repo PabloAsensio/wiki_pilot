@@ -1,10 +1,10 @@
 ---
-title: "Voice Communication Failure: Required Actions"
-description: "Required pilot actions, SSR codes, and blind transmission procedures during radio communication failure."
-keywords: ["communication failure", "radio failure", "ssr 7600", "transmitting blind", "guard 121.5", "ifr lost comm"]
+title: "Voice Communication Failure (SERA.14083): Required Actions, 7601 and 20-Minute Rule"
+description: "Pilot actions for radio communication failure under SERA.14083, including SSR 7600/7601, transmitting blind, and the updated 20-minute IMC procedure."
+keywords: ["sera.14083 radio communication failure", "radio failure 20 minute rule", "old sera 7 minute rule", "new emergency code 7601", "ssr 7600", "transmitting blind", "ifr lost comm"]
 ---
 
-# Voice Communication Failure: Required Actions
+# Voice Communication Failure (SERA.14083): Required Actions, 7601 and 20-Minute Rule
 
 ## General Actions
 In the event of a radio communication failure, the pilot should first attempt to re-establish communication by:
